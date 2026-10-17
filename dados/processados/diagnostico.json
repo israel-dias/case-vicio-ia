@@ -1,0 +1,815 @@
+{
+  "questoes": 359,
+  "ids_unicos": 359,
+  "temas": 377,
+  "status_temas": {
+    "active": 375,
+    "inactive": 2
+  },
+  "niveis_temas": {
+    "0": 4,
+    "1": 111,
+    "2": 262
+  },
+  "temas_por_disciplina": {
+    "Criminologia": 26,
+    "Direito Penal - Legislação Especial": 27,
+    "Penal": 186,
+    "Processo Penal": 138
+  },
+  "origens_questoes": {
+    "Processo Penal": 131,
+    "Criminologia": 31,
+    "Direito Penal": 129,
+    "Direito Penal - Legislação Especial": 32,
+    "Disciplina Unificada": 1,
+    "Direito Constitucional": 2,
+    "": 1,
+    "Penal": 27,
+    "Direito Civil - Legislação Especial": 2,
+    "Direito Tributário": 1,
+    "Direito Processual Penal": 1,
+    "Direito Ambiental": 1
+  },
+  "alternativas_por_questao": {
+    "5": 255,
+    "2": 58,
+    "4": 46
+  },
+  "campos_vazios": {
+    "comando": 94,
+    "disciplina_origem": 1,
+    "assunto_origem": 18
+  },
+  "questoes_com_escape_literal_n": 105,
+  "temas_sem_descricao": [
+    "6716",
+    "6717",
+    "6718",
+    "6720",
+    "6719",
+    "6721",
+    "6722",
+    "6723",
+    "6724",
+    "6725",
+    "6726",
+    "6727",
+    "6728",
+    "6732",
+    "6733",
+    "6734",
+    "6735",
+    "6736",
+    "6737",
+    "6738"
+  ],
+  "temas_inativos": [
+    {
+      "tema_id": "5078",
+      "parent_id": "5062",
+      "disciplina": "Penal",
+      "nivel": "1",
+      "titulo": "Direito penal econômico",
+      "caminho": "Penal > Direito penal econômico",
+      "descricao": "Subtema de 'Penal' (Penal). 50 questões no source. Path: Penal > 'Direito penal econômico'.",
+      "status": "inactive"
+    },
+    {
+      "tema_id": "5234",
+      "parent_id": "5062",
+      "disciplina": "Penal",
+      "nivel": "1",
+      "titulo": "Tratados e convenções em matéria criminal",
+      "caminho": "Penal > Tratados e convenções em matéria criminal",
+      "descricao": "Subtema de 'Penal' (Penal). 8 questões no source. Path: Penal > 'Tratados e convenções em matéria criminal'.",
+      "status": "inactive"
+    }
+  ],
+  "titulos_repetidos": [
+    [
+      {
+        "tema_id": "4684",
+        "caminho": "Direito Penal - Legislação Especial > Abuso de Autoridade",
+        "status": "active"
+      },
+      {
+        "tema_id": "6716",
+        "caminho": "Penal > Abuso de Autoridade",
+        "status": "active"
+      }
+    ],
+    [
+      {
+        "tema_id": "4688",
+        "caminho": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+        "status": "active"
+      },
+      {
+        "tema_id": "6717",
+        "caminho": "Penal > Crimes contra o meio ambiente",
+        "status": "active"
+      }
+    ],
+    [
+      {
+        "tema_id": "4702",
+        "caminho": "Direito Penal - Legislação Especial > Lavagem de Dinheiro",
+        "status": "active"
+      },
+      {
+        "tema_id": "6723",
+        "caminho": "Penal > Lavagem de Dinheiro",
+        "status": "active"
+      }
+    ],
+    [
+      {
+        "tema_id": "4704",
+        "caminho": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+        "status": "active"
+      },
+      {
+        "tema_id": "6724",
+        "caminho": "Penal > Lei Maria da Penha",
+        "status": "active"
+      }
+    ],
+    [
+      {
+        "tema_id": "4703",
+        "caminho": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+        "status": "active"
+      },
+      {
+        "tema_id": "6734",
+        "caminho": "Processo Penal > Lei de Execução Penal",
+        "status": "active"
+      }
+    ],
+    [
+      {
+        "tema_id": "4705",
+        "caminho": "Direito Penal - Legislação Especial > Organizações Criminosas",
+        "status": "active"
+      },
+      {
+        "tema_id": "6725",
+        "caminho": "Penal > Organizações Criminosas",
+        "status": "active"
+      }
+    ],
+    [
+      {
+        "tema_id": "4708",
+        "caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+        "status": "active"
+      },
+      {
+        "tema_id": "6728",
+        "caminho": "Penal > Tráfico de Drogas",
+        "status": "active"
+      }
+    ],
+    [
+      {
+        "tema_id": "5063",
+        "caminho": "Penal > Ação Penal",
+        "status": "active"
+      },
+      {
+        "tema_id": "5466",
+        "caminho": "Processo Penal > Ação Penal",
+        "status": "active"
+      }
+    ]
+  ],
+  "questoes_com_alertas": [
+    {
+      "id": "Q0013",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0014",
+      "alertas": [
+        "disciplina_origem_fora_catalogo"
+      ]
+    },
+    {
+      "id": "Q0016",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente",
+        "disciplina_origem_fora_catalogo"
+      ]
+    },
+    {
+      "id": "Q0022",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0023",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0024",
+      "alertas": [
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0027",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0035",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0036",
+      "alertas": [
+        "comando_ausente",
+        "disciplina_origem_ausente",
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0037",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0040",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0041",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0042",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0044",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0045",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0049",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0053",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0058",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0068",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0069",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0070",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0073",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0075",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0090",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0092",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0121",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0127",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0131",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0135",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0137",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente",
+        "disciplina_origem_fora_catalogo"
+      ]
+    },
+    {
+      "id": "Q0140",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0142",
+      "alertas": [
+        "disciplina_origem_fora_catalogo"
+      ]
+    },
+    {
+      "id": "Q0144",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0149",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0167",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0169",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0170",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0172",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0175",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0176",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0177",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0178",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0180",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0187",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0192",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0203",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0205",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0211",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0212",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0213",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0214",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0215",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0218",
+      "alertas": [
+        "assunto_origem_ausente",
+        "disciplina_origem_fora_catalogo"
+      ]
+    },
+    {
+      "id": "Q0221",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0222",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0227",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0229",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0230",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0231",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0232",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0239",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0244",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0245",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0248",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0257",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0267",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0270",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0274",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0276",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0277",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente",
+        "disciplina_origem_fora_catalogo"
+      ]
+    },
+    {
+      "id": "Q0278",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0279",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0289",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0292",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0293",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0299",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0300",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0302",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0304",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0306",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0308",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0309",
+      "alertas": [
+        "disciplina_origem_fora_catalogo"
+      ]
+    },
+    {
+      "id": "Q0311",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0318",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0321",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0325",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0327",
+      "alertas": [
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0331",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0333",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0334",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0335",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0336",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0339",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0340",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0343",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0345",
+      "alertas": [
+        "comando_ausente",
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0348",
+      "alertas": [
+        "assunto_origem_ausente"
+      ]
+    },
+    {
+      "id": "Q0350",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0354",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0356",
+      "alertas": [
+        "comando_ausente"
+      ]
+    },
+    {
+      "id": "Q0358",
+      "alertas": [
+        "comando_ausente"
+      ]
+    }
+  ],
+  "limite": "Diagnóstico estrutural. Não há classificações finais nem precisão medida."
+}

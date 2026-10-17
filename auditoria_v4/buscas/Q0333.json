@@ -1,0 +1,117 @@
+{
+  "id": "Q0333",
+  "consulta_executada": "\"A pessoa pode ser, ao mesmo tempo, sujeito ativo e passivo de um delito em face de\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Assinale a alternativa CORRETA....",
+      "url": "https://gabarite.com.br/questoes-de-concursos/238074-questao",
+      "ref_consulta": "turn369search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Concurso de Provas e Títulos para Ingresso",
+      "url": "https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/prova/prova/24354.pdf",
+      "ref_consulta": "turn369search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Tipicidade para Concurso - Página 73 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/tipicidade/questoes?page=73",
+      "ref_consulta": "turn369search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Conduta: ação / omissão para Concurso - Página 6 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/conduta-acao-omissao/questoes?has_professor_commentaries=true&page=6",
+      "ref_consulta": "turn369search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Assinale a alternativa CORRETA. - Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal/420977",
+      "ref_consulta": "turn369search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Assinale a alternativa CORRETA.",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/cd030b56-4c",
+      "ref_consulta": "turn369search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova MPE-MG - 2010 - MPE-MG - Promotor de Justiça",
+      "url": "https://soprovas.com/provas/mpe-mg-2010-mpe-mg-promotor-de-justica",
+      "ref_consulta": "turn369search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: QUESTÕES SOBRE O CONTEÚDO- PENAL - Questões Resolvidas com Gabarito em PDF",
+      "url": "https://www.passeidireto.com/arquivo/6111399/questoes-sobre-o-conteudo-penal",
+      "ref_consulta": "turn369search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 34 - MPE-MG - Promotor de Justiça - MPE-MG (2010) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/mpe-mg-promotor-de-justica-2010-mpe-mg/34",
+      "ref_consulta": "turn369search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "COORDENAÇÃO",
+      "url": "https://juspodivmdigital.com.br/cdn/arquivos/jus1543_previa-do-livro.pdf",
+      "ref_consulta": "turn369search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Cap. 5 • ESCOLAS PENAIS",
+      "url": "https://oestudododireito.wordpress.com/wp-content/uploads/2014/08/cleber-masson-direito-penal-volume-1-parte-geral-esquematizado-4c2ba-edic3a7c3a3o-ano-2011.pdf",
+      "ref_consulta": "turn369search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "STJ00082062 - V. 1",
+      "url": "https://bdjur.stj.jus.br/bitstreams/4bc28966-5613-4d6e-bd87-32950e51e3c8/download",
+      "ref_consulta": "turn369search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "STJ00092396 - V. 1",
+      "url": "https://bdjur.stj.jus.br/server/api/core/bitstreams/9f2c4b19-cca6-4c75-ad11-9487510281b4/content",
+      "ref_consulta": "turn369search16",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Direito Penal I - Da Teoria Geral do Crime",
+      "url": "https://www.marcoscarazai.com.br/direito-penal-i-da-teoria-geral-do-crimea2409b1d",
+      "ref_consulta": "turn369search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Assinale a alternativa CORRETA.",
+      "url": "https://cj.estrategia.com/public/questoes/bb25324b49b187f345d084d6/",
+      "ref_consulta": "turn369search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Nas questões de 1 a 100, marque, em cada uma, a",
+      "url": "https://cdn.cebraspe.org.br/concursos/_antigos/2006/TJRR2006/arquivos/TJRR_002_2.pdf",
+      "ref_consulta": "turn369search17",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: QUESTÕES SOBRE O CONTEÚDO- PENAL - Questões Resolvidas com Gabarito em PDF",
+      "url": "https://es.passeidireto.com/arquivo/6111399/questoes-sobre-o-conteudo-penal",
+      "ref_consulta": "turn369search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Conceito de crime em Direito Penal | Qconcursos.com - Página 7",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?page=7&subject_ids%5B%5D=16675",
+      "ref_consulta": "turn369search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

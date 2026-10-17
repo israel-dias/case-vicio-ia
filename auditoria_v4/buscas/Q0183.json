@@ -1,0 +1,87 @@
+{
+  "id": "Q0183",
+  "consulta_executada": "\"Considere a seguinte situação hipotética. Pedro foi denunciado pelo Ministério Público pela prática de crime de dispensa de licitação fora\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Julgue o item abaixo.Considere a seguinte situação hipotétic...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/8eaf2eac-66",
+      "ref_consulta": "turn219search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Julgue o item a seguir.Considere a seguinte situação hipotética. Pedro foi denunciado pelo Ministério Público...",
+      "url": "https://cj.estrategia.com/public/questoes/seguir-Considere13033cc41df/",
+      "ref_consulta": "turn219search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Recursos Criminais para Concurso - Página 36 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/recursos-criminais/questoes?has_professor_commentaries=true&page=36",
+      "ref_consulta": "turn219search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "C:\\Trabalho\\KIM\\PROVAS_GERADAS\\AGUPROC_001_1.wpd",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/656/cespe-2007-agu-procurador-federal-prova-1-prova.pdf",
+      "ref_consulta": "turn219search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Q1229356",
+      "url": "https://soprovas.com/questoes/3688075",
+      "ref_consulta": "turn219search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 152 - AGU - Procurador Federal - CESPE/CEBRASPE (2007) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/agu-procurador-federal-2007-cespe/152",
+      "ref_consulta": "turn219search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões AGU 2007 para Procurador Federal, Prova 1 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/cespe-2007-agu-procurador-federal/questoes?page=8",
+      "ref_consulta": "turn219search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para AGU | Qconcursos.com - Página 118",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?institute_ids%5B%5D=5680&page=118",
+      "ref_consulta": "turn219search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso de Direito Processual Penal - Página 9 - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questoes-de-concurso/materia/direito-processual-penal/assunto/recursos-em-geral/banca/cespe?pag=9",
+      "ref_consulta": "turn219search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Pena",
+      "url": "https://www.yumpu.com/pt/document/view/12814161/questoes-de-direito-penal-e-processual-penal-professor-allan/41",
+      "ref_consulta": "turn219search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões AGU 2007 para Procurador Federal, Prova 1 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/cespe-2007-agu-procurador-federal/questoes?discipline_ids%5B%5D=10",
+      "ref_consulta": "turn219search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Processual Penal para CESPE / CEBRASPE | Qconcursos.com - Página 174",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&examining_board_ids%5B%5D=2&page=174",
+      "ref_consulta": "turn219search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso de Direito Processual Penal - Página 10 - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questoes-de-concurso/materia/direito-processual-penal/assunto/recursos-em-geral/banca/cespe?pag=10",
+      "ref_consulta": "turn219search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

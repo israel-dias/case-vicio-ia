@@ -1,0 +1,41 @@
+{
+  "Q0171": {
+    "estado": "gabarito_oficial_preliminar",
+    "resposta": "B",
+    "banca": "FGV",
+    "concurso": "DPE-RJ 2021",
+    "tipo": "2 verde",
+    "numero": 40,
+    "pagina_prova_pdf": 15,
+    "pagina_gabarito_pdf": 2,
+    "prova_url": "https://conhecimento.fgv.br/sites/default/files/concursos/defensoria_2021_classe_inicial_da_carreira_da_defensoria_publica_do_estado_do_rio_de_janeiro_ci-defens_tipo_2.pdf",
+    "gabarito_url": "https://www.defensoria.rj.def.br/uploads/arquivos/675a717dd89d4a35b87436d0214384df.pdf",
+    "conferencia": "Enunciado, alternativas, ordem e número conferidos; definitivo não acessível. Interpretação de tema continua assistida."
+  },
+  "Q0097": {
+    "estado": "gabarito_oficial_definitivo",
+    "resposta": "E",
+    "banca": "FGV",
+    "concurso": "TJSE edital 01/2024; prova objetiva 2025",
+    "tipo": "2 verde",
+    "numero": 44,
+    "pagina_prova_pdf": 17,
+    "pagina_gabarito_pdf": 2,
+    "prova_url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutotjse-jsub-tipo-2.pdf",
+    "gabarito_url": "https://conhecimento.fgv.br/sites/default/files/concursos/tj-se-gabaritos-definitivo.pdf",
+    "conferencia": "Conferidos enunciado, cinco alternativas, ordem e número; gabarito tipo2 Q44 E. PDF da questão e tabela do gabarito inspecionados visualmente. O gabarito não resolve sozinho o ID da taxonomia."
+  },
+  "Q0355": {
+    "estado": "gabarito_oficial_definitivo",
+    "resposta": "E",
+    "banca": "FGV",
+    "concurso": "TJSE edital 01/2024; prova objetiva 2025",
+    "tipo": "2 verde",
+    "numero": 43,
+    "pagina_prova_pdf": 16,
+    "pagina_gabarito_pdf": 2,
+    "prova_url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutotjse-jsub-tipo-2.pdf",
+    "gabarito_url": "https://conhecimento.fgv.br/sites/default/files/concursos/tj-se-gabaritos-definitivo.pdf",
+    "conferencia": "Enunciado, alternativas, ordem e número conferidos no texto oficial; tabela visual tipo2 Q43 E. Não certifica abrangência do tema Tráfico para uso de maconha."
+  }
+}

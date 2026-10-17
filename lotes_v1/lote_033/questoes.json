@@ -1,0 +1,153 @@
+[
+  {
+    "id": "Q0321",
+    "enunciado": "Assinale a alternativa CORRETA:",
+    "comando": "",
+    "alternativas": {
+      "A": "Na chamada autoria colateral, não há vínculo subjetivo entre os autores.",
+      "B": "Os únicos requisitos do concurso de pessoas são:\npluralidade de participantes; pluralidade de condutas; relevância causal de cada conduta; e identidade\nde infração penal.",
+      "C": "O crime de aborto com o consentimento da gestante\nnão configura exceção à teoria monista unitária do\nconcurso de pessoas.",
+      "D": "O delito de associação para o tráfico de drogas possui natureza hedionda."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Pessoas",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0322",
+    "enunciado": "Delegado Mário foi denunciado pelo delito de abuso de autoridade, tendo em vista a prática de conduta que se enquadra na seguinte descrição típica: “deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal.”\nO Magistrado competente para a análise da inicial acusatória entendeu por bem rejeitá-la.\nInconformado, o Ministério Público resolve recorrer de tal decisão.",
+    "comando": "Nessa hipótese, o recurso cabível será",
+    "alternativas": {
+      "A": "Apelação, no prazo de 5 dias.",
+      "B": "Apelação, no prazo de 10 dias.",
+      "C": "Recurso em Sentido Estrito, no prazo de 20 dias.",
+      "D": "Recurso em Sentido Estrito, no prazo de 2 dias.",
+      "E": "Recurso em Sentido Estrito, no prazo de 5 dias."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento Ordinário",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0323",
+    "enunciado": "Acerca de provas, instrumentos legais de obtenção de prova e procedimento probatório, assinale a opção correta",
+    "comando": "Assinale a opção correta",
+    "alternativas": {
+      "A": "No sistema processual brasileiro, admite-se prova emprestada, desde que produzida em face das mesmas partes e submetida ao duplo contraditório, ou seja, a observância deste no processo originário será renovada no processo para o qual tiver sido transladada. Por essa razão, não se admitem, no processo penal, os elementos informativos produzidos em inquérito civil, por constituir procedimento não contraditório, assim como não são admitidas as transcrições das interceptações telefônicas autorizadas em ação penal diversa.",
+      "B": "O interrogatório é considerado hodierna e majoritariamente como meio de defesa. Caso o réu encontre-se preso, cumprirá ao magistrado realizar o ato processual em sala própria, no estabelecimento em que estiver recolhido o réu, assegurando a publicidade interna do ato, ou então ordenar a requisição do preso para participar da audiência de instrução e julgamento, ainda que este tenha manifestado desejo de ser dispensado do ato, ratificado pela defesa, em razão do direito de presença ser indisponível.",
+      "C": "O sistema processual penal brasileiro assegura ao investigado ou ao réu o direito de não produzir provas contra si mesmo, em qualquer fase da persecução penal, e, desse modo, o investigado ou o réu não poderão ser compelidos a se submeter a procedimentos invasivos, como, por exemplo, o reconhecimento pessoal ou a reconstituição simulada dos fatos.",
+      "D": "O sistema processual penal brasileiro autoriza a produção antecipada de provas, desde que observados o binômio da urgência e relevância, a adequação ao momento da persecução penal, a legitimação do órgão acusatório e a proporcionalidade da medida. Tem-se como exemplo autorizador a informação acerca do risco de morte de testemunhas ameaçadas por associação criminosa, com possibilidade de perecimento dos depoimentos relevantes",
+      "E": "Na obtenção da colaboração premiada, a lei de regência limita o acesso dos defensores aos autos, especialmente no que se refere às diligências em andamento, e impõe o dever de o investigado delator firmar compromisso de dizer a verdade do que souber e do que lhe for perguntado, sendo o depoimento mantido em sigilo até o recebimento da denúncia"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Sistemas e Princípios Processuais Penais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0324",
+    "enunciado": "É certo afirmar:\nI. A pena de prisão simples deve ser cumprida, sem rigor penitenciário, em estabelecimento especial ou seção especial de prisão comum, em regime semiaberto ou aberto.\nII. As penas acessórias previstas no Código Penal são a perda da função pública eletiva ou de nomeação, as interdições de direitos e a publicidade da sentença.\nIII. No caso da semi-imputabilidade, a periculosidade é presumida a partir da verificação, por meio da realização de exame pericial, do estado de doença ou perturbação mental, bem como de desenvolvimento mental incompleto ou retardado do indivíduo no instante da prática do fato delituoso. Nesse caso, o juiz pode aplicar medida de segurança, devendo fundamentar a sua decisão demonstrando a existência da periculosidade.\nIV. O trabalho do preso será remunerado, não podendo ser inferior a três quartos do salário mínimo, estando sujeito ao regime da Consolidação das Leis do Trabalho.",
+    "comando": "Analisando as proposições, pode-se afirmar:",
+    "alternativas": {
+      "A": "Todas as proposições estão corretas.",
+      "B": "Somente as proposições II e III estão corretas.",
+      "C": "Somente as proposições I e III estão corretas.",
+      "D": "Somente as proposições I e IV estão corretas."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0325",
+    "enunciado": "Considerando as afirmativas abaixo, é CORRETO afirmar que:",
+    "comando": "",
+    "alternativas": {
+      "A": "A extinção da punibilidade, nos casos de\ntransação penal em crimes ambientais de\nmenor potencial ofensivo, dependerá de\nlaudo de constatação de reparação do dano\nambiental, enquanto que a realização da\nsuspensão condicional do processo para\nos crimes ambientais dependerá da prévia\ncomposição do dano ambiental.",
+      "B": "A superveniência de sentença\ncondenatória não esvai a alegação de\ninépcia da denúncia, pois, como o réu\ndefende-se do fato nela descrito, sempre\nestará prejudicado o exercício do\ncontraditório e da ampla defesa.",
+      "C": "A litispendência, pressuposto processual\nque deve ser analisado para fins de\nrecebimento da denúncia, configura-se\nquando duas ou mais ações penais forem\ndirigidas contra o mesmo acusado, com a\nimputação da prática de condutas e\nqualificações jurídicas idênticas.",
+      "D": "A justa causa é exigência legal para o\nrecebimento da denúncia, instauração e\nprocessamento da ação penal,\nconsubstanciando-se pela somatória de\ntrês componentes essenciais, quais sejam,\na tipicidade, a punibilidade e a viabilidade\nquanto à autoria.",
+      "E": "Nas ações penais públicas condicionadas\nà representação da ofendida de que trata a\nLei nº 11.340/2006 (Lei Maria da Penha),\nsó será admitida a renúncia à\nrepresentação perante o juiz, em audiência\nespecialmente designada com tal\nfinalidade, antes do oferecimento da\ndenúncia e ouvido o Ministério Público."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0326",
+    "enunciado": "Constitui crime previsto na lei de drogas",
+    "comando": "Complete a frase ou responda sobre o crime previsto na lei de drogas.",
+    "alternativas": {
+      "A": "fornecer, desde que onerosamente, maquinário, aparelho, instrumento ou qualquer outro objeto destinado à fabricação, preparação, produção ou transformação de drogas, sem autorização ou em desacordo com determinação legal ou regulamentar.",
+      "B": "oferecer droga, desde que em caráter habitual e ainda que sem objetivo de lucro, a pessoa de seu relacionamento, para juntos consumirem.",
+      "C": "prescrever ou ministrar, culposamente, drogas, sem que delas necessite o paciente, ou fazê-lo em doses excessivas ou em desacordo com determinação legal ou regulamentar.",
+      "D": "conduzir embarcação ou aeronave após o consumo de drogas, ainda que sem exposição a dano potencial a incolumidade de outrem.",
+      "E": "consentir que outrem se utilize de local de que tem a propriedade para o tráfico ilícito de drogas, desde que o faça onerosamente."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0327",
+    "enunciado": "Em uma ação penal por crime ocorrido em 04/03/2023, o réu, ao ser interrogado, confessa espontaneamente, perante o juiz, a prática do delito que lhe é imputado.\nNa folha de antecedentes criminais do acusado, constam as seguintes anotações, devidamente esclarecidas por certidões cartorárias:\nI. condenação transitada em julgado em 08/06/2016 por crime anterior, praticado em 06/02/2014, com pena de reclusão extinta em 15/03/2022, diante do término do livramento condicional, cujo período de prova se iniciara em 14/08/2017;\nII. condenação transitada em julgado em 02/09/2022 por contravenção penal anterior, praticada em 07/01/2022, com pena de prisão simples cumprida em 03/03/2023; e\nIII. ação penal em curso, por crime posterior, praticado em 05/03/2024.\nÀ luz das informações apresentadas, conclusos os autos ao juiz para sentença, no dia de hoje, na segunda fase da dosimetria da pena, a pena deverá ser",
+    "comando": "À luz das informações apresentadas, conclusos os autos ao juiz para sentença, no dia de hoje, na segunda fase da dosimetria da pena, a pena deverá ser aplicada considerando os antecedentes criminais mencionados.",
+    "alternativas": {
+      "A": "atenuada, incidindo a atenuante da confissão espontânea, sendo o réu primário.",
+      "B": "atenuada, preponderando a atenuante da confissão espontânea sobre a agravante da reincidência.",
+      "C": "mantida, compensando-se integralmente a atenuante da confissão espontânea com a agravante da reincidência.",
+      "D": "agravada, compensando-se proporcionalmente a agravante da reincidência com a atenuante da confissão espontânea.",
+      "E": "agravada, preponderando a agravante da reincidência, sem qualquer compensação em relação à atenuante da confissão espontânea."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "assunto_origem_ausente"
+    ]
+  },
+  {
+    "id": "Q0328",
+    "enunciado": "Acerca do conceito e das funções da criminologia, julgue o item seguinte.\nNa inter-relação entre o direito penal, a política criminal e a criminologia, compete a esta facilitar a recepção das investigações empíricas e a sua transformação em preceitos normativos, incumbindo-se de converter a experiência criminológica em proposições jurídicas, gerais e obrigatórias.",
+    "comando": "Julgue o item seguinte.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Conceitos Gerais de Criminologia",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0329",
+    "enunciado": "Em determinado estado brasileiro, uma investigação\nrevelou um esquema criminoso que envolvia a competição\nfutebolística estadual: Cavalcante, empresário no ramo do\nfutebol, dono do time Tapauense, conseguia cooptar árbitros e\njogadores de clubes de outros municípios para criar situações em\nmomentos críticos durante as partidas, com o objetivo de\nmanipular resultados. A promessa era de que, após os jogos, o\nempresário faria investimentos para ajudar os envolvidos a\nmigrar para o mercado de futebol no Sudeste do país. Quanto à comissão de arbitragem, constatou-se que seu\npresidente simulava os sorteios com um assistente e, assim,\nconseguia indicar árbitros que se alinhavam ao esquema. Aos\nárbitros honestos eram destinados os mais distantes jogos e as\npiores condições de trabalho. Para os jogadores, a vantagem\nprometida ou a transferência em dinheiro nunca eram realizadas,\nao passo que aos árbitros era pago o dinheiro mediante a sua\ncontratação falsa como professores de treino de uma escolinha\nparticular de futebol, que sequer existia. Everton respondia pela\nescolinha e era professor aposentado da secretaria de educação e\ndesporto do estado. A investigação avançou devido à colaboração do jogador\nde futebol Kiko Jr., que havia participado do esquema por\nindicação de Alves, um dos árbitros. Segundo o próprio jogador,\nAlves combinara com ele a marcação de um pênalti resultante de\nfalta provocada pelo zagueiro Kiko Jr. em determinado momento\nda partida contra o Tapauense, o que foi feito. No entanto, como\nnão fora atendido nas promessas feitas dentro do esquema, Kiko\nJr. se revoltou e, então, procurou a polícia, revelando os fatos até\nentão desconhecidos.",
+    "comando": "Ainda considerando a situação hipotética 1A12-I, assinale a opção correta relativamente à conduta de Kiko Jr.",
+    "alternativas": {
+      "A": "O MP poderá deixar de oferecer denúncia a Kiko Jr., desde\nque o jogador tenha contribuído efetivamente para a\nidentificação dos envolvidos da organização criminosa.",
+      "B": "A conduta de Kiko Jr. é atípica.",
+      "C": "Kiko Jr. foi vítima do crime de estelionato.",
+      "D": "No âmbito da investigação, o testemunho de Kiko Jr. tem\nnatureza de meio de prova e pode servir-lhe de atenuante por\nconfissão espontânea.",
+      "E": "A colaboração de Kiko Jr. não o exime da pena pelo crime\npraticado, porém sua pena pode ser reduzida em até 2/3."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0330",
+    "enunciado": "Acerca das modificações introduzidas pelo chamado “pacote anticrime” ao Código de Processo Penal, assinale a alternativa correta.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Se a vítima, ou seu representante legal, não\nconcordar com o arquivamento do inquérito\npolicial, poderá, no prazo de trinta dias do\nrecebimento da comunicação, submeter a\nmatéria à revisão da instância competente\ndo órgão ministerial, conforme dispuser a\nrespectiva lei orgânica.",
+      "B": "O processo penal terá estrutura inquisitória,\nvedadas a iniciativa do juiz na fase\ninstrutória judicial e a substituição da\natuação probatória do órgão de acusação.",
+      "C": "Em todos os casos em que policiais civis ou\nmilitares forem investigados, deverão ser\ncitados da instauração do procedimento\ninvestigatório, podendo constituir defensor\nno prazo de até quarenta e oito horas a\ncontar do recebimento da citação.",
+      "D": "Ordenado o arquivamento do inquérito\npolicial ou de quaisquer elementos\ninformativos da mesma natureza, o órgão do\nMinistério Público deverá impor sigilo ao\nprocedimento.",
+      "E": "O inquérito policial terá estrutura acusatória,\nvedadas a iniciativa do juiz na fase de\ninvestigação e a substituição da atuação\nprobatória do órgão de acusação."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  }
+]

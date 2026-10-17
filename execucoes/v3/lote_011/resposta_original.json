@@ -1,0 +1,145 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0110",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5480",
+      "confianca_modelo": 0.95,
+      "justificativa": "Todas as opções discutem competência penal, combinando matéria, território e prerrogativa. O pai substantivo com escopo definido representa o conjunto melhor que um filho isolado ou Parte sem delimitação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5482",
+        "5483",
+        "5484"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0111",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4373",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado delimita escola positivista, seus autores, método e recepção brasileira. O subtema de escolas é diretamente correspondente.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0112",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4705",
+      "confianca_modelo": 0.81,
+      "justificativa": "A questão pede majorantes da organização criminosa na Lei 12.850. O objeto é claro, mas os dois IDs 4705/6725 não distinguem escopo; registrar preferência de ramo antes de publicar.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6725"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0113",
+      "sugestao_decisao": "fora",
+      "tema_central_id": null,
+      "confianca_modelo": null,
+      "justificativa": "O objeto efetivamente perguntado é prescrição de processo administrativo disciplinar de servidor estadual. Não há tema ativo de Direito Administrativo/PAD; a referência ao prazo penal não transforma a cobrança em prescrição da pretensão punitiva criminal.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5190",
+        "5185"
+      ],
+      "alertas": [
+        "lacuna_direito_administrativo_disciplinar"
+      ]
+    },
+    {
+      "id": "Q0114",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5507",
+      "confianca_modelo": 0.69,
+      "justificativa": "O caso combina efeitos temporais de decisão em controle abstrato, norma processual mista e ação penal em violência doméstica. Lei processual no Tempo é hipótese; a predominância material/constitucional não está delimitada.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5181",
+        "5470",
+        "4704"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0115",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4388",
+      "confianca_modelo": 0.95,
+      "justificativa": "O comando pede a teoria criminológica que explica uma narrativa e oferece modelos sociológicos nominados. Teorias Criminológicas em Espécie representa o objeto; os delitos concretos são contexto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0117",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4384",
+      "confianca_modelo": 0.75,
+      "justificativa": "A questão delimita finalidade/teoria da pena, incluindo hipótese agnóstica. O título Teorias Legitimidoras pode não abranger uma teoria deslegitimadora; comparar o tema penal Sanção: Conceito, Finalidade e Modalidades antes de liberar.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5200"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0118",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5507",
+      "confianca_modelo": 0.98,
+      "justificativa": "O item pergunta pela incidência imediata ou favorável de lei processual nova sobre atos anteriores. Lei processual no Tempo é central; fiança e preventiva são exemplos de aplicação temporal.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0119",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5194",
+      "confianca_modelo": 0.98,
+      "justificativa": "A lei posterior deixa de considerar o fato crime, e o comando pergunta quando beneficia o acusado. Abolitio Criminis é mais específico que retroatividade genérica.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5181"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0120",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5591",
+      "confianca_modelo": 0.76,
+      "justificativa": "O item discute o momento e iniciativa defensiva na especificação de provas, com resposta à acusação e interrogatório. Finalidade, Sujeitos e Ônus da Prova é hipótese, mas há sobreposição com atos procedimentais sem descrição suficiente.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5533",
+        "5547",
+        "5590"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    }
+  ]
+}

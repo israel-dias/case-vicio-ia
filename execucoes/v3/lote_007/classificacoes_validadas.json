@@ -1,0 +1,154 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0067",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5091",
+      "confianca_modelo": 0.97,
+      "justificativa": "A narrativa destaca exigência de dinheiro pelo agente público em razão da função. O núcleo é distinguir concussão de corrupção e prevaricação; o contexto de drogas não determina o tema.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5092",
+        "5095"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0068",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5116",
+      "confianca_modelo": 0.43,
+      "justificativa": "O enunciado genérico mistura estupro, condescendência, incêndio e falsidades. Fé pública/falsidade é hipótese por duas opções, sem núcleo que represente todo o conjunto; não selecionar só uma alternativa aparentemente correta.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5103",
+        "5096",
+        "5126"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0070",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5193",
+      "confianca_modelo": 0.94,
+      "justificativa": "O caso pergunta pelo requisito temporal da comutação e cômputo da prisão provisória para esse benefício. Indulto/comutação é central; a detração é adicional material efetivamente necessária.",
+      "extras_ids": [
+        "5201"
+      ],
+      "temas_concorrentes_ids": [
+        "6734"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0071",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4688",
+      "confianca_modelo": 0.81,
+      "justificativa": "O objeto são majorantes de crimes contra a flora na Lei 9.605. Existem 4688 e 6717, sem distinção de escopo que certifique o ramo preferencial. Manter a mesma cautela das outras questões ambientais.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6717"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0072",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5592",
+      "confianca_modelo": 0.95,
+      "justificativa": "O item cobra a formação da convicção judicial e a relação entre elementos investigativos e prova contraditada. Sistemas de Avaliação da Prova é a hipótese específica, não o procedimento investigatório.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5595"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0073",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5087",
+      "confianca_modelo": 0.78,
+      "justificativa": "O enunciado aponta administração pública, mas o bloco mistura tipos desse ramo, administração judicial e finanças públicas. O pai é hipótese predominante sem absorver silenciosamente os outros ramos.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5084",
+        "5147",
+        "5093"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0074",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5485",
+      "confianca_modelo": 0.76,
+      "justificativa": "A assertiva define qual juízo aplica lei mais benigna após trânsito em julgado. Competência de juízo é a hipótese central; lei penal no tempo é adicional, e a execução oferece enquadramento concorrente.",
+      "extras_ids": [
+        "5181"
+      ],
+      "temas_concorrentes_ids": [
+        "6734",
+        "4703"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0075",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5191",
+      "confianca_modelo": 0.97,
+      "justificativa": "A pergunta delimita comunicabilidade dos efeitos da extinção da punibilidade entre delitos relacionados. Punibilidade é o tema substantivo adequado, sem escolher uma causa de extinção não delimitada.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0076",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4373",
+      "confianca_modelo": 0.96,
+      "justificativa": "O enunciado pede os fundadores da escola positivista da criminologia. O núcleo é a escola e seus autores; o subtema de etapas históricas antigas/medievais não corresponde ao período.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4371"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0077",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5170",
+      "confianca_modelo": 0.64,
+      "justificativa": "A questão combina norma penal em branco, classificação de crimes, abolitio e competência para cartas rogatórias. Introdução ao Estudo do Direito Penal é hipótese agregadora parcial, sem núcleo inequívoco.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5171",
+        "5174",
+        "5194"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    }
+  ]
+}

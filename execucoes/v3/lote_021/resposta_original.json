@@ -1,0 +1,148 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0215",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5201",
+      "confianca_modelo": 0.96,
+      "justificativa": "A pergunta pede regime inicial da pena privativa de liberdade conforme quantidade de pena e condições pessoais. O instituto material de penas privativas é central.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5576"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0216",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5539",
+      "confianca_modelo": 0.93,
+      "justificativa": "Todas as opções comparam institutos e procedimento dos juizados: composição, transação e perícia. A premissa é usar o ramo processual estruturado, que contém os subtemas, em vez do tema amplo da lei especial.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4701",
+        "5541"
+      ],
+      "alertas": [
+        "premissa_objeto_processual_e_escopo_do_ramo"
+      ]
+    },
+    {
+      "id": "Q0217",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4372",
+      "confianca_modelo": 0.77,
+      "justificativa": "A pergunta é histórica sobre reforma penal do século XVIII na leitura de Foucault. Etapas Evolutivas é hipótese, mas a interpretação de poder punitivo também aproxima política criminal/teorias; o escopo descrito é insuficiente.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4375",
+        "4388",
+        "4384"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0219",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5074",
+      "confianca_modelo": 0.35,
+      "justificativa": "A assertiva nomeia participação necessária imprópria, mas depende de situação hipotética que não veio no registro. Participação é a hipótese temática; a ausência do caso impede avaliar o enquadramento específico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5072"
+      ],
+      "alertas": [
+        "contexto_hipotetico_ausente"
+      ]
+    },
+    {
+      "id": "Q0220",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5501",
+      "confianca_modelo": 0.98,
+      "justificativa": "Todas as alternativas discutem revisão do arquivamento do inquérito, legitimados e controle ministerial. Conclusão e Arquivamento do Inquérito é específico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0221",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5199",
+      "confianca_modelo": 0.74,
+      "justificativa": "O bloco combina dosimetria, espécies de penas, princípios e medidas de segurança. Teoria da Pena é hipótese predominante, mas Medida de Segurança fica em ramo próprio e não há núcleo único.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5184",
+        "5201",
+        "5205",
+        "5172"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0222",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4375",
+      "confianca_modelo": 0.74,
+      "justificativa": "As opções discutem velocidades do Direito Penal e política de garantias/punição. Correntes da Política Criminal é hipótese, mas não há descrição que estabeleça o alcance do tema para essa classificação doutrinária.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4376",
+        "5170"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0223",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5086",
+      "confianca_modelo": 0.93,
+      "justificativa": "O objeto é enquadramento da entrada de componente de comunicação no presídio. Outros Crimes Contra a Administração Judicial representa a discussão sobre introdução de comunicação prisional, sem confundir com favorecimento pessoal/real.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5084"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0224",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5199",
+      "confianca_modelo": 0.93,
+      "justificativa": "O caso combina efeitos de antecedentes na reincidência e possibilidade de suspensão condicional da pena. O pai Teoria da Pena abrange os filhos efetivamente cobrados; roubo tentado é contexto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5203",
+        "5207"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0225",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5478",
+      "confianca_modelo": 0.97,
+      "justificativa": "A assertiva pergunta por competência para revisão criminal após produção de prova nova. O instituto de impugnação específico inclui sua competência, sem tomar execução penal da introdução como tema central.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+[
+  [
+    331,
+    null,
+    "revisar",
+    "5477",
+    [],
+    0.98,
+    "Possíveis duas alternativas incorretas A/C sobre HC e legitimidade do juiz. Conferir gabarito/eventual anulação; tema claro não elimina pendência de integridade.",
+    "CPP:647,654; CF:5,LXVIII; gabarito/anulação oficial pendentes"
+  ],
+  [
+    332,
+    null,
+    "publicar",
+    "5541",
+    [],
+    0.97,
+    "A resolução exige intervalo de cinco anos para nova transação e efeitos de cumprimento/descumprimento. O tema é inequívoco. A letra não foi confirmada: deve-se conferir o marco da concessão/homologação, em vez de tomar automaticamente o cumprimento como início do prazo.",
+    "Lei 9.099/1995:76; STF:SúmulaVinculante35; gabarito oficial não confirmado"
+  ],
+  [
+    333,
+    "D",
+    "publicar",
+    "4373",
+    [],
+    0.98,
+    "A resposta correta identifica método empírico-experimental positivista em contraste com a escola clássica. Isso exige Escolas Criminológicas, e não Introdução ao Direito Penal: o enunciado vazio e as opções penais não definem a disciplina do núcleo.",
+    "Criminologia: método da escola positivista; gabarito oficial não confirmado"
+  ],
+  [
+    334,
+    "C",
+    "publicar",
+    "4381",
+    [],
+    0.99,
+    "O dever-ser pertence ao campo normativo e não é objeto empírico da criminologia. As outras opções são objetos criminológicos. O tema de conceito e objeto é específico.",
+    "Criminologia: objetos e distinção ser/dever-ser"
+  ],
+  [
+    335,
+    "A",
+    "publicar",
+    "5218",
+    [
+      "5221",
+      "5222"
+    ],
+    0.97,
+    "A opção correta exige ação finalista, deslocamento de dolo/culpa ao tipo e desvalor da ação/resultado. O pai Fato Típico cobre esses conhecimentos. A menção a lei penal em branco no cabeçalho e outros temas nos distratores não exige revisão. Extras específicos são mantidos para os conteúdos efetivamente exigidos, inclusive sob um central mais amplo.",
+    "Doutrina penal: Welzel, ação finalista e injusto; CP:18"
+  ],
+  [
+    336,
+    "D",
+    "publicar",
+    "5159",
+    [],
+    0.99,
+    "A resolução aplica consumação do furto pela inversão da posse, independentemente de sair do restaurante ou manter posse tranquila. A narrativa não caracteriza apropriação nem roubo.",
+    "CP:155; STJ:Tema934; teoria da amotio"
+  ],
+  [
+    337,
+    "D",
+    "publicar",
+    "4684",
+    [
+      "5470"
+    ],
+    0.98,
+    "O regime de abuso de autoridade é central: finalidade específica, divergência interpretativa e ação penal. Adota-se 4684; Ação Penal Pública Incondicionada (5470) é extra necessário para julgar a terceira assertiva, inclusive sendo falsa.",
+    "Lei13.869/2019:1,3 consultados; D assistida"
+  ],
+  [
+    338,
+    "D",
+    "publicar",
+    "5595",
+    [],
+    0.97,
+    "A resposta exige limites à liberdade probatória quanto ao estado das pessoas, regido pelas restrições civis. Trata-se de princípio/regra geral da prova; as espécies de prova dos distratores não impõem classificação genérica de todas elas.",
+    "CPP:155,159,200,207,239"
+  ],
+  [
+    339,
+    "B",
+    "publicar",
+    "5524",
+    [],
+    0.97,
+    "A alternativa correta exige reclassificação por fato superveniente depois da pronúncia, no procedimento do Júri. A solução permite sair de Sentença Penal, pois pronúncia e preparação do julgamento não se confundem com sentença condenatória comum.",
+    "CPP:421,382,385; gabarito oficial não confirmado"
+  ],
+  [
+    340,
+    "C",
+    "publicar",
+    "5071",
+    [
+      "5203"
+    ],
+    0.98,
+    "A resposta exige agravante de instigar/determinar crime a quem se subordina ao agente ou é inimputável por condição pessoal. Concurso de Pessoas é o contexto dogmático e a consequência na segunda fase é conteúdo adicional expresso.",
+    "CP:62,29,30"
+  ],
+  [
+    341,
+    "D",
+    "publicar",
+    "5157",
+    [],
+    0.97,
+    "A resposta exige natureza formal da duplicata simulada, crime patrimonial do art. 172. O catálogo não oferece filho inequívoco desse tipo; mantém-se o pai patrimonial sem equiparar automaticamente Estelionato a todas as fraudes do capítulo.",
+    "CP:172; jurisprudência da natureza formal a conferir"
+  ],
+  [
+    342,
+    "D",
+    "publicar",
+    "5543",
+    [
+      "5545",
+      "5546"
+    ],
+    0.97,
+    "As cinco proposições exigem corpo de delito, habilitação de peritos, assistente técnico, autópsia, exumação e esclarecimentos. O pai de espécies abrange os irmãos Corpo de Delito e Perícia; os extras de Corpo de Delito e Perícia identificam conhecimentos autônomos para consulta por subtema. Extras específicos são mantidos para os conteúdos efetivamente exigidos, inclusive sob um central mais amplo.",
+    "CPP:159,162,163; hipótese de resposta I e V, gabarito oficial a confirmar"
+  ],
+  [
+    343,
+    "B",
+    "publicar",
+    "5195",
+    [
+      "5196"
+    ],
+    0.98,
+    "A resposta exige perempção por inércia superior a trinta dias, possível apesar da recusa do perdão bilateral. Perempção é o instituto decisivo e o perdão do ofendido é conhecimento adicional necessário ao obstáculo inicial; injúria é contexto.",
+    "CPP:60; CP:106,107"
+  ],
+  [
+    344,
+    "D",
+    "publicar",
+    "4688",
+    [],
+    0.97,
+    "A destinação dos instrumentos apreendidos é regra ambiental específica do art.25. Adota-se 4688 em Legislação Especial; restituição genérica e o homônimo 6717 não impedem escolher esse regime próprio.",
+    "Lei9.605/1998:25,§5º consultado; D assistida"
+  ],
+  [
+    345,
+    "D",
+    "publicar",
+    "5103",
+    [
+      "5203",
+      "5204"
+    ],
+    0.97,
+    "A resposta exige estupro de vulnerável consumado por atos libidinosos e vedação de dupla valoração da mesma relação de autoridade do professor. Agravante e majorante são conteúdos adicionais expressamente cobrados, e não simples palavras das opções.",
+    "CP:217-A,61,226; STJ:Tema1215; fonte primária da tese a confirmar"
+  ],
+  [
+    346,
+    "E",
+    "publicar",
+    "5583",
+    [],
+    0.98,
+    "I exige decisão/pedido nos autos; II, legitimidade para preventiva; III, legitimidade para desaforamento; IV, legitimidade de entidades de consumo; V, momento de intervenção. O objeto comum das cinco é o poder do assistente; os cenários prisão/Júri/consumo não são extras automáticos quando o conhecimento exigido é somente sua legitimidade.",
+    "CPP:268,269,273,311,427; CDC:80,82"
+  ],
+  [
+    347,
+    "B",
+    "publicar",
+    "5207",
+    [],
+    0.98,
+    "A alternativa correta exige revogação obrigatória do sursis por frustração de multa apesar de solvência e falta injustificada de reparação. O antigo pai Teoria da Pena pode ser refinado ao benefício; os outros institutos são distratores.",
+    "CP:81,24,75; STF:Súmula715"
+  ],
+  [
+    348,
+    null,
+    "revisar",
+    "5093",
+    [],
+    0.69,
+    "Possível conflito D/E em corrupção internacional, além de alcance do art.337-B não delimitado no nó de Corrupção Ativa. Conferir original e resposta.",
+    "CP:337-B,337-D,327,111; contexto e gabarito oficial pendentes"
+  ],
+  [
+    349,
+    "C",
+    "publicar",
+    "5178",
+    [],
+    0.99,
+    "A resposta exige o requisito de crime sem violência/grave ameaça para arrependimento posterior. Roubo ilustra a exclusão do benefício; não é o tipo patrimonial em si que o comando pede.",
+    "CP:16"
+  ],
+  [
+    350,
+    "C",
+    "publicar",
+    "5557",
+    [],
+    0.96,
+    "A resposta exige benefícios da colaboração na lei de lavagem. O instituto Colaboração Premiada é específico e não restrito pelo catálogo à Lei de Organizações; a mesma premissa é usada na colaboração da Lei de Drogas. A resolução permite sair da revisão por ramo de Lavagem.",
+    "Lei 9.613/1998:1; premissa de escopo do tema 5557: instituto transversal às leis"
+  ],
+  [
+    351,
+    "E",
+    "publicar",
+    "5118",
+    [],
+    0.99,
+    "A resposta exige equiparação do cartão de crédito a documento particular para falsificação material. Não é falsa identidade nem falsidade ideológica.",
+    "CP:298"
+  ],
+  [
+    352,
+    "A",
+    "publicar",
+    "5515",
+    [],
+    0.99,
+    "A resposta aplica efeito extensivo ao corréu por fundamento objetivo de atipicidade. O efeito é mais específico que a parte geral de todos os recursos; concurso de pessoas apenas estabelece a situação de extensão.",
+    "CPP:580"
+  ],
+  [
+    353,
+    "B",
+    "publicar",
+    "5535",
+    [],
+    0.94,
+    "A solução cobra concentração da colheita da prova oral em audiência sem suprimir defesa. A descrição detalhada de5535 inclui expressamente concentração dos atos e oitiva de testemunhas, sustentando esse central. Prescrição é a finalidade narrativa de acelerar, não o conhecimento decisivo.",
+    "Descrição de5535 no catálogo; CPP:400,403; STJ:Súmula438 indicada; B assistida"
+  ],
+  [
+    354,
+    "C",
+    "publicar",
+    "5227",
+    [
+      "5172"
+    ],
+    0.98,
+    "A INCORRETA atribui à insignificância/adequação social efeito sobre tipicidade formal, quando o debate é material. A resolução identifica Tipicidade; Princípios Penais é extra necessário da comparação, sem adicionar autoria e causalidade só porque aparecem em opções corretas.",
+    "Doutrina penal: tipicidade material, adequação social e insignificância"
+  ],
+  [
+    355,
+    "E",
+    "revisar",
+    "4708",
+    [],
+    0.75,
+    "Porte/uso pessoal não penal de maconha do art.28 difere de tráfico. E confirmado não define abrangência desse objeto no módulo; não é apenas4708/6728.",
+    "STF:RE635659,Tema506; Lei 11.343/2006:28; escopo do catálogo pendente"
+  ],
+  [
+    356,
+    "D",
+    "publicar",
+    "5066",
+    [
+      "5067",
+      "5068",
+      "5070"
+    ],
+    0.99,
+    "As quatro proposições exigem distinguir concurso material, formal impróprio e soma de multas conforme texto do CP. O pai Concurso de Crimes cobre o conjunto; não se escolhe apenas o instituto da última assertiva. Extras específicos são mantidos para os conteúdos efetivamente exigidos, inclusive sob um central mais amplo.",
+    "CP:69,70,72"
+  ],
+  [
+    357,
+    "A",
+    "publicar",
+    "5135",
+    [],
+    0.99,
+    "A resposta reproduz boicotagem violenta por constranger a não fornecer/adquirir produtos. O tipo pertence aos crimes contra a organização do trabalho, e não resistência ou dano apenas por envolver violência.",
+    "CP:198"
+  ],
+  [
+    358,
+    null,
+    "publicar",
+    "5133",
+    [],
+    0.97,
+    "O conhecimento é invasão de dispositivo e efeitos de obtenção/divulgação de dados, do art. 154-A. LAI e Marco Civil do cabeçalho não determinam o tema. A menção a mecanismo de segurança exige preservar o contexto da lei de 2012 e distingui-lo da alteração de 2021; C/E oficial não confirmado.",
+    "CP:154-A; Leis 12.737/2012,14.155/2021; contexto temporal a conferir"
+  ],
+  [
+    359,
+    null,
+    "revisar",
+    "5539",
+    [],
+    0.81,
+    "Lei15.163/2025 alterou art.94 do Estatuto da Pessoa Idosa. Identificar versão histórica e sinalizar desatualização antes de liberar.",
+    "Fontes primárias consultadas: Lei 15.163/2025, art.3; Estatuto da Pessoa Idosa, art.94 atual; gabarito histórico não confirmado"
+  ]
+]

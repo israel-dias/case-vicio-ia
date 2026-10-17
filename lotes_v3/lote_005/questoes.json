@@ -1,0 +1,154 @@
+[
+  {
+    "id": "Q0045",
+    "enunciado": "No crime de excesso de exação, o crime é qualificado se",
+    "comando": "",
+    "alternativas": {
+      "A": "praticado por funcionário público.",
+      "B": "cometido por meio vexatório ou gravoso, que a lei\nnão autoriza.",
+      "C": "resulta dano para a Administração Pública ou para o\nadministrado.",
+      "D": "o funcionário pratica ato de ofício, com infração de\ndever funcional, cedendo a pedido ou influência de\noutrem.",
+      "E": "o funcionário desvia, em proveito próprio ou de\noutrem, o que recebeu indevidamente para recolher\naos cofres públicos."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Concussão e Excesso de Exação , Crimes contra a administração pública",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0046",
+    "enunciado": "Acerca das nulidades processuais e dos vícios procedimentais, assinale a alternativa correta.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "As nulidades processuais penais sofrem influência da\ninstrumentalidade do processo, não se declarando\nqualquer tipo de nulidade se não verificado o prejuízo.",
+      "B": "Segundo a jurisprudência do Superior Tribunal de\nJustiça, a inversão da ordem das perguntas (art. 212,\nCPP) não gera nulidade, não implicando afronta ao\nprincípio do contraditório.",
+      "C": "As nulidades são divididas conforme a gravidade dos\nvícios, em relativas e absolutas, sendo a nulidade de ordem\nabsoluta reconhecida ainda que não haja prejuízo.",
+      "D": "A inépcia da acusação só pode ser apreciada na fase do\nartigo 396, do Código de Processo Penal, não podendo\ntal análise ser refeita na fase do artigo 397, do Código\nde Processo Penal, após a resposta à acusação.",
+      "E": "A coisa julgada sana todas as hipóteses de nulidades\nprocessuais penais."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Sistemas e Princípios Processuais Penais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0047",
+    "enunciado": "Durante um pacífico protesto realizado no interior do Município Alfa, Caio, destoando do público presente e agindo com dolo, lançou uma pedra em direção ao pequeno estabelecimento comercial de João, gerando, em razão dos bens móveis destruídos, prejuízo considerável para a vítima.\nNa sequência, Caio jogou diversos paralelepípedos contra a sede da municipalidade, deteriorando o bem público.\nNesse cenário, considerando as disposições do Código Penal, é correto afirmar que Caio responderá, em concurso, pelos crimes de",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "dano qualificado em detrimento de João e dano qualificado\npor ter deteriorado bem público, hipóteses em que se procede\nmediante ação penal pública incondicionada.",
+      "B": "dano qualificado em detrimento de João, hipótese em que\nsomente se procede mediante representação do ofendido, e\ndano qualificado por ter deteriorado bem público.",
+      "C": "dano simples em detrimento de João e dano simples por ter\ndeteriorado bem público, hipóteses em que se procede\nmediante ação penal pública incondicionada.",
+      "D": "dano qualificado em detrimento de João, hipótese em que\nsomente se procede mediante queixa, e dano qualificado por\nter deteriorado bem público.",
+      "E": "dano simples em detrimento de João, hipótese em que\nsomente se procede mediante queixa, e dano qualificado por\nter deteriorado bem público."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Lesão Corporal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0048",
+    "enunciado": "“Predomina, segundo se conclui pelo conteúdo dos decretos presidenciais, a preocupação em se reduzir os prazos de encarceramento e o contingente carcerário e, além disso, proporcionar condições de reinserção social do condenado, evitando lesão aos direitos fundamentais pela deterioração das condições de encarceramento decorrente de superpopulação.” (Ferreira, Ana Lúcia Tavares. Indulto e sistema penal: limites, finalidades e propostas. São Paulo. LiberArs, 2017)\nSobre indulto e comutação de pena, é correto afirmar que:",
+    "comando": "Sobre indulto e comutação de pena, é correto afirmar que:",
+    "alternativas": {
+      "A": "cumpridos todos os requisitos do decreto presidencial, não\nhá possibilidade de ser indeferida a concessão do indulto ou\nda comutação de pena ao apenado, considerando a natureza\ndeclaratória da sentença que concede esses benefícios;",
+      "B": "nos decretos mais recentes, verificou-se a vedação à\nconcessão da comutação de pena aos condenados por crime\ncomum praticado em concurso com crime de natureza\nhedionda;",
+      "C": "a concessão do indulto extingue os efeitos primários e\nsecundários da condenação, não subsistindo a condenação\nextinta para efeitos de reconhecimento de reincidência\nfutura;",
+      "D": "o cometimento de falta disciplinar de natureza grave fora do\nperíodo previsto no decreto presidencial justifica o\nindeferimento do indulto e da comutação de pena, por\nausência de requisito subjetivo;",
+      "E": "a prática de falta disciplinar de natureza grave interrompe a\ncontagem do prazo para fins de indulto e da comutação de\npena."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0049",
+    "enunciado": "Mévia e Tício foram namorados, por 5 anos. Mévia terminou a relação, por ter conhecido e se apaixonado por outra pessoa. Tício não se conformava com o término e, diagnosticado com depressão, todos os dias, durante meses, mandava mensagem para Mévia, dizendo que a vida sem ela perdera a graça. Mévia, sabendo da condição de saúde mental de Tício, manteve-se silente durante todo o tempo. Mas, um dia, irritada com as mensagens, que estavam causando instabilidade em seu atual relacionamento, Mévia envia a Tício a seguinte resposta: “se a vida perdeu a graça, de que vale viver? Seja homem ao menos uma vez! Coloque fim em seu sofrimento e pare de me infernizar! Eu até vou a seu enterro e faço uma homenagem póstuma!” Tício visualizou a mensagem, respondendo com “Ok”. Passados dois dias, Tício se joga da janela do prédio de sua casa. Por sorte, Tício cai em cima da carroceria de um caminhão, lotado de colchão, que passava na rua no exato momento da queda. Tício não sofreu qualquer lesão. Diante da situação hipotética, assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza grave.",
+      "B": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, que\nse configura com a conduta de induzir, instigar ou\nauxiliar, independentemente do resultado.",
+      "C": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nmodalidade tentada, vez que a morte não se concretizou, por circunstância alheia a sua vontade.",
+      "D": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza leve.",
+      "E": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nfigura qualificada, dada a relação afetiva, entre a vítima e o autor."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Tipicidade, Crimes contra a vida",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0050",
+    "enunciado": "Sobre o instituto da delação premiada, previsto na Lei de Drogas (Lei no 11.343/2006), para os autores dos crimes nela descritos é correto afirmar que",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "pressupõe a colaboração do autor da delação na\nidentificação de seus comparsas.",
+      "B": "os requisitos legais para obtenção do benefício decorrente da delação premiada são alternativos.",
+      "C": "exige voluntariedade e espontaneidade do autor da\ndelação.",
+      "D": "exige a recuperação total ou parcial do proveito do\ncrime."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Legislação Penal Especial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0051",
+    "enunciado": "O jogador Vinícius Júnior foi expulso, no dia 21/05/2023, em partida de futebol realizada contra o Valencia pelo campeonato espanhol, após reagir a ofensas racistas perpetradas por torcedores do time rival.\nAo longo da partida, foi possível ouvir constantes gritos de “macaco!” advindos da torcida do Valencia e direcionados ao atacante brasileiro.\nA polícia de Madri recolheu impressões digitais e vestígios genéticos de várias pessoas envolvidas no ato.\nAfora isso, as autoridades locais rastrearam placas de veículos automotores que transitaram próximo ao estádio.\nDiante da investigação da polícia madrilenha, chegou-se à autoria em relação a determinados indivíduos.\nConsiderando a narrativa fática, é correto afirmar que a lei penal brasileira:",
+    "comando": "Considerando a narrativa fática, é correto afirmar que a lei penal brasileira:",
+    "alternativas": {
+      "A": "poderá ser aplicada às infrações penais que ocorrerem fora\ndo território nacional, devendo ser observado o princípio da\nterritorialidade mitigada;",
+      "B": "poderá ser aplicada às infrações penais que ocorrerem fora\ndo território nacional, devendo ser observado o princípio da\nnacionalidade ativa, podendo-se afirmar que nesta hipótese a\nextraterritorialidade é condicionada;",
+      "C": "poderá ser aplicada às infrações penais que ocorrerem fora\ndo território nacional, devendo ser observado o princípio da\nrepresentação, podendo-se afirmar que, nessa hipótese, a\nextraterritorialidade é incondicionada;",
+      "D": "poderá ser aplicada às infrações penais que ocorrerem fora\ndo território nacional, devendo ser observado o princípio da\njustiça penal universal, bem como a hipótese legal decorrente\ndo princípio da defesa que é verificada quando o delito é\npraticado por estrangeiro contra brasileiro, podendo-se\nafirmar que, em ambos os casos, teremos\nextraterritorialidade incondicionada;",
+      "E": "poderá ser aplicada às infrações penais que ocorrerem fora\ndo território nacional, devendo ser observado o princípio da\njustiça penal universal, bem como a hipótese legal decorrente\ndo princípio da defesa que é verificada quando o delito é\npraticado por estrangeiro contra brasileiro, podendo-se\nafirmar que, em ambos os casos, teremos\nextraterritorialidade condicionada."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0052",
+    "enunciado": "Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional intra muros, bem como, simultaneamente, teve frequência escolar de 200 horas, concluindo atividade de ensino médio ao longo do cumprimento da pena. Cada 12 (doze) horas foram divididas em 3 (três) dias de estudo.\nEsse indivíduo\nI. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 3 (três) dias de trabalho.\nII. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar.\nIII. tem direito à remição de pena, com o acréscimo de 1/3 (um terço) de toda a remição conquistada durante o cumprimento da pena devido à conclusão do ensino médio.\nIV. em caso da prática de falta grave, obrigatoriamente, perderá 1/3 (um terço) da remição conquistada, recomeçando a contagem a partir da data da infração disciplinar.",
+    "comando": "Está correto o que se afirma APENAS em",
+    "alternativas": {
+      "A": "II, III e IV.",
+      "B": "I e III.",
+      "C": "I e II.",
+      "D": "III e IV.",
+      "E": "I, II e IV."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0053",
+    "enunciado": "Com relação aos juizados especiais criminais, às nulidades, aos recursos no processo penal e à execução penal, julgue o item a seguir. Diferentemente da suspensão condicional do processo, a homologação da transação penal no âmbito dos juizados especiais criminais faz coisa julgada material, de forma que o descumprimento das cláusulas do acordo não permite a continuidade da persecução penal.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento Penal, Procedimento comum sumaríssimo - Lei nº 9.099 de 1995 - Lei dos Juizados Especiais Criminais - JECRIM",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0054",
+    "enunciado": "A doutrina classifica os delitos em diversas categorias.\nConsiderando algumas das classificações existentes, a alternativa que prevê delito de mera atividade, delito de lesão, delito plurissubjetivo e delito pluriofensivo, respectivamente, é:",
+    "comando": "Considerando algumas das classificações existentes, assinale a alternativa que prevê delito de mera atividade, delito de lesão, delito plurissubjetivo e delito pluriofensivo, respectivamente.",
+    "alternativas": {
+      "A": "violação de domicílio, furto, rixa e roubo;",
+      "B": "injúria, dano, associação criminosa e estelionato;",
+      "C": "assédio sexual, incêndio, apropriação indébita e roubo;",
+      "D": "desobediência, omissão de socorro, tráfico de pessoas e\nperseguição;",
+      "E": "ato obsceno, lesão corporal, constituição de milícia privada e\nautoaborto."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Classificação dos crimes",
+    "alertas_preparacao": []
+  }
+]

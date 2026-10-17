@@ -1,0 +1,26 @@
+{
+  "origem": "Consolidação assistida nesta conversa após comparação v1/v2 e orientação de Carla; não referência jurídica independente.",
+  "formato_linhas": ["id", "decisao", "tema_central_id", "confianca_subjetiva", "motivo"],
+  "decisoes": [
+    ["Q0017","revisar","5533",0.65,"Rito de crimes funcionais é especial, mas 5533 fica sob Procedimento Ordinário. Não publicar apenas pelo título Defesa Preliminar."],
+    ["Q0029","revisar","4684",0.80,"Lei de Abuso de Autoridade é o núcleo; não há escopo discriminante para certificar a preferência entre 4684 e 6716."],
+    ["Q0035","publicar","4706",0.98,"Enunciado e alternativas delimitam Lei Antiterrorismo; tema ativo específico e sem concorrente de escopo identificado."],
+    ["Q0036","revisar","4704",0.78,"Audiência do art. 16 e ação penal em violência doméstica exigem delimitar objeto processual e desempate 4704/6724."],
+    ["Q0058","revisar","4377",0.70,"O conjunto trata de pobreza, criminalização e vitimização seletivas; 4377 é hipótese, sem núcleo único sustentado. Não manter extra por alternativa isolada."],
+    ["Q0059","revisar","4388",0.65,"A crítica de Baratta ao cárcere não se torna teoria legitimadora só por mencionar a pena. Manter hipótese em teorias criminológicas e revisar o escopo."],
+    ["Q0069","publicar","5173",0.98,"O enunciado pede interpretação da norma penal e todas as opções são técnicas interpretativas; o tema específico corresponde ao objeto."],
+    ["Q0090","revisar","5530",0.65,"Alternativas de procedimentos distintos, sem núcleo no enunciado. O pai ordinário é hipótese parcial, não enquadramento publicável confirmado."],
+    ["Q0106","publicar","5157",0.94,"O núcleo é enquadramento patrimonial de refeição sem pagamento. O pai substantivo cobre a matéria e não há filho explícito de Outras fraudes."],
+    ["Q0116","revisar","4708",0.75,"A cobrança abrange diversos dispositivos da Lei de Drogas, mais ampla que o título Tráfico, e há concorrente 6728 sem escopo discriminante."],
+    ["Q0164","revisar","4703",0.78,"A assistência ao preso/egresso é conteúdo da LEP, mas o concorrente 6734 continua ativo. Fundamentar o ramo; desaparecimento de alerta na v2 não resolve a dúvida."],
+    ["Q0171","revisar","4693",0.45,"O bloco de Pacote Anticrime mistura penas, hediondos, colaboração, genética e ANPP/prescrição. Hediondos é só hipótese parcial; sem núcleo único para publicar."],
+    ["Q0193","publicar","5557",0.98,"O enunciado e todas as alternativas delimitam colaboração premiada, com tema processual específico; origem Inquérito não define o núcleo."],
+    ["Q0195","publicar","4373",0.96,"O enunciado delimita comparação de escolas e correntes criminológicas, com concepções de crime e pena; o subtema de escolas representa o conjunto."],
+    ["Q0218","publicar","5518",0.97,"Todas as alternativas perguntam pela modalidade/legalidade do flagrante. O documento falso é contexto, sem substituir o núcleo prisional."],
+    ["Q0277","revisar","4696",0.78,"Crimes contra pessoa idosa são o núcleo, apesar da origem Civil. O desempate 4696/6722 exige premissa de ramo ainda não certificada."],
+    ["Q0299","revisar","4388",0.76,"O enunciado genérico compara escolas, teorias e finalismo. A menção a labelling em uma opção não basta para liberar o tema sem revisão do conjunto."],
+    ["Q0302","publicar","5224",0.96,"A narrativa destaca desconhecimento de circunstância fática e efeitos sobre dolo, sustentando o tema específico Erro de Tipo."],
+    ["Q0303","revisar","5180",0.78,"O pai é hipótese para a combinação de aplicação temporal/espacial. A troca ao filho Espaço não cobre todo o bloco; é diferença de granularidade, sem erro confirmado."],
+    ["Q0309","revisar","4688",0.79,"A pergunta cobra sanção penal ambiental, mas os IDs 4688 e 6717 não têm escopo discriminante para certificar preferência de ramo."]
+  ]
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "Q0051",
+    "enunciado": "O jogador Vinícius Júnior foi expulso, no dia 21/05/2023, em partida de futebol realizada contra o Valencia pelo campeonato espanhol, após reagir a ofensas racistas perpetradas por torcedores do time rival.\nAo longo da partida, foi possível ouvir constantes gritos de “macaco!” advindos da torcida do Valencia e direcionados ao atacante brasileiro.\nA polícia de Madri recolheu impressões digitais e vestígios genéticos de várias pessoas envolvidas no ato.\nAfora isso, as autoridades locais rastrearam placas de veículos automotores que transitaram próximo ao estádio.\nDiante da investigação da polícia madrilenha, chegou-se à autoria em relação a determinados indivíduos.\nConsiderando a narrativa fática, é correto afirmar que a lei penal brasileira:",
+    "comando": "Considerando a narrativa fática, é correto afirmar que a lei penal brasileira:",
+    "alternativas": {
+      "A": "poderá ser aplicada às infrações penais que ocorrerem fora\ndo território nacional, devendo ser observado o princípio da\nterritorialidade mitigada;",
+      "B": "poderá ser aplicada às infrações penais que ocorrerem fora\ndo território nacional, devendo ser observado o princípio da\nnacionalidade ativa, podendo-se afirmar que nesta hipótese a\nextraterritorialidade é condicionada;",
+      "C": "poderá ser aplicada às infrações penais que ocorrerem fora\ndo território nacional, devendo ser observado o princípio da\nrepresentação, podendo-se afirmar que, nessa hipótese, a\nextraterritorialidade é incondicionada;",
+      "D": "poderá ser aplicada às infrações penais que ocorrerem fora\ndo território nacional, devendo ser observado o princípio da\njustiça penal universal, bem como a hipótese legal decorrente\ndo princípio da defesa que é verificada quando o delito é\npraticado por estrangeiro contra brasileiro, podendo-se\nafirmar que, em ambos os casos, teremos\nextraterritorialidade incondicionada;",
+      "E": "poderá ser aplicada às infrações penais que ocorrerem fora\ndo território nacional, devendo ser observado o princípio da\njustiça penal universal, bem como a hipótese legal decorrente\ndo princípio da defesa que é verificada quando o delito é\npraticado por estrangeiro contra brasileiro, podendo-se\nafirmar que, em ambos os casos, teremos\nextraterritorialidade condicionada."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0052",
+    "enunciado": "Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional intra muros, bem como, simultaneamente, teve frequência escolar de 200 horas, concluindo atividade de ensino médio ao longo do cumprimento da pena. Cada 12 (doze) horas foram divididas em 3 (três) dias de estudo.\nEsse indivíduo\nI. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 3 (três) dias de trabalho.\nII. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar.\nIII. tem direito à remição de pena, com o acréscimo de 1/3 (um terço) de toda a remição conquistada durante o cumprimento da pena devido à conclusão do ensino médio.\nIV. em caso da prática de falta grave, obrigatoriamente, perderá 1/3 (um terço) da remição conquistada, recomeçando a contagem a partir da data da infração disciplinar.",
+    "comando": "Está correto o que se afirma APENAS em",
+    "alternativas": {
+      "A": "II, III e IV.",
+      "B": "I e III.",
+      "C": "I e II.",
+      "D": "III e IV.",
+      "E": "I, II e IV."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0053",
+    "enunciado": "Com relação aos juizados especiais criminais, às nulidades, aos recursos no processo penal e à execução penal, julgue o item a seguir. Diferentemente da suspensão condicional do processo, a homologação da transação penal no âmbito dos juizados especiais criminais faz coisa julgada material, de forma que o descumprimento das cláusulas do acordo não permite a continuidade da persecução penal.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento Penal, Procedimento comum sumaríssimo - Lei nº 9.099 de 1995 - Lei dos Juizados Especiais Criminais - JECRIM",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0054",
+    "enunciado": "A doutrina classifica os delitos em diversas categorias.\nConsiderando algumas das classificações existentes, a alternativa que prevê delito de mera atividade, delito de lesão, delito plurissubjetivo e delito pluriofensivo, respectivamente, é:",
+    "comando": "Considerando algumas das classificações existentes, assinale a alternativa que prevê delito de mera atividade, delito de lesão, delito plurissubjetivo e delito pluriofensivo, respectivamente.",
+    "alternativas": {
+      "A": "violação de domicílio, furto, rixa e roubo;",
+      "B": "injúria, dano, associação criminosa e estelionato;",
+      "C": "assédio sexual, incêndio, apropriação indébita e roubo;",
+      "D": "desobediência, omissão de socorro, tráfico de pessoas e\nperseguição;",
+      "E": "ato obsceno, lesão corporal, constituição de milícia privada e\nautoaborto."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Classificação dos crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0055",
+    "enunciado": "No que tange à oitiva das testemunhas arroladas pela acusação em audiência de instrução e julgamento, na forma do Art. 212 do Código de Processo Penal, é correto afirmar que:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "a nulidade pela alteração da ordem de inquirição deve indicar\no prejuízo gerado;",
+      "B": "é possível ao juiz formular perguntas de forma detalhada,\napós as partes;",
+      "C": "a ordem de inquirição pode ser alterada no caso de ausência\nmomentânea de uma das partes;",
+      "D": "havendo atuação comedida, o juiz pode iniciar a inquirição da\ntestemunha;",
+      "E": "o juiz pode intervir, a qualquer momento, diante de\nilegalidade na condução do depoimento."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Comunicação dos atos processuais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0056",
+    "enunciado": "No caso de pluralidade delitiva, deve-se adotar, na determinação da pena,",
+    "comando": "Complete a frase sobre a determinação da pena no caso de pluralidade delitiva.",
+    "alternativas": {
+      "A": "o sistema de cúmulo jurídico, somando-se as penas aplicadas\na cada um dos crimes.",
+      "B": "o sistema da exasperação, quando se tratar de casos de\nconcurso formal imperfeito.",
+      "C": "o sistema da exasperação, quando se tratar de concurso\nmaterial heterogêneo, para evitar que a pena ultrapasse o limite\nlegal de cumprimento.",
+      "D": "o sistema da exasperação, que considera tão somente o número\nde crimes consumados para definição da pena.",
+      "E": "o sistema do cúmulo material, quando se tratar de pena\npecuniária, independentemente das demais sanções aplicadas,\nressalvado o crime continuado."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0057",
+    "enunciado": "Por iter criminis compreende-se o conjunto de",
+    "comando": "Complete a definição de iter criminis.",
+    "alternativas": {
+      "A": "atos de execução do delito.",
+      "B": "atos preparatórios antecedentes ao delito.",
+      "C": "atos de consumação do delito.",
+      "D": "fases pelas quais passa o delito.",
+      "E": "atos de cogitação."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Iter Criminis",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0058",
+    "enunciado": "Sobre a relação entre sistema penal e pobreza é correto afirmar que",
+    "comando": "",
+    "alternativas": {
+      "A": "a vertente criminológica do conflito identifica a pobreza\ncomo principal causa da criminalidade e defende\nmaior investimento social para reduzir as taxas\nde crimes.",
+      "B": "tal qual o processo de criminalização, a vitimização\ntambém é um processo seletivo que tem como alvo\npreferencial os mais pobres.",
+      "C": "por se tratar de uma questão de saúde, a internação\ndas pessoas com transtorno mental pelas medidas\nde segurança não se dá de maneira seletiva como\nno processo de criminalização.",
+      "D": "o surgimento da prisão como forma de punição por\nexcelência nos séculos XVIII e XIX teve como fulcro\na substituição de penas cruéis, mas somente nas\núltimas duas décadas passou a ser um mecanismo\nde controle social da pobreza.",
+      "E": "o efetivo respeito ao garantismo penal é capaz de\nreverter o caráter seletivo do sistema penal brasileiro\ne sua consequente gestão autoritária da miséria."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Legitimidoras da Pena",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0059",
+    "enunciado": "Sobre a relação entre o preso e a sociedade, segundo Alessandro Baratta, é CORRETO afirmar:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A reinserção do preso na sociedade, após o cumprimento da pena, é assegurada\na partir do momento em que, no cárcere, o preso absorve um conjunto de\nvalores e modelos de comportamento desejados socialmente.",
+      "B": "É necessário primeiro modificar os excluídos, para que eles possam voltar ao\nconvívio social na sociedade que está apta a acolhê-los.",
+      "C": "O cárcere não reflete as características negativas da sociedade, em razão do\nisolamento a que são submetidos os presos.",
+      "D": "São relações sociais baseadas no egoísmo e na violência ilegal, no interior\ndas quais os indivíduos socialmente mais débeis são constrangidos a papéis\nde submissão e de exploração."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Legitimidoras da Pena",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0060",
+    "enunciado": "A respeito dos crimes praticados em detrimento da administração pública, assinale a alternativa correta.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "São crimes próprios de funcionários públicos o de\nconcussão, o de peculato e o de tráfico de influência.",
+      "B": "O crime de facilitação de contrabando ou descaminho pode ser praticado por particular, individualmente ou em concurso de agentes com o funcionário\npúblico.",
+      "C": "O crime de advocacia administrativa, para restar caracterizado, exige a qualidade de advogado do sujeito ativo.",
+      "D": "No crime de corrupção ativa, incidirá causa de aumento da pena ao sujeito ativo, na hipótese de o funcionário omitir ou retardar ato de ofício.",
+      "E": "O funcionário público que, por recebimento de vantagem ilícita, de qualquer natureza, deixa de responsabilizar subordinado que praticou ato ilícito comete\ncrime de condescendência criminosa."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Corrupção ativa",
+    "alertas_preparacao": []
+  }
+]

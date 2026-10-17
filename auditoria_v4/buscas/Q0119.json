@@ -1,0 +1,93 @@
+{
+  "id": "Q0119",
+  "consulta_executada": "\"Considere que um indivíduo está sendo processado por um determinado crime. Lei posterior ao fato criminoso deixa de considerá-lo crime.\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Considere que um indivíduo está sendo processado por um det...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/e6e1b8d0-05",
+      "ref_consulta": "turn133search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Gabarito extraoficial TJ SP: oficial de justiça",
+      "url": "https://www.estrategiaconcursos.com.br/blog/gabarito-extraoficial-tj-sp-oficial-de-justica-2024/",
+      "ref_consulta": "turn133search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Simulado Amostra GCMSP 2026 Guarda Civil Metropolitano",
+      "url": "https://www.simuladosbr.net/wp-content/uploads/2019/01/Simulado-Amostra-GCMSP-2026-Guarda-Civil-Metropolitano.pdf",
+      "ref_consulta": "turn133search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "CONHECIMENTOS ESPECÍFICOS",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/128359/vunesp-2024-tj-sp-oficial-de-justica-prova.pdf",
+      "ref_consulta": "turn133search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Lei penal no tempo para Concurso - Página 2 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/lei-penal-no-tempo/questoes?has_professor_commentaries=true&page=2",
+      "ref_consulta": "turn133search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 21 - TJ-SP - Oficial de Justiça - VUNESP (2024) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tj-sp-oficial-de-justica-vunesp-2024/21",
+      "ref_consulta": "turn133search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Noções Fundamentais para Concurso - Página 9 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/nocoes-fundamentais/questoes?has_professor_commentaries=true&page=9",
+      "ref_consulta": "turn133search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Lei penal no tempo em Direito Penal | Qconcursos.com - Página 2",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_professor_commentaries=true&page=2&subject_ids%5B%5D=16672",
+      "ref_consulta": "turn133search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Considere que um indivíduo está sendo processado por um determinado crime. Lei posterior ao fato criminoso de...",
+      "url": "https://concursos.estrategia.com/public/questoes/Considere-que2660e448dd/",
+      "ref_consulta": "turn133search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concursos comentadas | SimuladosQAP",
+      "url": "https://simuladosqap.com/questoes?assunto=direito-penal-aplicacao-penal-no-tempo&disciplina=direito-penal",
+      "ref_consulta": "turn133search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Abolitio Criminis",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-abolitio-criminis-413539",
+      "ref_consulta": "turn133search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Q47806E88 — Direito Penal — Introdução ao estudo do Direito Penal e Princípios | SimuladosQAP",
+      "url": "https://simuladosqap.com/questoes/Q47806E88",
+      "ref_consulta": "turn133search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Lei penal no tempo em Direito Penal | Qconcursos.com - Página 3",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&page=3&subject_ids%5B%5D=16672",
+      "ref_consulta": "turn133search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 12 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&page=12&subject_ids%5B%5D=16667&subject_ids%5B%5D=16669&subject_ids%5B%5D=2332",
+      "ref_consulta": "turn133search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,141 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0055",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5550",
+      "confianca_modelo": 0.96,
+      "justificativa": "O núcleo é ordem de inquirição e intervenção do juiz na prova testemunhal do art. 212. Eventual nulidade é consequência do procedimento de oitiva, não assunto independente dominante.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5510"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0056",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5066",
+      "confianca_modelo": 0.96,
+      "justificativa": "A pergunta compara sistemas de determinação da pena em diferentes concursos de crimes. O pai substantivo cobre formal, material e multa sem escolher um filho isolado.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5067",
+        "5068",
+        "5070"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0057",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5176",
+      "confianca_modelo": 0.98,
+      "justificativa": "O item pede a definição do caminho percorrido pelo delito, isto é, as fases do iter criminis. O subtema Fases do Iter Criminis corresponde diretamente ao objeto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0060",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5087",
+      "confianca_modelo": 0.95,
+      "justificativa": "Enunciado e alternativas comparam tipos contra a administração pública, como peculato, corrupção, advocacia administrativa e condescendência. O pai substantivo representa o conjunto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0061",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "6734",
+      "confianca_modelo": 0.8,
+      "justificativa": "O núcleo é falta grave na execução criminal e seus efeitos. Há LEP em dois ramos, sem descrição que determine qual contém disciplina e remição; justificar o ID antes de liberar.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4703",
+        "5201"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0062",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5182",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado delimita extraterritorialidade incondicionada e efeitos de julgamento no exterior. A agência bancária e o terrorismo contextualizam a aplicação espacial da lei.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0063",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4704",
+      "confianca_modelo": 0.81,
+      "justificativa": "O bloco cobra medidas protetivas da Lei Maria da Penha. O núcleo legal é claro, mas a preferência entre 4704 e 6724 exige premissa sobre o ramo, não simples igualdade de título.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6724",
+        "5522"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0064",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5165",
+      "confianca_modelo": 0.77,
+      "justificativa": "A retenção e não repasse de contribuição previdenciária sustenta hipótese em apropriação indébita, mas as opções cobram matéria tributária, insignificância e extinção da punibilidade. O catálogo não explicita apropriação previdenciária; revisar o encaixe.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4695",
+        "5191"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0065",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5161",
+      "confianca_modelo": 0.97,
+      "justificativa": "O enunciado nomeia extorsão mediante sequestro e as opções discutem qualificadoras e consumação. O ramo patrimonial de Extorsão é mais adequado que sequestro contra liberdade pessoal.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5132"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0066",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4373",
+      "confianca_modelo": 0.97,
+      "justificativa": "A pergunta delimita o positivismo criminológico como escola e suas características metodológicas. Escolas Crimonológicas é específico; não há demanda para teoria etiológica individual isolada.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

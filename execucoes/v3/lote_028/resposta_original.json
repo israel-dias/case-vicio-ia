@@ -1,0 +1,148 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0287",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5228",
+      "confianca_modelo": 0.97,
+      "justificativa": "O comando pede distinguir excludente de ilicitude de causas de culpabilidade ou tipicidade. O pai substantivo de ilicitude cobre a identificação geral; o catálogo não possui filho de estado de necessidade.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0288",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5103",
+      "confianca_modelo": 0.3,
+      "justificativa": "O bloco mistura estupro, tributação penal, ambiente, concurso e responsabilidade de prefeitos, sem núcleo no enunciado. Estupro é apenas hipótese para revisão do primeiro item; não representa todo o conjunto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4695",
+        "4688",
+        "5068",
+        "5087"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0289",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4704",
+      "confianca_modelo": 0.81,
+      "justificativa": "O bloco delimita aspectos processuais e medidas protetivas da Lei Maria da Penha. O núcleo legal é claro, mas 4704/6724 não distinguem ramo para essa cobrança; fundamentar a escolha.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6724"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0290",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5539",
+      "confianca_modelo": 0.94,
+      "justificativa": "Todas as opções examinam atos e institutos do procedimento dos juizados. O ramo estruturado Procedimento Sumaríssimo contém competência, atos e benefícios processuais, conforme premissa já registrada.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4701"
+      ],
+      "alertas": [
+        "premissa_objeto_processual_e_escopo_do_ramo"
+      ]
+    },
+    {
+      "id": "Q0291",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5500",
+      "confianca_modelo": 0.94,
+      "justificativa": "O item cobra prazos e prorrogação do inquérito em investigação de drogas. Procedimento do Inquérito é o instituto específico; seu pai não limita o escopo ao rito comum e a lei especial fornece o prazo contextual.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4708"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0292",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4374",
+      "confianca_modelo": 0.97,
+      "justificativa": "O enunciado delimita política criminal brasileira e todas as opções discutem encarceramento, eficiência e direitos humanos. O tema substantivo Política Criminal representa o conjunto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0293",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5185",
+      "confianca_modelo": 0.97,
+      "justificativa": "Todas as alternativas perguntam por modalidades de prescrição, inclusive da multa, pretensão punitiva e executória. O pai Prescrição abrange os cálculos comparados; furto é contexto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5188",
+        "5189"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0294",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5211",
+      "confianca_modelo": 0.96,
+      "justificativa": "Enunciado e opções delimitam culpabilidade, suas teorias e causas de exclusão. O pai substantivo abrange os filhos comparados, sem reduzir tudo a imputabilidade.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5212",
+        "5213",
+        "5214",
+        "5217"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0295",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5489",
+      "confianca_modelo": 0.93,
+      "justificativa": "O bloco cobra termo inicial e contagem de prazos por intimação pessoal de órgãos/defesa, com prazo recursal entre os exemplos. Intimação e Contagem dos Prazos é o subtema proposto, com pai de comunicação processual compatível.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5487",
+        "5514"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0296",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5472",
+      "confianca_modelo": 0.96,
+      "justificativa": "O item delimita sucessão da legitimidade para queixa na ação privada após morte da vítima. Não é morte do agente como causa de punibilidade; o tema processual de iniciativa privada é específico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5065"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

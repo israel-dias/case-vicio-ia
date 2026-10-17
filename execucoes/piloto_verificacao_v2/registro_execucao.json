@@ -1,0 +1,49 @@
+{
+  "origem": "chat_assistido",
+  "modelo_informado": "ChatGPT; identificador do modelo não registrado",
+  "nota_operador": "Importação nesta cópia, a partir do JSON v2 recebido do candidato. O candidato informou conversa nova sem v1; isso não é verificável pelos bytes. Registro local não é o original de sua máquina. Confiança não calibrada.",
+  "importado_em_utc": "2026-10-15T18:47:35.687408+00:00",
+  "manifesto_lote": {
+    "nome": "piloto_verificacao_v2",
+    "finalidade": "reclassificacao_exploratoria_de_desenvolvimento",
+    "ids": [
+      "Q0017",
+      "Q0029",
+      "Q0035",
+      "Q0036",
+      "Q0058",
+      "Q0059",
+      "Q0069",
+      "Q0090",
+      "Q0106",
+      "Q0116",
+      "Q0164",
+      "Q0171",
+      "Q0193",
+      "Q0195",
+      "Q0218",
+      "Q0277",
+      "Q0299",
+      "Q0302",
+      "Q0303",
+      "Q0309"
+    ],
+    "sha256_prompt": "1ee36ee76877fa3588dc91e4b31dbfeebce925446c806737ac1c7fd3d68a19c7",
+    "sha256_questoes": "e291fac91c67cec5384ac0d8a9ac14fc44e39af1f9c174acb44f6cc99084f9c4",
+    "sha256_temas": "bcb2c9d6357708d11ef0a08ed8946210bc4210e5d2412f462db58f0242431084",
+    "sha256_preparacao": "d631cb4843a2946f7caedbf1d237dfc4c2e5fbc9611a1ececf51111f4ed0dcf5",
+    "versao_prompt": "v2",
+    "sha256_prompt_v1": "d86590dc03175f8aee7aa34878a597b7d4f55c6e1c8a5aa3f643e936f765b4bf",
+    "mudancas": [
+      "Critérios explícitos sobre homônimos, categorias por partes e questões multitemáticas.",
+      "Inclusão de títulos e de 20 descrições diferentes do padrão de importação.",
+      "Mesmas questões, IDs, catálogo ativo e formato interno de resposta."
+    ],
+    "limite": "Reclassificação exploratória, não gabarito nem amostra de avaliação independente."
+  },
+  "sha256_resposta_original": "ebdc0c1c8d66afd771f35861fbc4f09ae96ca5b8bca4729b391c064549907267",
+  "custo_api_executado_usd": 0,
+  "tokens_api_medidos": null,
+  "observacao_custo": "Importação da assinatura existente. Não mede tokens internos nem custo da assinatura.",
+  "publicacao_final": false
+}

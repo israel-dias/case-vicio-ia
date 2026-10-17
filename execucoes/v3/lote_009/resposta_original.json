@@ -1,0 +1,142 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0088",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4389",
+      "confianca_modelo": 0.95,
+      "justificativa": "O item diferencia a criminologia do estudo da vítima e discute autonomia da vitimologia. O tema substantivo Vitimologia é o enquadramento específico disponível para essa definição.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4381"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0089",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5172",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado nomeia princípio da insignificância e todas as opções discutem seus fundamentos e requisitos. O ramo de Princípios do Direito Penal representa diretamente a cobrança.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0091",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5201",
+      "confianca_modelo": 0.94,
+      "justificativa": "A assertiva cobra progressão entre regimes de cumprimento da pena privativa de liberdade. O instituto material está no subtema Penas Privativas de Liberdade; homicídio qualificado é contexto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6734"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0092",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5511",
+      "confianca_modelo": 0.96,
+      "justificativa": "O item delimita efeitos e saneamento de nulidades por incompetência e ilegitimidade de representação. Nulidades em Espécie é mais adequado que regras de fixação de competência.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5493"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0093",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5223",
+      "confianca_modelo": 0.94,
+      "justificativa": "O caso contrapõe o dever de agir do garantidor e a omissão de terceiro, exigindo distinguir omissão própria e imprópria. Crimes Omissivos e Comissivos cobre o núcleo; homicídio e socorro são aplicações.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5150",
+        "5142"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0094",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4388",
+      "confianca_modelo": 0.95,
+      "justificativa": "A questão pede a teoria criminológica ligada ao estigma das roupas prisionais. Teorias Criminológicas em Espécie representa etiquetamento e reação social; Tribunal do Júri é apenas cenário.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4373"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0095",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5197",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando pergunta expressamente pelo perdão judicial em duas situações culposas. O instituto de extinção/dispensa de pena é central, não cada crime contextual.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0096",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5486",
+      "confianca_modelo": 0.95,
+      "justificativa": "A pergunta delimita modificação/derrogação de competência territorial. O subtema Prorrogação, Perpetuação e Modificação de Competência representa o mecanismo discutido.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5483"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0097",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4705",
+      "confianca_modelo": 0.6,
+      "justificativa": "O caso combina organização criminosa, associação para tráfico, prova da droga e lavagem de dinheiro. Organização Criminosa é hipótese parcial, com escopo e ID concorrentes; nenhum núcleo único é estabelecido pela pergunta geral de sentença.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6725",
+        "4708",
+        "4702",
+        "5545"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0098",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5548",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado pede definição de confissão qualificada. O tema específico Confissão abrange a modalidade, sem confundir colaboração premiada das alternativas com o objeto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

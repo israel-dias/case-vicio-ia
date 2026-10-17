@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Q0311",
+    "enunciado": "Considere que um oficial de justiça não tenha localizado o réu, para realizar a citação pessoal na ação penal, no endereço que constava dos autos. Nesse caso,",
+    "comando": "",
+    "alternativas": {
+      "A": "o oficial de justiça deverá proceder à citação por hora certa, a\nser cumprida, no máximo, em três dias.",
+      "B": "o juiz decretará a revelia do réu e dará seguimento à ação\npenal.",
+      "C": "será feita a citação por edital e, caso o réu não compareça, a\nação penal ficará suspensa.",
+      "D": "será citada a Defensoria Pública para realizar a defesa técnica\ndo réu.",
+      "E": "a falta de citação pessoal interromperá o prazo prescricional\naté a localização do réu."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Das Citações e Intimações, Citação no Processo Penal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0312",
+    "enunciado": "Para Liszt, o fundamento da pena é orientado às finalidades de:\na) ressocialização dos delinquentes suscetíveis de socialização;\nb) intimidação dos que não têm necessidade de socialização;\nc) neutralização dos não suscetíveis de socialização.",
+    "comando": "Explique as finalidades da pena segundo Liszt.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Legitimidoras da Pena",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0313",
+    "enunciado": "A condenação tem como efeito genérico tornar certa a obrigação de reparar o dano. Esse efeito é automático, não precisa ser expressamente pronunciado pelo juiz na sentença condenatória e destina-se a formar título executivo judicial para a propositura de ação civil ex delicto.",
+    "comando": "Explique o efeito genérico da condenação no que se refere à obrigação de reparar o dano.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0314",
+    "enunciado": "O habeas corpus é",
+    "comando": "Complete a frase sobre o habeas corpus.",
+    "alternativas": {
+      "A": "ação de natureza constitucional destinada a coibir qual- quer ilegalidade ou abuso de poder contra a liberdade de locomoção.",
+      "B": "recurso previsto na Constituição Federal para evitar atentado na liberdade de ir e vir ou no direito líquido e certo.",
+      "C": "remédio constitucional, de caráter liberatório, destinado a coibir qualquer coação ilegal na sua liberdade de ir e vir ou evitar a consumação de uma ilegalidade, por ato de autoridade ou de particular.",
+      "D": "medida de caráter liberatório que tem por finalidade obter reforma de decisão judicial, com apreciação de novas provas."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0315",
+    "enunciado": "Paulo, nascido em 15/8/1996, foi denunciado em 24/5/2020, pela prática do crime de roubo majorado tentado, que teria sido praticado em 7/4/2016. Recebida a denúncia em 30/5/2020, Paulo foi condenado a uma pena de 2 anos e 9 meses pela prática delitiva em 20/10/2021, tendo a condenação transitado em julgado em 1/12/2021.\nNessa situação, a prescrição, segundo a jurisprudência atual do STF,",
+    "comando": "Considerando os dados apresentados, analise a prescrição aplicável ao caso de Paulo.",
+    "alternativas": {
+      "A": "já teria ocorrido antes do oferecimento da denúncia.",
+      "B": "ocorrerá em 2 anos após o trânsito em julgado da condenação, quer para a defesa quer para a acusação.",
+      "C": "ocorrerá em 4 anos após o trânsito em julgado da condenação, tanto para a defesa quanto para a acusação.",
+      "D": "ocorrerá em 6 anos após o trânsito em julgado da condenação para a defesa e para a acusação.",
+      "E": "ocorrerá em 8 anos após o trânsito em julgado da condenação, tanto para a defesa quanto para a acusação."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0316",
+    "enunciado": "Considere a seguinte situação: A, que acabara de ter um filho, que morre logo a seguir, sob a influência do estado puerperal, vai ao berçário e, por erro, já que acreditava tratar-se de seu próprio filho que não sabia estar morto, mata criança diversa.\nDispõe o artigo 20, § 3º, do Código Penal, que, em tal caso, não se consideram as condições ou qualidades da vítima, senão as da pessoa contra quem o agente queria praticar o crime.\nA questão é, então, no ordenamento pátrio, resolvida:",
+    "comando": "Explique como o ordenamento jurídico brasileiro resolve essa situação segundo o artigo 20, § 3º, do Código Penal.",
+    "alternativas": {
+      "A": "Pela aplicação da teoria da equivalência.",
+      "B": "Pela aplicação da teoria da concreção.",
+      "C": "Pela aplicação da teoria da concretização.",
+      "D": "Como crime impossível."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0317",
+    "enunciado": "O direito de representação deve ser exercido no prazo de seis meses contados a partir da data do fato, uma vez que o ofensor foi identificado nessa ocasião, sob pena de decadência.",
+    "comando": "Explique o prazo para o exercício do direito de representação no contexto apresentado.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0318",
+    "enunciado": "Com intenção de matar Mário, Lúcio adquiriu, de forma clandestina, uma arma de fogo e munições. Após monitorar a rotina da vítima, Lúcio aguardou Mário sair do trabalho e, enquanto ele caminhava em direção ao seu veículo, Lúcio sacou a arma e disparou uma única vez, atingindo-o. Mesmo possuindo ainda quatro projéteis intactos na arma, Lúcio sentiu repentino remorso, guardou a arma e ligou para o serviço de emergência. Mário foi socorrido, mas, apesar de todo o esforço médico empregado, veio a falecer dias depois no hospital em decorrência exclusiva dos ferimentos causados pelos disparos. Diante de tal situação hipotética, assinale a afirmativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "O caso narrado configura desistência voluntária, uma vez que Lúcio interrompeu voluntariamente a execução do homicídio quando ainda dispunha de meios para prosseguir, devendo, portanto, responder apenas pelo delito de lesão corporal.",
+      "B": "O caso narrado configura arrependimento eficaz, pois Lúcio exauriu os meios de execução que seriam suficientes para atingir o resultado almejado, contudo, agiu positivamente para evitá-lo, devendo, portanto, responder apenas pela tentativa de homicídio.",
+      "C": "A intervenção de Lúcio ao chamar o socorro não exclui a tipicidade, uma vez que o resultado morte efetivamente ocorreu por consequência direta de sua conduta, devendo ele responder por homicídio consumado, sem prejuízo da aplicação de atenuante genérica.",
+      "D": "O caso narrado configura arrependimento posterior, pois Lúcio buscou minimizar as consequências do crime praticado logo após a sua consumação ao chamar o socorro médico, o que enseja a redução da pena do homicídio de um a dois terços.",
+      "E": "O caso narrado configura crime impossível por ineficácia relativa do meio empregado, pois a intervenção médica quase evitou o resultado, demonstrando que a conduta do agente não era inequivocamente apta a garantir a consumação inicialmente pretendida."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "assunto_origem_ausente"
+    ]
+  },
+  {
+    "id": "Q0319",
+    "enunciado": "A co-autoria é impossível nos crimes:\nI. Culposos;\nII. Unissubsistentes;\nIII. Habitual ou de mera conduta.",
+    "comando": "Complete a frase indicando em quais crimes a co-autoria é impossível.",
+    "alternativas": {
+      "A": "Comissivos.",
+      "B": "Omissivos.",
+      "C": "Próprios.",
+      "D": "De mão própria.",
+      "E": "Culposos"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Pessoas",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0320",
+    "enunciado": "O Direito Processual Penal, doutrinariamente, elenca as espécies de testemunhas. Dentre elas há a chamada testemunha fedatária.",
+    "comando": "Marque abaixo a sentença CORRETA acerca da referida espécie",
+    "alternativas": {
+      "A": "é a testemunha que depõe sobre algum fato que ouviu dizer.",
+      "B": "é a testemunha que depõe sobre a regularidade de algum ato praticado no inquérito ou no processo.",
+      "C": "é a pessoa que foi indicada por outra testemunha, não sendo computada no número máximo de testemunhas.",
+      "D": "trata-se dos casos em que a Lei de Drogas e a Lei do crime organizado autorizam os agentes de polícia a se infiltrarem para obterem informações acerca desses crimes."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  }
+]

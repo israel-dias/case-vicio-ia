@@ -1,0 +1,99 @@
+{
+  "id": "Q0045",
+  "consulta_executada": "\"praticado por funcionário público.\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "PODER JUDICIÁRIO",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/30319/consulplan-2013-tre-mg-analista-judiciario-area-administrativa-prova.pdf",
+      "ref_consulta": "turn72search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 48 - Câmara de Duartina - Procurador Jurídico - Prova ESDN (2026) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/camara-de-duartina-2-procurador-juridico-prova-esdn-2026/48",
+      "ref_consulta": "turn72search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "993 EditalnA14 2026 GabaritosDefinitvosdasProvasTO - 699876c35461c | PDF | Pronome | Assunto (gramática)",
+      "url": "https://pt.scribd.com/document/1015404517/993-EditalnA14-2026-GabaritosDefinitvosdasProvasTO-699876c35461c",
+      "ref_consulta": "turn72search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Crimes Praticados por Funcionário Público Contra a Administração em Geral",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-crimes-praticados-por-funcionario-publico-contra-a-administracao-em-geral-406431?pagina=10",
+      "ref_consulta": "turn72search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "FICHA TÉCNICA DO MATERIAL",
+      "url": "https://concursos.grancursosonline.com.br/hubfs/oab-2-fase-do-39-exame-2-simulado-direito-penal-cod-12122023772-questoes-e-comentarios.pdf",
+      "ref_consulta": "turn72search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "10-CONCURSO_PÚBLICO_N.º_002-12_Edital_resposta_ao_recurso_contra_Prova_Objetiva_05-12-12_SITE",
+      "url": "https://arquivos.vitoria.es.gov.br/api/v1/files/pssdev/e84e5118a6668d4a4f732db1f44e4ab0c84dd670.",
+      "ref_consulta": "turn72search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "DIREITOS RESERVADOS .....................",
+      "url": "https://www.sigaescrevente.com/uploads/outros/gratuito/8/11a9679f6d519a245d058e2a04e946d5.pdf",
+      "ref_consulta": "turn72search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova Completa: Guarda Municipal (Pref. Mauá-SP - IBAM - 2022)",
+      "url": "https://www.magnaconcursos.com/questoes/concursos/pref-maua-sp-ibam-2022/guarda-municipal",
+      "ref_consulta": "turn72search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 4 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&page=4&subject_ids%5B%5D=17398&subject_ids%5B%5D=17410&subject_ids%5B%5D=17411&subject_ids%5B%5D=17412&subject_ids%5B%5D=23715",
+      "ref_consulta": "turn72search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 4 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&page=4&subject_ids%5B%5D=17374&subject_ids%5B%5D=17376&subject_ids%5B%5D=17383&subject_ids%5B%5D=17386&subject_ids%5B%5D=17398&subject_ids%5B%5D=17406",
+      "ref_consulta": "turn72search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 2 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&page=2&subject_ids%5B%5D=17398&subject_ids%5B%5D=17409&subject_ids%5B%5D=20769",
+      "ref_consulta": "turn72search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&subject_ids%5B%5D=17398&subject_ids%5B%5D=17408",
+      "ref_consulta": "turn72search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Peculato culposo",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-peculato-culposo-418929",
+      "ref_consulta": "turn72search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "(Microsoft Word - Prova e Gabarito - Analista Jur\\355dico.rtf)",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/29874/tj-sc-2011-tj-sc-analista-juridico-prova.pdf",
+      "ref_consulta": "turn72search17",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Direito Penal · CESPE / CEBRASPE · 2024 | Questão sqc-ce399520 | LEVEL",
+      "url": "https://soulevel.com.br/questoes/ce399520",
+      "ref_consulta": "turn72search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

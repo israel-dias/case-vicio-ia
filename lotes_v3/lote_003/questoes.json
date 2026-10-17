@@ -1,0 +1,151 @@
+[
+  {
+    "id": "Q0022",
+    "enunciado": "Admite a modalidade culposa",
+    "comando": "",
+    "alternativas": {
+      "A": "a concussão.",
+      "B": "a prevaricação.",
+      "C": "a corrupção passiva.",
+      "D": "o peculato.",
+      "E": "o falso testemunho."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0023",
+    "enunciado": "Sobre o Tribunal do Júri, é INCORRETO afirmar:",
+    "comando": "",
+    "alternativas": {
+      "A": "Seu procedimento desdobra-se em juízo da acusação, que analisa a admissibilidade da pretensão punitiva, e juízo da causa, que diz respeito ao mérito da acusação.",
+      "B": "Se o acusado houver permanecido preso durante a instrução criminal, a pronúncia do juiz importará em automática manutenção da cautela extrema, sendo, por outro lado, necessária a motivação do decreto de prisão na hipótese de o pronunciado encontrar-se solto.",
+      "C": "A decisão de impronúncia não faz coisa julgada formal e material.",
+      "D": "Se o advogado do acusado, regularmente intimado, não comparecer à sessão de julgamento, e não houver escusa legítima, o julgamento será adiado uma única vez, cabendo ao juiz-presidente intimar a Defensoria Pública para o novo julgamento.",
+      "E": "Nos termos da lei, o sistema de colheita de depoimentos em plenário é, para as partes, o do exame direto e cruzado, ao passo que, para os jurados, o sistema é o indireto, ou presidencialista."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento do Júri",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0024",
+    "enunciado": "A Criminologia é o ramo da Ciência Penal que abrange os conhecimentos relativos ao delito como fenômeno social, inclusive os processos de elaborar as leis, infringir as leis e reagir à infração das leis. Acerca das teorias criminológicas, analise as afirmativas a seguir.\nI. A teoria ecológica do delito foi criada no contexto da Escola de Chicago e consiste na sustentação, baseada em pesquisas empíricas, da correlação entre o ambiente comunitário e a formação de determinados padrões infracionais.\nII. A teoria da associação diferencial, também chamada de teoria da aprendizagem social, preconiza que as racionalidades motivacionais e metodológicas que envolvem o cometimento de ilicitudes podem ter origem genética, mas são principalmente transmitidas em circunstâncias específicas no curso da convivência grupal.\nIII. Os chamados crimes do colarinho branco são infrações praticadas por indivíduos dotados de elevado status socioeconômico no curso de atividades filantrópicas, sendo a razão pela qual as cifras negras não incidem sobre tais comportamentos ilícitos.",
+    "comando": "Está correto o que se afirma em.",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "I e II, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "assunto_origem_ausente"
+    ]
+  },
+  {
+    "id": "Q0025",
+    "enunciado": "A conduta do particular de solicitar vantagem de contribuinte autuado pela fiscalização, a pretexto ilusório de influir em ato praticado por auditor fiscal, configura corrupção ativa.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0026",
+    "enunciado": "Está fora do âmbito de proteção da Lei n.º 11.340/2006, que trata da violência doméstica contra a mulher,",
+    "comando": "Assinale o que está fora do âmbito de proteção da Lei n.º 11.340/2006.",
+    "alternativas": {
+      "A": "a filha transexual que é ameaçada pelo pai dentro da própria\nresidência.",
+      "B": "a mãe vulnerável que é ameaçada e agredida pela própria\nfilha com a qual convive.",
+      "C": "a mulher agredida dentro do ambiente laboral por colega de\ntrabalho do sexo masculino com quem nunca teve relação\níntima ou de afeto.",
+      "D": "a empregada doméstica agredida pelo neto da empregadora\ndentro da casa desta.",
+      "E": "a mulher vítima de contravenção penal em razão do gênero."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0027",
+    "enunciado": "O processo penal seguirá sem a presença do acusado que citado ou intimado:",
+    "comando": "",
+    "alternativas": {
+      "A": "pessoalmente para qualquer ato, deixar de comparecer com motivo justificado;",
+      "B": "por publicação para qualquer ato, deixar de comparecer sem motivo justificado;",
+      "C": "pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado;",
+      "D": "por publicação para qualquer ato, deixar de dar andamento ao processo;",
+      "E": "pessoalmente para o ato inicial, deixar de comparecer sem motivo justificado."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Das Citações e Intimações, Citação no Processo Penal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0028",
+    "enunciado": "O Código de Processo Penal, em seu art. 406, estabelece que o juiz, ao receber a denúncia ou a queixa, ordenará a citação do acusado para responder a acusação, por escrito, no prazo de dez dias.\nO art. 409, do mesmo diploma legal, determina que, apresentada a defesa, o juiz ouvirá o Ministério Público ou o querelante sobre preliminares e documentos, em cinco dias.\nPor sua vez, segundo o parágrafo primeiro, do art. 421, do referido Estatuto Processual, ainda que preclusa a decisão de pronúncia, havendo circunstância superveniente que altere a classificação do crime, o juiz ordenará a remessa dos autos ao Ministério Público.",
+    "comando": "Analise as disposições mencionadas e explique o procedimento adotado pelo juiz em cada etapa processual descrita.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Comunicação dos atos processuais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0030",
+    "enunciado": "Aquele que, mediante violência ou grave ameaça constrange alguém a trabalhar ou não trabalhar durante certo periodo:",
+    "comando": "Complete a definição ou responda conforme o enunciado.",
+    "alternativas": {
+      "A": "Não comete crime, por falta de capitulação legal;",
+      "B": "Comete crime de constrangimento ilegal;",
+      "C": "Comete crime de atentado contra a liberdade de trabalho;",
+      "D": "Comete crime por frustração de direito as­ segurado por lei trabalhista;",
+      "E": "Comete crime de atentado contra a liberdade do contrato de trabalho."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Lesão Corporal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0031",
+    "enunciado": "Julgue o item a seguir, relativos a modelos teóricos da criminologia.\nDe acordo com a teoria da anomia, o crime se origina da impossibilidade social do indivíduo de atingir suas metas pessoais, o que o faz negar a norma imposta e criar suas próprias regras, conforme o seu próprio interesse.",
+    "comando": "Julgue o item a seguir.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0032",
+    "enunciado": "Quando, no curso da investigação, houver motivo para duvidar da integridade mental do investigado, a autoridade policial devera",
+    "comando": "Indique o procedimento correto que a autoridade policial deve adotar nessas circunstâncias.",
+    "alternativas": {
+      "A": "concluir a investigação e, no relatório, informar tal circunstância, que será apreciada pelo Ministério Publico e pelo Magistrado.",
+      "B": "Requisitar de ofício, exame de sanidade mental junto ao Instituto Médico Legal.",
+      "C": "representar á autoridade judiciária para que o investigado seja submetido a exame médico-legal.",
+      "D": "oficiar ao Ministério Público, noticiando o fato e representando pela realização de exame para verificar a sanidade do investigado.",
+      "E": "poderá nomear mais de um perito para a realização do exame mental, em virtude de sua complexidade."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  }
+]

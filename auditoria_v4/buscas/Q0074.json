@@ -1,0 +1,93 @@
+{
+  "id": "Q0074",
+  "consulta_executada": "\"Considere a seguinte situação hipotética. Antônio foi condenado pela prática do delito X pelo juízo da 5.ª vara criminal de\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Considere a seguinte situação hipotética. Antônio foi conden...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/fe49b9be-69",
+      "ref_consulta": "turn115search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Considere a seguinte situação hipotética. Antônio foi con... - Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-processual-penal-406602/786946",
+      "ref_consulta": "turn115search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "C:\\trabalho\\DPE_AL_2009\\1_PROVA OBJETIVA_19_12_2009\\DPEAL09_001_1.wpd",
+      "url": "https://cdn.cebraspe.org.br/concursos/DPE_AL2009/arquivos/DPE_001_1.pdf",
+      "ref_consulta": "turn115search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Penal | Qconcursos.com - Página 987",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&page=987",
+      "ref_consulta": "turn115search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Em relação à revisão criminal, ao habeas corpus e à execução penal, julgue o próximo item.Considere a seguint...",
+      "url": "https://cj.estrategia.com/public/questoes/a-revisa-criminal9948aafa93/",
+      "ref_consulta": "turn115search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Q48802",
+      "url": "https://soprovas.com/questoes/146413",
+      "ref_consulta": "turn115search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 117 - DPE-AL - Defensor Público - CESPE/CEBRASPE (2009) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/dpe-al-defensor-publico-2009-cespe/117",
+      "ref_consulta": "turn115search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "delito de lesões corporais graves. Nesse caso, de acordo com a jurisprudência majoritária, enquanto o juiz será processado e julgado perante o Tribunal de Justiça, o indivíduo sem foro privilegiado deverá ser processado e julgado perante as varas criminais comuns.",
+      "url": "https://d3uyk7qgi7fgpo.cloudfront.net/lms/modules/supportMaterials/Defensoria-Publica-Estadual-%28DPE%29/Caderno-de-Exercicios-Intensivo/7b698408-3799-4499-9054-df40629a1208-Caderno_de_exercicios_DPE_MG.pdf",
+      "ref_consulta": "turn115search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova de Defensor Público: Questões e Julgamentos | PDF | Sentença (jurídico) | Homicídio",
+      "url": "https://pt.scribd.com/document/894560373/Prova-p-Defensor-Publico-de-Alagoas",
+      "ref_consulta": "turn115search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Leonardo Garcia",
+      "url": "https://juspodivmdigital.com.br/cdn/arquivos/jus2280_previa-do-livro.pdf",
+      "ref_consulta": "turn115search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso de Direito Processual Penal - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questoes-de-concurso/materia/direito-processual-penal/assunto/aplicacao-da-lei-processual-penal?pag=5",
+      "ref_consulta": "turn115search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões sobre Aplicacao Da Lei Processual Penal",
+      "url": "https://www.provaseconcursos.com.br/questoes-de-concurso/materia/direito-processual-penal/assunto/aplicacao-da-lei-processual-penal%26pg%3D4",
+      "ref_consulta": "turn115search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso de Direito Processual Penal - Página 4 - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questoes-de-concurso/materia/direito-processual-penal/assunto/aplicacao-da-lei-processual-penal/banca/cespe?pag=4",
+      "ref_consulta": "turn115search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "1 LEI Nº 4.737/1965 E ALTERAÇÕES (CÓDIGO ELEITORAL).",
+      "url": "https://livrozilla.com/doc/646095/1-lei-n%C2%BA-4.737-1965-e-altera%C3%A7%C3%B5es--c%C3%B3digo-eleitoral-.",
+      "ref_consulta": "turn115search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

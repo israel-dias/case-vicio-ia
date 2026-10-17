@@ -1,0 +1,105 @@
+{
+  "id": "Q0042",
+  "consulta_executada": "\"o agente prevê o resultado como possível o provável e assume o risco de produzi-lo, agindo com\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Sobre o elemento subjetivo da conduta, dolo direto é aquele ...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/1ba97876-f8",
+      "ref_consulta": "turn85search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões TJ-AC 2024 para Técnico Judiciário - Técnico Judiciário | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/cs-ufg-2024-tj-ac-tecnico-judiciario-tecnico-judiciario/questoes?discipline_ids%5B%5D=9",
+      "ref_consulta": "turn85search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Concurso Público para provimento dos cargos efetivos de servidores",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/105959/cs-ufg-2024-tj-ac-tecnico-judiciario-tecnico-judiciario-prova.pdf",
+      "ref_consulta": "turn85search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 4 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&page=4&per_page=20&subject_ids%5B%5D=16685&subject_ids%5B%5D=16774&subject_ids%5B%5D=16775&subject_ids%5B%5D=2216&subject_ids%5B%5D=3170",
+      "ref_consulta": "turn85search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 14 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&page=14&subject_ids%5B%5D=16674&subject_ids%5B%5D=796",
+      "ref_consulta": "turn85search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Tribunal de Justiça de Santa Catarina TJ-SC - Recurso em Sentido Estrito: RSE XXXXX-82.2017.8.24.0023 Capital XXXXX-82.2017.8.24.0023 | Jurisprudência",
+      "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sc/919815689/inteiro-teor-919815711",
+      "ref_consulta": "turn85search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "DIREITO PENAL",
+      "url": "https://www.apostilasopcao.com.br/arquivos-opcao/apostilas/29979/121116/op-092ag-25-caderno-consulplan-gab-amostra.pdf",
+      "ref_consulta": "turn85search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso: Língua Portuguesa 2024 | PDF | Administração pública",
+      "url": "https://pt.scribd.com/document/829851318/TJ-AC-2024-Tecnico-Judiciario",
+      "ref_consulta": "turn85search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Superior Tribunal de Justiça STJ - RECURSO ESPECIAL: REsp XXXXX DF XXXX/XXXXX-1 | Jurisprudência",
+      "url": "https://www.jusbrasil.com.br/jurisprudencia/stj/1384483272",
+      "ref_consulta": "turn85search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 11 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&page=11&subject_ids%5B%5D=16677&subject_ids%5B%5D=16680&subject_ids%5B%5D=16681&subject_ids%5B%5D=16682&subject_ids%5B%5D=16683&subject_ids%5B%5D=16684&subject_ids%5B%5D=16685&subject_ids%5B%5D=16686&subject_ids%5B%5D=16687&subject_ids%5B%5D=16688&subject_ids%5B%5D=16769&subject_ids%5B%5D=16770&subject_ids%5B%5D=16771&subject_ids%5B%5D=16772&subject_ids%5B%5D=16773&subject_ids%5B%5D=16774&subject_ids%5B%5D=16775&subject_ids%5B%5D=2216&subject_ids%5B%5D=3170&subject_ids%5B%5D=796",
+      "ref_consulta": "turn85search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "FACULDADE DOCTUM DE VITÓRIA",
+      "url": "https://dspace.doctum.edu.br/bitstream/123456789/1442/1/artigo%20cient%C3%ADfico%20Fl%C3%A1vio%20Viganor%20Silva.pdf",
+      "ref_consulta": "turn85search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "SEGUNDA CÂMARA - Tribunal de Contas da União",
+      "url": "https://manualzilla.com/doc/6079872/segunda-c%C3%A2mara---tribunal-de-contas-da-uni%C3%A3o",
+      "ref_consulta": "turn85search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Conceito e definição",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-conceito-e-definicao-418517",
+      "ref_consulta": "turn85search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "A POSSIBILIDADE DO DOLO EVENTUAL NOS CRIMES DE HOMICÍDIO NO TRÂNSITO - Diogo Cristiano Pinto - JurisWay",
+      "url": "https://www.jurisway.org.br/v2/dhall.asp?id_dh=6174",
+      "ref_consulta": "turn85search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "MORTE NO TRÂNSITO CAUSADO POR MOTORISTA EMBRIAGADO: DOLO EVENTUAL — Jorsuleide Lima Campos | JurisWay",
+      "url": "https://jurisway.org.br/sala-dos-doutrinadores/9651-morte-no-transito-causado-por-motorista-embriagado-dolo",
+      "ref_consulta": "turn85search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Share — copy and redistribute the material in any medium or format for any purpose, even commercially. Adapt — remix, transform, and build upon the material for any purpose, even commercially. The licensor cannot revoke these freedoms as long as you follow the license terms. Attribution — You must give appropriate credit , provide a link to the",
+      "url": "https://argekaucuk.com/nbg/upload/files/femefabef_mimav.pdf",
+      "ref_consulta": "turn85search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

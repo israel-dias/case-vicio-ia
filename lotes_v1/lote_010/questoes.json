@@ -1,0 +1,151 @@
+[
+  {
+    "id": "Q0091",
+    "enunciado": "Em cada item que se segue, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superiores a respeito de aplicação de pena, cominação de penas, regime de penas, medidas de segurança e livramento condicional.\nFlávio, maior e capaz, condenado a pena de doze anos pela prática de homicídio doloso qualificado, iniciou o cumprimento da pena em regime fechado. Durante a execução da pena, ele apresentou comportamento excelente e colaborativo, por isso, após o período mínimo para a progressão de regime, seu advogado requereu ao juiz a passagem de Flávio para o regime aberto. Nessa situação, o pedido não poderá ser atendido: a progressão do regime prisional de Flávio deverá ser para o regime semiaberto.",
+    "comando": "Julgue a assertiva apresentada na situação hipotética.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0092",
+    "enunciado": "A incompetência do juízo anula _________, devendo o processo, quando for declarada a nulidade, ser remetido ao juiz competente; a nulidade por ilegitimidade do representante da parte poderá ser _________, mediante ratificação dos atos processuais. Nos termos dos artigos 567 e 568 do CPP, assinale a alternativa que completa, correta e respectivamente, as lacunas do texto.",
+    "comando": "",
+    "alternativas": {
+      "A": "todos os atos praticados ... sanada até a denúncia",
+      "B": "todos os atos praticados ... a todo tempo sanada",
+      "C": "todos os atos praticados ... sanada somente até o trânsito em julgado",
+      "D": "o curso do prazo prescricional ... sanada somente até o trânsito em julgado",
+      "E": "somente os atos decisórios ... a todo tempo sanada"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Nulidades no Processo Penal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0093",
+    "enunciado": "JOÃO e JOSÉ estão na praia e resolveram entrar no mar. Em determinado momento eles começam a se afogar. Havia naquele local um salva-vidas que, ao avistar apenas JOÃO, notou que ele era seu desafeto e se recusou a salvá-lo; próximo a eles havia também um surfista, este avistou apenas JOSÉ pedindo socorro, mas, por ser seu inimigo, não atendeu aos pedidos dele, resolvendo sair do local. As duas pessoas acabam se afogando e morrendo.",
+    "comando": "Em relação ao caso, qual das alternativas abaixo está CORRETA?",
+    "alternativas": {
+      "A": "O salva-vidas responde por homicídio\ndoloso por omissão.",
+      "B": "O salva-vidas responde por omissão de\nsocorro.",
+      "C": "O surfista responde por homicídio doloso\npor omissão.",
+      "D": "A conduta do surfista é atípica.",
+      "E": "O surfista responde por homicídio culposo."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0094",
+    "enunciado": "Recentemente, o Superior Tribunal de Justiça decidiu que: “A utilização de roupas sociais pelo réu durante seu julgamento pelo Tribunal do Júri é um direito e não traria qualquer insegurança ou perigo, tendo em vista a existência de ostensivo policiamento nos Fóruns do Estado”.\nA utilização de roupas do presídio por um acusado no Tribunal do Júri está associada a qual tema da Criminologia?",
+    "comando": "A utilização de roupas do presídio por um acusado no Tribunal do Júri está associada a qual tema da Criminologia?",
+    "alternativas": {
+      "A": "Escola Clássica da Criminologia e princípios do iluminismo.",
+      "B": "Escola Positiva de Criminologia e anomia.",
+      "C": "Neoliberalismo e política da lei e ordem.",
+      "D": "Vitimologia e marxismo.",
+      "E": "Labelling approach ou etiquetamento social e Criminologia crítica."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0095",
+    "enunciado": "Júpiter está arrumando a ligação elétrica de sua casa, com\najuda de Jano, seu amigo, que lhe segura a escada. Deixando de observar um dever objetivo de cuidado, Júpiter\nfaz uma ligação equivocada e recebe uma alta descarga\nde energia, sofrendo inutilização permanente de membro.\nNo mesmo incidente, Jano sofre uma lesão corporal leve.\nEm outro cenário, Saturno, pai dedicado e amoroso, está\ndando banho em seu filho, Nemestrino. Imprudentemente,\nSaturno deixa Nemestrino cair no chão, o que causa a\nmorte imediata do bebê.",
+    "comando": "No que concerne à lesão corporal sofrida por Jano e ao homicídio praticado por Saturno, o perdão judicial, ao menos em tese:",
+    "alternativas": {
+      "A": "aplica-se ao primeiro caso e depende de concordância da mãe de Nemestrino para aplicação ao segundo.",
+      "B": "aplica-se ao segundo caso, mas não ao primeiro.",
+      "C": "não se aplica a nenhum dos casos.",
+      "D": "aplica-se a ambos os casos.",
+      "E": "aplica-se ao primeiro caso, mas não ao segundo."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0096",
+    "enunciado": "Ocorre a derrogação da competência territorial:",
+    "comando": "Complete a frase sobre a derrogação da competência territorial.",
+    "alternativas": {
+      "A": "nos casos de conexão.",
+      "B": "nos casos de continência.",
+      "C": "na hipótese de prevenção.",
+      "D": "quando o crime é praticado fora do território nacional, em embarcações e aeronaves.",
+      "E": "na hipótese de desaforamento."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Competência (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0097",
+    "enunciado": "Inquérito policial revelou que um grupo de 16 pessoas, além de outras não identificadas, dedicava-se ao comércio ilícito de drogas e praticava extorsões contra comerciantes visando ao recolhimento de uma “taxa de segurança”. A investigação, que durou nove meses, contou com as medidas cautelares de interceptação telefônica e quebra do sigilo telemático, nas quais ficou claro que o grupo contava com uma liderança definida e que os demais integrantes se dedicavam à negociação para a aquisição das drogas e produtos químicos usados na mistura e preparo delas, ao abastecimento das “bocas de fumo” e ao recolhimento do dinheiro proveniente do comércio ilícito e das extorsões praticadas contra comerciantes. A investigação mostrou também que, com o dinheiro oriundo da atividade criminosa, o líder do grupo adquiriu cavalos e os mantinha em um haras registrado em seu nome. Ao longo da investigação, não houve apreensão de material entorpecente. O Ministério Público ofereceu denúncia contra os 16 investigados identificados e imputou os crimes de tráfico de drogas, associação para o tráfico de drogas, extorsão e organização criminosa. Imputou também ao líder do grupo o crime de lavagem de dinheiro (Art. 1º da Lei nº 9.613/1998).\nAo longo da instrução probatória, os fatos foram confirmados e o Ministério Público requereu a condenação na forma da denúncia. As defesas manifestaram-se e o processo foi à conclusão para sentença.\nÀ luz da jurisprudência do Superior Tribunal de Justiça, o magistrado deve considerar que:",
+    "comando": "À luz da jurisprudência do Superior Tribunal de Justiça, o magistrado deve considerar que:",
+    "alternativas": {
+      "A": "a sentença deve acolher integralmente a pretensão\ncondenatória do Ministério Público;",
+      "B": "a ausência de apreensão de material entorpecente é\nobstáculo à condenação pelos crimes de tráfico de drogas e\nde associação para o tráfico de drogas;",
+      "C": "a sentença pode condenar os réus pela prática do crime de\ntráfico de drogas, a despeito da ausência de apreensão de\nmaterial entorpecente, desde que outros elementos dos\nautos revelem a prática de uma das condutas previstas no\ntipo penal;",
+      "D": "é cabível a condenação do líder do grupo criminoso pelo\ncrime de lavagem de dinheiro, porque, na hipótese, a\ndestinação dada ao produto do crime configura ocultação ou\ndissimulação da natureza, origem, localização, disposição,\nmovimentação ou propriedade de bens, direitos ou valores\nprovenientes, direta ou indiretamente, de crime;",
+      "E": "a condenação, em concurso material, pelos crimes de\nassociação para o tráfico de drogas e organização criminosa\nnão representa bis in idem, desde que demonstrado que o\ngrupo criminoso, estruturalmente ordenado e caracterizado\npela divisão de tarefas, dedicava-se à prática de outros\ncrimes, além do tráfico de drogas."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0098",
+    "enunciado": "A doutrina denomina “confissão qualificada” aquela em que o acusado",
+    "comando": "Complete a definição de \"confissão qualificada\" conforme a doutrina.",
+    "alternativas": {
+      "A": "admite a prática criminosa, mas alega, em sua defesa, alguma causa que o beneficia, como uma excludente de ilicitude.",
+      "B": "não só confessa os fatos cometidos por si, mas também aponta os demais coautores ou partícipes da\nempreitada criminosa.",
+      "C": "fica em silêncio; contudo, tal modalidade não fora\nrecepcionada pela Constituição de 1988, que garante\nnenhum prejuízo ao acusado nesses casos.",
+      "D": "colabora ativamente com a apuração do crime, inclusive interrompendo ou impedindo que os fatos se\nconsumem.",
+      "E": "se retrata da negativa dos fatos ocorrida perante a\nautoridade policial e admite-os espontaneamente\nperante o magistrado."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0099",
+    "enunciado": "Filomena, camelô Irregular, é flagrada por dois agentes da fiscalização municipal, ocasião em que estes anunciam que irão lavrar um auto de infração e apreender sua mercadoria, levando-a ao depósito público, de onde poderá vir a ser retirada posteriormente, mediante pagamentos devidos, tudo conforme o previsto na legislação.\nInconformada com o fato, Filomena passa a agredir fisicamente os fiscais, no intuito de impedir que levem sua mercadoria, porém eles reagem, usando força corporal nos limites necessários para conter Filomena.\nComo resultado, Filomena e os fiscais ficam levemente feridos, sendo a mercadoria devidamente apreendida.\nDiante do caso narrado, é correto afirmar que:",
+    "comando": "Diante do caso narrado, é correto afirmar que:",
+    "alternativas": {
+      "A": "Filomena praticou o delito de resistência, ao passo que os fiscais cometeram o delito de lesão corporal leve;",
+      "B": "Filomena praticou o delito de resistência, na modalidade\ntentada, ao passo que os fiscais não cometeram crime algum, pois agiram\namparados em excludente de ilicitude;",
+      "C": "Filomena praticou o delito de resistência qualificada, ao\npasso que os fiscais não cometeram crime algum, pois agiram amparados em\nexcludente de ilicitude;",
+      "D": "Filomena praticou os delitos de resistência e lesões\ncorporais leves, ao passo que os fiscais não cometeram crime algum, pois agiram\namparados em excludente de ilicitude;",
+      "E": "Filomena praticou os delitos de resistências, na modalidade tentada, e lesões corporais leves, ao passo que os fiscais cometeram os crimes de lesão corporal leve e abuso de autoridade."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Lesão Corporal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0100",
+    "enunciado": "Augusto levou sua filha, Ana, de treze anos de idade, a uma boate cuja entrada era permitida apenas para pessoas maiores de dezoito anos de idade, para que a menina se encontrasse com amigas que comemoravam o aniversário de uma delas.\nO segurança da boate não pediu documento de identificação à menina, que aparentava ser maior de idade.\nApós consumir algumas doses de tequila, Ana começou a flertar com Otávio, de vinte e oito anos de idade, e disse ao rapaz que tinha dezesseis anos de idade.\nApós breve conversa, Otávio convidou a adolescente a ir com ele a um motel.\nLisonjeada, porém indecisa, Ana perguntou a opinião de suas amigas, que foram unânimes em incentivá-la a aceitar o convite, pois conheciam muito bem Otávio.\nNa manhã seguinte, após ter relações sexuais consentidas com Otávio, com quem perdera a virgindade, Ana retornou, sozinha, para casa.\nDesconfiado do que a filha poderia ter feito na noite anterior, Augusto começou a interrogá-la, e ela, por medo, afirmou ter sido obrigada a manter relações sexuais com Otávio.\nAto contínuo, Augusto levou a filha até a delegacia de polícia, onde registrou ocorrência policial contra Otávio.",
+    "comando": "Com base nos fatos narrados na situação hipotética acima apresentada, assinale a opção correta.",
+    "alternativas": {
+      "A": "O crime de estupro de vulnerável impõe, em caráter absoluto, um dever geral de abstenção da conduta de manter conjunção carnal ou qualquer ato libidinoso com pessoa menor de quatorze anos de idade, podendo, entretanto, ser reconhecido o erro de tipo da parte de Otávio, o que engendraria a atipicidade de sua conduta.",
+      "B": "Caso Otávio seja absolvido da acusação, ficará configurado o crime de denunciação caluniosa cometido por Augusto.",
+      "C": "As amigas de Ana figuram como partícipes do crime do qual Otávio é acusado, pois incentivaram a vítima, menor de idade, a ir ao motel com pessoa maior de idade.",
+      "D": "Em razão de ter levado a filha a local exclusivo para pessoas maiores de dezoito anos de idade e de nada ter feito para impedir o fato, pode ser imputado a Augusto o crime de estupro de vulnerável praticado por omissão imprópria, visto que, na qualidade de pai e, portanto, de agente garantidor, deveria impedir a ocorrência do resultado.",
+      "E": "Otávio praticou o crime de corrupção sexual de menores, dado o consentimento das relações sexuais, figurando o segurança da boate como partícipe do referido delito, na medida em que sua negligência no trabalho foi determinante para a ocorrência do resultado."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Lesão Corporal",
+    "alertas_preparacao": []
+  }
+]

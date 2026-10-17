@@ -1,0 +1,149 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0276",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5543",
+      "confianca_modelo": 0.94,
+      "justificativa": "Todas as opções comparam espécies de prova: interrogatório, confissão, acareação, corpo de delito e busca. A premissa é usar o pai estruturado que contém esses filhos, em vez do homônimo sem filhos/escopo 6735.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6735"
+      ],
+      "alertas": [
+        "premissa_prefere_ramo_estruturado_com_especies_explicitadas"
+      ]
+    },
+    {
+      "id": "Q0278",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5542",
+      "confianca_modelo": 0.98,
+      "justificativa": "O item delimita requisitos e prazo da suspensão condicional do processo. Não confundir com suspensão condicional da pena mencionada como requisito de remissão.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0279",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5188",
+      "confianca_modelo": 0.93,
+      "justificativa": "O caso destaca idade ao fato e intervalo até recebimento da denúncia, e o comando compara consequências penais. A combinação temporal sustenta prescrição da pretensão punitiva como núcleo, sem tomar a devolução inicial como tema único.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5178",
+        "5159"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0280",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5120",
+      "confianca_modelo": 0.92,
+      "justificativa": "As opções examinam ação penal, representação e exceção da verdade em crime contra honra de funcionário. O pai substantivo da honra cobre tipo e disposições específicas sem reduzir tudo à queixa genérica.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5122",
+        "5121",
+        "5472"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0281",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5594",
+      "confianca_modelo": 0.79,
+      "justificativa": "As assertivas comparam limites de interceptação, sigilo bancário, acesso da defesa e correspondência. Prova Ilegal/Ilícita é hipótese pelo controle das restrições, concorrendo com princípios e meios específicos sem núcleo expresso.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5555",
+        "5595",
+        "5133"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0282",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4704",
+      "confianca_modelo": 0.53,
+      "justificativa": "O enunciado genérico mistura medidas protetivas, racismo e duas regras de armas. Maria da Penha é hipótese para duas opções, sem predominância que sustente publicação, e ainda há homônimo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4697",
+        "4690",
+        "6724"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0283",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5496",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado e opções delimitam hipoteca legal determinada no processo penal, seus efeitos e caução. O subtema de medidas assecuratórias nomeia diretamente hipoteca.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0284",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5224",
+      "confianca_modelo": 0.79,
+      "justificativa": "O caso contrapõe legítima defesa real/putativa e erro sobre pressuposto fático ou limites normativos, com pedido de absolvição no Júri. Erro de Tipo é hipótese, mas o núcleo entre justificante, erro e decisão processual exige revisão.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5214",
+        "5231",
+        "5527"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0285",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4376",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando delimita uma característica do Direito Penal do Inimigo. Há subtema nominal e específico sob Política Criminal.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0286",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5199",
+      "confianca_modelo": 0.96,
+      "justificativa": "Todas as opções comparam ordem das fases e incidência de fatores no cálculo da pena. O pai Teoria da Pena abrange as etapas da dosimetria efetivamente combinadas.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5202",
+        "5203",
+        "5204"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

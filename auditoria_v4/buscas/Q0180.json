@@ -1,0 +1,75 @@
+{
+  "id": "Q0180",
+  "consulta_executada": "\"João é investigado pela prática de um crime de peculato. Durante a fase de inquérito policial, o Delegado de Polícia,\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "João é investigado pela prática de um crime de peculato. Durante a fase de in...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/1106031-questao",
+      "ref_consulta": "turn207search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&has_commentaries=true&subject_ids%5B%5D=17613&subject_ids%5B%5D=17618&subject_ids%5B%5D=6609",
+      "ref_consulta": "turn207search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Inadmissibilidade das provas obtidas por meios ilícitos para Concurso | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/inadmissibilidade-das-provas-obtidas-por-meios-ilicitos/questoes?has_professor_commentaries=true",
+      "ref_consulta": "turn207search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "João é investigado pela prática de um crime de peculato....",
+      "url": "https://questionei.com/questoes/457941205331114/",
+      "ref_consulta": "turn207search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões Analista Jurídico para Concursos | Questionei",
+      "url": "https://questionei.com/questoes/analista-juridico/",
+      "ref_consulta": "turn207search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Direito Processual Penal para FGV | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&examining_board_ids%5B%5D=63&has_professor_commentaries=true",
+      "ref_consulta": "turn207search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 73 | FGV | Direito Processual Penal | QuestLab",
+      "url": "https://questlabconcursos.com.br/q/joao-e-investigado-pela-pratica-de-um-crime-de-peculato-durante-a-fase-de-inquerito-policial-o-d-q73",
+      "ref_consulta": "turn207search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Das Provas em Direito Processual Penal para FGV | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&examining_board_ids%5B%5D=63&subject_ids%5B%5D=154",
+      "ref_consulta": "turn207search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas | Questionei",
+      "url": "https://questionei.com/questoes/direito-processual-penal/provas/",
+      "ref_consulta": "turn207search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 4214003",
+      "url": "https://www.magnaconcursos.com/questoes/92b635cf",
+      "ref_consulta": "turn207search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova Completa: Analista Jurídico (TJ-SC - FGV - 2026)",
+      "url": "https://www.magnaconcursos.com/questoes/concursos/tj-sc-fgv-2026/analista-juridico?numPage=1",
+      "ref_consulta": "turn207search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

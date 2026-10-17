@@ -1,0 +1,81 @@
+{
+  "id": "Q0083",
+  "consulta_executada": "\"Osvaldo, desejando matar, disparou seu revólver contra Arnaldo, que, em razão do susto, desmaiou. Osvaldo, acreditando piamente que Arnaldo estava\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Osvaldo, desejando matar, disparou seu revólver contra Arnal...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/732e6e1f-4a",
+      "ref_consulta": "turn101search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Osvaldo, desejando matar, disparou seu revólver contra Arnaldo, que, em razão do susto,...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/178008-questao",
+      "ref_consulta": "turn101search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Osvaldo, desejando matar, disparou seu revólver contra Arnal...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/62850-questao",
+      "ref_consulta": "turn101search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 15 - PC-RJ - Delegado de Polícia - FUNCAB (2012) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/pc-rj-delegado-de-policia-2012-funcab/15",
+      "ref_consulta": "turn101search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=3&discipline_ids%5B%5D=9&job_ids%5B%5D=169&subject_ids%5B%5D=17294",
+      "ref_consulta": "turn101search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Osvaldo, desejando matar, disparou seu revólver contra...",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-406223/1073758",
+      "ref_consulta": "turn101search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 11 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?administrative_level_ids%5B%5D=6&discipline_ids%5B%5D=9&page=11&subject_ids%5B%5D=17293",
+      "ref_consulta": "turn101search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Governo do Estado do Rio de Janeiro. Secretaria de Estado de Segurança",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/29160/funcab-2012-pc-rj-delegado-de-policia-prova.pdf",
+      "ref_consulta": "turn101search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Osvaldo, desejando matar, disparou seu revólver contra Arnaldo, que, em razão do susto, desmaiou. Osvaldo, ac...",
+      "url": "https://cj.estrategia.com/public/questoes/Osvaldo-desejando4414f47066/",
+      "ref_consulta": "turn101search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Homicídio para Concurso - Página 17 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/homicidio/questoes?has_professor_commentaries=true&page=17",
+      "ref_consulta": "turn101search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: T-Penal-500 Questões - Questões Resolvidas com Gabarito em PDF",
+      "url": "https://www.passeidireto.com/arquivo/113358819/t-penal-500-questoes",
+      "ref_consulta": "turn101search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra a vida para Concurso - Página 34 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-a-vida/questoes?page=34",
+      "ref_consulta": "turn101search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,99 @@
+{
+  "id": "Q0091",
+  "consulta_executada": "\"Em cada item que se segue, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Em cada item que se segue, é apresentada uma situação hipotética segui...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/63401-questao",
+      "ref_consulta": "turn122search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Em cada item que se segue, é apresentada uma situação hipoté...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/62236-questao",
+      "ref_consulta": "turn122search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões Polícia Federal 2018 para Delegado de Polícia Federal | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/cespe-2018-policia-federal-delegado-de-policia-federal/questoes?discipline_ids%5B%5D=9",
+      "ref_consulta": "turn122search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 55 - Polícia Federal - Delegado de Polícia - CESPE/CEBRASPE (2018) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/departamento-de-policia-federal-policia-federal-delegado-de-policia-cespe-2018/55",
+      "ref_consulta": "turn122search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Q932941",
+      "url": "https://soprovas.com/questoes/2798830",
+      "ref_consulta": "turn122search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Q1892420",
+      "url": "https://soprovas.com/questoes/5677267",
+      "ref_consulta": "turn122search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Q1892416",
+      "url": "https://soprovas.com/questoes/5677255",
+      "ref_consulta": "turn122search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "2633 Questões de Direito Penal para Concursos | Questões Específicas de Direito Penal 2026 | Provas, Simulados e Questões Grátis de Direito Penal",
+      "url": "https://www.spsconcursos.com/questoes-de-direito-penal/QD11?pagina=108",
+      "ref_consulta": "turn122search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão O item que se segue, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base no...",
+      "url": "https://med.estrategia.com/public/questoes/que-segue-e171ae0b19e3/",
+      "ref_consulta": "turn122search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 56 - Polícia Federal - Delegado de Polícia - CESPE/CEBRASPE (2018) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/departamento-de-policia-federal-policia-federal-delegado-de-policia-cespe-2018/56",
+      "ref_consulta": "turn122search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Q1892419",
+      "url": "https://soprovas.com/questoes/5677264",
+      "ref_consulta": "turn122search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão O item que se segue, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base no...",
+      "url": "https://med.estrategia.com/public/questoes/que-segue-e102d8d16805/",
+      "ref_consulta": "turn122search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "SEMED ARACAJU",
+      "url": "https://www.apostilasopcao.com.br/arquivos-opcao/apostilas/26412/111711/op-013nv-24-caderno-semed-aracaju-se-gab-dig.pdf?srsltid=AfmBOoqrMMeHNMj_ZWyzNsmzepqXCLZzBUDpa2_q-CwzBg97Rp-96RPg",
+      "ref_consulta": "turn122search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "e) O ordenamento jurídico brasileiro adota a teoria absoluta, tendo a pena apenas o fim de ressocializar o criminoso.",
+      "url": "https://d3uyk7qgi7fgpo.cloudfront.net/lms/modules/supportMaterials/Policia-Civil-%28PC%29/Caderno-de-Exercicios-Intensivo-2019/3d45c197-7409-4feb-9c41-f2220ccf0b95-Caderno-de-exercicios-Delegado-PC-ES-Fase-2.pdf",
+      "ref_consulta": "turn122search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Quarta Fase   Polícia Legislativa do Senado",
+      "url": "https://s3-sa-east-1.amazonaws.com/tribcast-midia/wp-content/uploads/2017/09/26184529/Caderno-de-Exerc%C3%ADcios_8%C2%AA-Fase_Plano-Extensivo1.pdf",
+      "ref_consulta": "turn122search16",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

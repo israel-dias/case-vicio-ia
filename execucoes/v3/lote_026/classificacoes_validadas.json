@@ -1,0 +1,150 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0266",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5482",
+      "confianca_modelo": 0.97,
+      "justificativa": "O comando pede competência material de justiça militar e Júri conforme qualidade dos agentes e missão. Competência em Razão da Matéria é específica; homicídio é o fato que condiciona a competência.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5480"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0267",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4708",
+      "confianca_modelo": 0.74,
+      "justificativa": "O caso reúne laudo de constatação, comunicação do flagrante e destruição da droga no rito especial. Lei de Drogas é hipótese, mas há homônimo e concorrência entre prova pericial e procedimento prisional.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6728",
+        "5546",
+        "5518"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0268",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5116",
+      "confianca_modelo": 0.54,
+      "justificativa": "O bloco genérico combina falsidade documental, abuso de autoridade e crimes contra honra. Fé Pública é hipótese para duas opções, sem núcleo suficiente para o conjunto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5120",
+        "4684"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0269",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4375",
+      "confianca_modelo": 0.92,
+      "justificativa": "O enunciado delimita a doutrina do garantismo penal e suas técnicas político-criminais. Correntes da Política Criminal é o tema substantivo proposto; não se trata de um princípio penal isolado.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5172"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0270",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5091",
+      "confianca_modelo": 0.98,
+      "justificativa": "A narrativa destaca exigência de dinheiro pelo policial em razão da função. O núcleo tipificador é concussão, não o trânsito de contexto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0271",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5512",
+      "confianca_modelo": 0.94,
+      "justificativa": "O texto cobra relação entre devolução, reforma favorável e limites do julgamento recursal. O pai Parte Geral dos Recursos cobre princípios e efeitos combinados; apelação ao Júri é a exceção discutida.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5513",
+        "5515",
+        "5562"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0272",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "6734",
+      "confianca_modelo": 0.8,
+      "justificativa": "O enunciado e opções delimitam falta grave e efeitos na execução. A hipótese em LEP processual concorre com 4703 sem delimitação de ramo, como nas questões anteriores do mesmo instituto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4703"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0273",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5087",
+      "confianca_modelo": 0.76,
+      "justificativa": "O comando compara modalidade culposa em tipos administrativos, documentais e tributários. Administração Pública predomina, mas o pai não cobre os outros ramos nem autoriza escolher apenas peculato sem resolver a comparação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5089",
+        "5118",
+        "4695"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0274",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5160",
+      "confianca_modelo": 0.97,
+      "justificativa": "A assertiva delimita consumação do latrocínio quando há morte e tentativa patrimonial. Roubo é o tema específico do tipo, enquanto tentativa é característica do caso.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5177"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0275",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5540",
+      "confianca_modelo": 0.95,
+      "justificativa": "O caso pergunta pela remessa ao juízo comum quando o acusado não é localizado no Juizado. O núcleo é exclusão/modificação da competência do procedimento especial, com citação como motivo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5488",
+        "5539"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

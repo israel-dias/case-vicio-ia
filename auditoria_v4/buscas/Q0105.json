@@ -1,0 +1,105 @@
+{
+  "id": "Q0105",
+  "consulta_executada": "\"Um homem branco, de 29 anos de idade, e um homem negro, de 21 anos de idade, foram presos por\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Um homem branco, de 29 anos de idade, e um homem negro, de ...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/96ab07dd-74",
+      "ref_consulta": "turn132search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Microsoft Word - 615_DPERS_001_01.docx",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/86026/cespe-cebraspe-2022-dpe-rs-defensor-publico-prova.pdf",
+      "ref_consulta": "turn132search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Banco de Provas de Concursos Jurídicos Comentadas - 2022",
+      "url": "https://gratis.estrategiaconcursos.com.br/wp-content/uploads/2023/04/Banco-de-Provas-de-Concursos-Juridicos-Comentadas-2022.pdf",
+      "ref_consulta": "turn132search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Um homem branco, de 29 anos de idade, e um homem negro, de 2...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/96aee713-74",
+      "ref_consulta": "turn132search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Criminologia para CESPE / CEBRASPE | Qconcursos.com - Página 4",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=554&examining_board_ids%5B%5D=2&has_professor_commentaries=true&page=4",
+      "ref_consulta": "turn132search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Um homem branco, de 29 anos de idade, e um homem negro, de 2...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/96b1f4d9-74",
+      "ref_consulta": "turn132search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 37 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_commentaries=true&has_professor_commentaries=true&institute_ids%5B%5D=6100&page=37",
+      "ref_consulta": "turn132search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova Defensor Público (Concurso CPE-RS 2022) com Gabarito | INDAGAÇÃO",
+      "url": "https://www.indagacao.com.br/2022/01/prova-defensor-publico-concurso-cpe-rs-2022-com-gabarito.html",
+      "ref_consulta": "turn132search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Criminologia para CESPE / CEBRASPE | Qconcursos.com - Página 5",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=554&examining_board_ids%5B%5D=2&page=5",
+      "ref_consulta": "turn132search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 159 - DPE-RS - Defensor Público - CESPE/CEBRASPE (2022) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/defensoria-publica-do-estado-do-rio-grande-do-sul-dpe-rs-defensor-publico-cespe-cebraspe-2022/159",
+      "ref_consulta": "turn132search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: ESCOLAS CRIMINOLÓGICAS - DEFENSORIA PÚBLICA - Questões Resolvidas com Gabarito em PDF",
+      "url": "https://www.passeidireto.com/arquivo/191354370/escolas-criminologicas-defensoria-publica",
+      "ref_consulta": "turn132search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Na situação apresentada, a prisão do homem negro pela prática da pichação e pelo porte de maconha é relacionada ao estigma de desviante. | INDAGAÇÃO",
+      "url": "https://www.indagacao.com.br/2022/01/na-situacao-apresentada-prisao-do-homem-negro-pela-pratica-da-pichacao-e-pelo-porte-de-maconha-e-relacionada-ao-estigma-de-desviante.html",
+      "ref_consulta": "turn132search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 158 - DPE-RS - Defensor Público - CESPE/CEBRASPE (2022) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/defensoria-publica-do-estado-do-rio-grande-do-sul-dpe-rs-defensor-publico-cespe-cebraspe-2022/158",
+      "ref_consulta": "turn132search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 1884119 CEBRASPE (CESPE) - Defensor Público do Estado do Rio Grande do Sul",
+      "url": "https://www.tecconcursos.com.br/questoes/1884119",
+      "ref_consulta": "turn132search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "1ª QUESTÃO (Ano: 2022 Banca: INSTITUTO AOCP Órgão: Governo do",
+      "url": "https://env1.cursopopulardefensoria.com.br/mod/resource/view.php?id=824",
+      "ref_consulta": "turn132search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "ESCOLAS CRIMINOLÓGICAS",
+      "url": "https://env1.cursopopulardefensoria.com.br/mod/resource/view.php?id=848",
+      "ref_consulta": "turn132search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

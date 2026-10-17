@@ -1,0 +1,18 @@
+{
+  "versao_pipeline": "0.1.0",
+  "entradas_sha256": {
+    "questoes.jsonl": "6815aad02f1577fb7f3c68bb76cd56b3b23df5a0bf951d3422a5ce7d5e492573",
+    "temas.csv": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc",
+    "LEIA-ME.md": "d7bbbd1e5a91554bf54a64272ace7afc50bfa9a06b14bfc7704d6ca09e047bfc",
+    "entrega_modelo.csv": "6778f7ffd32e467321a590829bb05796f967b5e703938c0dc2d4c2a43ac12c76"
+  },
+  "saidas_sha256": {
+    "questoes_preparadas.jsonl": "79cd65c3795b82294c3357cbaba76da63e4f0df1a3ef7efd7a2f82404a233fb3",
+    "temas_ativos.json": "bcb2c9d6357708d11ef0a08ed8946210bc4210e5d2412f462db58f0242431084",
+    "diagnostico.json": "36473e18203e121e11f7dbdc62ca5700c16de01234e7911038fdf617c88c21ed",
+    "diagnostico.md": "3fbcd5f0104e4ed499482b84e288cb4b7f5f370c1a7be87da89fe96f7e6f3ce3"
+  },
+  "questoes": 359,
+  "temas_ativos": 375,
+  "publicacao_final": false
+}

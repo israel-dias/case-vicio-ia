@@ -1,0 +1,75 @@
+{
+  "id": "Q0077",
+  "consulta_executada": "\"Considere os artigos abaixo. Em seguida, marque a alternativa CORRETA: Artigo 1º da Lei 2.889/1956: Quem, com a intenção de\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Considere os artigos abaixo. Em seguida, marque a alternat...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/033208fe-e2",
+      "ref_consulta": "turn109search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Considere os artigos abaixo. Em seguida, marque a...",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-eleitoral-403985/1199000",
+      "ref_consulta": "turn109search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 45 - TJ-MS - Juiz de Direito - PUC-PR (2012) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tj-ms-juiz-de-direito-2012-puc-pr/45",
+      "ref_consulta": "turn109search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Noções Fundamentais para Concurso - Página 64 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/nocoes-fundamentais/questoes?from_omniauth=true&page=64",
+      "ref_consulta": "turn109search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Pontifícia Universidade Católica do Paraná",
+      "url": "https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/prova/prova/26230.pdf",
+      "ref_consulta": "turn109search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para PUC-PR e TJ-MS | Qconcursos.com - Página 26",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=128&institute_ids%5B%5D=114&page=26",
+      "ref_consulta": "turn109search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - A norma penal para Concurso - Página 6 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/a-norma-penal/questoes?page=6",
+      "ref_consulta": "turn109search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Eleitoral - Página 94 | Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-eleitoral-403985?pagina=94",
+      "ref_consulta": "turn109search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal para PF 2023 | PDF | Direito Penal | Crimes",
+      "url": "https://pt.scribd.com/document/932522777/Pacote-Mini-Simulados-Direito-Penal",
+      "ref_consulta": "turn109search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre A norma penal em Direito Penal | Qconcursos.com - Página 6",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?page=6&subject_ids%5B%5D=16669",
+      "ref_consulta": "turn109search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "COORDENAÇÃO",
+      "url": "https://juspodivmdigital.com.br/cdn/pdf/JUS3692-Degustacao.pdf",
+      "ref_consulta": "turn109search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

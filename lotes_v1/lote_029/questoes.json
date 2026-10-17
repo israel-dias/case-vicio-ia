@@ -1,0 +1,153 @@
+[
+  {
+    "id": "Q0281",
+    "enunciado": "Dadas as assertivas abaixo, assinalar a alternativa correta.\nI. Pode o juiz autorizar escutas telefônicas em caso de delitos apenados com detenção ou reclusão, nos crimes em que a lei taxativamente as admita.\nII. A quebra do sigilo bancário ou fiscal não exclui a proteção constitucional ao segredo, então a cargo dos operadores do processo, sob pena de responsabilização administrativa e criminal.\nIII. Admite-se o sigilo dos autos frente ao investigado e seu advogado, mesmo ante ordem de prisão ou de apreensão de bens, no interesse predominante das investigações.\nIV. O Ministério Público pode determinar a devassa de correspondências, quando relacionadas ao crime investigado.",
+    "comando": "Assinalar a alternativa correta.",
+    "alternativas": {
+      "A": "Está correta apenas a assertiva I.",
+      "B": "Está correta apenas a assertiva II.",
+      "C": "Estão corretas apenas as assertivas III e IV.",
+      "D": "Estão incorretas todas as assertivas."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Sistemas e Princípios Processuais Penais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0282",
+    "enunciado": "Assinale a alternativa correta:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Nos termos do § 1º do art. 19 da Lei n.º 11.340/06, as medidas protetivas de urgência poderão ser concedidas de imediato, observada a prévia manifestação do representante do Ministério Público.",
+      "B": "O ato de comercializar emblemas que utilizem a cruz suástica ou gamada, ainda que sem a finalidade de divulgação do nazismo, constitui o crime previsto no art. 20, § 1º, da Lei n.º 7.716/89.",
+      "C": "Ceder, gratuitamente, arma de fogo, acessório ou munição, de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar, não tipifica a conduta penal de que trata o art. 14 do Estatuto do Desarmamento.",
+      "D": "O art. 28 da Lei n.º 10.826/03 veda, em qualquer hipótese, ao menor de 25 anos, a aquisição de arma de fogo.",
+      "E": "Constatada a prática de violência doméstica e familiar contra a mulher, segundo as disposições expressas na Lei n.º 11.340/06, o juiz poderá aplicar, de imediato, ao agressor, em conjunto ou separadamente, entre as medidas protetivas de urgência, a de restrição ou suspensão de visitas aos dependentes menores, nesta hipótese ouvida a equipe de atendimento multidisciplinar ou serviço similar."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0283",
+    "enunciado": "Antonio acabou de sofrer hipoteca, determinada por juiz criminal, de imóvel que recebeu de seu pai. Nesse caso,",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "se houver sentença condenatória transitada em julgado, o próprio juiz criminal determinará a avaliação e a venda do bem em leilão público.",
+      "B": "os embargos são o recurso cabível contra a decretação da hipoteca.",
+      "C": "a medida é cabível, ainda que Antonio seja terceiro, não investigado.",
+      "D": "o imóvel, de origem lícita, não poderia ter sido hipotecado.",
+      "E": "Antonio poderia ter oferecido caução em dinheiro para que o juiz deixasse de mandar proceder à inscrição da hipoteca legal."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0284",
+    "enunciado": "No dia 2 de fevereiro de 2022, por volta das 21h, Bernardo, sargento da Marinha, ao se aproximar com seu veículo automotor da porta da garagem de entrada de seu condomínio localizado no bairro do Mutondo, em São Gonçalo, avistou um homem se aproximando rapidamente e mexendo no interior de uma mochila. Bernardo, acreditando ser um assalto, saca sua arma de fogo e, de dentro do próprio carro, efetua disparo, atingindo o alvo pretendido. No entanto, Bernardo acabou disparando e atingindo seu vizinho, Thiago, que retornava do trabalho. Bernardo, percebendo que ele estava imobilizado no chão, em razão de ter sido alvejado, imediatamente o conduz para o hospital mais próximo. No entanto, inobstante a prestação imediata de socorro, Thiago falece. Nesse caminho, funcionários do hospital acionam a Polícia Militar, que prende Bernardo em flagrante, conduzindo-o para a Delegacia de Polícia para as formalidades legais. Em razão dos fatos narrados, após audiência de custódia, o flagrante é convertido em preventiva, e o Ministério Público apresenta exordial acusatória perante o juízo do Tribunal do Júri, classificando o fato no delito de homicídio. Na fase instrutória da judicium accusationis foram apresentadas as filmagens das câmeras de segurança do condomínio que gravaram as imagens dos fatos, indicando o exato momento em que Thiago efetivamente se aproxima do condomínio manuseando sua mochila e o instante em que é atingido pelo disparo que partiu do interior do veículo automotor de Bernardo. Em seu interrogatório, Bernardo alegou que, ao observar a aproximação de um homem manuseando algo dentro de uma mochila, pelo adiantar da hora, atirou antes mesmo de sair do carro, pois acreditou que seria vítima de latrocínio, temendo, inclusive, por sua própria vida. Finda a primeira fase do júri, após manifestação do Ministério Público pela pronúncia nos moldes da denúncia, os autos vão para a defesa técnica se manifestar.\nConsiderando a narrativa fática e a legislação penal vigente, é correto sustentar na defesa de Bernardo, em sede de alegações finais, que ele agiu em legítima defesa:",
+    "comando": "Considerando a narrativa fática e a legislação penal vigente, é correto sustentar na defesa de Bernardo, em sede de alegações finais, que ele agiu em legítima defesa.",
+    "alternativas": {
+      "A": "real, devendo ser, dessa forma, excluída em seu favor a\nilicitude, motivo pelo qual a defesa de Bernardo deverá pedir\nsua absolvição sumária com arrimo no Art. 415, inciso III, do\nCódigo de Processo Penal;",
+      "B": "putativa, devendo ser, dessa forma, observada a teoria\nlimitada da culpabilidade, consoante dispõe a exposição de\nmotivos da Parte Geral do Código Penal (item 17). No caso\nexposto, temos um erro que recaiu sobre a existência da\ncausa de justificação, o que conduz a observância do\ndenominado erro de proibição indireto inevitável, restando\nafastada a culpabilidade, motivo pelo qual a defesa de\nBernardo deverá pedir sua absolvição sumária;",
+      "C": "putativa, devendo ser, dessa forma, observada a teoria\nextremada da culpabilidade, consoante dispõe a exposição de\nmotivos da Parte Geral do Código Penal (item 17). No caso\nexposto, temos um erro que recaiu sobre a existência da\ncausa de justificação, o que conduz à observância do\ndenominado erro de proibição direto inescusável, restando\nafastada a culpabilidade, motivo pelo qual a defesa de\nBernardo deverá pedir sua absolvição sumária;",
+      "D": "putativa, devendo ser, dessa forma, observada a teoria\nlimitada da culpabilidade, consoante dispõe a exposição de\nmotivos da Parte Geral do Código Penal (item 17). No caso\nexposto, temos um erro que recaiu sobre pressuposto fático,\no que conduz à observância do denominado erro de tipo\neclético escusável, restando afastada a tipicidade, motivo\npelo qual a defesa de Bernardo deverá pedir sua absolvição\nsumária;",
+      "E": "putativa, devendo ser, dessa forma, observada a teoria\nlimitada da culpabilidade, consoante dispõe a exposição de\nmotivos da Parte Geral do Código Penal (item 17). No caso\nexposto, temos um erro que recaiu sobre os limites da causa\nde justificação, o que conduz à observância do denominado\nerro de proibição indireto invencível, restando afastada a\nculpabilidade, motivo pelo qual a defesa de Bernardo deverá\npedir sua absolvição sumária."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0285",
+    "enunciado": "Constitui uma das características do direito penal do inimigo",
+    "comando": "Complete a frase com a característica correta do direito penal do inimigo.",
+    "alternativas": {
+      "A": "a legislação diferenciada.",
+      "B": "a punição a partir de atos executórios.",
+      "C": "a não utilização de medidas de segurança.",
+      "D": "a observância das garantias processuais penais.",
+      "E": "o abrandamento das penas na antecipação da tutela penal."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria Geral do Delito",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0286",
+    "enunciado": "No cálculo da pena:",
+    "comando": "No cálculo da pena:",
+    "alternativas": {
+      "A": "A redução pela menoridade do acusado deve incidir após o acréscimo pelo crime continuado.",
+      "B": "O aumento pelo concurso formal deve preceder a diminuição pela confissão espontânea.",
+      "C": "O acréscimo pela má antecedência do acusado deve incidir antes da redução pela tentativa.",
+      "D": "O aumento pela reincidência deve ser posterior à redução pela participação de menor importância."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0287",
+    "enunciado": "Segundo o Código Penal, é excludente de ilicitude",
+    "comando": "Complete a frase com exemplos de excludentes de ilicitude segundo o Código Penal.",
+    "alternativas": {
+      "A": "erro de proibição",
+      "B": "estado de necessidade",
+      "C": "doença mental",
+      "D": "embriaguez acidental",
+      "E": "menoridade penal"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria do Crime (Ilicitude)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0288",
+    "enunciado": "I. Não há o crime de estupro, nos termos do Código Penal, na relação sexual consensual praticada com maior de 14 e menor de 18 anos.\nII. É pública, condicionada a representação, a ação penal por crime de sonegação fiscal.\nIII. O baixo grau de instrução ou escolaridade do agente é causa atenuante de pena nos crimes praticados contra o meio ambiente.\nIV. No caso de concurso formal impróprio, como a conduta deriva de desígnios autônomos, a pena é aplicada pelo sistema da exasperação.\nV. Nomear, admitir ou designar servidor contra expressa disposição de lei é crime de responsabilidade de prefeitos e vereadores.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Todas as proposições estão corretas.",
+      "B": "Somente as proposições II, III e IV estão corretas.",
+      "C": "Somente as proposições I e III estão corretas.",
+      "D": "Somente a proposição II, IV e V estão corretas.",
+      "E": "Somente as proposições I, III e V estão corretas."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0289",
+    "enunciado": "“A Lei nº 11.340/2006 aporta em nosso ordenamento jurídico em resposta às graves violações de direitos sofridas pelas mulheres em situação de violência doméstica, às flagrantes desigualdades de gênero e à proteção ineficaz e incompleta dos instrumentos legais existentes anteriormente à edição deste diploma normativo. Neste enorme espaço de vácuo legislativo, a introdução da lei em questão significou verdadeira revolução em matéria de defesa dos direitos das mulheres, quebrando os paradigmas antes existentes, inserindo novos institutos e instaurando um modelo protetivo inteiramente inédito no ordenamento jurídico brasileiro” (STJ, REsp nº 2.070.863/MG, relator: Ministro Joel Ilan Paciornik, relator para acórdão: Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 13.11.2024, DJEN de 25.03.2025).\nDe acordo com os aspectos processuais penais da violência doméstica e familiar contra a mulher, assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "O STJ, por meio da Terceira Seção, fixou a tese quanto ao Tema Repetitivo nº 1.186, de que: 1. a condição de gênero feminino é insuficiente para atrair a aplicabilidade da Lei Maria da Penha em casos de violência doméstica e familiar, prevalecendo sobre a questão etária. 2. a Lei Maria da Penha prevalece quando suas disposições conflitarem com as de estatutos específicos, como o da Criança e do Adolescente.",
+      "B": "Nos casos de violência contra a mulher praticados no âmbito doméstico e familiar, é possível a fixação de valor mínimo indenizatório a título de dano moral, independentemente de pedido expresso da acusação ou da parte ofendida e de instrução probatória, segundo tese firmada quando do Tema Repetitivo nº 983, pelo STJ.",
+      "C": "Nos termos da Lei nº 11.340/2006, o nome da ofendida ficará sob sigilo nos processos em que se apuram crimes praticados no contexto de violência doméstica e familiar contra a mulher, abrangendo o sigilo do nome do autor do fato e os demais dados do processo.",
+      "D": "A concessão das medidas protetivas de urgência, de acordo com a Lei nº 11.340/2006, depende da tipificação penal da violência.",
+      "E": "O STJ definiu as seguintes teses quanto ao Tema Repetitivo nº 1.249: I – as medidas protetivas de urgência (MPUs) têm natureza jurídica de tutela inibitória e sua vigência não se subordina à existência (atual ou vindoura) de boletim de ocorrência, inquérito policial, processo cível ou criminal; II – a duração das MPU vincula-se à persistência da situação de risco à mulher, razão pela qual devem ser fixadas por prazo temporalmente indeterminado; III – eventual reconhecimento de causa de extinção de punibilidade, arquivamento do inquérito policial ou absolvição do acusado não origina, necessariamente, a extinção da medida protetiva de urgência, máxime pela possibilidade de persistência da situação de risco ensejadora da concessão da medida; IV – não se submetem a prazo obrigatório de revisão periódica, mas devem ser reavaliadas pelo magistrado, de ofício ou a pedido do interessado, quando constatado concretamente o esvaziamento da situação de risco. A revogação deve sempre ser precedida de contraditório, com as oitivas da vítima e do suposto agressor. Em caso de extinção da medida, a ofendida deve ser comunicada, nos termos do art. 21 da Lei nº 11.340/2006."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "assunto_origem_ausente"
+    ]
+  },
+  {
+    "id": "Q0290",
+    "enunciado": "No que diz respeito ao preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais, assinale a alternativa incorreta.",
+    "comando": "Assinale a alternativa incorreta.",
+    "alternativas": {
+      "A": "A ação penal relativa ao crime de lesão corporal\ndolosa, em todas as suas modalidades, será\npública incondicionada, já o crime de lesão\nculposa, terá como correspondente a ação penal\npública condicionada à representação da vítima\nou de seu representante legal",
+      "B": "Na fase preliminar, a autoridade policial que\ntomar conhecimento da ocorrência deverá lavrar\ntermo circunstanciado e o encaminhar\nimediatamente ao Juizado, com o autor do fato\ne a vítima, providenciando as requisições dos\nexames periciais necessários",
+      "C": "A citação será pessoal e far-se-á no próprio\nJuizado, sempre que possível, ou por mandado",
+      "D": "Os atos processuais serão públicos e poderão\nrealizar-se em horário noturno, conforme\ndispuserem as normas de organização judiciária",
+      "E": "Todas as provas serão produzidas na audiência\nde instrução e julgamento, podendo o Juiz limitar\nou excluir as que considerar excessivas,\nimpertinentes ou protelatórias"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  }
+]

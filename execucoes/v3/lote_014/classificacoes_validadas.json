@@ -1,0 +1,137 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0141",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4388",
+      "confianca_modelo": 0.97,
+      "justificativa": "A pergunta pede a teoria explicativa da criminalidade urbana e oferece modelos nominados. Teorias Criminológicas em Espécie representa a explicação ecológica/social, sem confundir com geografia jurídica.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0142",
+      "sugestao_decisao": "fora",
+      "tema_central_id": null,
+      "confianca_modelo": null,
+      "justificativa": "O núcleo é isenção de ITCD em transmissão e doação, matéria tributária não penal. Não há tema ativo de tributação patrimonial; Crimes Tributários não representa hipóteses de isenção sem discussão de delito.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4695"
+      ],
+      "alertas": [
+        "conteudo_tributario_nao_penal"
+      ]
+    },
+    {
+      "id": "Q0143",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5507",
+      "confianca_modelo": 0.98,
+      "justificativa": "O item delimita o critério temporal de aplicação da lei processual penal. Os demais assuntos da introdução não são desenvolvidos na assertiva.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0144",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5562",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando pede o recurso contra sentença do juiz-presidente contrária à lei ou decisão dos jurados. O tema específico de apelação corresponde ao objeto recursal.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0145",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4702",
+      "confianca_modelo": 0.8,
+      "justificativa": "O bloco examina lavagem e infração antecedente, incluindo tributação e favorecimento real. Lavagem é central, mas o concorrente 6723 não tem distinção taxonômica de ramo que permita certificar a escolha.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6723"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0146",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5594",
+      "confianca_modelo": 0.98,
+      "justificativa": "Enunciado e alternativas comparam admissibilidade e exceções à ilicitude de provas. As diferentes técnicas de obtenção são exemplos do problema de prova ilícita, não temas centrais separados.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0147",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5498",
+      "confianca_modelo": 0.71,
+      "justificativa": "A pergunta combina investigação preliminar, gravação ambiental, ANPP e colaboração. Inquérito é hipótese agregadora, mas os meios de prova e acordos possuem ramos próprios e não há predominância inequívoca.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5556",
+        "5557",
+        "5502"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0148",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5203",
+      "confianca_modelo": 0.98,
+      "justificativa": "O caso exige compensar confissão espontânea e reincidência na segunda fase da dosimetria. Agravantes e Atenuantes é específico, enquanto confissão como prova é apenas pressuposto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0149",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5500",
+      "confianca_modelo": 0.94,
+      "justificativa": "Enunciado e opções delimitam diligências e requisições durante o inquérito, com autorizações e prioridades. Procedimento do Inquérito cobre o conjunto sem eleger uma técnica isolada.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5554",
+        "5545"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0150",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4708",
+      "confianca_modelo": 0.8,
+      "justificativa": "A questão delimita majorantes e aplicação da Lei de Drogas. Tráfico é o núcleo, mas os IDs 4708/6728 permanecem sem delimitação de ramo; registrar premissa antes de liberar.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6728"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    }
+  ]
+}

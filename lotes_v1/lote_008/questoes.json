@@ -1,0 +1,147 @@
+[
+  {
+    "id": "Q0071",
+    "enunciado": "Nos crimes contra a Flora, previstos na Lei n. 9.605/98, a pena é majorada no patamar de um sexto a um terço se: do fato resulta a diminuição de águas naturais, a erosão do solo ou a modificação do regime climático; e o crime é cometido: no período de queda das sementes; no período de formação de vegetações; contra espécies raras ou ameaçadas de extinção, ainda que a ameaça ocorra somente no local da infração; em época de seca ou inundação; e durante a noite, em domingo ou feriado.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria do Crime (Ilicitude)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0072",
+    "enunciado": "Para formar seu juízo de convicção a respeito de fato submetido a julgamento, o juiz.",
+    "comando": "Complete a frase sobre como o juiz forma seu juízo de convicção a respeito de fato submetido a julgamento.",
+    "alternativas": {
+      "A": "poderá considerar elementos colhidos na investigação policial, desde que não contrariados pelas partes.",
+      "B": "poderá considerar elementos colhidos na investigação policial, desde que em consonância com provas produzidas sob o contraditório.",
+      "C": "poderá considerar elementos colhidos na investigação policial desde que não contrariados por provas judiciais",
+      "D": "não poderá considerar elementos colhidos na investigação policial, porque não produzidos sob o contraditório.",
+      "E": "não poderá considerar exclusivamente elementos constantes da investigação policial, exceto se colhidos em presença de defensor do investigado."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0073",
+    "enunciado": "Quanto aos crimes praticados contra a Administração Pública é CORRETO afirmar:",
+    "comando": "",
+    "alternativas": {
+      "A": "O funcionário que, nos crimes de peculato, reparar o dano até a publicação da sentença condenatória, fará jus à extinção da punibilidade.",
+      "B": "Constitui crime de corrupção ativa prometer vantagem indevida a funcionário público, para determiná-lo omitir ato de ofício.",
+      "C": "Nos crimes de favorecimento pessoal e real, caso o sujeito ativo seja ascendente ou descendente do criminoso, fica isento de pena.",
+      "D": "O agente que pede dinheiro a pretexto de influir em ato a ser praticado pelo representante do Ministério Público incorre em crime de tráfico de influência.",
+      "E": "Comete crime contra as finanças públicas gestor que ordenar, autorizar ou executar ato que acarrete aumento de despesa total com pessoal nos doze meses anteriores ao final do mandato ou da legislatura."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0074",
+    "enunciado": "Considere a seguinte situação hipotética. Antônio foi condenado pela prática do delito X pelo juízo da 5.ª vara criminal de Maceió, sendo certo que a condenação foi mantida pelo Tribunal de Justiça do Estado de Alagoas.\nTransitado em julgado o decisum e iniciado o cumprimento da pena privativa de liberdade, foi publicada pelo Congresso Nacional lei ordinária reduzindo pela metade a pena cominada ao delito X.\nNessa situação, compete ao juízo da 5.ª vara criminal da capital alagoana a aplicação da lei penal mais benigna.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0075",
+    "enunciado": "Quanto à comunicabilidade da extinção da punibilidade, é INCORRETO afirmar:",
+    "comando": "",
+    "alternativas": {
+      "A": "A extinção da punibilidade de crime que é circunstância agravante de outro não se estende a este.",
+      "B": "Nos crimes conexos, a extinção da punibilidade de um deles não impede, quanto aos outros, a agravação da pena resultante da conexão.",
+      "C": "A extinção da punibilidade de crime que é pressuposto de outro não se estende a este.",
+      "D": "A extinção da punibilidade de crime que é elemento constitutivo de outro não se estende a este.",
+      "E": "Nos crimes conexos, a extinção da punibilidade de um deles impede, quanto aos outros, a agravação da pena resultante da conexão."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Causas de extinção da punibilidade",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0076",
+    "enunciado": "A Criminologia é definida tradicionalmente como a ciência que estuda de forma empírica o delito, o delinquente, a vítima e os mecanismos de controle social.\nOs autores que fundaram a Criminologia (Positivista) são:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Cesare Lombroso, Enrico Ferri e Raffaele Garofalo.",
+      "B": "Franz Von Liszt, Edmund Mezger e Marquês de Beccaria.",
+      "C": "Marquês de Beccaria, Cesare Lombroso e Michel Foucault.",
+      "D": "Cesare Lombroso, Enrico Ferri e Michel Foucault.",
+      "E": "Enrico Ferri, Michel Foucault e Nina Rodrigues."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Conceitos Gerais de Criminologia",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0077",
+    "enunciado": "Considere os artigos abaixo. Em seguida, marque a alternativa CORRETA:\nArtigo 1º da Lei 2.889/1956:\n“Quem, com a intenção de destruir, no todo ou em parte, grupo nacional, étnico, racial ou religioso, como tal”:\na) matar membros do grupo;\nSerá punido:\nCom as penas do art. 121, § 2º, do Código Penal, no caso da letra “a”;\nArtigo 309 do Código Eleitoral:\n“Votar ou tentar votar mais de uma vez, ou em lugar de outrem”:\nPena - reclusão de até três anos.",
+    "comando": "Marque a alternativa CORRETA.",
+    "alternativas": {
+      "A": "Norma penal em branco heterogênea homovitelina é aquela em que o complemento do preceito primário da norma advém da mesma fonte formal de produção.",
+      "B": "Norma penal em branco heterogênea heterovitelina é aquela em que o complemento do preceito primário da norma advém de diversa fonte formal de produção\n.",
+      "C": "Assim dispunha o artigo 214 do Código Penal Brasileiro: “Constranger alguém, mediante violência ou grave ameaça a praticar ou a permitir que com ele se pratique ato libidinoso diverso da conjunção carnal”. Considerando que tal dispositivo foi inteiramente revogado pela Lei 12.015/2009 é correto afirmar que, nesse caso, específico operou-se Abolitio Criminis.",
+      "D": "O art. 1º da Lei 2.889/1956 é exemplo de norma penal em branco ao avesso ou invertida. O artigo 309 do Código Eleitoral é, por sua vez, exemplo de crime de atentado ou de empreendimento.",
+      "E": "Compete ao Supremo Tribunal Federal a concessão de exequatur às cartas rogatórias."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Pessoas",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0078",
+    "enunciado": "EM oossstomnioconcunsos come Marcelo possui registro válido de um revólver de calibre 32 e o mantém em sua residência, e também possui uma pistola de calibre .380, com número de série raspada, que recebera de André, seu amigo foragido da pol a, que faleceu pouco tempo depois. Marcelo vendeu, por imil reis, a pistola a Hugo, que saiu da residência de Marcelo com a pistola escondida embaixo do banco da frente de seu veículo, em direção a sua residência, onde pretendia guardar a arma para sua defesa pessoal. No trajeto, Hugo, que conduzia o veiculo sem habilitação ou permissão para dirigi fi itercepiado por uma barreira policial e, assustado, acelerou o veiculo e fugiu do local. Apés perseguição policial, Hugo colidiu o cárro contra um poste de iluminação pública, foi preso em dagrante e conduzido até a delegacia de polícia. Revistado o veículo conduzido por Hugo, foi encontrada a pistola. A autoridade policial lavrou auto de apresentação e apreensão, fizendo constar que, na ama de fogo, havia seis projéteis, tendo um sido deflagrado. Hugo confessou ter adquirido a pistola de Marcelo. Os policiais estiveram na residência de Marcelo. Não o encontraram, mas presenciaram Daniel, de quinze anos de idade, filho de Marcelo, manuseando o revólver, municiado com dois projéteis Daniel disse aos policiais que encontrara a arma de fogo dentro da gaveta do banheiro. Logo em seguida, Elaine, companheira de Marcelo, chegou à residência e os policiais verificaram que ela isava um colar com um projétil de arma de fogo calibre AS pendurado ao pescoço.\nCom base na situação hipotética acima apresentada, na Lei n. o 10.826/2003 e no que dispõe o Código de Trânsito Brasileiro, assinale a opção correta.",
+    "comando": "Assinale a opção correta.",
+    "alternativas": {
+      "A": "Elaine deverá responder pelo crime de porte ilegal de munição de arma de fogo.",
+      "B": "Hugo deverá responder pelo crime de posse irregular de arma de fogo de uso permitido.",
+      "C": "Hugo deverá responder pelo crime de porte ilegal de arma de fogo de uso permitido, pelo crime de dirigir veículo automotor, em via pública, sem a devida habilitação ou permissão para dirigir.",
+      "D": "Marcelo deverá responder pelo crime de comércio ilegal de arma de fogo.",
+      "E": "Marcelo deverá responder pelo crime de omissão de cautela de arma de fogo."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0079",
+    "enunciado": "Em relação aos sistemas processuais penais e aos seus princípios reitores, assinale a opção correta.",
+    "comando": "Assinale a opção correta.",
+    "alternativas": {
+      "A": "A efetividade da repressão criminal do sistema acusatório\ncabe especialmente ao órgão julgador, responsável pela\naplicação da pena no caso concreto.",
+      "B": "No sistema acusatório, o legislador admite que a\nimparcialidade judicial esteja comprometida com um objetivo\nconsiderado mais importante.",
+      "C": "O modelo ideal de sistema acusatório é previsto em\ninstrumento normativo internacional, a partir de critérios\nuniformes definidos pela doutrina processual.",
+      "D": "A crítica ao sistema inquisitivo está relacionada à sua falta de\nrigor quanto à certeza de repressão dos fatos contrários à\nordem social.",
+      "E": "A decisão sobre o sistema que deverá ser implantado em\ndeterminado país pressupõe uma definição prévia, por parte\ndo legislador, de alguns critérios de política criminal, entre os\nquais está o grau de eficiência da repressão."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Sistemas e Princípios Processuais Penais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0080",
+    "enunciado": "Com relação às teorias da criminologia e à prevenção da infração penal no estado democrático de direito, julgue o item subsequente acerca dos modelos de reação ao delito.\nO cumprimento dos deveres legais por parte do apenado recluso constitui instrumento de reação ao delito analisado pelo modelo restaurador: o real impacto do castigo aplicado ao indivíduo no caso concreto é capaz de aferir os diagnósticos e de proporcionar adequadas soluções para prevenir a reincidência.",
+    "comando": "Julgue o item subsequente acerca dos modelos de reação ao delito.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Criminologia no Estado Democrático de Direito",
+    "alertas_preparacao": []
+  }
+]

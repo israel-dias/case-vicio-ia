@@ -1,0 +1,130 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0246",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5527",
+      "confianca_modelo": 0.97,
+      "justificativa": "O caso pergunta pela decisão ao fim da primeira fase do Júri, contrastando pronúncia, impronúncia e absolvição sumária. O subtema específico preserva o ramo do procedimento do Júri.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0247",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5502",
+      "confianca_modelo": 0.98,
+      "justificativa": "O bloco delimita cabimento, confissão, efeitos e aplicação temporal do ANPP. O instituto específico é o núcleo, sem desviar para leis de violência ou racismo mencionadas como exemplos.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0248",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5087",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando correlaciona cinco tipos contra a administração pública e suas condutas. O pai substantivo abrange todos os filhos comparados.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0249",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5492",
+      "confianca_modelo": 0.98,
+      "justificativa": "O item delimita impedimentos do juiz e parentesco nos órgãos colegiados. O subtema de suspeição/impedimento corresponde ao conteúdo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0250",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5201",
+      "confianca_modelo": 0.97,
+      "justificativa": "O enunciado delimita regime inicial da pena privativa e as opções comparam condições de sua fixação. Os crimes citados são exemplos do regime, não núcleos autônomos.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0251",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5191",
+      "confianca_modelo": 0.97,
+      "justificativa": "O bloco pede causas de extinção da punibilidade e compara anistia, indulto e prescrição. O tema substantivo Punibilidade representa a comparação geral.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0252",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5199",
+      "confianca_modelo": 0.69,
+      "justificativa": "O caso mistura graça parcial, parcelamento da multa e livramento condicional. Teoria da Pena é hipótese parcial, sem um instituto único nem cobertura da graça no mesmo ramo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5206",
+        "5208",
+        "5193"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0253",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4373",
+      "confianca_modelo": 0.98,
+      "justificativa": "A pergunta compara escolas clássica, positiva e lombrosiana, seus autores e fundamentos. O subtema de escolas criminológicas representa a comparação histórica e metodológica.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0254",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4704",
+      "confianca_modelo": 0.8,
+      "justificativa": "O núcleo é medida protetiva na Lei Maria da Penha, com concorrente 6724 sem escopo discriminante. O ano 2016 mencionado na referência da lei aparenta ruído e foi preservado, sem corrigir os originais.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6724"
+      ],
+      "alertas": [
+        "referencia_normativa_com_ano_a_conferir"
+      ]
+    },
+    {
+      "id": "Q0255",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5213",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado e opções delimitam imputabilidade por idade, doença mental, emoção e embriaguez. O subtema específico abrange a comparação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

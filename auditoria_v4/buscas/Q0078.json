@@ -1,0 +1,45 @@
+{
+  "id": "Q0078",
+  "consulta_executada": "\"EM oossstomnioconcunsos come Marcelo possui registro válido de um revólver de calibre 32 e o mantém em sua residência, e\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Marcelo possui registro válido de um revólver de calibre ... - Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal/1324256",
+      "ref_consulta": "turn118search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "untitled",
+      "url": "https://cdn.cebraspe.org.br/concursos/DPE_RO_12/arquivos/DPERO12_001_01.pdf",
+      "ref_consulta": "turn118search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Per030015 1989 00331 | PDF",
+      "url": "https://www.scribd.com/document/778592877/per030015-1989-00331",
+      "ref_consulta": "turn118search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Per761036 1989 22197 | PDF",
+      "url": "https://www.scribd.com/document/770736410/per761036-1989-22197",
+      "ref_consulta": "turn118search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Apostila - Concurso Santos 2020 PDF | PDF | Empréstimos | Dinheiro",
+      "url": "https://www.scribd.com/document/474490500/Apostila-Concurso-Santos-2020-pdf",
+      "ref_consulta": "turn118search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Carlos Lindenberg: Vida e Legado | PDF | Estado | Biografia",
+      "url": "https://www.scribd.com/document/574547387/Livro-Carlos-Lindenberg",
+      "ref_consulta": "turn118search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

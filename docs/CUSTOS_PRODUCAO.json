@@ -1,0 +1,22 @@
+{
+  "natureza": "simulacao_nao_executada",
+  "precos_consultados_em": "2026-10-15",
+  "primeira_passagem": {
+    "modelo_hipotetico": "gpt-5.4-mini",
+    "usd_por_milhao_entrada": 0.75,
+    "usd_por_milhao_saida": 4.50,
+    "entrada_por_questao_assumida": 3000,
+    "saida_faturada_por_questao_assumida": 300,
+    "fonte": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "segunda_passagem": {
+    "modelo_hipotetico": "gpt-5.4",
+    "fracao_assumida": 0.10,
+    "usd_por_milhao_entrada": 2.50,
+    "usd_por_milhao_saida": 15.00,
+    "entrada_por_questao_assumida": 5000,
+    "saida_faturada_por_questao_assumida": 600,
+    "fonte": "https://developers.openai.com/api/docs/models/gpt-5.4"
+  },
+  "observacao": "Não são modelos confirmados deste chat. Tokens são hipóteses e saída deve incluir todo token faturado, inclusive raciocínio quando aplicável. Sem descontos de cache/batch. Exclui embeddings, infraestrutura, repetição por erros, buscas e trabalho humano. Não inclui custo da assinatura existente."
+}

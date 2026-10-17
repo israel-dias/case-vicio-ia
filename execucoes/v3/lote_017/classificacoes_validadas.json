@@ -1,0 +1,141 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0173",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "6734",
+      "confianca_modelo": 0.8,
+      "justificativa": "O núcleo é disciplina e regressão na execução prisional. LEP em Processo Penal é hipótese, concorrendo com a LEP 4703 sem delimitação de escopo; a dúvida de ramo deve ser fundamentada.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4703",
+        "5201"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0174",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5133",
+      "confianca_modelo": 0.6,
+      "justificativa": "O bloco genérico de crimes cibernéticos reúne pornografia do ECA, invasão de dispositivo, fraude eletrônica e ação penal. Inviolabilidade de segredos é hipótese para duas opções, sem absorver os outros ramos.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5166",
+        "4709",
+        "5468"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0175",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5092",
+      "confianca_modelo": 0.97,
+      "justificativa": "A narrativa delimita solicitação de vantagem pelo agente para não atuar, com aceitação pelo condutor. Corrupção passiva é o núcleo; embriaguez ao volante contextualiza a fiscalização.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5091"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0176",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5081",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado nomeia falso testemunho e as alternativas tratam de sujeitos, dolo, dano e retratação. O subtema específico abrange o conjunto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0177",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5547",
+      "confianca_modelo": 0.95,
+      "justificativa": "As alternativas se concentram nos direitos do acusado durante o interrogatório, sobretudo silêncio e autodefesa. Interrogatório Judicial é específico; recusa de grafotécnico é exemplo do mesmo princípio defensivo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5582"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0178",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4697",
+      "confianca_modelo": 0.96,
+      "justificativa": "O objeto é autorização de porte de arma aos servidores da polícia judicial sob o Estatuto do Desarmamento e sua regulamentação. O tema legal específico abrange porte, sem classificar como organização do Judiciário.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0179",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4369",
+      "confianca_modelo": 0.98,
+      "justificativa": "O item pede delimitar prevenção secundária do delito. Sistemas de Prevenção é o subtema específico para seus níveis e instrumentos.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0180",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5594",
+      "confianca_modelo": 0.97,
+      "justificativa": "A pergunta exige avaliar validade de prova obtida por ingresso domiciliar ilegal. O núcleo é prova ilícita; peculato e eficiência são contextos ou argumentos das opções.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5554"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0181",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4695",
+      "confianca_modelo": 0.96,
+      "justificativa": "O comando delimita quais condutas são crimes contra a ordem tributária, contrastando com outros tipos econômicos. O tema é explícito; não transformar os distratores em temas centrais.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0182",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5138",
+      "confianca_modelo": 0.48,
+      "justificativa": "O bloco sem núcleo no enunciado combina aborto, contágio, rixa e calúnia. Periclitação da Vida e Saúde é hipótese parcial para contágio/rixa, sem corresponder a todos os itens.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5154",
+        "5139",
+        "5122"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    }
+  ]
+}

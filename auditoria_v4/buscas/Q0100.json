@@ -1,0 +1,45 @@
+{
+  "id": "Q0100",
+  "consulta_executada": "\"Augusto levou sua filha, Ana, de treze anos de idade, a uma boate cuja entrada era permitida apenas para pessoas\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "X:\\1_TiposGerados\\ProvaGeradasWPD\\DPETO13_001_01.wpd",
+      "url": "https://www.estudegratis.com.br/images/provas/24476-cespe-2013-dpe-to-defensor-publico-prova.pdf",
+      "ref_consulta": "turn143search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra a dignidade sexual para Concurso - Página 18 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-a-dignidade-sexual/questoes?page=18",
+      "ref_consulta": "turn143search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra a dignidade sexual para Concurso - Página 20 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-a-dignidade-sexual/questoes?page=20",
+      "ref_consulta": "turn143search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Crimes contra a dignidade sexual em Direito Penal | Qconcursos.com - Página 20",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&page=20&subject_ids%5B%5D=17343",
+      "ref_consulta": "turn143search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Crimes contra a dignidade sexual em Direito Penal | Qconcursos.com - Página 18",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&page=18&subject_ids%5B%5D=17343",
+      "ref_consulta": "turn143search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Estupro de vulnerável para Concurso - Página 5 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/estupro-de-vulneravel/questoes?page=5",
+      "ref_consulta": "turn143search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

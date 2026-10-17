@@ -1,0 +1,148 @@
+[
+  {
+    "id": "Q0001",
+    "enunciado": "No que se refere ao Tribunal do Júri, analise as assertivas abaixo.\nI - O desaforamento é admitido por interesse da ordem pública, em razão de dúvida sobre a imparcialidade do júri, em razão de dúvida sobre a segurança pessoal do réu e não realização de julgamento, no período de um ano a contar da preclusão da pronúncia, em virtude de comprovado excesso de serviço.\nII - A natureza jurídica da impronúncia é de uma decisão terminativa e está sujeita a Recurso em Sentido Estrito.\nIII - A absolvição sumária produz coisa julgada material.\nIV - A decisão de desclassificação tem natureza não terminativa.",
+    "comando": "Estão corretas as assertivas",
+    "alternativas": {
+      "A": "I, II e IV, apenas.",
+      "B": "II e IV, apenas.",
+      "C": "III e IV, apenas.",
+      "D": "I e III, apenas.",
+      "E": "I, II, III e IV."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento do Júri",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0002",
+    "enunciado": "Segundo Vera Regina Pereira de Andrade, a clientela do sistema penal é constituída de pobres, porque",
+    "comando": "Complete a frase de acordo com o autor.",
+    "alternativas": {
+      "A": "têm uma maior tendência a delinqüir.",
+      "B": "possuem uma cultura de nível inferior.",
+      "C": "não tiveram a devida educação.",
+      "D": "são naturalmente propensos à violência.",
+      "E": "têm maiores chances de serem criminalizados."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Legitimidoras da Pena",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0003",
+    "enunciado": "Francisco foi processado pelo Ministério Público pelo delito de furto. Contudo, após a resposta preliminar, foi absolvido sumariamente, tendo o juízo decidido que o fato narrado na denúncia evidentemente não constitui crime.\nNesse contexto, é correto afirmar que, em face da referida decisão, caberá:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "recurso em sentido estrito a ser interposto pelo Ministério\nPúblico e, se transitada em julgado, vinculará o juízo cível;",
+      "B": "recurso de apelação a ser interposto pelo Ministério Público\ne, se transitada em julgado, não vinculará o juízo cível;",
+      "C": "correição parcial a ser manejada pelo Ministério Público e, se\ntransitada em julgado, não vinculará o juízo cível;",
+      "D": "recurso de apelação a ser interposto pelo Ministério Público\ne, se transitada em julgado, vinculará o juízo cível;",
+      "E": "correição parcial a ser manejada pelo Ministério Público e, se\ntransitada em julgado, vinculará o juízo cível."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0004",
+    "enunciado": "Sobre jurisdição e competência no processo penal, analise as assertivas e assinale a alternativa correta:\nI – Caso um prefeito municipal cometa crimes contra bens da União, ele somente poderá ser processado criminalmente mediante ação penal instaurada no tribunal de justiça do respectivo estado.\nII – Compete ao Tribunal Regional Federal processar e julgar prefeito municipal acusado de crime federal vale dizer, crime praticado pelo prefeito em detrimento de bens, serviços ou interesses da União Federal, empresas públicas e autarquias federais.\nIII - Não sendo conhecido o lugar da infração penal, a competência regular-se-á pelo domicílio ou residência do réu.\nIV - O foro competente para processar e julgar os prefeitos municipais é o tribunal de justiça estadual.\nV - Prevalece o foro por prerrogativa de função, ainda que a ação judicial seja iniciada após a cessação do mandato eletivo do prefeito municipal.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Apenas as assertivas II, III e IV são verdadeiras.",
+      "B": "Apenas as assertivas I, II e III são verdadeiras.",
+      "C": "Apenas as assertivas I, II e IV são verdadeiras.",
+      "D": "Apenas as assertivas II, IV e V são verdadeiras.",
+      "E": "Apenas as alternativas II, III e V são verdadeiras."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Competência (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0005",
+    "enunciado": "Carlos foi denunciado pelo crime de furto qualificado,\npraticado em 15/5/2022. Após a tramitação regular do processo,\no juiz fixou a pena base no mínimo legal, tendo em seguida\nagravado em 1/6 a pena em face da reincidência, sob o\nfundamento de que o réu possuía uma condenação anterior\ntransitada em julgado, e impôs o regime fechado para início de\ncumprimento de pena. Na condenação anterior, Carlos havia\nrecebido o livramento condicional em 27/4/2015, cumprindo-o\nsem revogações até 27/4/2019, e a decisão que declarou extinta a\npena foi proferida em 29/6/2020.\nConsiderando-se a situação hipotética apresentada, bem como a\npena e o regime fixados pelo juiz, é correto afirmar que, em\nrelação ao crime de furto qualificado praticado em 15/5/2022,\nCarlos é",
+    "comando": "complete a frase com a alternativa correta.",
+    "alternativas": {
+      "A": "reincidente, e o regime inicial cabível é o fechado, visto que o\nperíodo depurador referente à condenação anterior começou a\ncorrer em 27/4/2019.",
+      "B": "reincidente, e o regime inicial cabível é o fechado, visto que o\nperíodo depurador referente à condenação anterior começou a\ncorrer em 29/6/2020.",
+      "C": "primário, e o regime inicial cabível é o semiaberto, visto que\no período depurador se iniciou em 27/4/2015 e a pena é\nsuperior a quatro anos.",
+      "D": "primário, e o regime cabível é o aberto, visto que o período\ndepurador foi cumprido sem revogação e a pena é inferior a\nquatro anos.",
+      "E": "reincidente, e o regime cabível é o semiaberto, visto que,\ndada a pena aplicada, incide no caso a súmula n.º 269 do STJ."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Fixação do regime inicial da pena privativa de liberdade",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0006",
+    "enunciado": "Sobre os crimes de furto e roubo, analise as afirmativas a seguir.\nI. De acordo com a teoria da contrectatio, a consumação do crime de furto ocorre quando há o contato físico com a coisa alheia móvel, desde que haja a inversão da posse.\nII. Há delito de furto e não de roubo quando o sujeito ativo se vale de narcóticos para reduzir a vítima à impossibilidade de resistência para se apoderar dos pertences dela.\nIII. Não é cabível tentativa de roubo impróprio.",
+    "comando": "Está correto o que se afirma em",
+    "alternativas": {
+      "A": "III, apenas.",
+      "B": "I e II, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I, II e III."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Roubo",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0007",
+    "enunciado": "Gilson foi denunciado por tráfico de drogas e, no curso da audiência de instrução de julgamento, sua irmã Regina, que aceitou prestar depoimento, narrou, além dos fatos descritos na denúncia, que Gilson é um irmão ciumento e a ameaçou de morte e a xingou de “puta”, quando ela arrumou um namorado.\nRegina contou também que Gilson, reiteradamente, a perseguia na faculdade e no trabalho e que, em certas ocasiões, sequer pode sair de casa.\nTerminada a audiência, o Promotor de Justiça requereu ao Juiz cópia da mídia com o depoimento de Regina, o que foi deferido. Em seguida, ofereceu denúncia em face de Gilson, imputando a ele os crimes de ameaça (Art. 147 do Código Penal), injúria (Art. 140 do Código Penal) e perseguição (Art. 147-A do Código Penal).",
+    "comando": "O Defensor Público encarregado de elaborar a resposta à acusação, deverá observar que",
+    "alternativas": {
+      "A": "todos os crimes são de ação penal pública condicionada à\nrepresentação.",
+      "B": "todos os crimes são de ação penal pública incondicionada.",
+      "C": "há crimes de ação penal pública incondicionada, ação penal\npública condicionada e ação penal privada.",
+      "D": "há dois crimes de ação penal pública condicionada à\nrepresentação.",
+      "E": "não há crimes de ação penal privada."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0008",
+    "enunciado": "A progressão de regime do cumprimento da pena de condenado por crime contra a administração pública condiciona-se à reparação do dano que ele causou, ou à devolução do produto do ilícito praticado, com os acréscimos legais.",
+    "comando": "Explique as condições para a progressão de regime do cumprimento da pena em crimes contra a administração pública.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0009",
+    "enunciado": "“Ariel”, com 21 anos de idade, arromba a joalheria de seu pai, “Benoir”, com 60 anos de idade, de madrugada, levando bens avaliados em R$ 5.000,00 (cinco mil reais). Preso, após o fato, “Ariel” responderá por:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "crime de furto de coisa comum.",
+      "B": "crime de furto qualificado pelo rompimento de obstáculo à subtração da coisa.",
+      "C": "crime de apropriação indébita.",
+      "D": "nenhum crime, pois é isento de pena (imunidade penal absoluta)."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0010",
+    "enunciado": "Com relação aos crimes contra o meio ambiente, assinale a opção correta, conforme entendimento do STJ e do STF.",
+    "comando": "Assinale a opção correta, conforme entendimento do STJ e do STF.",
+    "alternativas": {
+      "A": "Considere que Gil, a fim de comemorar, durante a madrugada, em zona urbana, a vitória de determinado time de futebol, tenha ajustado o aparelho de som do veículo em volume muito acima do limite permitido na legislação local, perturbando o sono e o sossego da vizinhança, e que esta tenha acionado o órgão municipal responsável. Considere, ainda, que o referido aparelho de som tenha sido apreendido, e Gil, conduzido à delegacia de polícia. Nessa situação, a conduta de Gil é atípica, visto que a poluição sonora não está expressamente prevista na lei de crimes ambientais.",
+      "B": "O crime ambiental que consiste em impedir o nascimento de nova vegetação ou dificultar a regeneração natural de florestas e demais formas de vegetação é crime permanente, visto que a consumação do delito se protrai no tempo, violando o bem jurídico tutelado de forma contínua e duradoura, renovando-se, a cada momento a consumação, consoante entendimento do STF.",
+      "C": "Em se tratando dos crimes contra o meio ambiente, admite-se responsabilização penal unicamente da pessoa jurídica, salvo se a imputação for pela prática de delitos culposos.",
+      "D": "Os tribunais superiores, no que concerne aos crimes ambientais, rejeitam a incidência do sistema da dupla imputação ou sistema da imputação paralela dada a ocorrência de bis in idem na responsabilização, pelo mesmo crime, de mais de uma pessoa.",
+      "E": "O crime de deixar de cumprir obrigação de relevante interesse ambiental, previsto no rol dos crimes contra a administração pública ambiental, é crime omissivo próprio, punido apenas na forma dolosa, e se caracteriza quando o agente público deixa de praticar o ato, contrariando o dever legal de fazê-lo para evitar o resultado lesivo ao meio ambiente, consoante entendimento do STJ."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  }
+]

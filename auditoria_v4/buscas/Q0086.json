@@ -1,0 +1,81 @@
+{
+  "id": "Q0086",
+  "consulta_executada": "\"Um Auditor-Fiscal do Trabalho deixou de autuar uma empresa que havia cometido infração às normas de segurança no trabalho porque\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Um Auditor-Fiscal do Trabalho deixou de autuar uma empresa que havia c...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/166745-questao",
+      "ref_consulta": "turn121search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Um Auditor-Fiscal do Trabalho deixou de autuar uma empresa q...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/ba7f6de2-9a",
+      "ref_consulta": "turn121search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões MTE 2006 para Auditor Fiscal do Trabalho - Prova 1 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/esaf-2006-mte-auditor-fiscal-do-trabalho-prova-1/questoes?discipline_ids%5B%5D=9",
+      "ref_consulta": "turn121search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para ESAF | Qconcursos.com - Página 338",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=6&has_professor_commentaries=true&page=338",
+      "ref_consulta": "turn121search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para ESAF e MTE | Qconcursos.com - Página 15",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=6&institute_ids%5B%5D=28&page=15",
+      "ref_consulta": "turn121search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Instruções para Prova de Auditor-Fiscal 2006 | PDF | Brasil | Escravidão",
+      "url": "https://pt.scribd.com/document/27109024/PROVA-AUDITOR-FISCAL-DO-TRABALHO-2006",
+      "ref_consulta": "turn121search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Direito Penal | Qconcursos.com - Página 925",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_professor_commentaries=true&page=925",
+      "ref_consulta": "turn121search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Facilitação de contrabando ou descaminho para Concurso - Página 3 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/facilitacao-de-contrabando-ou-descaminho/questoes?page=3",
+      "ref_consulta": "turn121search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para ESAF | Qconcursos.com - Página 337",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=6&has_professor_commentaries=true&page=337&per_page=5",
+      "ref_consulta": "turn121search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para ESAF | Qconcursos.com - Página 490",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=6&page=490&per_page=5",
+      "ref_consulta": "turn121search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Ministério do Trabalho e Emprego",
+      "url": "https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/prova/prova/25881.pdf",
+      "ref_consulta": "turn121search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: INTRODUÇÃO À SEGURANÇA DO TRABALHO-mesclado - Material Claro e Objetivo em PDF para Estudo Rápido",
+      "url": "https://es.passeidireto.com/arquivo/160149884/introducao-a-seguranca-do-trabalho-mesclado",
+      "ref_consulta": "turn121search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

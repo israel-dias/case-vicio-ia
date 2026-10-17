@@ -1,0 +1,93 @@
+{
+  "id": "Q0323",
+  "consulta_executada": "\"Acerca de provas, instrumentos legais de obtenção de prova e procedimento probatório, assinale a opção correta\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "untitled",
+      "url": "https://cdn.cebraspe.org.br/concursos/TRF5_14_JUIZ/arquivos/131TRF515_001_01.PDF",
+      "ref_consulta": "turn357search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Acerca de provas, instrumentos legais de obtenção de prova e procedimento probatório, a...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/732815-questao",
+      "ref_consulta": "turn357search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Acerca de provas, instrumentos legais de obtenção de prova e...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/e25eef91-dd",
+      "ref_consulta": "turn357search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 4 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&job_ids%5B%5D=169&job_ids%5B%5D=176&job_ids%5B%5D=6997&job_ids%5B%5D=8884&page=4&publication_year%5B%5D=2014&publication_year%5B%5D=2015&publication_year%5B%5D=2016&publication_year%5B%5D=2017&subject_ids%5B%5D=154",
+      "ref_consulta": "turn357search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "FOLHA DIRIGIDA — ESTADO",
+      "url": "https://cdn.folhadirigida.com.br/digitalEditions/2930/rio2930.pdf",
+      "ref_consulta": "turn357search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal para Concurso - Página 445 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/questoes?page=445",
+      "ref_consulta": "turn357search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Meios probatórios excepcionais para Concurso - Página 3 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/meios-probatorios-excepcionais/questoes?has_professor_commentaries=true&page=3",
+      "ref_consulta": "turn357search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Exercícios",
+      "url": "https://s3-sa-east-1.amazonaws.com/tribcast-midia/wp-content/uploads/2018/04/02165256/CEM-Processo-Penal1.pdf",
+      "ref_consulta": "turn357search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para TRF - 5ª REGIÃO | Qconcursos.com - Página 55",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&institute_ids%5B%5D=5&page=55",
+      "ref_consulta": "turn357search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Processual Penal | Qconcursos.com - Página 446",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&page=446&sort=newest",
+      "ref_consulta": "turn357search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Definição, contextualização, objetivos e normatividade fundamental para Concurso - Página 7 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/definicao-contextualizacao-objetivos-e-normatividade-fundamental/questoes?page=7",
+      "ref_consulta": "turn357search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Análise da Prova Objetiva TJRJ 2025 | PDF | Mediação | Estatuto de limitações",
+      "url": "https://ro.scribd.com/document/817823616/MEGE-TJRJ-2025-Prova-comenatda",
+      "ref_consulta": "turn357search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Raio-X do Direito Processual Penal | PDF | Procedimento criminal | Presunção de inocência",
+      "url": "https://www.scribd.com/document/656201514/Ciclo-Parte-01",
+      "ref_consulta": "turn357search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "EDITAL Nº 001/2026 (ALTERADO CONFORME RETIFICAÇÃO Nº 01) — Diário Oficial dos Municípios Mineiros",
+      "url": "https://www.diariomunicipal.com.br/amm-mg/materia/B0D88115",
+      "ref_consulta": "turn357search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,151 @@
+[
+  {
+    "id": "Q0291",
+    "enunciado": "Quando se tratar de crimes relativos ao tráfico de drogas, o prazo para a conclusão do inquérito policial é de 30 dias, se o indiciado estiver preso e de 90 dias, se estiver solto, podendo ser duplicados, mediante pedido justificado da autoridade de polícia judiciária.",
+    "comando": "Explique os prazos para a conclusão do inquérito policial em crimes relativos ao tráfico de drogas.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0292",
+    "enunciado": "Considerando a atual conjuntura da política criminal brasileira, é correto afirmar que",
+    "comando": "",
+    "alternativas": {
+      "A": "a eficiência do trabalho policial pode ser verificado pelo baixo índice de letalidade e o alto índice de prisões efetuadas.",
+      "B": "o processo de encarceramento em massa no Brasil alavancou-se no período de vigência da Constituição Federal de 1988,\napesar desta ter como seus fundamentos a cidadania e a dignidade da pessoa humana.",
+      "C": "a construção de presídios tem sido uma política eficaz de redução do encarceramento em massa.",
+      "D": "o crescimento da população prisional é isonômico no aspecto de gênero.",
+      "E": "a proteção de direitos humanos tem sido o principal resultado da política criminal brasileira, uma vez que o aumento da\npopulação prisional demonstra que os bens jurídicos estão sendo cada vez mais protegidos por meio do direito penal."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Política Criminal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0293",
+    "enunciado": "Lucas e Serafim, primários, foram acusados, em conjunto, de praticarem um furto mediante fraude ocorrido em setembro de 2015. Recebida a denúncia em 2016, a sentença foi prolatada em 2018, absolvendo Lucas e condenando Serafim. Interposto recurso por Serafim e pelo Ministério Público, o tribunal deu provimento à apelação do Ministério Público para condenar Lucas, igualmente, conforme acórdão publicado em 2021, tendo havido certidão de trânsito em julgado no mesmo ano. Ambos restaram condenados a uma pena de 2 anos de reclusão, substituída por restritiva de direitos de prestação de serviços à comunidade e prestação pecuniária, além de multa cumulativa. Lucas iniciou o cumprimento da pena restritiva e, após cumprido pouco mais da metade das penas, interrompeu o cumprimento em 2022, sendo apurado saldo para conversão em 11 meses de reclusão. Serafim participou da audiência em 2023, tendo sido encaminhado à instituição para o cumprimento das penas; porém, não se apresentou ao local onde deveria prestar os serviços à comunidade e não pagou a prestação pecuniária ou a multa. Sobre os fatos, é correto afirmar que:",
+    "comando": "",
+    "alternativas": {
+      "A": "a pena de multa cumulativamente aplicada aos condenados encontra-se prescrita;",
+      "B": "a pena de Lucas foi atingida pela prescrição da pretensão executória em 2025;",
+      "C": "a pena de Serafim foi atingida pela prescrição da pretensão executória em 2025;",
+      "D": "ambos se beneficiam da prescrição da pretensão punitiva pela pena concretamente aplicada;",
+      "E": "nenhum dos dois condenados se beneficia de qualquer prescrição."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "assunto_origem_ausente"
+    ]
+  },
+  {
+    "id": "Q0294",
+    "enunciado": "A respeito da culpabilidade, assinale a opção correta.",
+    "comando": "Assinale a opção correta.",
+    "alternativas": {
+      "A": "Para haver exclusão ou diminuição da culpabilidade, a perda ou redução da capacidade de entendimento do caráter ilícito do fato causada pelo uso de entorpecente não deve decorrer necessariamente de caso fortuito ou força maior, visto que a dependência química, por si só, afasta ou reduz a responsabilização penal.",
+      "B": "Segundo a jurisprudência do STJ, no delito de omissão de recolhimento de contribuição previdenciária, a impossibilidade de repasse das contribuições previdenciárias em decorrência de crise financeira da empresa não constitui, nem sequer em tese, causa supralegal de exclusão da culpabilidade (inexigibilidade de conduta diversa)",
+      "C": "Conforme a teoria normativa pura, a culpabilidade não se exaure na relação de desconformidade substancial entre ação e ordenamento jurídico, mas fundamenta a reprovação pessoal contra o autor, no sentido de este não ter omitido a ação antijurídica quando ainda podia.",
+      "D": "De acordo com a teoria limitada da culpabilidade, não se faz distinção entre erro de tipo (o que recai sobre a situação de fato) e erro de proibição (o que recai sobre os limites autorizadores da norma), sendo todas essas situações consideradas erro de proibição.",
+      "E": "Nas correntes preventivas da culpabilidade, a teoria da motivação normativa tem como característica básica fundar a culpabilidade na liberdade de autodeterminação, excluída a capacidade de motivação normativa do sujeito."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Culpabilidade",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0295",
+    "enunciado": "Quanto à fluência dos prazos no processo penal, assinale a opção correta.",
+    "comando": "Assinale a opção correta.",
+    "alternativas": {
+      "A": "Para a defensoria pública, os prazos contam-se da data do\nrecebimento dos autos, com vista naquele órgão, e não da\naposição no processo do ciente de seu membro.",
+      "B": "O prazo para a interposição de apelação pelo assistente de\nacusação, habilitado ou não, será de quinze dias a contar do\ntérmino do prazo do MP.",
+      "C": "Tanto para o MP quanto para a defensoria pública, os prazos\ncontam-se em dobro.",
+      "D": "Notadamente nos prazos de comunicação, a regra é a fluência\ndo prazo a partir da juntada do mandado.",
+      "E": "Para efeitos de contagem de prazo, considera-se intimado\no representante do MP por meio de publicação na imprensa\noficial ou por via de mandado judicial."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Comunicação dos atos processuais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0296",
+    "enunciado": "Diversamente do que ocorre em relação ao processo civil, no processo penal não se admite que, em caso de morte da vítima, os familiares assumam o lugar dela, no pólo ativo da ação penal privada, para efeito de apresentação de queixa.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0297",
+    "enunciado": "O Direito Penal Econômico, em sentido estrito, é o conjunto de normas jurídico-penais que protegem a ordem socioeconômica.\nEsse ramo do Direito Penal visa à proteção da atividade econômica presente e desenvolvida na economia.\nOs crimes contra a ordem tributária e contra o sistema financeiro se amoldam nessa perspectiva.\nSobre eles é correto afirmar o seguinte:",
+    "comando": "Sobre eles é correto afirmar o seguinte:",
+    "alternativas": {
+      "A": "De acordo com a Lei 8137/90, o dia-multa será fixado pelo juiz em valor não inferior a 10 (dez)\nnem superior a 300 (trezentos) Bônus do Tesouro Nacional.",
+      "B": "não se aplica o princípio da insignificância aos crimes contra a ordem tributária, pois o bem\njurídico protegido é a higidez do Sistema Tributário Nacional.",
+      "C": "o crime contra a ordem tributária relacionado à conduta de falsificar ou alterar nota fiscal, fatura,\nduplicata, nota de venda, ou qualquer outro documento relativo à operação tributável, é classificado\ncomo crime formal, não exigindo a materialização do resultado para a sua consumação.",
+      "D": "induzir ou manter em erro sócio, investidor ou repartição pública competente, relativamente a\noperação ou situação financeira, sonegando-lhe informação ou prestando-a falsamente é crime com\npena de reclusão de 2 (dois) a 6 (seis) anos ou multa.",
+      "E": "extingue-se a punibilidade dos crimes definidos na Lei 8137/90 quando o agente promover o\npagamento do tributo, inclusive acessórios, antes do recebimento da denúncia."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0298",
+    "enunciado": "Os crimes contra as relações de consumo previstos na Lei n. 8.137/90 são punidos, apenas, na modalidade dolosa.",
+    "comando": "Analise a afirmativa sobre os crimes contra as relações de consumo previstos na Lei n. 8.137/90.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria do Crime (Ilicitude)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0299",
+    "enunciado": "Assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "A criminologia crítica defende a análise individualizada da periculosidade do agente como direito inerente ao princípio do respeito à dignidade humana.",
+      "B": "A Escola positivista pregava a análise puramente objetiva do fato, deixando em segundo plano as características pessoais de seu autor.",
+      "C": "A teoria retributiva dos fins da pena foi desenvolvida a partir dos estudos de Lombroso e Garofalo, em meados do século XVIII.",
+      "D": "A teoria do labelling approach dispõe-se a estudar, dentre outros aspectos do sistema punitivo, os mecanismos de reação social ao delito e a influência destes na reprodução da criminalidade.",
+      "E": "A teoria finalista da ação é fruto da concepção positivista de livre-arbítrio, que entende o homem como ser determinado pelas circunstâncias sociais."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Legitimidoras da Pena",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0300",
+    "enunciado": "Àquele que oculta uma arma de fogo utilizada por terceiro para a prática anterior de um roubo, consignando-se não haver qualquer vínculo de parentesco entre ambos, pode-se atribuir o crime de ______. Assinale a alternativa que preencha corretamente a lacuna.",
+    "comando": "",
+    "alternativas": {
+      "A": "favorecimento pessoal",
+      "B": "favorecimento real",
+      "C": "coautoria do crime de roubo",
+      "D": "participação do crime de roubo"
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Crimes contra a administração pública, Favorecimento pessoal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  }
+]

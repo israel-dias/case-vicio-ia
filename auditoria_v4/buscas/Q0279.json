@@ -1,0 +1,87 @@
+{
+  "id": "Q0279",
+  "consulta_executada": "\"Um indivíduo de dezenove anos de idade, livre, consciente e capaz, dirigiu-se a uma joalheria com a intenção de praticar\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Um indivíduo de dezenove anos de idade, livre, consciente e capaz, dirigiu-se a uma ...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/461762-questao",
+      "ref_consulta": "turn311search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Um indivíduo de dezenove anos de idade, livre, conscie...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/7d9ee492-88",
+      "ref_consulta": "turn311search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra o patrimônio para Concurso - Página 45 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-o-patrimonio/questoes?page=45",
+      "ref_consulta": "turn311search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 71 - TRE-BA - Analista Judiciário - CESPE/CEBRASPE (2017) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tre-ba-analista-judiciario-area-judiciaria-2017-cespe/71",
+      "ref_consulta": "turn311search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal para Concurso - Página 590 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/questoes?page=590",
+      "ref_consulta": "turn311search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Tipicidade para Concurso - Página 35 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/tipicidade/questoes?has_professor_commentaries=true&page=35",
+      "ref_consulta": "turn311search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "R:\\AUTOMACAO\\1_TiposGerados\\ProvaGeradasWPD\\329_TREBA_001_01.wpd",
+      "url": "https://www.estudegratis.com.br/images/provas/42810-cespe-2017-tre-ba-analista-judiciario-area-judiciaria-prova.pdf",
+      "ref_consulta": "turn311search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "GRAN CURSOS ONLINE",
+      "url": "https://concursos.grancursosonline.com.br/hubfs/QUEST%C3%95ES%20CESPE%20-%20REVISADO.pdf",
+      "ref_consulta": "turn311search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Tipicidade em Direito Penal | Qconcursos.com - Página 35",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&page=35&per_page=5&subject_ids%5B%5D=796",
+      "ref_consulta": "turn311search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Tipicidade para Concurso - Página 42 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/tipicidade/questoes?page=42",
+      "ref_consulta": "turn311search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: Direito penal - Material Claro e Objetivo em PDF para Estudo Rápido",
+      "url": "https://www.passeidireto.com/arquivo/107396506/direito-penal",
+      "ref_consulta": "turn311search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso de Direito Penal - Página 2 - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questoes-de-concurso/materia/direito-penal/assunto/extincao-da-punibilidade/banca/cespe?pag=2",
+      "ref_consulta": "turn311search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para Analista Judiciário - Área Judiciária | Qconcursos.com - Página 168",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&job_ids%5B%5D=43&page=168",
+      "ref_consulta": "turn311search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,148 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0236",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5490",
+      "confianca_modelo": 0.52,
+      "justificativa": "As assertivas misturam questão prejudicial, restituição de bens, prova investigativa e presença do acusado. Questões e Processos Incidentes é hipótese para os primeiros itens, sem cobrir todo o conjunto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5491",
+        "5495",
+        "5595",
+        "5582"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0237",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5178",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando pede diretamente distinguir desistência voluntária e arrependimento eficaz, institutos reunidos no mesmo subtema ativo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0238",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5523",
+      "confianca_modelo": 0.97,
+      "justificativa": "O item delimita reforço da fiança por mudança de classificação do delito. A fiança integra o tema de Liberdade Provisória; não há filho específico no catálogo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0239",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5199",
+      "confianca_modelo": 0.67,
+      "justificativa": "O bloco combina atenuantes, erro de execução/concurso e suspensão condicional da pena. Teoria da Pena é hipótese predominante, mas não cobre sozinha a teoria do erro de outro ramo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5203",
+        "5207",
+        "5224",
+        "5066"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0240",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5500",
+      "confianca_modelo": 0.78,
+      "justificativa": "O comando soma prazo do inquérito com prazo para denúncia e remessa. Procedimento do Inquérito é central proposto; denúncia é adicional exigido, e a divisão entre etapas impede certeza sobre um único subtema.",
+      "extras_ids": [
+        "5473"
+      ],
+      "temas_concorrentes_ids": [
+        "5501"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0241",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5224",
+      "confianca_modelo": 0.94,
+      "justificativa": "O enunciado delimita teoria do erro e as assertivas comparam erro essencial e formas acidentais sobre objeto/execução. Erro de Tipo é o enquadramento específico disponível, registrando concorrência do curso causal.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5226"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0242",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5512",
+      "confianca_modelo": 0.77,
+      "justificativa": "O bloco compara recursos constitucionais, prazos, princípios, admissibilidade e reexame necessário. Parte Geral dos Recursos é hipótese abrangente, mas as espécies possuem ramos próprios e falta núcleo único.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5570",
+        "5571",
+        "5513",
+        "5514"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0243",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5178",
+      "confianca_modelo": 0.98,
+      "justificativa": "A narrativa destaca restituição voluntária após consumação e antes do recebimento da denúncia, e o comando compara arrependimentos/desistência. O furto é exemplo do instituto de arrependimento posterior.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0244",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5091",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando pede o tipo de exigência de vantagem por agente em razão da função. Concussão e Excesso de Exação é o subtema específico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0245",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5185",
+      "confianca_modelo": 0.96,
+      "justificativa": "O enunciado delimita prescrição e as alternativas comparam marcos e modalidades penais, incluindo normas especiais. O pai substantivo cobre a combinação sem escolher uma modalidade isolada.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5190",
+        "5189"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

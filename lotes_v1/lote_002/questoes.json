@@ -1,0 +1,149 @@
+[
+  {
+    "id": "Q0011",
+    "enunciado": "Com referência à interceptação de comunicação telefônica, ao crime de tráfico ilícito de entorpecentes, ao crime de lavagem de capitais e a crimes cibernéticos, julgue o seguinte item.\nSituação hipotética: Álvaro, servidor público federal, foi, por cinco anos, presidente da comissão de licitações de determinado órgão público federal. Em diversas ocasiões, Álvaro recebeu valores e bens para favorecer empresas nos certames licitatórios, e os transferiu para o patrimônio de Flávio, seu irmão, que os utilizava nos negócios da empresa da família, com vistas a ocultar o ingresso desses recursos e a sua origem ilícita. Assertiva: Nessa situação, Álvaro e Flávio responderão pelo crime de lavagem de capitais, e será da justiça federal a competência para processar e julgar a ação penal.",
+    "comando": "Julgue o item apresentado.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0012",
+    "enunciado": "Da decisão que rejeitar a denúncia oferecida nos termos do artigo 77 da Lei 9.099/1995, caberá:",
+    "comando": "Indique o recurso cabível contra a decisão que rejeitar a denúncia oferecida nos termos do artigo 77 da Lei 9.099/1995.",
+    "alternativas": {
+      "A": "Apelação, no prazo de 10 dias.",
+      "B": "Apelação no prazo de 5 dias.",
+      "C": "Recurso em sentido estrito, no prazo de 15 dias.",
+      "D": "Recurso em sentido estrito, no prazo de 5 dias.",
+      "E": "Correição parcial."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0013",
+    "enunciado": "A Lei nº 13.964/2019, denominada “pacote anti-crime”, inovou o sistema processual penal brasileiro. A Defensoria Pública do Paraná, em seu portal da internet (21/06/2023), registrou “apoio à implementação do juiz das garantias”, então sob discussão no STF, por considerar a sua criação “uma iniciativa fundamental para aprimorar o funcionamento da Justiça penal no país.” A nota da Defensoria afirma que “A medida busca [...] assegurar o respeito às garantias individuais”, contribuindo para “uma maior imparcialidade da justiça [...] para uma justiça mais eficaz e para um processo penal mais justo, beneficiando toda a sociedade”. Nesse contexto, incluem-se na competência legal do Juiz de Garantias as seguintes hipóteses, EXCETO:",
+    "comando": "",
+    "alternativas": {
+      "A": "Julgar o habeas corpus impetrado durante a investigação, bem como determinar, de ofício, o trancamento do inquérito policial.",
+      "B": "Decidir sobre a homologação de acordo de não persecução penal celebrado durante a investigação ou decorrente de decisão\ndesclassificatória.",
+      "C": "Ser informado sobre a instauração de inquérito policial ou de qualquer outro procedimento de investigação criminal, ainda\nque não presidida por autoridade policial.",
+      "D": "Decidir sobre o requerimento de produção antecipada de provas consideradas urgentes e não repetíveis, assegurados o contraditório e a ampla defesa em audiência pública e oral."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Sistemas de Investigação, Investigação Preliminar: Juiz das Garantias",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0014",
+    "enunciado": "Caso a decisão do magistrado em relação à internação de Pedro seja questionada em juízo, ela não pode ser sanada pela via do habeas corpus, pois tal instrumento processual não se aplica às situações que envolvam decisões tomadas por vara da infância e da juventude em detrimento da liberdade de criança ou adolescente.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Disciplina Unificada",
+    "assunto_origem": "Medidas Socioeducativas",
+    "alertas_preparacao": [
+      "disciplina_origem_fora_catalogo"
+    ]
+  },
+  {
+    "id": "Q0015",
+    "enunciado": "Com relação ao inquérito policial, segundo o Código de Processo Penal.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A polícia judiciária será exercida pelas autoridades policiais em todo o território nacional, independente de circunscrição, com o fim de apurar as infrações penais e sua autoria.",
+      "B": "Na legislação processual penal, é inaplicável a interpretação extensiva e analógica, bem como o suplemento dos princípios gerais do direito.",
+      "C": "O inquérito deverá terminar no prazo de trinta dias, se o indiciado tiver sido preso em flagrante, ou estiver preso preventivamente, contado o prazo a partir do dia da prisão.",
+      "D": "O Ministério Público não poderá requerer a devolução do inquérito à autoridade policial, senão para novas diligências, imprescindíveis ao oferecimento da denúncia.",
+      "E": "O ofendido, ou seu representante legal, poderá requerer qualquer diligência, a qual será realizada obrigatoriamente, considerados os princípios do contraditório e da ampla defesa."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0016",
+    "enunciado": "À luz da atual jurisprudência dos Tribunais Superiores sobre o tema\nprisão, avalie as assertivas a seguir.\nI. Consoante a jurisprudência do Superior Tribunal de Justiça, em\nrazão da Lei nº 13.964/2019, não é mais possível ao Juiz, de\nofício, decretar ou converter a prisão em flagrante em prisão\npreventiva.\nII. De acordo com o entendimento do Supremo Tribunal Federal,\né incompatível com a Constituição Federal – por ofensa ao\nprincípio da isonomia (Art. 3º, inciso IV; e Art. 5º, caput, da\nCRFB/88) – a previsão contida no inciso VII do Art. 295 do CPP\nque concede o direito à prisão especial, até decisão penal\ndefinitiva, a pessoas com diploma de ensino superior.\nIII. O Supremo Tribunal Federal atribuiu interpretação conforme\na Constituição Federal, ao § 1º do Art. 3º-B do CPP, incluído\npela Lei nº 13.964/2019, para estabelecer que o preso em\nflagrante ou por força de mandado de prisão provisória será\nsempre encaminhado à presença do Juiz das Garantias, no\nprazo de 72 horas.\nEstá correto o que se afirma em",
+    "comando": "",
+    "alternativas": {
+      "A": "I, apenas.",
+      "B": "II, apenas.",
+      "C": "I e II, apenas.",
+      "D": "II e III, apenas.",
+      "E": "I e III, apenas."
+    },
+    "disciplina_origem": "Direito Constitucional",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "assunto_origem_ausente",
+      "disciplina_origem_fora_catalogo"
+    ]
+  },
+  {
+    "id": "Q0017",
+    "enunciado": "No processo e julgamento dos crimes de responsabilidade dos funcionários públicos,",
+    "comando": "Complete a frase ou responda conforme o contexto do processo penal.",
+    "alternativas": {
+      "A": "nos crimes afiançáveis e inafiançáveis, após a denúncia, o juiz ordenará a notificação do acusado para responder por escrito, dentro do prazo de 15 (quinze) dias.",
+      "B": "nos crimes inafiançáveis, após a denúncia, o juiz ordenará a notificação do acusado para responder por escrito, dentro do prazo de 15 (quinze) dias.",
+      "C": "nos crimes afiançáveis e inafiançáveis, o eventual recebimento da denúncia é feito depois da notificação do acusado e, caso existente, de sua resposta.",
+      "D": "nos crimes afiançáveis, o eventual recebimento da denúncia é feito depois da notificação do acusado e, caso existente, de sua resposta.",
+      "E": "a falta de notificação do acusado para, se quiser, responder à acusação causa nulidade absoluta, conforme súmulas do Superior Tribunal de Justiça e do Supremo Tribunal Federal."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0018",
+    "enunciado": "Marque “C” para certo e “E” para errado na assertiva abaixo.\nSão considerados casos de exclusão de competência dos Juizados Especiais Criminais a conexão, não localização do acusado e a complexidade da ocorrência ou circunstância diversa que não permita o imediato oferecimento da denúncia, como perícias complexas e amplas diligências para a identificação do autor.",
+    "comando": "Marque “C” para certo e “E” para errado na assertiva abaixo.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Competência (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0019",
+    "enunciado": "Considerando as relações entre as esferas criminal e cível e a ação civil ex delicto, assinale a alternativa INCORRETA:",
+    "comando": "",
+    "alternativas": {
+      "A": "Aplicando a “teoria da norma ainda constitucional”\nou da “inconstitucionalidade progressiva” na\ninterpretação do art. 68, CPP, o Supremo Tribunal\nFederal admite, onde não haja Defensoria\nPública instalada nos moldes previstos na\nConstituição de 1988, que o Ministério Público\npromova, a requerimento do titular à reparação\ndo dano que for pobre, a ação civil ex delicto.",
+      "B": "Proposta ação civil ex delicto, se o conhecimento\ndo mérito depender de verificação da existência\nde fato delituoso, o juiz cível poderá determinar\na suspensão do processo até que se pronuncie a\njustiça criminal, mesmo que ainda não proposta\na ação penal.",
+      "C": "Independente do fundamento, a promoção de\narquivamento de inquérito policial não impede a\npropositura de ação civil ex delicto.",
+      "D": "Faz coisa julgada no cível, determinando a\nimprocedência de eventual ação civil ex delicto,\na sentença penal definitiva que reconhece que o\nautor incorreu em erro inevitável sobre existência\nou limites de legítima defesa (descriminante\nputativa)."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0020",
+    "enunciado": "Assinale com V (verdadeiro) ou com F (falso) as seguintes afirmações sobre posições jurisprudenciais do Superior Tribunal de Justiça.\n( ) Segundo jurisprudência dominante do Superior Tribunal de Justiça, é possível o reconhecimento do concurso material entre as condutas previstas nos artigos 241-A (artigo 241-A Oferecer, trocar, disponibilizar, transmitir, distribuir, publicar ou divulgar por qualquer meio, inclusive por meio de sistema de informática ou telemático, fotografia, vídeo ou outro registro que contenha cena de sexo explícito ou pornografia envolvendo criança ou adolescente) e artigo 241-B (Adquirir, possuir ou armazenar, por qualquer meio, fotografia, vídeo ou outra forma de registro que contenha cena de sexo explícito ou pornográfica envolvendo criança ou adolescente) do Estatuto da Criança e do Adolescente, uma vez os tipos penais são autônomos, com verbos e condutas distintas, sendo que o crime previsto no artigo 241-B do ECA não configura fase normal, tampouco meio de execução, para o crime previsto no artigo 241-A do ECA.\n( ) Segundo jurisprudência dominante do Superior Tribunal de Justiça, é possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, mesmo que esta seja específica.\n( ) Segundo jurisprudência dominante do Superior Tribunal de Justiça, atribuir-se falsa identidade perante a Autoridade Policial com a finalidade de ocultar maus antecedentes constitui o crime previsto no artigo 307, caput, do Código Penal (atribuir-se ou atribuir a terceiro falsa identidade para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem). Esse tipo de conduta não é protegido pelo princípio constitucional da autodefesa (artigo 5o, inciso LXIII, CF).\n( ) Segundo jurisprudência dominante do Superior Tribunal de Justiça, a causa de aumento de pena relativa ao crime de furto pelo repouso noturno não se aplica em nenhuma das hipóteses do furto qualificado.\n( ) Segundo jurisprudência dominante do Superior Tribunal de Justiça, é cabível a suspensão condicional do processo e a transação penal aos delitos que preveem a pena de multa alternativamente à pena privativa de liberdade, ainda que o preceito secundário da norma legal ultrapasse os parâmetros mínimos e máximos exigidos em lei para a incidência dos institutos em comento.\nA sequência correta do preenchimento dos parênteses, de cima para baixo, é",
+    "comando": "Assinale com V (verdadeiro) ou com F (falso) as seguintes afirmações sobre posições jurisprudenciais do Superior Tribunal de Justiça.",
+    "alternativas": {
+      "A": "V – F – V – V – F.",
+      "B": "F – V – F – V – F.",
+      "C": "F – F – V – F – V.",
+      "D": "V – V – F – F – V.",
+      "E": "Nenhuma das alternativas anteriores está correta."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  }
+]

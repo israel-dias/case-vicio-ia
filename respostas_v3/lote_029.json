@@ -1,0 +1,145 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0297",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4695",
+      "confianca_modelo": 0.73,
+      "justificativa": "O enunciado combina crimes tributários e financeiros sob Direito Penal Econômico, cujo tema geral está inativo. Crimes Tributários é hipótese predominante pelas opções, mas não abrange Sistema Financeiro; não usar o ID inativo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4689"
+      ],
+      "alertas": [
+        "tema_geral_5078_inativo",
+        "cobranca_de_dois_ramos"
+      ]
+    },
+    {
+      "id": "Q0298",
+      "sugestao_decisao": "fora",
+      "tema_central_id": null,
+      "confianca_modelo": null,
+      "justificativa": "O item cobra crimes contra relações de consumo da Lei 8.137/1990. O tema ativo 4694 é expressamente Crimes previstos no CDC, de outra lei, e 4695 cobre matéria tributária; não foi fornecida equivalência que estenda esses escopos aos tipos de consumo da Lei 8.137.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4694",
+        "4695"
+      ],
+      "alertas": [
+        "lacuna_de_lei_e_escopo_especifico_a_confirmar"
+      ]
+    },
+    {
+      "id": "Q0300",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5084",
+      "confianca_modelo": 0.96,
+      "justificativa": "O comando pede enquadrar auxílio posterior por ocultação de arma do crime, contrastando favorecimento com participação anterior. O subtema de favorecimento pessoal e real representa a comparação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0301",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5197",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado pede identificar hipótese sem perdão judicial entre diferentes crimes. O instituto de perdão é central; os crimes são exemplos de incidência.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0304",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5540",
+      "confianca_modelo": 0.95,
+      "justificativa": "O enunciado delimita competência dos juizados e manutenção de benefícios em outro juízo. O subtema de competência do JECRIM é específico, com institutos despenalizadores como consequência da distribuição.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5539",
+        "4701"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0305",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5466",
+      "confianca_modelo": 0.94,
+      "justificativa": "O bloco delimita ação penal pública, titularidade, denúncia, representação e requisição. O pai processual de Ação Penal cobre a combinação de espécies e condições, mantendo a premissa de objeto processual.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5064",
+        "5470",
+        "5471"
+      ],
+      "alertas": [
+        "premissa_objeto_processual_e_escopo_do_ramo"
+      ]
+    },
+    {
+      "id": "Q0306",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5146",
+      "confianca_modelo": 0.97,
+      "justificativa": "O enunciado cobra associação criminosa e a diferencia de organização e associação para tráfico. Trata-se do ramo de crimes contra a paz pública, não do tema legal de organização criminosa.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4705"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0307",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4707",
+      "confianca_modelo": 0.98,
+      "justificativa": "A assertiva discute responsabilidade por omissão diante de tortura para confissão. A Lei de Tortura é o objeto normativo explícito e específico; omissão integra a discussão desse delito.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5223"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0308",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5501",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando pergunta pelo significado/efeito do arquivamento do inquérito por insuficiência de elementos. O subtema específico de conclusão e arquivamento corresponde ao objeto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0310",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5505",
+      "confianca_modelo": 0.96,
+      "justificativa": "O bloco delimita aplicação temporal, espacial e interpretação da lei processual. O pai substantivo Lei Processual no Tempo e no Espaço abrange seus filhos efetivamente comparados.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5507",
+        "5506",
+        "5508"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "Q0256",
+    "enunciado": "Tanto a conduta do agente que age imprudentemente, por desconhecimento invencível de algum elemento do tipo quanto a conduta do agente que age acreditando estar autorizado a fazê-lo ensejam como consequência a exclusão do dolo e, por conseguinte, a do próprio crime.",
+    "comando": "Explique a consequência da conduta do agente que age imprudentemente por desconhecimento invencível ou acreditando estar autorizado a agir.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria do Crime (Fato Típico) Parte 02",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0257",
+    "enunciado": "O princípio da legalidade é pedra fundamental do Direito Penal brasileiro, marcando, por isso, a própria abertura do Código em seu dispositivo prefacial. Registra, também, sua presença no elevado artigo 5º, da Constituição Federal, especificamente em seu inciso XXXIX. Nessa linha, o grande jurista Luis Jiménez Asúa afirma com precisão: “Ernest Beling, que expôs a teoria da tipicidade pela primeira vez, deu a ela, desde seu primeiro livro, um valor decisivo na construção técnica do crime, e recentemente estudou o significado do princípio nulla poena sine lege para a determinação dos conceitos fundamentais dos delitos. Ora, visto que não há crime sem um tipo legal claramente formulado, é possível, no sentir de Beling, levar o princípio nullum crimen sine lege adiante, dizendo: 'não há crime sem tipicidade' (kein Verbrechen ohne Tatbestand).” (La Ley e el Delito: princípios de derecho penal. 13ª edição, Buenos Aires: Abeledo-Perrot Editorial Sudamericano, 1984, p. 97-98, tradução livre). Atento às advertências lançadas no trecho, analise as afirmativas abaixo. I. O Direito Penal expressa suas previsões punitivas no tipo penal ou tipo legal incriminador, que é o modelo de conduta prevista na lei penal, que pode ser classificado como crime, contravenção ou ato de improbidade administrativa. II. O autor do crime é a pessoa humana, também designado como sujeito ativo de crime. Excepcionalmente, nos termos da lei e da Constituição, é possível atribuir responsabilidade penal à pessoa jurídica. III. É possível existir um fato que seja ilícito, mas que não seja correspondentemente típico, isto é, que não se subsuma a um tipo penal incriminador e ainda assim seja ilícito. Estão corretas as afirmativas:",
+    "comando": "",
+    "alternativas": {
+      "A": "I, II e III",
+      "B": "I e II apenas",
+      "C": "I e III apenas",
+      "D": "II e III apenas"
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Teoria Geral do Delito, Tipicidade",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0258",
+    "enunciado": "O exame de corpo de delito",
+    "comando": "Explique o que é o exame de corpo de delito.",
+    "alternativas": {
+      "A": "deve ser realizado por perito oficial ou pelo próprio juiz.",
+      "B": "deve ser realizado quando se mostrar ausente vestígio do crime, assegurado o direito de apresentação de quesitos pelas partes.",
+      "C": "será feito de maneira indireta no caso de competência do Tribunal do Júri.",
+      "D": "poderá ser substituído pela acareação ou pelo reconhecimento em crimes contra a fé pública.",
+      "E": "será realizado com prioridade em caso de violência doméstica e familiar contra a mulher."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento do Júri",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0259",
+    "enunciado": "O crime de dano (CP, art. 163), norma menos grave, funciona como elemento do crime de furto qualificado pelo rompimento de obstáculo à subtração da coisa (CP, art. 155, § 4.º, inciso I).\nNesta hipótese, o crime de dano é excluído pela norma mais grave, em função do princípio da",
+    "comando": "Complete a frase com o princípio aplicável.",
+    "alternativas": {
+      "A": "especialidade.",
+      "B": "consunção.",
+      "C": "subsidiariedade tácita ou implícita.",
+      "D": "subsidiariedade expressa ou explícita."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria do Crime (Ilicitude)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0260",
+    "enunciado": "Analise as assertivas abaixo e indique a alternativa:\nI. Das construções doutrinárias de Günther Jakobs acerca do “Direito Penal do Inimigo”, extrai-se que aquele que por princípio se conduz de modo desviado, não oferece garantia de um comportamento pessoal, por isso não pode ser tratado como cidadão, mas deve ser combatido como inimigo;\nII. Uma classificação atual de justiça – levada em consideração na criação de novos métodos de resolução de conflitos -, que surge como alternativa para que o crime não seja punido de maneira retributiva, mas que o dano causado seja reparado ou minimizado, é a Justiça Restaurativa;\nIII. O Direito pátrio acolhe muitas das reinvindicações das minorias mediante edição de normas jurídicas que visam a manter a convivência harmônica do coletivo;\nIV. A afirmativa de João Baptista Herkenhoff (in Movimentos Sociais, Porto Alegre: Livraria do Advogado, 2004, p.25) de que “Os movimentos sociais não se submetem aos padrões do Direito estabelecido. Sobretudo em sociedades, como a brasileira, onde milhões de pessoas estão à margem de qualquer direito, num estado de permanente negação da Cidadania, os movimentos sociais estão sempre a ´criar direitos´ à face de uma realidade sociopolítica surda aos apelos de direito e dignidade humana”, reflete o confronto dos movimentos sociais com a ordem social cristalizada.",
+    "comando": "Analise as assertivas abaixo e indique a alternativa.",
+    "alternativas": {
+      "A": "Apenas as assertivas II, III e IV são corretas;",
+      "B": "Somente as assertivas II e IV são corretas;",
+      "C": "Apenas as assertivas II e III são corretas;",
+      "D": "Somente a assertiva III é correta;",
+      "E": "Todas as assertivas são corretas."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Criminologia no Estado Democrático de Direito",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0261",
+    "enunciado": "Honorato adquiriu regularmente um programa de computador para uso pessoal. Contudo, desejando realizar uma cópia de segurança, reproduziu o conteúdo em mídia digital, guardando-a consigo.\nConsiderando que Honorato não possuía expressa autorização do autor do programa para o ato, é correto afirmar que sua conduta:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "não constitui crime.",
+      "B": "constitui crime previsto no Código Penal.",
+      "C": "constitui crime previsto no art. 12 da Lei n°9.609, cujo processamento se dará mediante ação\npública incondicionada.",
+      "D": "constitui crime previsto no art. 12 da Lei n°9.609, cujo processamento se dará mediante ação\npública condicionada à representação do\nofendido.",
+      "E": "constitui crime previsto no art. 12 da Lei n°9.609, cujo processamento se dará mediante ação\nprivada."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0262",
+    "enunciado": "Sobre a superveniência de doença mental ao apenado na fase de execução de pena, é\ncorreto afirmar:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Sobrevinda doença mental ao réu depois da sentença condenatória, haja vista exceção expressa\nno CPP, pode ser decretada pelo juízo da causa, ao constatar a enfermidade do apenado em oitiva,\na sua remoção provisória para hospital de custódia e tratamento psiquiátrico, sem prejuízo de revisão\nda decisão judicial em sede de recurso, pendente de exame.",
+      "B": "Pela Lei de Execução Penal, atestada em perícia médica o leve grau da enfermidade do apenado,\nmesmo não tendo sido feita a conversão da pena em medida de segurança, poderá ser determinado\npelo juízo o tratamento ambulatorial na própria unidade penitenciária, em vez de ser decretada a\ninternação em hospital de custódia.",
+      "C": "Em qualquer circunstância, a remoção do apenado para hospital de custódia e tratamento\npsiquiátrico poderá ser determinada provisoriamente pelo diretor do estabelecimento penal,\ncomunicando-se imediatamente ao juiz, que em face da perícia médica, ratificará ou revogará a\nmedida, na forma de regras do CPP não revogadas pela reforma legislativa.",
+      "D": "Suspensa a execução da pena em virtude de superveniência de doença mental do apenado,\naplicada a medida de segurança, prevalecem as normas desta até o fim da execução, mesmo que\nantes do término do tempo de pena ocorra a cura da enfermidade, atestada em perícia.",
+      "E": "O juiz da execução poderá, com base em perícia médica, determinar o internamento em hospital\nde custódia e tratamento psiquiátrico ou, a conversão da pena em medida de segurança, acaso\nsobrevinda a doença mental ao apenado durante a execução."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Medida de Segurança",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0263",
+    "enunciado": "O juiz dar-se-á por suspeito e, se não o fizer, poderá ser recusado por qualquer das partes:\nI. Se ele próprio ou seu cônjuge ou parente, consanguíneo ou afim, em linha reta ou colateral até o terceiro grau, inclusive, for parte ou diretamente interessado no feito.\nII. Se ele, seu cônjuge, ascendente ou descendente, estiver respondendo a processo por fato análogo, sobre cujo caráter criminoso haja controvérsia.\nIII. Se ele, seu cônjuge, ou parente, consanguíneo, ou afim, até o terceiro grau, inclusive, sustentar demanda ou responder a processo que tenha de ser julgado por qualquer das partes.\nIV. Ele próprio houver desempenhado qualquer dessas funções (defensor ou advogado, órgão do Ministério Público, autoridade policial, auxiliar da justiça ou perito) ou servido como testemunha.",
+    "comando": "Avalie as assertivas acima e marque a alternativa CORRETA.",
+    "alternativas": {
+      "A": "Apenas as assertivas I e IV estão corretas.",
+      "B": "Apenas as assertivas I, II e III estão corretas.",
+      "C": "Apenas as assertivas II e III estão corretas.",
+      "D": "Todas as assertivas estão corretas."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento do Júri",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0264",
+    "enunciado": "Nos crimes contra a dignidade sexual, tratando-se da vítima menor de 14 anos, ou enferma ou deficiente mental sem o necessário discernimento para o ato, a situação em que o proxeneta e o cliente que pratica a conjunção carnal enquadram-se no delito de estupro de vulnerável; enquanto o proprietário, o gerente ou o responsável pelo local responderão, tão somente, pelo crime de favorecimento à prostituição, na modalidade de conduta equiparada.\nJá, quando a vítima explorada sexualmente for menor de 18 e maior de 14 anos, o cliente que pratica a conjunção carnal responderá pelo crime de favorecimento à prostituição.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Lesão Corporal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0265",
+    "enunciado": "Na hipótese de concurso de crimes, a extinção da punibilidade pela prescrição incidirá sobre a pena cominada por cada crime, isoladamente.",
+    "comando": "Explique como a prescrição incide sobre a pena em caso de concurso de crimes.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Punibilidade",
+    "alertas_preparacao": []
+  }
+]

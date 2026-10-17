@@ -1,0 +1,93 @@
+{
+  "id": "Q0092",
+  "consulta_executada": "\"A incompetência do juízo anula _________, devendo o processo, quando for declarada a nulidade, ser remetido ao juiz competente; a\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Legislação Federal - Senado Federal",
+      "url": "https://legis.senado.leg.br/norma/524627/publicacao/15708630",
+      "ref_consulta": "turn105search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Portal da Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-3689-3-outubro-1941-322206-publicacaooriginal-1-pe.html",
+      "ref_consulta": "turn105search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Legislação Federal - Senado Federal",
+      "url": "https://legis.senado.leg.br/norma/528776/publicacao/34620736",
+      "ref_consulta": "turn105search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "A incompetência do juízo anula _________, devendo o processo...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/0048b782217",
+      "ref_consulta": "turn105search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Nulidades no Processo Penal para Concurso - Página 4 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/nulidades-no-processo-penal/questoes?page=4",
+      "ref_consulta": "turn105search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Decreto-Lei 3.689 - 03/10/1941 (CPP)",
+      "url": "https://legislacao-sad.pe.gov.br/Legislacao/html/dlf_3_689___03101941_cpp.htm",
+      "ref_consulta": "turn105search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "A incompetência do juízo anula _________, devendo o proce... - Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-processual-penal-406602/3040603",
+      "ref_consulta": "turn105search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Processual Penal para TRF - 3ª REGIÃO | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&institute_ids%5B%5D=3",
+      "ref_consulta": "turn105search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Incompetência do Juízo",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-processual-penal-incompetencia-do-juizo-415209",
+      "ref_consulta": "turn105search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Nulidades no Processo Penal para Concurso - Página 4 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/nulidades-no-processo-penal/questoes?has_professor_commentaries=true&page=4",
+      "ref_consulta": "turn105search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "VI — Declarada a competência do Juízo suscitado.",
+      "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302307989",
+      "ref_consulta": "turn105search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Criminal Procedure Code (Decree-Law No. 3.689 of October 3, 1941, as amended up to Law 12.403 of May 4, 2011), Brazil, WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/9734",
+      "ref_consulta": "turn105search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Art. 564. A nulidade ocorrerá nos seguintes casos:",
+      "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/608779/Vade_mecum_2023.pdf",
+      "ref_consulta": "turn105search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "SUPERIOR TRIBUNAL DE JUSTIÇA",
+      "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?dt_publicacao=18%2F09%2F2012&num_registro=201200333449",
+      "ref_consulta": "turn105search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,105 @@
+{
+  "id": "Q0242",
+  "consulta_executada": "\"O recurso extraordinário e o recurso especial serão processados e julgados no Supremo Tribunal Federal e no\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Legislação Federal - Senado Federal",
+      "url": "https://legis.senado.gov.br/norma/528776/publicacao/34620736",
+      "ref_consulta": "turn277search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "DECRETO-LEI Nº 3",
+      "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-3689-3-outubro-1941-322206-normaatualizada-pe.html",
+      "ref_consulta": "turn277search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/peticaoInicial/verPeticaoInicial.asp?base=ADI&numProcesso=6735",
+      "ref_consulta": "turn277search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "<table id=\"e1\">",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/grupos-de-trabalho/56a-legislatura/legislacao-penal-e-processual-penal/outros-documentos/quadro-comparativo-das-decisoes/view",
+      "ref_consulta": "turn277search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Art. 638. da Lei nº 13.964 de 24/12/2019",
+      "url": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2019-12-24%3B13964%402019-12-24%21art3_cpt_alt1_art638",
+      "ref_consulta": "turn277search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "em casos nos quais verificada a coação ilegal. Em nenhum aspecto referido dispositivo alterou a norma contida no art. 638 do CPP (\"O recurso extraordinário e o recurso especial serão processados e julgados no Supremo Tribunal Federal e no Superior Tribunal de Justiça na forma estabelecida por leis especiais, pela lei processual civil e pelos respectivos regimentos internos\"), de modo que os requisitos para admissibilidade e processamento do recurso especial e do agravo em recurso especial permanecem hígidos e inalterados na presente ordem processual, não se configurando, no caso, hipótese de incidência do art. 647-A do CPP.",
+      "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?dt_publicacao=25%2F02%2F2025&num_registro=202300824271",
+      "ref_consulta": "turn277search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "LEI Nº 5",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1970-1979/lei-5869-11-janeiro-1973-357991-normaatualizada-pl.html",
+      "ref_consulta": "turn277search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Tribunal de Justiça do Mato Grosso TJ-MT - APELAÇÃO CRIMINAL: XXXXX-02.2023.8.11.0040 | Jurisprudência",
+      "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-mt/4635663873/inteiro-teor-4635663904",
+      "ref_consulta": "turn277search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "<table id=\"e1\">",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/grupos-de-trabalho/56a-legislatura/gt-anteprojeto-do-novo-codigo-de-processo-penal/outros-documentos/QUADROCOMPARATIVOTEMA8RECURSOSEAESDEIMPUGNAO.docx.pdf",
+      "ref_consulta": "turn277search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Art. 638 do CPP: texto e jurisprudência | Precedentes",
+      "url": "https://precedentes.com.br/lei/cpp/638",
+      "ref_consulta": "turn277search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Tribunal de Justiça do Mato Grosso TJ-MT: XXXXX-97.2016.8.11.0042 MT | Jurisprudência",
+      "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-mt/1252700017/inteiro-teor-1252700318",
+      "ref_consulta": "turn277search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "3.689, de 3.10.41 - Código de Processo Penal.",
+      "url": "https://www.meuvademecumonline.com.br/legislacao/decretos_lei/764/pagina_1/1/3-689-de-3-10-41/artigo_638",
+      "ref_consulta": "turn277search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "REPÚBLICA FEDERATIVA DO BRASIL",
+      "url": "https://imagem.camara.gov.br/Imagem/d/pdf/DCD0020160512000730000.PDF",
+      "ref_consulta": "turn277search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "\"Art. 638. O recurso extraordinário e o recurs",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra%3Bjsessionid%3D2535C9705C59DFF1BDDAD3D43AD01B18.proposicoesWebExterno2?codteor=1442933&filename=Avulso+-PL+2807%2F2015",
+      "ref_consulta": "turn277search16",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Art. 638 do Código de Processo Penal — O recurso extraordinário e o recurso especial serão processados e… | LegJur",
+      "url": "https://www.legjur.com/legislacao/art/DCL_00036891941-638",
+      "ref_consulta": "turn277search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "<table id=\"e1\">",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra%3Bjsessionid%3Dnode014jud69kf3srs1udjkekb78i8z4344875.node0?codteor=1772332&filename=RRL+1%2F2019+GTPENAL",
+      "ref_consulta": "turn277search17",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,317 @@
+[
+  [
+    151,
+    "C",
+    "publicar",
+    "5523",
+    [],
+    0.97,
+    "A resposta correta exige o aumento de fiança em até mil vezes conforme situação econômica. O núcleo resolve-se em liberdade provisória/fiança; não é necessário manter o pai de todas as prisões por haver outras espécies nos distratores.",
+    "CPP:325"
+  ],
+  [
+    152,
+    "B",
+    "publicar",
+    "5472",
+    [],
+    0.98,
+    "Pede-se a preferência entre sucessores com direito de queixa, começando pelo cônjuge. O tema é legitimidade/sucessão na ação privada; o enunciado menciona art. 31, mas a preferência está articulada com art. 36.",
+    "CPP:31,36"
+  ],
+  [
+    153,
+    "A",
+    "publicar",
+    "5222",
+    [],
+    0.98,
+    "A resposta identifica dolo geral em dois atos sucessivos que realizam o resultado pretendido. A classificação do dolo é explicitamente perguntada, sem exigir escolher o tipo de homicídio.",
+    "Doutrina penal: dolo geral ou erro sucessivo"
+  ],
+  [
+    154,
+    "B",
+    "publicar",
+    "5135",
+    [],
+    0.95,
+    "A resposta exige a proibição criminal de teste de gravidez/esterilização no acesso ou manutenção do trabalho. Adota-se Organização do Trabalho para a proteção penal trabalhista da Lei 9.029, por conteúdo material e ausência de nó próprio; não se confunde com Direito do Trabalho puramente civil.",
+    "Lei 9.029/1995:2; premissa: tema material abrange crimes trabalhistas de lei especial, como a premissa de propriedade imaterial na Q0261"
+  ],
+  [
+    155,
+    "B",
+    "publicar",
+    "6734",
+    [],
+    0.95,
+    "O conhecimento é cabimento, condições e duração do RDD na execução, inclusive prisão provisória e suspeita de associação. Escolhe-se o ramo processual da LEP pelo instituto disciplinar executório, com base no art. 52.",
+    "LEP:52; contexto temporal da redação do pacote anticrime"
+  ],
+  [
+    156,
+    "D",
+    "publicar",
+    "4688",
+    [],
+    0.97,
+    "O item compara sanções da Lei de Crimes Ambientais; a interdição por três anos nos crimes culposos, art.10, identifica a resposta D proposta. Adota-se 4688 pelo regime normativo especial exigido.",
+    "Lei9.605/1998:10,16,22,37; art.10 consultado; D assistida"
+  ],
+  [
+    157,
+    "E",
+    "publicar",
+    "5520",
+    [
+      "4693"
+    ],
+    0.98,
+    "A solução combina prazo da prisão temporária e a hediondez da epidemia com morte, que leva ao prazo de trinta dias prorrogável. O extra Hediondos é necessário para escolher o prazo especial; epidemia não é incluída como tema apenas por aparecer na narrativa.",
+    "Lei 7.960/1989:2; Lei 8.072/1990:1,2"
+  ],
+  [
+    158,
+    "A",
+    "publicar",
+    "4707",
+    [],
+    0.98,
+    "A perda de cargo e a interdição pelo dobro da pena decorrem da Lei de Tortura. A consequência especial da condenação resolve a questão; o tipo de tortura não é substituído por efeitos gerais do CP.",
+    "Lei 9.455/1997:1"
+  ],
+  [
+    159,
+    "B",
+    "publicar",
+    "5226",
+    [
+      "5150",
+      "5160"
+    ],
+    0.95,
+    "A causa superveniente produtora da morte distingue a tentativa de homicídio de Caio e o latrocínio de Lívio. Nexo Causal é central; Homicídio e Roubo/latrocínio são extras efetivamente exigidos nos dois enquadramentos. Não é necessário reter por existir mais de um conteúdo.",
+    "CP:13,§1º,121,157; art.13 consultado; B assistida"
+  ],
+  [
+    160,
+    "E",
+    "publicar",
+    "5205",
+    [],
+    0.99,
+    "A assertiva ignora a possibilidade de substituição para reincidente genérico quando socialmente recomendável. O objeto é o regime das penas restritivas de direitos.",
+    "CP:44"
+  ],
+  [
+    161,
+    "A",
+    "publicar",
+    "5588",
+    [
+      "5554"
+    ],
+    0.98,
+    "A tese principal é relaxar prisão ilegal por ingresso domiciliar sem justa causa/autorização. A quantidade de droga e a situação pessoal não tornam liberdade provisória o primeiro pedido; a busca é segundo conteúdo indispensável.",
+    "CF:5,XI,LXV; CPP:240,244,310; STF:RE603616"
+  ],
+  [
+    162,
+    "C",
+    "publicar",
+    "4381",
+    [],
+    0.98,
+    "A solução diferencia controle social formal, exercido por órgãos estatais, e informal. O controle social é objeto da criminologia, não uma classificação penal de delito.",
+    "Criminologia: objetos e controle social formal/informal"
+  ],
+  [
+    163,
+    "E",
+    "revisar",
+    "5133",
+    [
+      "4703"
+    ],
+    0.74,
+    "O item usa a revogada Lei4.898/1965 e depende do regime histórico da correspondência prisional. Conferir prova/contexto, sem atualizar silenciosamente a resposta.",
+    "CP:151; LEP:41; STF:HC70814; contexto histórico da Lei 4.898/1965"
+  ],
+  [
+    164,
+    "A",
+    "publicar",
+    "4703",
+    [],
+    0.97,
+    "A assistência ao preso/egresso, em especial alojamento e alimentação do art.25, sustenta LEP em Legislação Especial (4703). Adota-se esse ramo para direitos assistenciais estatutários, distinguindo incidentes judiciais da execução do ramo6734. A divisão é premissa, não equivalência entre IDs.",
+    "Lei7.210/1984:12,14,18,25,26; art.25 consultado; A assistida"
+  ],
+  [
+    165,
+    "A",
+    "revisar",
+    "4705",
+    [],
+    0.75,
+    "O art.2º,§1º, da Lei12.850 foi alterado pela Lei15.245/2025. O central4705 está escolhido, mas versão temporal e formulação da resposta exigem conferência.",
+    "Lei 12.850/2013:1,2,4"
+  ],
+  [
+    166,
+    "E",
+    "publicar",
+    "5521",
+    [],
+    0.98,
+    "A resposta é prisão domiciliar ao condenado em regime aberto maior de setenta anos. O cumprimento de fração, latrocínio e reincidência compõem distratores de outros benefícios; a resolução permite sair do pai LEP e selecionar o instituto específico.",
+    "LEP:117"
+  ],
+  [
+    167,
+    "D",
+    "publicar",
+    "5524",
+    [],
+    0.96,
+    "As opções exigem pressupostos, legitimados e momento do desaforamento. A hipótese de incorreção recai no marco da pronúncia, devendo-se conferir a redação/gabarito original; a classificação no Júri é inequívoca.",
+    "CPP:427,428; gabarito oficial não confirmado"
+  ],
+  [
+    168,
+    "A",
+    "fora",
+    null,
+    [],
+    0.0,
+    "A resolução identifica crimes contra a incerteza do resultado esportivo da Lei Geral do Esporte. Não é corrupção funcional do CP nem crime de outro estatuto listado. O catálogo não possui tema esportivo ativo compatível.",
+    "Lei 14.597/2023:198,199; catálogo sem crimes desportivos"
+  ],
+  [
+    169,
+    "C",
+    "publicar",
+    "5492",
+    [],
+    0.99,
+    "A resposta exige os efeitos da dissolução da afinidade sobre impedimento/suspeição e a exceção para familiares indicados. O tema específico cobre também as distinções usadas nas opções.",
+    "CPP:252,253,254,255,256"
+  ],
+  [
+    170,
+    "D",
+    "publicar",
+    "5199",
+    [
+      "5188"
+    ],
+    0.96,
+    "O conhecimento central é reincidência/primariedade e efeitos de condenações, representado por Teoria da Pena. A opção correta depende de prescrição da pretensão punitiva retroativa que elimina efeitos condenatórios, justificando o extra; indulto e reabilitação não produzem esse mesmo efeito.",
+    "CP:63,64,107,109; prescrição punitiva retroativa"
+  ],
+  [
+    171,
+    "B",
+    "publicar",
+    "4693",
+    [],
+    0.97,
+    "A prova oficial e o gabarito preliminar indicam B, sobre inclusão do roubo com arma de fogo no rol de hediondos. O conhecimento que sustenta a resposta fornece núcleo específico. Os outros institutos do pacote são distratores; variedade temática não basta para revisar.",
+    "Parecer documentado docs/REAVALIACAO_Q0171.md; prova FGV/DPE-RJ2021 tipo2 questão40; gabarito preliminar oficial; Lei 13.964/2019"
+  ],
+  [
+    172,
+    "D",
+    "revisar",
+    "5484",
+    [
+      "5467"
+    ],
+    0.73,
+    "A resposta indicada exige imunidade parlamentar para recebimento de denúncia; falta nó explícito. Competência por função não é equivalente; verificar contexto e alcance da sugestão.",
+    "CF:27,53; EC35/2001; escopo de imunidade/condições da ação no catálogo pendente"
+  ],
+  [
+    173,
+    "C",
+    "publicar",
+    "6734",
+    [],
+    0.95,
+    "O objeto é regressão de regime e efeitos das faltas no processo de execução. A hipótese C deve ser lida com o art. 118, §1º, incluindo condições do regime aberto e possibilidade de pagar multa. O tema processual executório permanece claro mesmo com a necessidade de conferir o gabarito.",
+    "LEP:49,50,118,127"
+  ],
+  [
+    174,
+    "B",
+    "publicar",
+    "5133",
+    [],
+    0.97,
+    "A resposta exige a redação de invasão de dispositivo informático após 2021, que dispensou violação de mecanismo de segurança. Pornografia e fraude eletrônica são opções distintas. O art. 154-A está no âmbito dos segredos, compatível com o caminho 5133.",
+    "CP:154-A,154-B; Lei 14.155/2021; conferir data da prova"
+  ],
+  [
+    175,
+    "C",
+    "publicar",
+    "5092",
+    [],
+    0.99,
+    "O agente solicita vantagem para não autuar, caracterizando corrupção passiva; não há exigência constrangedora típica da concussão. Embriaguez ao volante só explica a abordagem.",
+    "CP:317"
+  ],
+  [
+    176,
+    "A",
+    "publicar",
+    "5081",
+    [],
+    0.97,
+    "A resposta assistida identifica falso testemunho como delito de mão própria. As opções discutem sujeito, dolo, retratação e relevância da falsidade, todas no mesmo tipo; falta gabarito oficial, sem dúvida temática relevante.",
+    "CP:342; gabarito oficial não confirmado"
+  ],
+  [
+    177,
+    "A",
+    "publicar",
+    "5547",
+    [],
+    0.98,
+    "A INCORRETA permite usar silêncio para aumentar pena-base. O núcleo é direito ao silêncio e garantias no interrogatório, que estruturam o conjunto; dosimetria aparece como efeito indevido a rejeitar.",
+    "CPP:186; CF:5,LXIII"
+  ],
+  [
+    178,
+    "D",
+    "publicar",
+    "4697",
+    [],
+    0.97,
+    "A resposta depende do alcance territorial e funcional do porte de arma da polícia judicial previsto no estatuto e regulamentação do CNJ. É matéria específica de porte, não administração judiciária em geral.",
+    "Lei 10.826/2003:6; CNJ:Resolução467/2022; fonte primária da resolução a conferir"
+  ],
+  [
+    179,
+    "C",
+    "publicar",
+    "4369",
+    [],
+    0.98,
+    "Julga-se a prevenção secundária dirigida a grupos e contextos de risco. O tema de sistemas de prevenção representa o conhecimento explícito, sem relação com pena de um delito específico.",
+    "Criminologia: prevenção primária, secundária e terciária"
+  ],
+  [
+    180,
+    "E",
+    "publicar",
+    "5594",
+    [
+      "5554"
+    ],
+    0.98,
+    "A resposta exige reconhecer ilicitude da busca noturna sem ordem ou consentimento e inadmissibilidade das provas. Peculato é só contexto. A busca domiciliar é conteúdo adicional efetivamente necessário para justificar a ilicitude.",
+    "CF:5,XI,LVI; CPP:157,245"
+  ]
+]

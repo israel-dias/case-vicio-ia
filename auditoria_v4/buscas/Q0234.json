@@ -1,0 +1,93 @@
+{
+  "id": "Q0234",
+  "consulta_executada": "\"A interdisciplinaridade é intrínseca à natureza da criminologia. Dessa forma, a ciência que se afasta do estudo da criminologia é\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Microsoft Word - 729_PC_ES_001_01.docx",
+      "url": "https://cdn.cebraspe.org.br/concursos/pc_es_22_delegado/arquivos/729_PC_ES_001_01.PDF",
+      "ref_consulta": "turn267search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Microsoft Word - 729_PC_ES_001_01.docx",
+      "url": "https://cdn.cebraspe.org.br/concursos/PC_ES_22_DELEGADO/arquivos/729_PC_ES_001_01.PDF",
+      "ref_consulta": "turn267search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Criminologia para CESPE / CEBRASPE | Qconcursos.com - Página 3",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=554&examining_board_ids%5B%5D=2&page=3&per_page=20",
+      "ref_consulta": "turn267search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "POLÍCIA CIVIL DO ES",
+      "url": "https://www.editorasolucao.com.br/editorasolucao/apostilas/30290/77041/SL-022OT-25-CADERNO-PC-PI-OFI-GAB_AMOSTRA.pdf",
+      "ref_consulta": "turn267search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Criminologia - Conceito, Objeto (Delito, Delinquente e Vítima), Método, Origem e História da Criminologia. para Concurso - Página 4 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-criminologia/conceito-objeto-delito-delinquente-e-vitima-metodo-origem-e-historia-da-criminologia/questoes?from_omniauth=true&page=4",
+      "ref_consulta": "turn267search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "A interdisciplinaridade é intrínseca à natureza da crimi - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questao-de-concurso/978608",
+      "ref_consulta": "turn267search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Criminologia para Delegado de Polícia | Qconcursos.com - Página 4",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=554&job_ids%5B%5D=169&page=4",
+      "ref_consulta": "turn267search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Interdisciplinaridade",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/criminologia-interdisciplinaridade-430538",
+      "ref_consulta": "turn267search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Criminologia para CESPE / CEBRASPE | Qconcursos.com - Página 3",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=554&examining_board_ids%5B%5D=2&page=3",
+      "ref_consulta": "turn267search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Criminologia | Qconcursos.com - Página 12",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=554&page=12",
+      "ref_consulta": "turn267search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Métodos da Criminologia",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/criminologia-metodos-da-criminologia-400816",
+      "ref_consulta": "turn267search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Direito Administrativo e Penal: Semana 04 | PDF | Administração pública | Decreto",
+      "url": "https://pt.scribd.com/document/861106802/Caderno-de-Doutrina",
+      "ref_consulta": "turn267search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Conceito, Objeto (Delito, Delinquente e Vítima), Método, Origem e História da Criminologia. em Criminologia | Qconcursos.com - Página 3",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=554&has_commentaries=true&page=3&subject_ids%5B%5D=19206",
+      "ref_consulta": "turn267search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: SIMULADO PMCE 27 04 - Questões Resolvidas com Gabarito em PDF",
+      "url": "https://www.passeidireto.com/arquivo/190837055/simulado-pmce-27-04",
+      "ref_consulta": "turn267search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

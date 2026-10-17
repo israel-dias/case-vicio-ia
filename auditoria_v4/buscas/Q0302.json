@@ -1,0 +1,105 @@
+{
+  "id": "Q0302",
+  "consulta_executada": "\"César é açougueiro e está trabalhando regulamente no freezer do açougue, quando uma pessoa, fugindo da Polícia, se esconde atrás\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "César é açougueiro e está trabalhando regulamente no freezer...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/fc2434f6-35",
+      "ref_consulta": "turn336search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "MINISTÉRIO PÚBLICO MILITAR",
+      "url": "https://www.mpm.mp.br/wp-content/uploads/sites/5/2023/06/recurso-provas.pdf",
+      "ref_consulta": "turn336search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 45 - DPE-AM - Analista Judiciário - FCC (2022) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/defensoria-publica-do-estado-do-amazonas-dpe-am-analista-judiciario-direito-fcc-2022/45",
+      "ref_consulta": "turn336search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para FCC | Qconcursos.com - Página 795",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=1&has_professor_commentaries=false&page=795",
+      "ref_consulta": "turn336search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 45 do Concurso Defensoria Pública do Estado do Amazonas (DPE-AM) - Analista Judiciário - Direito (2022) - Questões Estratégicas",
+      "url": "https://www.questoesestrategicas.com.br/questoes/ver/wM7iAcCHY7qmzSo2dNsmBQ_GWypZHEEN5xTp1lBT3c8",
+      "ref_consulta": "turn336search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova de Analista Jurídico - DPEAM 2022 | PDF | Confissão (jurídico) | Crimes",
+      "url": "https://pt.scribd.com/document/838634522/PROVA-ANALISTA-2022-2",
+      "ref_consulta": "turn336search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Tipicidade para Concurso - Página 16 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/tipicidade/questoes?has_professor_commentaries=true&page=16",
+      "ref_consulta": "turn336search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Tipicidade para Concurso - Página 17 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/tipicidade/questoes?has_professor_commentaries=true&page=17",
+      "ref_consulta": "turn336search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Atividade N2 2026 1 | PDF | Crimes | Crime e Violência",
+      "url": "https://pt.scribd.com/document/1048460207/ATIVIDADE-N2-2026-1",
+      "ref_consulta": "turn336search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "César é açougueiro e está trabalhando regulamente no freezer do açougue, quando uma pessoa, fugindo da - brainly.com.br",
+      "url": "https://brainly.com.br/tarefa/54366969",
+      "ref_consulta": "turn336search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "LEGISLAÇÃO",
+      "url": "https://jusconc.com/download/9586/?tmstv=1779312315",
+      "ref_consulta": "turn336search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para FCC e DPE-AM | Qconcursos.com - Página 12",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=1&institute_ids%5B%5D=5692&page=12",
+      "ref_consulta": "turn336search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "SL-023AB-26-CADERNO-MP-AL-ANA-JUD-GAB_AMOSTRA.indd",
+      "url": "https://www.editorasolucao.com.br/editorasolucao/apostilas/32838/91477/SL-023AB-26-CADERNO-MP-AL-ANA-JUD-GAB_AMOSTRA.pdf",
+      "ref_consulta": "turn336search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Apostila de 200 Questões - FCC - Direito Penal | PDF | Crimes | Crime e Violência",
+      "url": "https://pt.scribd.com/document/1058119249/Apostila-de-200-questo-es-FCC-Direito-Penal",
+      "ref_consulta": "turn336search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: Direito Penal - Questões Resolvidas com Gabarito em PDF",
+      "url": "https://www.passeidireto.com/arquivo/128938922/direito-penal",
+      "ref_consulta": "turn336search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "MILITAR",
+      "url": "https://www.editorasolucao.com.br/editorasolucao/apostilas/33074/92551/SL-093AB-26-CADERNO-PREP-PM-BA-SOL-GAB_AMOSTRA.pdf",
+      "ref_consulta": "turn336search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,134 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0078",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4697",
+      "confianca_modelo": 0.94,
+      "justificativa": "Apesar de ruídos de transcrição, enunciado e quatro alternativas delimitam posse, porte, comércio e cautela com arma de fogo. Estatuto do Desarmamento representa o núcleo; direção sem habilitação é aspecto secundário de uma alternativa.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4691"
+      ],
+      "alertas": [
+        "texto_com_ruidos_mas_nucleo_tematico_identificavel"
+      ]
+    },
+    {
+      "id": "Q0079",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5581",
+      "confianca_modelo": 0.97,
+      "justificativa": "As alternativas comparam os sistemas acusatório e inquisitivo e suas características. O subtema Sistemas Processuais Penais corresponde ao objeto, sem confundir a política criminal citada com o núcleo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0080",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4370",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado delimita modelos de reação ao delito e a assertiva discute o restaurador. O subtema específico de modelos de reação corresponde ao conteúdo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0081",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4373",
+      "confianca_modelo": 0.98,
+      "justificativa": "O bloco compara escolas clássica, positivista e crítica, seus autores e objetos. Escolas Crimonológicas cobre diretamente a comparação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0082",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5100",
+      "confianca_modelo": 0.96,
+      "justificativa": "O fato cobrado é oposição mediante ameaça à execução de ato policial, com alternativas de tipos contra a administração. Resistência, Desobediência e Desacato é o tema específico; violência doméstica é contexto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0083",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5226",
+      "confianca_modelo": 0.79,
+      "justificativa": "A sucessão disparo, erro sobre a morte e enterramento exige examinar desvio do curso causal/dolo geral e classificação do homicídio. Nexo Causal é hipótese, concorrendo com Homicídio e Erro de Tipo; o enunciado não nomeia o instituto teórico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5150",
+        "5224"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0084",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4704",
+      "confianca_modelo": 0.8,
+      "justificativa": "O núcleo é assistência prevista na Lei Maria da Penha, incluindo vínculo trabalhista e dependentes. Os ramos 4704/6724 não delimitam esse conteúdo não tipificador; explicitar premissa antes de publicar.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6724"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0085",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5076",
+      "confianca_modelo": 0.98,
+      "justificativa": "A pergunta exige saber se a elementar funcionário público se comunica ao particular concorrente. Comunicabilidade de Circunstâncias, Condições e Elementares é o instituto central; concussão é o exemplo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0086",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5092",
+      "confianca_modelo": 0.97,
+      "justificativa": "A narrativa delimita aceitação de vantagem por funcionário para deixar de autuar, com promessa não cumprida. O núcleo tipificador é corrupção passiva, não a condição de auditor trabalhista.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0087",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5521",
+      "confianca_modelo": 0.95,
+      "justificativa": "Enunciado e alternativas delimitam prisão domiciliar e seu cabimento na execução. O tema genérico da espécie de prisão não restringe seu pai a cautelares e representa o instituto específico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6734",
+        "4703"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

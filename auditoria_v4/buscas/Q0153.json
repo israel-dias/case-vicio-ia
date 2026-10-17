@@ -1,0 +1,87 @@
+{
+  "id": "Q0153",
+  "consulta_executada": "\"O agente que imagina já ter obtido o resultado pensado por ele, sem tê-lo alcançado, e, por isso, pratica outra\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Questões TJ-MA 2022 para Juiz Substituto de Entrância Inicial | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/cespe-cebraspe-2022-tj-ma-juiz-substituto-de-entrancia-inicial/questoes?discipline_ids%5B%5D=9",
+      "ref_consulta": "turn187search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 41 - TJ-MA - Juiz de Direito - CESPE/CEBRASPE (2022) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tj-ma-juiz-de-direito-cespe-cebraspe-2022/41",
+      "ref_consulta": "turn187search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Microsoft Word - 694_TJMA_001_01.docx",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/88438/cespe-cebraspe-2022-tj-ma-juiz-substituto-de-entrancia-inicial-prova.pdf",
+      "ref_consulta": "turn187search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Tipo Penal Doloso para Concurso - Página 2 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/tipo-penal-doloso/questoes?has_professor_commentaries=true&page=2",
+      "ref_consulta": "turn187search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Penal | Qconcursos.com - Página 348",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&page=348&per_page=5",
+      "ref_consulta": "turn187search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Tipo Penal Doloso para Concurso - Página 2 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/tipo-penal-doloso/questoes?page=2",
+      "ref_consulta": "turn187search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Tipo Penal Doloso em Direito Penal | Qconcursos.com - Página 2",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&page=2&subject_ids%5B%5D=2216",
+      "ref_consulta": "turn187search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Penal para CESPE / CEBRASPE | Qconcursos.com - Página 45",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&examining_board_ids%5B%5D=2&page=45",
+      "ref_consulta": "turn187search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Concurso Público — Questão 41 (Juiz de Direito Substituto - TJ (MA) CEBRASPE [Jul/2022]) | JurisWay",
+      "url": "https://jurisway.org.br/questoes-concursos/51809-direito-penal",
+      "ref_consulta": "turn187search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Penal para CESPE / CEBRASPE nível Superior | Qconcursos.com - Página 38",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&examining_board_ids%5B%5D=2&page=38&scholarity_ids%5B%5D=3",
+      "ref_consulta": "turn187search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão O agente que imagina já ter obtido o resultado pensado por ele, sem tê-lo alcançado, e, por isso, pratica out...",
+      "url": "https://cj.estrategia.com/public/questoes/agente-que-imagina-ja328faa168e/",
+      "ref_consulta": "turn187search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Juiz de Direito Substituto - TJ (MA) CEBRASPE [Jul/2022] — Concurso Público | JurisWay",
+      "url": "https://jurisway.org.br/provas-concursos/678-juiz-de-direito-substituto-tj-ma",
+      "ref_consulta": "turn187search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Dolo eventual",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-dolo-eventual-413732",
+      "ref_consulta": "turn187search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

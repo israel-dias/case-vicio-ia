@@ -1,0 +1,123 @@
+{
+  "id": "Q0219",
+  "consulta_executada": "\"Certo\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Cebraspe: uma errada anula uma certa? Como funciona a prova de Certo e Errado | Yatta Concursos",
+      "url": "https://yattaconcursos.com/blog/prova-cebraspe-certo-errado-como-funciona",
+      "ref_consulta": "turn255search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Certo ou Errado | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?modality_ids%5B%5D=2",
+      "ref_consulta": "turn255search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Certo ou Errado | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?modality_ids%5B%5D=2&msockid=3955dba0e281645019accd38e372658c",
+      "ref_consulta": "turn255search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "47º Exame de Ordem Unificado (OAB XLVII) - Caderno Branco (Tipo I) - Gabarito Preliminar alterado em 07/09/26 (Prova aplicada em 06/09/26) - 2026 (Segundo) - Direito Processual Civil",
+      "url": "https://www.jurisway.org.br/v2/Provas_Responder.asp?id_materia=&id_prova=690&id_questao=53314",
+      "ref_consulta": "turn255search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Examuto — Simulados e questões para provas e concursos",
+      "url": "https://examuto.app/",
+      "ref_consulta": "turn255search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "2026 (Segundo) (47º Exame de Ordem Unificado (OAB XLVII) - Caderno Branco (Tipo I) - Gabarito Preliminar alterado em 07/09/26 (Prova aplicada em 06/09/26) - Elaboração: FGV) - Direito Processual Civil",
+      "url": "https://www.jurisway.org.br/v2/Provas_Resolver.asp?id_materia=&id_prova=690&id_questao_atual=52",
+      "ref_consulta": "turn255search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Certo ou Errado | Qconcursos.com - Página 423",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?modality_ids%5B%5D=2&page=423",
+      "ref_consulta": "turn255search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "2026 (Segundo) (47º Exame de Ordem Unificado (OAB XLVII) - Caderno Branco (Tipo I) - Gabarito Preliminar alterado em 07/09/26 (Prova aplicada em 06/09/26) - Elaboração: FGV) - Direito do Consumidor",
+      "url": "https://www.jurisway.org.br/v2/Provas_Resolver.asp?id_materia=&id_prova=690&id_questao_atual=45",
+      "ref_consulta": "turn255search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Certo ou Errado | Qconcursos.com - Página 415",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?modality_ids%5B%5D=2&page=415",
+      "ref_consulta": "turn255search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "46º Exame de Ordem Unificado (OAB XLVI) - Caderno Branco (Tipo I) - Gabarito Preliminar atualizado em 04/05/26 (Prova aplicada em 03/05/2026)) - 2026 (Primeiro) - Direito Processual Civil",
+      "url": "https://www.jurisway.org.br/v2/provas_responder.asp?id_prova=689&id_questao=53234",
+      "ref_consulta": "turn255search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "2026 (Segundo) (47º Exame de Ordem Unificado (OAB XLVII) - Caderno Branco (Tipo I) - Gabarito Preliminar alterado em 07/09/26 (Prova aplicada em 06/09/26) - Elaboração: FGV) - Direito Processual do Trabalho",
+      "url": "https://www.jurisway.org.br/v2/Provas_Resolver.asp?id_materia=&id_prova=690&id_questao_atual=77",
+      "ref_consulta": "turn255search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "2026 (Segundo) (47º Exame de Ordem Unificado (OAB XLVII) - Caderno Branco (Tipo I) - Gabarito Preliminar alterado em 07/09/26 (Prova aplicada em 06/09/26) - Elaboração: FGV) - Direito Civil",
+      "url": "https://www.jurisway.org.br/v2/Provas_Resolver.asp?id_prova=690&id_questao_atual=37",
+      "ref_consulta": "turn255search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "A prova de conhecimentos consistirá de itens dos tipos A, B, C e D.",
+      "url": "https://cdn.cebraspe.org.br/arquivos/PAS/Guia/Guia-PAS-2018.pdf",
+      "ref_consulta": "turn255search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Gabarito da Prova Objetiva do Curso de Formação Profissional",
+      "url": "https://antigo.ibade.org.br/Cms_Data/Contents/SistemaConcursoIBADE/Media/BMCEOFICIAL2018/ProvaGabarito/2semestre_letivo/GABARITO-BMCE-PARA-ENVIO-2segundo_semestre.pdf",
+      "ref_consulta": "turn255search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "CADERNO DE PROVAS",
+      "url": "https://concursos.grancursosonline.com.br/hubfs/pf-2-simulado-conhecimentos-gerais-para-todos-os-cargos-de-nivel-superior-pos-edital-propaganda-109876.pdf",
+      "ref_consulta": "turn255search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "RACIOCÍNIO LÓGICO",
+      "url": "https://www.apostilasopcao.com.br/arquivos-opcao/apostilas/28569/117341/op-021ma-25-caderno-pf-comum-gab-digital.pdf",
+      "ref_consulta": "turn255search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "PROVA 16 - GABARITO 2 - NÍVEL INTERMEDIÁRIO - TARDE.indd",
+      "url": "https://www.gov.br/gestao/pt-br/concursonacional/caderno-de-provas/tarde/prova-16-gabarito-2-nivel-intermediario-tarde.pdf",
+      "ref_consulta": "turn255search16",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "RESULTADO DOS RECURSOS CONTRA O GABARITO PRELIMINAR DO",
+      "url": "https://www.consep-pi.com.br/admin/upload/documentos/500143eea9.pdf",
+      "ref_consulta": "turn255search17",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova de Certo e Errado",
+      "url": "https://www.reddit.com/r/concursospublicos/comments/1fntdgv",
+      "ref_consulta": "turn255reddit18",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,117 @@
+{
+  "id": "Q0003",
+  "consulta_executada": "\"Francisco foi processado pelo Ministério Público pelo delito de furto. Contudo, após a resposta preliminar, foi absolvido sumariamente, tendo o\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Francisco foi processado pelo Ministério Público pelo delito...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/e62f4057-91",
+      "ref_consulta": "turn48search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Francisco foi processado pelo Ministério Público pelo delito de furto. Contud...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/1043542-questao",
+      "ref_consulta": "turn48search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Francisco foi processado pelo Ministério Público pelo...",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-processual-penal-406602/3473350",
+      "ref_consulta": "turn48search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Tribunal de Justiça do Estado de Santa Catarina　　　　　　　　　　　　　　　　　　　　　　　　　FGV Conhecimento",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutojz-subst-tipo-1.pdf",
+      "ref_consulta": "turn48search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Tribunal de Justiça do Estado de Santa Catarina                                                                 FGV Conhecimento",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutojz-subst-tipo-3.pdf",
+      "ref_consulta": "turn48search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Recursos Criminais para Concurso - Página 5 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/recursos-criminais/questoes?has_professor_commentaries=true&page=5",
+      "ref_consulta": "turn48search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 56 - Juiz de Direito - FGV (2024) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tribunal-justica-santa-catarina-juiz-direito-fgv-2024/56",
+      "ref_consulta": "turn48search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "| | | TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA | TARDE | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA None | | | | | | | | | | | | | TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA | | | | | | | | | |",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutojz-subst-tipo-4.pdf",
+      "ref_consulta": "turn48search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Banco de Provas Comentadas 2024",
+      "url": "https://mkt.estrategia.com/cj/wp-content/uploads/sites/3/2024/12/Banco-de-Provas-de-Concursos-Juridicos-Comentadas-Ano-2024-.pdf",
+      "ref_consulta": "turn48search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "| | | TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA | TARDE | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA None | | | | | | | | | | | | | TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA | | | | | | | | | |",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutojz-subst-tipo-2.pdf",
+      "ref_consulta": "turn48search16",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Aula 00",
+      "url": "https://cj.estrategia.com/portal/wp-content/uploads/2025/09/26143306/Prova-comentada-TJ-SC-Sem-capa.pdf",
+      "ref_consulta": "turn48search17",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Absolvição sumária",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-processual-penal-absolvicao-sumaria-421476",
+      "ref_consulta": "turn48search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova comentada Direito Processual Penal Juiz TJ SC",
+      "url": "https://cj.estrategia.com/portal/prova-comentada-direito-processual-penal-juiz-tj-sc/",
+      "ref_consulta": "turn48search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 6 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&has_commentaries=true&page=6&subject_ids%5B%5D=162&subject_ids%5B%5D=20568&subject_ids%5B%5D=20569&subject_ids%5B%5D=20574",
+      "ref_consulta": "turn48search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 8 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&has_commentaries=true&page=8&subject_ids%5B%5D=161&subject_ids%5B%5D=162&subject_ids%5B%5D=20559&subject_ids%5B%5D=20566&subject_ids%5B%5D=20568",
+      "ref_consulta": "turn48search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões - Questões de Correição parcial (Direito Processual Penal) - Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/busca/assunto/correicao-parcial",
+      "ref_consulta": "turn48search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Visualizacao questoes antigas – Formula",
+      "url": "https://formuladaaprovacao.com.br/visualizacao-questoes-antigas/?wpv_paged=1894&wpv_view_count=78491-CATTR4d162c9e44fc3fb1188529781743ddc8",
+      "ref_consulta": "turn48search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 8 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&has_commentaries=true&page=8&subject_ids%5B%5D=162&subject_ids%5B%5D=6623",
+      "ref_consulta": "turn48search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

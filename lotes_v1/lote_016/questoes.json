@@ -1,0 +1,148 @@
+[
+  {
+    "id": "Q0151",
+    "enunciado": "No que diz respeito às prisões e medidas cautelares no processo penal, assinale a alternativa CORRETA:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O juiz poderá substituir a prisão preventiva pela domiciliar quando o suposto autor do fato delituoso for maior de 70 (setenta) anos de idade ou estiver extremamente debilitado por motivo de doença grave.",
+      "B": "Em respeito ao princípio da proporcionalidade das medidas cautelares, a fiança, segundo as regras do Código de Processo Penal, quando estabelecida em seu valor máximo, não poderá ser cumulada com outras medidas cautelares diversas da prisão preventiva.",
+      "C": "Se assim recomendar a situação econômica do preso, a fiança poderá ser aumentada em até 1.000 (mil) vezes.",
+      "D": "De acordo com o novo regramento destinado à prisão cautelar, o Código de Processo Penal passou a estabelecer a prisão temporária como uma das hipóteses das denominadas prisões cautelares estritamente processuais.",
+      "E": "É pacífico o entendimento da doutrina quanto à natureza jurídica precautelar da prisão em flagrante, o que tem sido confirmado pela jurisprudência do Superior Tribunal de Justiça."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0152",
+    "enunciado": "Nos crimes de ação privada, se comparecer mais de uma pessoa com direito de queixa, terá preferência, numa ordem legal estabelecida pelo artigo 31 do Código de Processo Penal,",
+    "comando": "Complete a frase ou explique a ordem de preferência estabelecida pelo artigo 31 do Código de Processo Penal.",
+    "alternativas": {
+      "A": "o parente mais próximo na ordem de vocação sucessória.",
+      "B": "o cônjuge, que poderá prosseguir na ação penal.",
+      "C": "a figura do ascendente, em face dos vínculos fraternos.",
+      "D": "a figura do descendente, com o direito de apenas prosseguir.",
+      "E": "o representante legalmente constituído para o fim."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0153",
+    "enunciado": "O agente que imagina já ter obtido o resultado pensado por ele, sem tê-lo alcançado, e, por isso, pratica outra conduta que efetivamente alcança o objetivo primário realiza a conduta em dolo",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "geral.",
+      "B": "de segundo grau.",
+      "C": "eventual.",
+      "D": "alternativo.",
+      "E": "cumulativo."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Iter Criminis",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0154",
+    "enunciado": "A Lei no 9.029/95, que define práticas discriminatórias relativas à gravidez no trabalho, expressamente considera crime:",
+    "comando": "Complete a frase ou responda o que a lei considera crime em relação à gravidez no trabalho.",
+    "alternativas": {
+      "A": "discriminação salarial de grávida.",
+      "B": "exigência de teste relativo à esterilização ou a estado\nde gravidez.",
+      "C": "estabelecimento de jornada de trabalho superior a\n8h para grávida a partir da 20a\nsemana de gestação.",
+      "D": "exposição da grávida a trabalhos braçais excessivos.",
+      "E": "vedação ao gozo da licença maternidade."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Legislação Penal Especial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0155",
+    "enunciado": "Sobre o Regime Disciplinar Diferenciado, segundo a legislação aplicável, assinale a alternativa correta:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Tem duração de 2 anos, prorrogáveis uma única vez, por igual\nperíodo.",
+      "B": "É cabível para membro de associação criminosa,\nindependentemente de cometimento de falta grave.",
+      "C": "Todas as entrevistas são monitoradas.",
+      "D": "É cumprido sempre em estabelecimento penitenciário federal.",
+      "E": "Não é cabível em caso de prisão cautelar."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Medida de Segurança",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0156",
+    "enunciado": "De acordo com a Lei n° 9.605/98, que dispõe sobre sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente,",
+    "comando": "Complete a questão conforme o enunciado.",
+    "alternativas": {
+      "A": "a suspensão condicional da pena pode ser aplicada nos casos de condenação a pena privativa de liberdade não superior a 2 (dois) anos.",
+      "B": "aplicável à pessoa jurídica a pena restritiva de direitos de suspensão parcial de atividades, vedada a suspensão total.",
+      "C": "o baixo grau de instrução ou escolaridade do agente é causa de isenção da pena.",
+      "D": "constitui pena de interdição temporária de direito a proibição de o condenado contratar com o Poder Público pelo prazo de 3 (três) anos, no caso de crimes culposos.",
+      "E": "não é crime o abate de animal em razão de seu caráter nocivo, a critério do Magistrado."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Punibilidade",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0157",
+    "enunciado": "A prisão temporária decretada no curso de inquérito policial instaurado para investigar crime de epidemia com resultado morte, artigo 267, § 1º, do Código Penal, tem prazo limite de",
+    "comando": "Complete a frase com o prazo limite correto da prisão temporária.",
+    "alternativas": {
+      "A": "cinco dias prorrogáveis por mais cinco.",
+      "B": "dez dias prorrogáveis por mais dez.",
+      "C": "quinze dias prorrogáveis por mais quinze.",
+      "D": "vinte dias prorrogáveis por mais vinte.",
+      "E": "trinta dias prorrogáveis por mais trinta."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0158",
+    "enunciado": "Considere a seguinte situação hipotética: João, agente público, foi processado e, ao final, condenado à pena de reclusão, por dezenove anos, iniciada em regime fechado, pela prática do crime de tortura, com resultado morte, contra Raimundo.\nNos termos da Lei no 9.455, de 7 de abril de 1997, essa condenação acarretará a perda do cargo, função ou emprego público",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "e a interdição para seu exercício pelo dobro do prazo\nda pena aplicada.",
+      "B": "e a interdição para seu exercício pelo triplo do prazo\nda pena aplicada.",
+      "C": "e a interdição para seu exercício pelo tempo da pena\naplicada.",
+      "D": "desde que o juiz proceda à fundamentação específica.",
+      "E": "como efeito necessário, mas não automático."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0159",
+    "enunciado": "Caio, desejando matar Túlio, dispara projéteis de arma de fogo contra seu desafeto. Túlio, alvejado, cai e permanece inerte no chão enquanto Caio retira-se do local.\nObservando a cena, Lívio aproxima-se com intenção de despojar a vítima de seus bens e, ao retirar o relógio, nota que Túlio esboça reação quando, então, Lívio utiliza uma pedra para acertar-lhe a cabeça.\nTúlio vem a óbito e no exame cadavérico o legista atesta que a morte ocorreu por concussão cerebral.",
+    "comando": "No caso, responderão Caio e Lívio, respectivamente, por:",
+    "alternativas": {
+      "A": "homicídio consumado e roubo próprio.",
+      "B": "homicídio tentado e latrocínio.",
+      "C": "homicídio tentado e roubo impróprio.",
+      "D": "homicídio consumado e latrocínio."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0160",
+    "enunciado": "Julgue o item subsequente, acerca do instituto da pena.\nÉ inadmissível a substituição de pena privativa de liberdade por restritiva de direitos ao réu reincidente, ainda que a substituição seja socialmente recomendável e se trate de reincidência genérica.",
+    "comando": "Julgue o item subsequente, acerca do instituto da pena.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  }
+]

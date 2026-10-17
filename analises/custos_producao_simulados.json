@@ -1,0 +1,15 @@
+{
+  "tipo": "simulacao_nao_executada",
+  "volume": 50000,
+  "custo_primeira_passagem_usd": 180.0,
+  "custo_segunda_passagem_usd": 107.5,
+  "custo_llm_total_usd": 287.5,
+  "custo_llm_por_questao_usd": 0.00575,
+  "taxa_de_revisao_do_case_usada_como_cenario": 0.35097493036211697,
+  "horas_humanas_se_a_taxa_do_case_se_repetir": 292.48,
+  "minutos_por_revisao_assumidos": 1,
+  "custo_humano_usd": null,
+  "tokens_reais_do_chat_medidos": null,
+  "api_executada_no_case_usd": 0,
+  "limites": "Não são modelos confirmados deste chat. Tokens são hipóteses e saída deve incluir todo token faturado, inclusive raciocínio quando aplicável. Sem descontos de cache/batch. Exclui embeddings, infraestrutura, repetição por erros, buscas e trabalho humano. Não inclui custo da assinatura existente."
+}

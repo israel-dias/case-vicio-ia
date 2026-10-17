@@ -1,0 +1,151 @@
+[
+  {
+    "id": "Q0241",
+    "enunciado": "Analise os itens abaixo sobre a teoria do erro.\nI. O erro de tipo essencial incide sobre elementar do tipo quando a falsa percepção de realidade faz com que o agente desconheça a natureza criminosa do fato.\nII. O erro sobre objeto é irrelevante para o Direito Penal, já que o agente, mesmo quando realiza a conduta que recai sobre coisa alheia, responderá criminalmente pelo crime cometido nos limites do tipo penal.\nIII. O aberratio ictus é modalidade de erro acidental que não exclui a tipicidade, sopesando ao agente uma responsabilização em âmbito penal.\nIV. O aberratio criminis é o desvio na execução do delito e recai sobre o objeto jurídico do crime, sendo que sua verificação não exclui a tipicidade.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Apenas I e III estão corretos",
+      "B": "Apenas II e IV estão corretos",
+      "C": "Apenas II e III estão incorretos",
+      "D": "Apenas III e IV estão incorretos",
+      "E": "I, II, III e IV estão corretos"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria do Crime (Fato Típico) Parte 02",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0242",
+    "enunciado": "Sobre os recursos em processo penal, assinale a alternativa CORRETA:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O recurso extraordinário e o recurso\nespecial serão processados e julgados no\nSupremo Tribunal Federal e no Superior\nTribunal de Justiça na forma estabelecida\npor leis especiais e pela lei processual\ncivil, que revogaram os regimentos\ninternos das Cortes Superiores no tocante\na ambos os recursos.",
+      "B": "Quando o acusado não tiver condições de\nnomear defensor, ser-lhe-á nomeado\ndefensor público ou dativo, sendo que, em\nqualquer hipótese, haverá prazo em dobro\npara recorrer.",
+      "C": "Em nome dos princípios da\nunirrecorribilidade e da preclusão lógica,\nquando houver a interposição de dois\nrecursos pela mesma parte contra a mesma\ndecisão, será conhecido o recurso\napresentado em segundo lugar.",
+      "D": "O recurso ordinário constitucional é\ninterposto no tribunal recorrido, mas o\nexame de sua admissibilidade ocorrerá\nsomente no tribunal que irá julgá-lo.",
+      "E": "Caberá reexame necessário quando da\ndecisão de deferimento de reabilitação\ncriminal, da denegação e da concessão de\nhabeas corpus e da sentença que arquiva\ninquérito policial ou absolutória por\ncrimes contra a economia popular ou\nsaúde pública."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Sistemas e Princípios Processuais Penais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0243",
+    "enunciado": "Antônio, durante a madrugada, subtrai, com o emprego de chave falsa, o automóvel de Pedro.\nDepois de oferecida a denúncia pela prática de crime de furto qualificado, mas antes do seu recebimento, por ato voluntário de Antônio, o automóvel furtado é devolvido à vítima.\nNesse caso, pode-se afirmar a ocorrência de",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "arrependimento posterior.",
+      "B": "desistência voluntária.",
+      "C": "arrependimento eficaz.",
+      "D": "circunstância atenuante.",
+      "E": "causa de extinção da punibilidade."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Iter Criminis",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0244",
+    "enunciado": "O agente que exigir vantagem indevida, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, responderá pelo crime de:",
+    "comando": "",
+    "alternativas": {
+      "A": "peculato.",
+      "B": "concussão.",
+      "C": "corrupção passiva.",
+      "D": "corrupção ativa."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Crimes contra a administração pública, Concussão e Excesso de Exação ",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0245",
+    "enunciado": "Assinale a opção correta a respeito da prescrição.",
+    "comando": "",
+    "alternativas": {
+      "A": "O empresário que, com a finalidade de obter vantagem indevida, praticar ato fraudulento do qual resulte prejuízo aos credores terá sua conduta tipificada como crime na Lei de Falências. Nesse caso, a prescrição do crime começará a correr do dia da homologação do plano de recuperação extrajudicial.",
+      "B": "A decretação da falência do devedor suspende a prescrição cuja contagem tenha-se iniciado com a concessão da recuperação judicial.",
+      "C": "As penas aplicáveis aos usuários de substâncias entorpecentes prescrevem em quatro anos, contados do início da execução da sanção penal.",
+      "D": "Depois de transitada em julgado a sentença penal condenatória, reinicia-se a contagem do prazo prescricional, que continua correndo durante o tempo em que o condenado estiver preso por outro motivo.",
+      "E": "Na hipótese de um condenado fugir faltando seis meses para o cumprimento da pena, a contagem da prescrição da pretensão executória recomeçará a partir da data da fuga. Nesse caso, a prescrição ocorrerá no lapso temporal correspondente à pena integralmente aplicada."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Prescrição",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0246",
+    "enunciado": "No procedimento do júri, presentes indícios da autoria e prova da materialidade, se ao término da instrução do sumário de culpa ficar provado tecnicamente que o acusado é semi-imputável, o juiz deverá:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "pronunciá-lo.",
+      "B": "absolvê-lo sumariamente.",
+      "C": "impronunciá-lo.",
+      "D": "remeter os autos para o juízo comum para a prolação da sentença.",
+      "E": "declarar nulo o processo e remeter os autos para o juízo comum."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento do Júri",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0247",
+    "enunciado": "Com a Lei Anticrime surge o instituto do Acordo de Não Persecução Penal (ANPP), cujo cumprimento integral traduz-se em uma causa de extinção da punibilidade.\nTodavia, o marco legal do ANPP veda a aplicação do acordo nos crimes de violência doméstica e nos crimes de racismo, o que encontra respaldo, incontroverso, na doutrina e na jurisprudência.\nÉ preciso lembrar, também, que não deve ser oferecido o acordo se no momento da lavratura do auto de prisão em flagrante o preso não confessar circunstanciadamente.\nAdemais, a referida lei, no que tange ao acordo de não persecução penal, não pode ser aplicado a fatos ocorridos antes de sua vigência.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Lei Processual Penal no tempo e no espaço",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0248",
+    "enunciado": "Considere os seguintes tipos penais praticados contra a Administração Pública: Tipos penais 1. Desobediência 2. Resistência 3. Corrupção passiva 4. Corrupção ativa 5. Concussão Ação a. Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem. b. Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida. c. Opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo ou a quem lhe esteja prestando auxílio. d. Desobedecer a ordem legal de funcionário público. e. Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício. A correta correlação entre o tipo penal e a sua ação é:",
+    "comando": "",
+    "alternativas": {
+      "A": "1-d - 2-a - 3-b - 4-e - 5-c.",
+      "B": "1-a - 2-c - 3-d - 4-e - 5-b.",
+      "C": "1-d - 2-c - 3-a - 4-e - 5-b.",
+      "D": "1-d - 2-b - 3-a - 4-e - 5-c.",
+      "E": "1e - 2-c - 3-a - 4-d - 5-b."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Crimes contra a administração pública",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0249",
+    "enunciado": "O Estatuto Processual Penal prevê que o juiz não poderá exercer jurisdição no processo em que:\na) tiver funcionado seu cônjuge ou parente, consanguíneo ou afim, em linha reta ou colateral até o terceiro grau, inclusive, como defensor ou advogado, órgão do Ministério Público, autoridade policial, auxiliar da justiça ou perito;\nb) ele próprio houver desempenhado qualquer dessas funções ou servido como testemunha;\nc) tiver funcionado como juiz de outra instância, pronunciando-se, de fato ou de direito, sobre a questão;\nd) ele próprio ou seu cônjuge ou parente, consanguíneo ou afim em linha reta ou colateral até o terceiro grau, inclusive, for parte ou diretamente interessado no feito.\nNos juízos coletivos, não poderão servir no mesmo processo os juízes que forem entre si parentes, consanguíneos ou afins, em linha reta ou colateral até o terceiro grau, inclusive.",
+    "comando": "Processo Penal",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Competência (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0250",
+    "enunciado": "Sobre a determinação do regime inicial de cumprimento de pena, é correto afirmar que",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "em virtude do princípio da individualização da pena, a primeira fase de aplicação da pena não pode influenciar na\ndeterminação do regime.",
+      "B": "a pena de detenção deve ser cumprida em regime aberto ou semiaberto, salvo caso de reincidência.",
+      "C": "segundo a jurisprudência dominante do STJ, a reincidência impede o cumprimento de pena em regime semiaberto,\nindependentemente da quantidade de pena e das circunstâncias judiciais.",
+      "D": "em caso de condenação por crime de extorsão mediante sequestro consumado, é possível a aplicação do regime\nsemiaberto.",
+      "E": "por ser cometido com violência ou grave ameaça contra a pessoa, a condenação por roubo consumado impede a\naplicação do regime aberto."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  }
+]

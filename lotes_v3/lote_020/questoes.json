@@ -1,0 +1,150 @@
+[
+  {
+    "id": "Q0205",
+    "enunciado": "Assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "Dar-se-á carta testemunhável da decisão que denegar o recurso.",
+      "B": "O Ministério Público pode desistir de recurso que haja interposto desde que se trate de crime de menor potencial ofensivo.",
+      "C": "Réu que teve declarada extinta a punibilidade por prescrição pode recorrer pedindo decisão de mérito da acusação.",
+      "D": "A apelação da sentença absolutória impede que o réu seja posto imediatamente em liberdade."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0206",
+    "enunciado": "No tocante ao assistente de acusação, é correto afirmar que",
+    "comando": "Complete a afirmativa sobre o assistente de acusação.",
+    "alternativas": {
+      "A": "o ofendido poderá intervir como assistente em qualquer ação penal.",
+      "B": "a admissão do assistente fica condicionada à manifestação do Ministério Público.",
+      "C": "da decisão que admitir o assistente de acusação caberá recurso em sentido estrito.",
+      "D": "ao assistente é proibido arrazoar os recursos interpostos pelo Ministério Público.",
+      "E": "o assistente será admitido até o início da instrução do processo."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Comunicação dos atos processuais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0207",
+    "enunciado": "Caso um preso, em cumprimento de pena privativa de liberdade, tenha sido flagrado, em 10/10/2020, portando consigo um aparelho telefônico apto à comunicação com o ambiente externo,",
+    "comando": "",
+    "alternativas": {
+      "A": "a autoridade administrativa prisional poderá decretar, de\nofício, a inclusão cautelar do faltoso em regime disciplinar\ndiferenciado no interesse da disciplina.",
+      "B": "a autoridade administrativa prisional poderá decretar o\nisolamento cautelar do preso pelo prazo máximo de dez dias,\nnão sendo computado tal prazo no período de cumprimento\nda respectiva sanção disciplinar.",
+      "C": "o prazo prescricional para a apuração da falta disciplinar é de\ntrês anos.",
+      "D": "ele estará sujeito à perda da totalidade do tempo remido visto\nter cometido falta grave.",
+      "E": "é cabível a regressão cautelar do regime prisional, após a\noitiva obrigatória do faltoso."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Legislação Penal Especial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0208",
+    "enunciado": "Lucas foi denunciado por infringir o art. 121, § 2.º, inciso II (homicídio qualificado por motivo fútil), do CP, por ter disparado arma de fogo contra Mauro, levando-o a óbito. Na denúncia, consta que Lucas e seu irmão Carlos estavam em um bar na comarca de Pacajus, onde, em dado momento, Carlos discutiu com Mauro. A discussão acabou resultando em luta corporal. O dono do bar afirmou que a discussão se deu porque Carlos se recusou a pagar uma bebida para Mauro; Lucas acudiu o irmão e Mauro, estando sozinho, foi embora, mas retornou, minutos depois, com uma faca do tipo peixeira na mão. O dono do bar afirmou que chegou a trancar a porta, tentando evitar a tragédia, mas a vítima conseguiu arrombá-la, entrou no bar e partiu para cima de Carlos com a peixeira em riste. O depoente viu que Lucas sacou um revólver e atirou duas vezes, atingindo Mauro na altura do tórax. Vendo-o caído, Lucas fugiu do local e escondeu-se em uma mata, onde foi encontrado doze horas depois, ainda com a arma do crime. A vítima foi socorrida no hospital municipal e, no dia seguinte, foi transferida\npara o Hospital Geral de Fortaleza, onde, devido à gravidade dos ferimentos, faleceu depois de ser submetida a cirurgia. Considerando a situação hipotética acima descrita, julgue os itens subseqüentes.",
+    "comando": "Lucas foi o autor de homicídio e Carlos figurou como partícipe do crime",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0209",
+    "enunciado": "Acerca das provas, das sentenças e dos princípios do direito processual penal, julgue o item a seguir.\nEm razão do princípio constitucional da presunção de inocência, é vedado à autoridade policial mencionar anotações referentes à instauração de inquérito nos atestados de antecedentes que lhe forem solicitados.",
+    "comando": "Julgue o item a seguir.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0210",
+    "enunciado": "O Estatuto do Desarmamento, Lei nº 10.826/2003, no seu capítulo IV, define crimes relacionados a armas de fogo e munições. Considerando casos concretos de réus denunciados por esses delitos e conforme entendimento das Cortes Superiores, é correto afirmar que:",
+    "comando": "",
+    "alternativas": {
+      "A": "em hipóteses de apreensão de armas de fogo e/ou munições\nde uso permitido e restrito, num mesmo contexto fático, há\ncrime único, aplicado o princípio da consunção, e não\nconcurso de crimes, uma vez que se trata de condutas que\ntutelam o mesmo bem jurídico;",
+      "B": "deve ser reconhecida a atipicidade material da conduta em\nsituações específicas de ínfima quantidade de munição\napreendida na posse do agente, de uso permitido ou restrito,\naliada à ausência de artefato capaz de disparar o projétil;",
+      "C": "aplica-se o princípio da insignificância e se reconhece a\natipicidade material do crime de posse de ínfima quantidade\nde munição de uso permitido, ainda que a moldura fática do\ncaso revele a apreensão de arma de fogo e drogas com o\nagente;",
+      "D": "apreendido armamento que passou a ser considerado de uso\npermitido após a entrada em vigor de decreto, a norma penal\nposterior deve incidir de forma imediata a fato anterior,\ndesde que não decidido por sentença transitada em julgado,\nporque favorece o agente, em harmonia com o princípio da\nretroatividade da lei penal mais benéfica;",
+      "E": "o legislador, ao elaborar a lei que alterou a Lei de Crimes\nHediondos, quis conferir tratamento mais gravoso ao crime\nde posse ou porte de arma de fogo, acessório ou munição,\nnão importando se de uso proibido/restrito ou de uso\npermitido, de modo que a natureza hedionda se reconhece\ntambém aos crimes de posse ou porte de arma de fogo de\nuso permitido com numeração raspada, suprimida ou\nadulterada."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0211",
+    "enunciado": "As audiências realizadas nos Fóruns representam parte relevante da vida forense. O contato humano e a ritualística do Direito e da Justiça formam um ambiente único, no qual a abstração e a aridez dos conceitos jurídicos conflitam com as vidas humanas, com os problemas sociais e com os efeitos práticos suportados pelas pessoas de carne e osso. Diante do exposto, assinale a alternativa incorreta.",
+    "comando": "",
+    "alternativas": {
+      "A": "Os espectadores das audiências ou das\nsessões poderão manifestar aprovação ou\ndesaprovação sobre as decisões judiciais,\nexpressão da garantia constitucional de\nliberdade de opinião e de expressão",
+      "B": "A polícia das audiências compete aos\nrespectivos juízes, que poderão determinar o\nque for conveniente à manutenção da ordem e,\npara isso, poderão requisitar a força pública,\nque ficará exclusivamente à sua disposição",
+      "C": "A exceção é o segredo. As audiências, as\nsessões e os atos processuais serão, em regra,\npúblicos e realizados com assistência dos\nfuncionários da Justiça",
+      "D": "O Juiz fará retirar da sala aqueles que\ndesobedecerem seus legais comandos"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Do juiz, do ministério público, do acusado e defensor, dos assistentes e auxiliares da justiça",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0212",
+    "enunciado": "Julgue o item subsequente, em relação à prova, ao instituto da interceptação telefônica e à citação por hora certa. Em processo penal, a citação por hora certa do réu que se oculte para não ser citado segue os procedimentos previstos no Código de Processo Civil, de modo que, caso o réu não compareça em juízo nem constitua advogado, ficam suspensos o processo e o curso do prazo prescricional, podendo o juiz, se for o caso, determinar a produção antecipada de provas consideradas urgentes.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Das Citações e Intimações, Citação no Processo Penal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0213",
+    "enunciado": "Nos crimes previstos na Lei de Drogas (Lei nº 11.343/2006), oferecida a denúncia, o(a) juiz(a) ordenará a:",
+    "comando": "",
+    "alternativas": {
+      "A": "citação do acusado para oferecer resposta à acusação,\npor escrito, no prazo de 10 (dez) dias.",
+      "B": "notificação do acusado para oferecer defesa prévia, por\nescrito, no prazo de 15 (quinze) dias.",
+      "C": "notificação do acusado para oferecer defesa prévia, por\nescrito, no prazo de 10 (dez) dias.",
+      "D": "citação do acusado para oferecer resposta à acusação,\npor escrito, no prazo de 15 (quinze) dias."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Legislação Penal Especial, Lei de Tóxicos – Lei nº 11.343 de 2006",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0214",
+    "enunciado": "Patrick foi denunciado e condenado, em primeira instância, perante a 1ª Vara Criminal de Florianópolis, pela prática de crime de corrupção passiva. Após a condenação, dentro do prazo legal, apresentou o recurso cabível, que se encontra pendente de julgamento. Nesse período, foi novamente denunciado pela prática do crime de corrupção passiva, dessa vez perante a 2ª Vara Criminal de Florianópolis, sendo verificado pelo teor da denúncia que os fatos imputados são os mesmos daquela ação da 1ª Vara Criminal. A defesa técnica de Patrick, poderá apresentar, ao responder a segunda ação penal, a exceção de:",
+    "comando": "",
+    "alternativas": {
+      "A": "incompetência do juízo, que deverá ser processada nos autos\nprincipais;",
+      "B": "coisa julgada, que deverá ser processada em autos apartados;",
+      "C": "coisa julgada, que suspenderá o andamento da ação penal;",
+      "D": "litispendência, que deverá ser processada em autos\napartados;",
+      "E": "suspeição, que precederá a qualquer outra eventualmente\noposta."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Das Questões e Processos Incidentes",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  }
+]

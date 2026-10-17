@@ -1,0 +1,21 @@
+{
+  "nome": "lote_029",
+  "finalidade": "classificacao",
+  "ids": [
+    "Q0281",
+    "Q0282",
+    "Q0283",
+    "Q0284",
+    "Q0285",
+    "Q0286",
+    "Q0287",
+    "Q0288",
+    "Q0289",
+    "Q0290"
+  ],
+  "sha256_prompt": "f50bd575ce1b724231496094106f7ed7359b70da24c8fbd0c369c34a3a8539d6",
+  "sha256_questoes": "040757efb10c3c38d40e2986f3de847b4bab89bdb6ddcff4e1e38d5f10372350",
+  "sha256_temas": "bcb2c9d6357708d11ef0a08ed8946210bc4210e5d2412f462db58f0242431084",
+  "sha256_preparacao": "d631cb4843a2946f7caedbf1d237dfc4c2e5fbc9611a1ececf51111f4ed0dcf5",
+  "descricao": "Catálogo compacto. Descrições completas em temas_ativos.json. Se forem acrescentadas ao prompt, registrar nova versão."
+}

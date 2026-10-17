@@ -1,0 +1,111 @@
+{
+  "id": "Q0027",
+  "consulta_executada": "\"pessoalmente para qualquer ato, deixar de comparecer com motivo justificado;\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Questão 48 - TJ-BA - Técnico - Área Judiciária - FGV (2015) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tj-ba-tecnico-judiciario-area-judiciaria-2015-fgv/48",
+      "ref_consulta": "turn68search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões TJ-BA 2015 para Técnico Judiciário - Escrevente - Área Judiciária | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/fgv-2015-tj-ba-tecnico-judiciario-escrevente-area-judiciaria/questoes?page=3",
+      "ref_consulta": "turn68search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Tribunal de Justiça do Estado da Bahia",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tjba/TJBAHIA_Tecnico_Judiciario_-_Escrevente_-_Area_Judiciaria_%28TJUD-AJ%29_Tipo_3.pdf",
+      "ref_consulta": "turn68search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Citação no Processo Penal para Concurso - Página 8 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/citacao-no-processo-penal/questoes?has_professor_commentaries=true&page=8",
+      "ref_consulta": "turn68search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "O processo penal seguirá sem a presença do acusado que citad...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/4878d1bc-aa",
+      "ref_consulta": "turn68search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Tribunal de Justiça da Bahia                                                                 FGV – Projetos",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tjba/TJBAHIA_Tecnico_Judiciario_-_Escrevente_-_Area_Judiciaria_%28TJUD-AJ%29_Tipo_2.pdf",
+      "ref_consulta": "turn68search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Tribunal de Justiça da Bahia                                                                 FGV – Projetos",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tjba/TJBAHIA_Tecnico_Judiciario_-_Escrevente_-_Area_Judiciaria_%28TJUD-AJ%29_Tipo_4.pdf",
+      "ref_consulta": "turn68search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Microsoft Word - gabarito- SIMULADO TJ-SP - JULHO",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/113942/vunesp-2024-tj-sp-escrevente-tecnico-judiciario-1-simulado-gabarito.pdf",
+      "ref_consulta": "turn68search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO",
+      "url": "https://cnmp.mp.br/portal/images/CALJ/resolucoes/Resoluo-0921ER64-verso-completa.pdf",
+      "ref_consulta": "turn68search16",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Citação no Processo Penal para Concurso - Página 8 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/citacao-no-processo-penal/questoes?page=8",
+      "ref_consulta": "turn68search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "(Impressão de fax em página inteira)",
+      "url": "https://imagem.camara.leg.br/Imagem/d/pdf/DCD28JAN1995.pdf",
+      "ref_consulta": "turn68search17",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Das Citações e Intimações para Concurso - Página 13 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/das-citacoes-e-intimacoes/questoes?page=13",
+      "ref_consulta": "turn68search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "O processo penal seguirá sem a presença do acusado que ci... - Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-processual-penal-406602/2220641",
+      "ref_consulta": "turn68search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "TJ-BA (Técnico) - Comentários às questões de Processo Penal - Recursos!",
+      "url": "https://www.estrategiaconcursos.com.br/blog/tj-ba-tecnico-comentarios-questoes-de-processo-penal-recursos/",
+      "ref_consulta": "turn68search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova",
+      "url": "https://ptdocz.com/doc/973295/prova",
+      "ref_consulta": "turn68search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Citações e Intimações no Processo Penal | PDF | Citação (jurídico) | Estatuto de limitações",
+      "url": "https://pt.scribd.com/document/923258160/aula-01-04fe-completo-ok",
+      "ref_consulta": "turn68search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "TJMS 0004645-58.2010.8.12.0018",
+      "url": "https://jurisprudencia.juristas.com.br/jurisprudencias/post/tjms-0004645-58-2010-8-12-0018",
+      "ref_consulta": "turn68search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

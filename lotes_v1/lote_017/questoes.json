@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Q0161",
+    "enunciado": "Analise o caso hipotético a seguir.\nDurante patrulhamento ostensivo em uma região da cidade conhecida pelo intenso tráfico de drogas, policiais militares abordaram um indivíduo que se encontrava sozinho na rua. Após busca pessoal, na qual nada de suspeito foi encontrado, os policiais conduziram o indivíduo até a residência dele e, sem autorização judicial ou do morador do domicílio, entraram no local e realizaram busca domiciliar. Encontraram no local uma pequena quantidade de maconha. Deram, então, voz de prisão em flagrante delito ao indivíduo, única pessoa que se encontrava no local. A autoridade policial a quem foi apresentado o detido pelos policiais militares ratificou a voz de prisão em flagrante, promovendo a autuação da prisão em flagrante pela suposta prática do delito previsto no art. 33 da Lei de Drogas. Foram realizadas as devidas comunicações da prisão e cumpridas todas as formalidades legais e constitucionais. No interrogatório policial, o detido permaneceu em silêncio. Foram ouvidas como testemunhas no auto de prisão em flagrante dois policiais militares que compunham a guarnição que efetuou a detenção em flagrante juntamente com o terceiro que funcionou como condutor. Tanto o condutor quanto as testemunhas do auto de prisão em flagrante delito relataram que após a apreensão da droga no domicílio a pessoa detida teria confessado que tal substância se destinava ao comércio ilícito. O preso não registrava qualquer antecedente criminal, tendo endereço certo e trabalho honesto.\nNa audiência de custódia, a defesa técnica deverá requerer, como principal tese,",
+    "comando": "Na audiência de custódia, a defesa técnica deverá requerer, como principal tese,",
+    "alternativas": {
+      "A": "o relaxamento da prisão em flagrante diante\nda ilegalidade da busca domiciliar e da voz de\nprisão em flagrante delito.",
+      "B": "a concessão de liberdade provisória mediante\narbitramento de fiança, eis que satisfeitos os\nrequisitos legais.",
+      "C": "a conversão da prisão em flagrante em medida\ncautelar diversa da prisão, diante da adequação\ne suficiência.",
+      "D": "a conversão da prisão em flagrante em prisão\ndomiciliar, posto que preenchidos os requisitos\nlegais."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0162",
+    "enunciado": "A moderna criminologia se dedica, também, ao estudo do controle social do delito, tendo este objeto representado um giro metodológico de grande importância.",
+    "comando": "Assinale a alternativa correta:",
+    "alternativas": {
+      "A": "a família, a escola, a opinião pública, por exemplo, são instituições encarregadas de exercer o\ncontrole social primário.",
+      "B": "a polícia, o Judiciário, a administração penitenciária, por exemplo, são instituições\nencarregadas de exercer o controle social informal.",
+      "C": "a polícia, o Judiciário, a administração penitenciária, por exemplo, são instituições\nencarregadas de exercer o controle social formal.",
+      "D": "a família, a escola, a opinião pública, por exemplo, são instituições encarregadas de exercer o\ncontrole social terciário.",
+      "E": "a família, a escola, a opinião pública, por exemplo, são instituições encarregadas de exercer o\ncontrole social secundário."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Conceitos Gerais de Criminologia",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0163",
+    "enunciado": "O Diretor de determinado presídio é informado, por bilhete anônimo, de que um preso estaria trocando informações por correspondência com membros do seu bando, a fim de viabilizar a entrada de substância entorpecente no estabelecimento prisional, visando ao tráfico de drogas. Diante disso, o Diretor intercepta uma carta fechada e destinada ao detento, e, após abri-la, lê o seu conteúdo, descobrindo quando e como se daria o ingresso da droga. No caso em tela, pode-se afirmar que o Diretor:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "aparentemente praticou crimes previstos tanto no Código Penal, quanto na Lei nº 4.898/1965, devendo responder por esta última de acordo com o princípio da especialidade.",
+      "B": "praticou crime previsto na Lei nº 4.898/1965.",
+      "C": "praticou crimes previstos tanto no Código Penal, quanto na Lei nº 4.898/1965, devendo responder por ambos, em concurso formal.",
+      "D": "praticou crime previsto noCódigo Penal.",
+      "E": "não praticou crime."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0164",
+    "enunciado": "Conforme o que a LEP prevê relativamente ao preso e ao egresso, assinale a opção correta.",
+    "comando": "Assinale a opção correta.",
+    "alternativas": {
+      "A": "A concessão de alojamento e alimentação ao egresso pelo\nprazo de dois meses poderá ser prorrogada uma vez, desde\nque seja comprovado o empenho dele na obtenção de\nemprego.",
+      "B": "A assistência à saúde do preso e do internado de caráter\npreventivo e curativo compreenderá atendimento médico,\npsicológico e odontológico.",
+      "C": "O estudo será obrigatório, integrando-se ao sistema escolar\nmunicipal, mas mantido pela administração penitenciária.",
+      "D": "Consideram-se egressos o liberado definitivo e o liberado\ncondicional, desde sua saída até a sua reabilitação.",
+      "E": "A assistência material é dever da administração, sendo\nvedada a comercialização de produtos dentro do\nestabelecimento prisional."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0165",
+    "enunciado": "A Lei n° 12.850, de 2 de agosto de 2013, dentre outras disposições, definiu organização criminosa e dispôs sobre a investigação criminal, os meios de obtenção da prova, infrações penais correlatas e o procedimento criminal. A seu respeito, é correto afirmar que",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "tanto aquele que promove organização criminosa quanto o que, de qualquer forma,\nembaraça a investigação de infração penal que envolva organização criminosa serão\napenados com pena de reclusão, de 3 (três) a 8 (oito) anos, e multa, sem prejuízo das penas\ncorrespondentes às demais infrações penais praticadas.",
+      "B": "por expressa disposição legal, não existirá organização criminosa típica voltada a obter\nvantagem, de qualquer natureza, mediante a prática de contravenções penais.",
+      "C": "se houver participação de criança ou adolescente na organização ou na associação\ncriminosa, a pena será aumentada de 1/6 (um sexto) a 2/3 (dois terços).",
+      "D": "quando a medida se fizer necessária à investigação ou instrução processual, se houver indícios\nsuficientes de que o funcionário público integra organização criminosa, poderá o juiz\ndeterminar seu afastamento cautelar do cargo, emprego ou função, sem remuneração.",
+      "E": "ao tratar da colaboração premiada, em seu artigo 4°, a lei restringe expressamente a\nconcessão do perdão judicial à hipótese da localização de eventual vítima com a sua\nintegridade física preservada."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0166",
+    "enunciado": "O Defensor Público, na data de 15 de junho de 2010, ao atender os apenados da Casa do Albergado de um Município do interior do Estado do Rio Grande do Sul, deparouse com a situação de um preso que está recolhido no regime aberto e conta com 73 anos de idade, em bom estado de saúde física, mas apresentando quadro de senilidade leve.\nApós analisar os dados constantes da Guia de Recolhimento atualizada do reeducando, o Defensor Público apurou que o preso está condenado por crime de latrocínio (art. 157, § 3o, parte final, do Código Penal), praticado há mais de dez anos, enquadrando-se como reincidente, pois já havia sido condenado por outro latrocínio, anteriormente.\nVerificou, também, que computada a remição de pena deferida, o reeducando já teria cumprido mais de dois terços do apenamento total imposto.\nConsiderando os referidos dados, a Defensoria Pública do Estado poderia postular ao Juízo da Execução Criminal",
+    "comando": "Considerando os dados apresentados, qual pedido a Defensoria Pública do Estado poderia formular ao Juízo da Execução Criminal?",
+    "alternativas": {
+      "A": "o livramento condicional.",
+      "B": "a progressão de regime.",
+      "C": "a comutação de pena, com fundamento nas disposições do Decreto no 7.046, de 22 de dezembro de 2009.",
+      "D": "o indulto de natal, com fundamento nas disposições do Decreto no 7.046, de 22 de dezembro de 2009.",
+      "E": "a prisão domiciliar."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0167",
+    "enunciado": "Acerca de desaforamento é incorreto afirmar:",
+    "comando": "",
+    "alternativas": {
+      "A": "Pode ser decretado se o interesse da ordem pública o reclamar, ou acaso houver dúvida sobre a imparcialidade do júri ou, ainda, existir risco para a segurança pessoal do acusado;",
+      "B": "O querelante e o assistente do Ministério Público também são legitimados para intentarem a medida;",
+      "C": "Entre comarcas da mesma região, as mais próximas, desde que não subsistentes os mesmos motivos da comarca de origem, terão preferência para julgar o caso desaforado;",
+      "D": "Por se tratar de transferência de foro do julgamento popular, é cabível somente após a publicação da decisão de pronúncia;",
+      "E": "O desaforamento comporta representação do magistrado competente e, quando proposto pelas partes, a lei processual prescreve que juiz presidente deve ser ouvido."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Comunicação dos atos processuais",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0168",
+    "enunciado": "Mévio, técnico de futebol do X Sport Clube, recebeu de Tício, presidente do Y Sport Clube, a quantia de 10.000,00 (dez mil reais), para deixar de convocar o jogador Zeca, considerado o craque do time X, para o jogo realizado entre os dois times, com o objetivo de aumentar a chance de vitória do time Y.\nMévio efetivamente deixou de convocar o jogador Zeca, entretanto, ainda assim, o time X logrou-se vencedor.",
+    "comando": "Diante da situação hipotética, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Mévio e Tício praticaram crimes contra a incerteza\ndo resultado esportivo, previstos, respectivamente,\nnos artigos 198 e 199, da Lei no\n14.597/2023.",
+      "B": "Mévio e Tício praticaram o crime de corrupção privada no esporte (art. 165, da Lei no\n14.597/2023).",
+      "C": "Mévio e Tício não praticaram qualquer crime, pois os\ncrimes de corrupção privada no esporte e contra a\nincerteza do resultado esportivo são materiais e exigem que o resultado almejado se realize.",
+      "D": "Mévio praticou o crime contra a incerteza do resultado esportivo (art. 198, da Lei no\n14.597/2023), e Tício\npraticou o crime de corrupção privada no esporte\n(art. 165, da Lei no\n14.597/2023).",
+      "E": "Mévio praticou o crime de corrupção privada no\nesporte (art. 165, da Lei no\n14.597/2023), e Tício praticou o crime contra a incerteza do resultado esportivo (art. 199, da Lei no\n14.597/2023)."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Legislação Penal Especial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0169",
+    "enunciado": "A respeito das causas de impedimento e suspeição do juiz, de acordo com o Código de Processo Penal, assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "Nos juízos coletivos, não poderão servir no mesmo processo os juízes que forem entre si parentes, consanguíneos ou afins, em linha reta ou colateral, até o quarto grau.",
+      "B": "O juiz será suspeito, podendo ser recusado por qualquer das partes, se já tiver funcionado como juiz de outra instância, pronunciando-se de fato ou de direito sobre a questão.",
+      "C": "Ainda que dissolvido o casamento, sem descendentes, que ensejava impedimento ou suspeição, não funcionará como juiz o sogro, o padrasto, o cunhado, o genro ou enteado de quem for parte no processo.",
+      "D": "O juiz será impedido se for credor ou devedor de qualquer das partes.",
+      "E": "A suspeição poderá ser reconhecida ou declarada ainda que a parte injurie, de propósito, o juiz."
+    },
+    "disciplina_origem": "Direito Processual Penal",
+    "assunto_origem": "Das Questões e Processos Incidentes, Suspeição e impedimento",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0170",
+    "enunciado": "Em 2024, Guilherme, Américo, Lucas, Rogério e Vladimir praticaram um crime. De acordo com as informações de antecedentes criminais fornecidas a seguir, assinale a opção que indica qual deles é tecnicamente primário (não reincidente).",
+    "comando": "",
+    "alternativas": {
+      "A": "Guilherme, enquanto policial militar, foi definitivamente condenado por corrupção passiva prevista no Código Penal Militar e terminou de cumprir a pena no ano de 2023.",
+      "B": "Américo, na condição de ocupante de cargo político, praticou crime de peculato, tendo sido definitivamente condenado em 2023, sendo que ainda não terminou de cumprir as penas restritivas de direito que lhe foram impostas.",
+      "C": "Lucas foi definitivamente condenado em 2015, tendo sua pena sido extinta em 2020, pela concessão de indulto pleno. Em 2022, Lucas obteve sua reabilitação.",
+      "D": "Rogério foi definitivamente condenado em 2023, mas, após o trânsito em julgado de sua condenação, o Juiz reconheceu a ocorrência da prescrição da pretensão punitiva, na modalidade retroativa.",
+      "E": "Vladimir foi definitivamente condenado na Espanha, por tráfico de drogas, a uma pena de 6 anos de reclusão, fato ocorrido em 2017 e transitado em julgado em 2018; porém, ainda não cumpriu a pena porque logrou se evadir para o Brasil."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "assunto_origem_ausente"
+    ]
+  }
+]

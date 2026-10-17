@@ -1,0 +1,117 @@
+{
+  "id": "Q0229",
+  "consulta_executada": "\"A recaptura do réu evadido não depende de prévia ordem judicial e poderá ser efetuada por qualquer\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Superior Tribunal de Justiça STJ: RHC XXXXX | Jurisprudência",
+      "url": "https://www.jusbrasil.com.br/jurisprudencia/stj/4461670105/inteiro-teor-4461670135",
+      "ref_consulta": "turn265search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Código de Processo Penal",
+      "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/863990/Vade_mecum_2026.pdf?isAllowed=y&sequence=1",
+      "ref_consulta": "turn265search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Presidência da República",
+      "url": "https://www.cmm.am.gov.br/wp-content/uploads/2025/12/CodProcPenal.pdf",
+      "ref_consulta": "turn265search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "(Impressão de fax em página inteira)",
+      "url": "https://imagem.camara.leg.br/Imagem/d/pdf/DCD26MAR1981.pdf",
+      "ref_consulta": "turn265search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Tribunal de Justiça de Minas Gerais",
+      "url": "https://www5.tjmg.jus.br/jurisprudencia/relatorioEspelhoAcordao.do?ano=24&codigoOrigem=0000&inteiroTeor=true&numero=394237&sequencial=000&sequencialAcordao=0&ttriCodigo=1",
+      "ref_consulta": "turn265search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "REVISTA DO SUPERIOR TRIBUNAL DE JUSTIÇA",
+      "url": "https://www.stj.jus.br/docs_internet/revista/eletronica/stj-revista-eletronica-2004_178.pdf",
+      "ref_consulta": "turn265search16",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "http://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm",
+      "url": "https://www.oas.org/ext/Portals/33/Files/Member-States/C%C3%B3digo%20de%20Processo%20Penal%20vigente%202019.pdf",
+      "ref_consulta": "turn265search17",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Assinale a opção incorreta acerca da prisão no processo penal.",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/54d9ed44-7a",
+      "ref_consulta": "turn265search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "3.689, de 3.10.41 - Código de Processo Penal.",
+      "url": "https://www.meuvademecumonline.com.br/legislacao/decretos_lei/764/pagina_1/1/3-689-de-3-10-41/artigo_684",
+      "ref_consulta": "turn265search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Criminal Procedure Code (Decree-Law No. 3.689 of October 3, 1941, as amended up to Law 12.403 of May 4, 2011), Brazil, WIPO Lex",
+      "url": "https://www.wipo.int/wipolex/en/legislation/details/9734",
+      "ref_consulta": "turn265search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Decreto-Lei nº 3.689/1941 - Código de Processo Penal. | Vade Mecum Online",
+      "url": "https://www.meuvademecumonline.com.br/legislacao/decretos_lei/764/pagina_1/1/3-689-de-3-10-41/",
+      "ref_consulta": "turn265search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Procedimento de aplicação e recorribilidade para Concurso - Página 3 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/procedimento-de-aplicacao-e-recorribilidade/questoes?page=3",
+      "ref_consulta": "turn265search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Procedimento de aplicação e recorribilidade para Concurso - Página 2 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/procedimento-de-aplicacao-e-recorribilidade/questoes?has_professor_commentaries=true&page=2",
+      "ref_consulta": "turn265search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Art. 684 do Código Processo Penal - Decreto Lei 3689/41 | Jusbrasil",
+      "url": "https://www.jusbrasil.com.br/topicos/10608640/artigo-684-do-decreto-lei-n-3689-de-03-de-outubro-de-1941",
+      "ref_consulta": "turn265search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Processual Penal | Qconcursos.com - Página 689",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&page=689&sort=newest",
+      "ref_consulta": "turn265search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Assinale a opção incorreta acerca da prisão no processo p... - Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-processual-penal-406602/1017454",
+      "ref_consulta": "turn265search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal para Concurso - Página 689 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/questoes?page=689",
+      "ref_consulta": "turn265search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Da Prisão e da Liberdade Provisória para Concurso - Página 86 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/da-prisao-e-da-liberdade-provisoria/questoes?page=86",
+      "ref_consulta": "turn265search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,87 @@
+{
+  "id": "Q0283",
+  "consulta_executada": "\"Antonio acabou de sofrer hipoteca, determinada por juiz criminal, de imóvel que recebeu de seu pai. Nesse caso,\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Antonio acabou de sofrer hipoteca, determinada por juiz crim...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/735895-questao",
+      "ref_consulta": "turn312search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Antonio acabou de sofrer hipoteca, determinada por juiz cri...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/ea8ef6a7-c9",
+      "ref_consulta": "turn312search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Especialização e registro da hipoteca legal para Concurso | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/especializacao-e-registro-da-hipoteca-legal/questoes?has_professor_commentaries=true",
+      "ref_consulta": "turn312search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "CP.MODELO",
+      "url": "https://jcconcursos.uol.com.br/media/uploads/provas/provas/2015/50232.pdf",
+      "ref_consulta": "turn312search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Sequestro de Bens imóveis para Concurso - Página 4 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/sequestro-de-bens-imoveis/questoes?page=4",
+      "ref_consulta": "turn312search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Especialização e registro da hipoteca legal para Concurso | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/especializacao-e-registro-da-hipoteca-legal/questoes",
+      "ref_consulta": "turn312search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Direito Processual Penal | Qconcursos.com - Página 445",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&has_commentaries=true&page=445",
+      "ref_consulta": "turn312search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 4 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&has_commentaries=true&page=4&subject_ids%5B%5D=20530&subject_ids%5B%5D=2555",
+      "ref_consulta": "turn312search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Sequestro de Bens imóveis para Concurso - Página 4 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/sequestro-de-bens-imoveis/questoes?has_professor_commentaries=true&page=4",
+      "ref_consulta": "turn312search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 45 - TJ-GO - Juiz de Direito - FCC (2015) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tj-go-juiz-substituto-2015-fcc/45",
+      "ref_consulta": "turn312search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Nulidades e Procedimentos Especiais: Sequestro | PDF | Sentença (jurídico) | Crimes",
+      "url": "https://pt.scribd.com/document/914674906/ESTUDO-DIRIGIDO-DO-PRIMEIRO-BIMESTRE-NULIDADES-E-PROCEDIMENTOS-ESPECIAIS-Cauan",
+      "ref_consulta": "turn312search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: m-pack-processual-penal-sem-comentario 2 (1) - Material Claro e Objetivo em PDF para Estudo Rápido",
+      "url": "https://www.passeidireto.com/arquivo/81535814/m-pack-processual-penal-sem-comentario-2-1",
+      "ref_consulta": "turn312search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso de 2015 sobre Direito Processual Penal para FCC | Qconcursos.com - Página 6",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&examining_board_ids%5B%5D=1&page=6&publication_year%5B%5D=2015",
+      "ref_consulta": "turn312search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

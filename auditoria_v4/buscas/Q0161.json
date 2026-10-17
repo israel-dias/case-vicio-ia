@@ -1,0 +1,93 @@
+{
+  "id": "Q0161",
+  "consulta_executada": "\"Analise o caso hipotético a seguir. Durante patrulhamento ostensivo em uma região da cidade conhecida pelo intenso tráfico de drogas,\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Analise o caso hipotético a seguir. Durante patrulhame...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/698375-questao",
+      "ref_consulta": "turn196search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Analise o caso hipotético a seguir. Durante patrulhamento ostensivo em...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/174103-questao",
+      "ref_consulta": "turn196search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Gabarito comentado. Defensoria Pública de Minas Gerais – DPE/MG, 2019. Prova objetiva. Cabe recurso questão de júri.",
+      "url": "https://www.estrategiaconcursos.com.br/blog/gabarito-comentado-defensoria-publica-de-minas-gerais-dpe-mg-2019-prova-objetiva/",
+      "ref_consulta": "turn196search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Analise o caso hipotético a seguir. Durante patrulhamento o...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/9e266e3e-80",
+      "ref_consulta": "turn196search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 46 - DPE-MG - Defensor Público - FUNDEP (Gestão de Concursos) (2019) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/defensoria-publica-do-estado-de-minas-gerais-defensor-publico-fundep-gestao-de-concursos-2019/46",
+      "ref_consulta": "turn196search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 46 do Concurso Defensoria Pública do Estado de Minas Gerais (DPE-MG) - Defensor Público - FUNDEP (Gestão de Concursos) (2019) - Questões Estratégicas",
+      "url": "https://www.questoesestrategicas.com.br/questoes/ver/YBuoZeZsdDRknCMNR5pu5mYSK9lDOz6ab-DwQBJJ7fs",
+      "ref_consulta": "turn196search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Gabarito da Prova da Defensoria Pública MG | PDF | Administração pública | Homicídio",
+      "url": "https://pt.scribd.com/document/420136919/fundep-prova-2019-dpe-mg-defensor-publico-prova-pdf",
+      "ref_consulta": "turn196search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Mini Simulado de Direito Processual Penal | PDF | Prova (jurídico) | Polícia",
+      "url": "https://pt.scribd.com/document/867514333/Pacote-Mini-Simulados-Direito-Processual-Penal",
+      "ref_consulta": "turn196search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Direito Processual Penal | Qconcursos.com - Página 309",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&has_commentaries=true&page=309",
+      "ref_consulta": "turn196search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "4. DIREITO PROCESSUAL PENAL 237",
+      "url": "https://konektacommerce.nyc3.cdn.digitaloceanspaces.com/TEXT_SAMPLE_CONTENT/como-passar-em-concursos-de-defensoria-2600-questoes-comentadas-05ed22-165937-1.pdf",
+      "ref_consulta": "turn196search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Audiência de custódia - Página 3 | Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-processual-penal-audiencia-de-custodia-414714?pagina=3",
+      "ref_consulta": "turn196search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Jogar Quiz – Licínia Rossi",
+      "url": "https://liciniarossi.com.br/jogar-quiz/327/",
+      "ref_consulta": "turn196search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Da Prisão em Flagrante para Concurso - Página 12 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/da-prisao-em-flagrante/questoes?page=12",
+      "ref_consulta": "turn196search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "VIII Concurso Público de Provas e Títulos",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/62215/fundep-gestao-de-concursos-2019-dpe-mg-defensor-publico-prova.pdf",
+      "ref_consulta": "turn196search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

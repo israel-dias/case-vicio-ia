@@ -1,0 +1,144 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0151",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5517",
+      "confianca_modelo": 0.94,
+      "justificativa": "O enunciado e opções comparam espécies de prisão e medidas cautelares, filhos do pai substantivo Prisões em Espécie. O pai abrange a combinação sem escolher apenas fiança ou domiciliar.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5521",
+        "5523",
+        "5520",
+        "5518"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0152",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5472",
+      "confianca_modelo": 0.94,
+      "justificativa": "O objeto é legitimidade e preferência para exercer direito de queixa na ação privada. O ramo processual de iniciativa privada representa o instituto, com concorrência interna de queixa-crime documentada.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5474",
+        "5065"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0153",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5222",
+      "confianca_modelo": 0.97,
+      "justificativa": "O comando pede identificar modalidade de dolo a partir de sua definição. Crime Doloso e Culposo corresponde ao elemento subjetivo, sem necessidade de tema específico sobre um delito concreto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5226"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0154",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5135",
+      "confianca_modelo": 0.7,
+      "justificativa": "O objeto é crime discriminatório trabalhista da Lei 9.029/1995. Crimes Contra a Organização do Trabalho é hipótese pelo bem jurídico, mas o catálogo não esclarece se abrange legislação especial fora do título do Código Penal.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "lei_especial_sem_escopo_explicitado_no_tema"
+      ]
+    },
+    {
+      "id": "Q0155",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "6734",
+      "confianca_modelo": 0.8,
+      "justificativa": "O enunciado delimita RDD, instituto de execução prisional. LEP em Processo Penal é hipótese, mas o catálogo também oferece 4703 sem definir a distinção, exigindo premissa de ramo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4703"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0156",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4688",
+      "confianca_modelo": 0.8,
+      "justificativa": "O bloco cobra sanções e regras da Lei de Crimes Ambientais. Os IDs 4688/6717 se sobrepõem sem escopo discriminante fornecido; a dúvida é taxonômica, não ausência de assunto penal.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6717"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0157",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5520",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando pede prazo da prisão temporária em investigação de crime específico. A natureza do crime contextualiza o prazo, e o instituto de prisão temporária permanece central.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0158",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4707",
+      "confianca_modelo": 0.98,
+      "justificativa": "A pergunta delimita efeitos da condenação previstos na Lei de Tortura. O tema legal específico e sem homônimo ativo representa o conteúdo melhor que efeitos gerais da condenação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5209"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0159",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5226",
+      "confianca_modelo": 0.74,
+      "justificativa": "O caso exige atribuir resultados a duas condutas sucessivas, confrontando homicídio tentado/consumado e latrocínio. Nexo Causal é hipótese explicativa, mas os tipos de vida e patrimônio são concorrentes sem núcleo único explícito.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5150",
+        "5160",
+        "5177"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0160",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5205",
+      "confianca_modelo": 0.98,
+      "justificativa": "O item pergunta por substituição da pena privativa por restritiva de direitos em reincidência. O instituto específico da pena substitutiva é central.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

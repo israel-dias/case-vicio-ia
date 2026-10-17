@@ -1,0 +1,143 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0311",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5488",
+      "confianca_modelo": 0.98,
+      "justificativa": "O caso pergunta pela forma de citação e consequências da não localização do acusado. O subtema de citação é específico; prescrição e defesa são efeitos usados nos distratores.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0312",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4384",
+      "confianca_modelo": 0.96,
+      "justificativa": "O item delimita fins da pena na teoria de Liszt, como ressocialização, intimidação e neutralização. Teorias Legitimidoras da Pena representa essa justificação funcional.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5200"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0313",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5209",
+      "confianca_modelo": 0.79,
+      "justificativa": "O objeto é obrigação civil como efeito genérico da condenação. O tema material de Efeitos da Condenação concorre com Efeitos da Sentença Condenatória e Ação Civil Ex Delicto em ramos processuais, sem critério discriminante suficiente.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5577",
+        "5475"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0314",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5477",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado e opções discutem conceito, natureza e finalidade do habeas corpus. O tema específico corresponde diretamente ao instituto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0315",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5185",
+      "confianca_modelo": 0.97,
+      "justificativa": "O comando e todas as opções perguntam pelo cálculo da prescrição com idade, recebimento e trânsito. O pai Prescrição abrange a comparação entre pretensão punitiva e executória sem tomar roubo como núcleo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5188",
+        "5189",
+        "5187"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0316",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5224",
+      "confianca_modelo": 0.97,
+      "justificativa": "A narrativa e referência ao art. 20, §3º, delimitam erro sobre a pessoa e consideração das qualidades da vítima pretendida. Erro de Tipo abrange a modalidade acidental; estado puerperal é contexto da aplicação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5153"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0317",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5198",
+      "confianca_modelo": 0.98,
+      "justificativa": "O item delimita prazo do direito de representação e perda por decadência. O subtema específico da causa de extinção é mais adequado que ação penal genérica.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5471"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0318",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5178",
+      "confianca_modelo": 0.94,
+      "justificativa": "O caso exige distinguir interrupção voluntária, arrependimento eficaz/posterior e resultado ocorrido. O subtema conjunto desses institutos é central; homicídio e atenuante servem à aplicação comparativa.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5177",
+        "5203"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0319",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5073",
+      "confianca_modelo": 0.76,
+      "justificativa": "O texto mistura uma lista de categorias com alternativas de formato inconsistente, mas o núcleo legível é possibilidade de coautoria por espécie de crime. Modalidades de Autoria é hipótese, sujeita a revisão do registro original.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5072",
+        "5174"
+      ],
+      "alertas": [
+        "estrutura_textual_da_questao_a_conferir"
+      ]
+    },
+    {
+      "id": "Q0320",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5550",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando pede definir testemunha fedatária e compará-la a outras espécies. Prova Testemunhal é o subtema específico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

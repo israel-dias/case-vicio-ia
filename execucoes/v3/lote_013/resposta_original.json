@@ -1,0 +1,143 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0131",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5072",
+      "confianca_modelo": 0.97,
+      "justificativa": "O item pergunta pela teoria do domínio do fato e distinção entre autoria e participação. Autores e Partícipes é o subtema específico sob concurso de pessoas.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5073"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0132",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5583",
+      "confianca_modelo": 0.75,
+      "justificativa": "O objeto é proteção e sigilo de dados de vítimas e testemunhas, incluindo acesso da defesa. Sujeitos do Processo é hipótese abrangente; os temas de declarações e prova testemunhal não explicitam esse escopo conjunto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5549",
+        "5550",
+        "5553"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0133",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5524",
+      "confianca_modelo": 0.97,
+      "justificativa": "O item delimita o cabimento temporal do desaforamento no Júri. O pai substantivo específico representa o instituto, ausente como filho próprio.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5528"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0134",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5092",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado transcreve conduta de solicitar/receber vantagem em razão da função e as opções discutem suas penas e modalidades. O núcleo é corrupção passiva.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0135",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5169",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado nomeia receptação e as opções tratam de sujeitos, modalidades e crime antecedente. O subtema específico cobre o conjunto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0136",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4704",
+      "confianca_modelo": 0.81,
+      "justificativa": "O objeto é incidência da Lei Maria da Penha sobre ofensas após separação, e não pensão alimentícia. Os IDs homônimos não delimitam escopo de ramo, exigindo premissa antes da publicação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6724"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0137",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5498",
+      "confianca_modelo": 0.93,
+      "justificativa": "A questão delimita investigação conduzida por delegado, indiciamento e prerrogativas legais. Inquérito Policial é o pai substantivo adequado ao conjunto; remanejamento funcional é um aspecto da atuação investigativa.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5500",
+        "5583"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0138",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5199",
+      "confianca_modelo": 0.94,
+      "justificativa": "O enunciado combina substituição por penas restritivas e suspensão condicional da pena, filhos do mesmo pai Teoria da Pena. O pai cobre o conjunto sem confundir com suspensão do processo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5205",
+        "5207"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0139",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5212",
+      "confianca_modelo": 0.95,
+      "justificativa": "O comando pede concepção de culpabilidade ligada à possibilidade de autodeterminação e coculpabilidade. Conceito e Elementos da Culpabilidade é o subtema correspondente, não teoria sociológica do crime em geral.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0140",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5157",
+      "confianca_modelo": 0.96,
+      "justificativa": "O enunciado e opções comparam furto e roubo, incluindo qualificadoras e prova. O pai substantivo de crimes patrimoniais representa ambos os filhos efetivamente cobrados.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5159",
+        "5160"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

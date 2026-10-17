@@ -1,0 +1,155 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0121",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5472",
+      "confianca_modelo": 0.96,
+      "justificativa": "O caso delimita ação penal privada e indivisibilidade na escolha dos querelados. O subtema processual de iniciativa privada é específico; o dano apenas fornece o crime de contexto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5469",
+        "5065"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0122",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "6734",
+      "confianca_modelo": 0.8,
+      "justificativa": "Todas as opções cobram remição, instituto de execução. A hipótese LEP em Processo Penal concorre com 4703 sem escopo diferenciado, mantendo a cautela aplicada às outras perguntas de remição.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4703"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0123",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4385",
+      "confianca_modelo": 0.68,
+      "justificativa": "As assertivas combinam etiquetamento, seletividade racial, letalidade policial e validade de prova discriminatória. Teorias Sociológicas é hipótese agregadora, sem núcleo inequívoco para a parte processual.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4378",
+        "4368",
+        "5594"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0124",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4384",
+      "confianca_modelo": 0.95,
+      "justificativa": "O enunciado delimita teorias de justificação/finalidades da pena e compara retribuição e prevenção em autores clássicos. Teorias Legitimidoras da Pena representa a comparação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5200"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0125",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5485",
+      "confianca_modelo": 0.76,
+      "justificativa": "O comando exige identificar o órgão competente para aplicar lei penal benéfica após condenação. Competência de juízo é hipótese central, com lei penal no tempo adicional e ramo de execução concorrente.",
+      "extras_ids": [
+        "5181"
+      ],
+      "temas_concorrentes_ids": [
+        "6734",
+        "4703"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0126",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5170",
+      "confianca_modelo": 0.35,
+      "justificativa": "O enunciado genérico reúne nexo causal, comunicabilidade, lei especial, inimputabilidade e extraterritorialidade. Introdução ao Direito Penal é apenas hipótese parcial; nenhum tema substantivo único cobre o conjunto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5226",
+        "5076",
+        "5213",
+        "5182"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0127",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5581",
+      "confianca_modelo": 0.91,
+      "justificativa": "A narrativa central contrapõe pedido absolutório do Ministério Público e condenação pelo juiz, discutindo a relação com o sistema acusatório. Sistemas Processuais é a hipótese sustentada pelo conflito narrado, sem tomar tráfico como núcleo por mera menção.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5575",
+        "5537"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0128",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5468",
+      "confianca_modelo": 0.75,
+      "justificativa": "O item conceitua uma espécie chamada ação de prevenção penal pela finalidade de impor medida de segurança. Classificação da Ação Penal é hipótese, concorrendo com Medida de Segurança; falta delimitar o escopo taxonômico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5184",
+        "5466"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0129",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5550",
+      "confianca_modelo": 0.97,
+      "justificativa": "O objeto explícito é admissibilidade de depoimento de parentes como testemunhas. Violência doméstica contextualiza o fato, sem deslocar a questão para o tema genérico da lei.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0130",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5160",
+      "confianca_modelo": 0.95,
+      "justificativa": "O caso delimita roubo com simulacro, consumação e possibilidade de substituição da pena. Roubo é central e Penas Restritivas de Direitos é adicional exigido nas alternativas.",
+      "extras_ids": [
+        "5205"
+      ],
+      "temas_concorrentes_ids": [
+        "5177"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

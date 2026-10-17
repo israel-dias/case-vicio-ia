@@ -1,0 +1,154 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0161",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5588",
+      "confianca_modelo": 0.93,
+      "justificativa": "O comando exige a providência defensiva sobre prisão ilegal em audiência de custódia. Relaxamento é o tema central proposto; a legalidade da busca domiciliar é adicional efetivamente necessária, distinta do contexto de drogas.",
+      "extras_ids": [
+        "5554"
+      ],
+      "temas_concorrentes_ids": [
+        "5594",
+        "5589"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0162",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4381",
+      "confianca_modelo": 0.93,
+      "justificativa": "O enunciado apresenta controle social como objeto da criminologia e as alternativas distinguem seus agentes formais e informais. Conceito e objeto da Criminologia representa essa delimitação, sem confundir com modelos de reação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4368"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0163",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5133",
+      "confianca_modelo": 0.68,
+      "justificativa": "O caso combina violação de correspondência prisional, abuso de autoridade e especialidade, com referência a lei antiga. Inviolabilidade da Correspondência é hipótese material; a predominância e o ramo de abuso exigem revisão.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4684",
+        "6716",
+        "5183",
+        "6734"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0165",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4705",
+      "confianca_modelo": 0.8,
+      "justificativa": "Enunciado e opções discutem organização criminosa, investigação e colaboração na Lei 12.850. O tema legal é hipótese central, mas há homônimo 6725 sem escopo discriminante.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6725",
+        "5557"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0166",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "6734",
+      "confianca_modelo": 0.7,
+      "justificativa": "A pergunta exige escolher benefício em execução entre livramento, comutação, indulto e domiciliar. LEP em Processo Penal é hipótese agregadora, com homônimo e institutos específicos concorrentes; não selecionar um por detalhe isolado.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4703",
+        "5521",
+        "5208",
+        "5193"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0167",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5524",
+      "confianca_modelo": 0.97,
+      "justificativa": "Todas as alternativas cobram requisitos, legitimados e efeitos do desaforamento no Júri. O tema substantivo do procedimento é adequado na ausência de filho denominado desaforamento.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0168",
+      "sugestao_decisao": "fora",
+      "tema_central_id": null,
+      "confianca_modelo": null,
+      "justificativa": "O núcleo são crimes de manipulação/corrupção esportiva da Lei Geral do Esporte. O catálogo ativo não possui tema de crimes esportivos; corrupção de agente privado esportivo não se enquadra automaticamente em corrupção contra a administração pública.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5092",
+        "5093"
+      ],
+      "alertas": [
+        "lacuna_de_crimes_esportivos"
+      ]
+    },
+    {
+      "id": "Q0169",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5492",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado delimita impedimento e suspeição do juiz, e todas as opções tratam dessas causas. O subtema específico corresponde diretamente ao objeto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0170",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5203",
+      "confianca_modelo": 0.93,
+      "justificativa": "O comando exige identificar reincidência/primariedade pelos antecedentes. O núcleo é a agravante da reincidência, com efeitos de indulto, prescrição e reabilitação usados na comparação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5209",
+        "5199"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0172",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5466",
+      "confianca_modelo": 0.63,
+      "justificativa": "O bloco reúne recebimento/aditamento da denúncia, prescrição, imunidade parlamentar e exceção da verdade. Ação Penal é hipótese predominante, sem filho único nem garantia de cobrir a parte prescricional.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5473",
+        "5188",
+        "5484"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    }
+  ]
+}

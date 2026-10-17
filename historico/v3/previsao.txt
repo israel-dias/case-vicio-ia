@@ -1,0 +1,10 @@
+precisao_prevista: 0.96
+precisao_intervalo: 0.85-0.99
+cobertura_prevista: 0.637883008
+cobertura_intervalo: 0.637883008-0.637883008
+
+Cobertura fixa desta entrega: 229/359. Os limites iguais representam a contagem conhecida, não uma estimativa de generalização.
+A precisão de 0.96 é previsão subjetiva ex ante, não medida nem calibrada. O orçamento hipotético de erro soma 0.02 de interpretação do núcleo, 0.01 de escopo/ramo e 0.01 residual. Essas parcelas não são frequências observadas e podem se sobrepor.
+A faixa 0.85-0.99 é sensibilidade subjetiva, não intervalo de confiança estatístico; admite descumprimento da meta e não limita o risco real de erro correlacionado.
+A escolha se apoia no filtro qualitativo por conteúdo/caminho, revisão de conflitos e integridade dos registros. Não usamos a média da confiança da IA como precisão medida. Não há gabarito independente: duas respostas ou revisão pelo mesmo assistente não o substituem.
+A confiança do CSV é julgamento autodeclarado não calibrado. Em fora, 0 é convenção para ausência de tema central, não chance de a decisão fora estar correta. As premissas completas estão em docs/PREMISSAS_PREVISAO.json.

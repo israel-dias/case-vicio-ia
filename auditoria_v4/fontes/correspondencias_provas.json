@@ -1,0 +1,893 @@
+[
+  {
+    "id": "Q0003",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutojz-subst-tipo-1.pdf",
+    "chave": "6d99eef4e84199fa",
+    "pagina_pdf_1based": 17,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0005",
+    "url": "https://cdn.cebraspe.org.br/concursos/PC_RO_22/arquivos/732_PCRO_002_01.PDF",
+    "chave": "dc61e93a9329b789",
+    "pagina_pdf_1based": 3,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0006",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/promotor-de-justica-substitutocns001-tipo-3.pdf",
+    "chave": "7d13204073b47134",
+    "pagina_pdf_1based": 5,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0347",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/promotor-de-justica-substitutocns001-tipo-3.pdf",
+    "chave": "7d13204073b47134",
+    "pagina_pdf_1based": 5,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0007",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/defensor-publicocns100-tipo-1.pdf",
+    "chave": "3517a23f82921fea",
+    "pagina_pdf_1based": 14,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 4,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0108",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/defensor-publicocns100-tipo-1.pdf",
+    "chave": "3517a23f82921fea",
+    "pagina_pdf_1based": 15,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0132",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/defensor-publicocns100-tipo-1.pdf",
+    "chave": "3517a23f82921fea",
+    "pagina_pdf_1based": 16,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0254",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/defensor-publicocns100-tipo-1.pdf",
+    "chave": "3517a23f82921fea",
+    "pagina_pdf_1based": 16,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0016",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistraturacns001-tipo-3_2.pdf",
+    "chave": "9bca8a19b41fcec5",
+    "pagina_pdf_1based": 3,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0187",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistraturacns001-tipo-3_2.pdf",
+    "chave": "9bca8a19b41fcec5",
+    "pagina_pdf_1based": 23,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0345",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistraturacns001-tipo-3_2.pdf",
+    "chave": "9bca8a19b41fcec5",
+    "pagina_pdf_1based": 24,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0019",
+    "url": "https://www.mpmg.mp.br/data/files/F6/63/73/AB/6091A81025FB8488760849A8/MPMG%202023%20-%20Prova%20Objetiva.pdf",
+    "chave": "bfbfd74e43f0dfbc",
+    "pagina_pdf_1based": 12,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 4,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0023",
+    "url": "https://www.mpdft.mp.br/portal/pdf/concursos/membros/30concurso/ProvaObjetiva30.pdf",
+    "chave": "6e48bdbb6713a9c4",
+    "pagina_pdf_1based": 11,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0269",
+    "url": "https://www.mpdft.mp.br/portal/pdf/concursos/membros/30concurso/ProvaObjetiva30.pdf",
+    "chave": "6e48bdbb6713a9c4",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0023",
+    "url": "https://www.mpdft.mp.br/portal/pdf/Prova%201a%20Etapa.pdf",
+    "chave": "6232fd6773a8a5d1",
+    "pagina_pdf_1based": 11,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0269",
+    "url": "https://www.mpdft.mp.br/portal/pdf/Prova%201a%20Etapa.pdf",
+    "chave": "6232fd6773a8a5d1",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0024",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistraturacns001-tipo-2_1.pdf",
+    "chave": "c7033c4d4874eeba",
+    "pagina_pdf_1based": 25,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0026",
+    "url": "https://cdn.cebraspe.org.br/concursos/pc_es_22_delegado/arquivos/729_PC_ES_001_01.PDF",
+    "chave": "6e2aa230be64511e",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0234",
+    "url": "https://cdn.cebraspe.org.br/concursos/pc_es_22_delegado/arquivos/729_PC_ES_001_01.PDF",
+    "chave": "6e2aa230be64511e",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0027",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tjba/TJBAHIA_Tecnico_Judiciario_-_Escrevente_-_Area_Judiciaria_%28TJUD-AJ%29_Tipo_3.pdf",
+    "chave": "92c5448d01915364",
+    "pagina_pdf_1based": 11,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0036",
+    "url": "https://portal.tjce.jus.br/uploads/2025/07/Prova-Tipo-1.pdf",
+    "chave": "09d04d8f252a1694",
+    "pagina_pdf_1based": 17,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0036",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substituto-cns001-tipo-3.pdf",
+    "chave": "6de58e580a62999b",
+    "pagina_pdf_1based": 18,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0038",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tjgo-2023-juiz-substitutojuizsubstituto-tipo-2.pdf",
+    "chave": "a9c31662ecb88010",
+    "pagina_pdf_1based": 15,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0038",
+    "url": "https://docs.tjgo.jus.br/concursos/juizsubstituto/concurso58/Provas.pdf",
+    "chave": "f39e628869d497ca",
+    "pagina_pdf_1based": 14,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0047",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/delegado-de-policia-substitutocns101-tipo-4.pdf",
+    "chave": "10b6c9782ac6f90e",
+    "pagina_pdf_1based": 10,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0081",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/delegado-de-policia-substitutocns101-tipo-4.pdf",
+    "chave": "10b6c9782ac6f90e",
+    "pagina_pdf_1based": 19,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0048",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/defensoria_2021_classe_inicial_da_carreira_da_defensoria_publica_do_estado_do_rio_de_janeiro_ci-defens_tipo_3.pdf",
+    "chave": "1968a700dbfb4189",
+    "pagina_pdf_1based": 18,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0171",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/defensoria_2021_classe_inicial_da_carreira_da_defensoria_publica_do_estado_do_rio_de_janeiro_ci-defens_tipo_3.pdf",
+    "chave": "1968a700dbfb4189",
+    "pagina_pdf_1based": 16,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0210",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/defensoria_2021_classe_inicial_da_carreira_da_defensoria_publica_do_estado_do_rio_de_janeiro_ci-defens_tipo_3.pdf",
+    "chave": "1968a700dbfb4189",
+    "pagina_pdf_1based": 12,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0051",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/classe-inicial-da-carreira-da-defensoria-publica-do-estado-do-rio-de-janeirodef-rio-tipo-2.pdf",
+    "chave": "b6fdceaad089f776",
+    "pagina_pdf_1based": 13,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0284",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/classe-inicial-da-carreira-da-defensoria-publica-do-estado-do-rio-de-janeirodef-rio-tipo-2.pdf",
+    "chave": "b6fdceaad089f776",
+    "pagina_pdf_1based": 11,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0054",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tjsc-2023-juiz-substitutojuizsubstituto-tipo-4.pdf",
+    "chave": "e8febb9fdf91d2cd",
+    "pagina_pdf_1based": 14,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0054",
+    "url": "https://www.mpmg.mp.br/data/files/6D/B3/82/CB/41F8491041383A19760849A8/Espelho%20de%20Prova.pdf",
+    "chave": "f806886ff412119f",
+    "pagina_pdf_1based": 6,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0055",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz_de_direito_substitutojuizsubst_tipo_2_-_revisada.pdf",
+    "chave": "0f48cf1497a358cf",
+    "pagina_pdf_1based": 15,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0063",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/delegado-objetivacns100-tipo-3.pdf",
+    "chave": "a6b7e22770be6117",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0064",
+    "url": "https://cdn.cebraspe.org.br/concursos/PGE_CE_21/arquivos/635_PGE_CE_001_01.PDF",
+    "chave": "23a388485bd9203d",
+    "pagina_pdf_1based": 7,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 4,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0350",
+    "url": "https://cdn.cebraspe.org.br/concursos/PGE_CE_21/arquivos/635_PGE_CE_001_01.PDF",
+    "chave": "23a388485bd9203d",
+    "pagina_pdf_1based": 5,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 4,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0070",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistratura-cns001-tipo-1.pdf",
+    "chave": "9885301d404b3033",
+    "pagina_pdf_1based": 30,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0074",
+    "url": "https://cdn.cebraspe.org.br/concursos/DPE_AL2009/arquivos/DPE_001_1.pdf",
+    "chave": "063c3fa7a240f88d",
+    "pagina_pdf_1based": 7,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0079",
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_ma_22_juiz/arquivos/694_tjma_001_01.pdf",
+    "chave": "7e3cb662d1b626ee",
+    "pagina_pdf_1based": 7,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0153",
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_ma_22_juiz/arquivos/694_tjma_001_01.pdf",
+    "chave": "7e3cb662d1b626ee",
+    "pagina_pdf_1based": 6,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0082",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/oficial-de-justicaof-jus-tipo-3.pdf",
+    "chave": "6bd65110a8e685f7",
+    "pagina_pdf_1based": 16,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0097",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutotjse-jsub-tipo-2.pdf",
+    "chave": "1ee495883ecc767b",
+    "pagina_pdf_1based": 16,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0355",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutotjse-jsub-tipo-2.pdf",
+    "chave": "1ee495883ecc767b",
+    "pagina_pdf_1based": 15,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0148",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutojuizsubstituto-tipo-4.pdf",
+    "chave": "7492dab990856eea",
+    "pagina_pdf_1based": 15,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0113",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/auditor_fiscal_da_receita_estadual_-_tributacao_manha_-_tipo_4.pdf",
+    "chave": "50ecf0ae922733bd",
+    "pagina_pdf_1based": 4,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0113",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/auditor_fiscal_da_receita_estadual_-_tecnologia_da_informacao_manha_-_tipo_3.pdf",
+    "chave": "8bbfc37675d2c423",
+    "pagina_pdf_1based": 5,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0117",
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_sc_19_juiz/arquivos/MATRIZ_450_TJSC001_PAG_20.PDF",
+    "chave": "b7976f697aecd5c0",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0285",
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_sc_19_juiz/arquivos/MATRIZ_450_TJSC001_PAG_20.PDF",
+    "chave": "b7976f697aecd5c0",
+    "pagina_pdf_1based": 7,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 3,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0352",
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_sc_19_juiz/arquivos/MATRIZ_450_TJSC001_PAG_20.PDF",
+    "chave": "b7976f697aecd5c0",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0127",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-sem-especialidade-ns-a01-se-tipo-3.pdf",
+    "chave": "bf1f9fbc2dd5a582",
+    "pagina_pdf_1based": 15,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0129",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/promotor_de_justica_substitutopjs_tipo_3.pdf",
+    "chave": "26cbf55a7c95b9a1",
+    "pagina_pdf_1based": 5,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0186",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/promotor_de_justica_substitutopjs_tipo_3.pdf",
+    "chave": "26cbf55a7c95b9a1",
+    "pagina_pdf_1based": 9,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0130",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutojuizsubstituto-tipo-4_0.pdf",
+    "chave": "05fc02ed34e2377c",
+    "pagina_pdf_1based": 15,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0135",
+    "url": "https://ejef.tjmg.jus.br/wp-content/uploads/2021/07/prova_multiplaescolha.pdf",
+    "chave": "846df935fa166337",
+    "pagina_pdf_1based": 12,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 4,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0136",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/ns001_-_delegado_de_policia_-_4a_classe_prova_objetivans001_tipo_3.pdf",
+    "chave": "67ff8c515b3fad47",
+    "pagina_pdf_1based": 12,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0149",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz_substitutoj-subs_tipo_2.pdf",
+    "chave": "58c94d067e2ca9a1",
+    "pagina_pdf_1based": 18,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0164",
+    "url": "https://cdn.cebraspe.org.br/concursos/mpe_ac_22_promotor/arquivos/681_mpeac_001_01.pdf",
+    "chave": "4aeb62d977188fb8",
+    "pagina_pdf_1based": 3,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0170",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistraturacns001-tipo-1.pdf",
+    "chave": "a06625b99d72dc71",
+    "pagina_pdf_1based": 20,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0218",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistraturacns001-tipo-1.pdf",
+    "chave": "a06625b99d72dc71",
+    "pagina_pdf_1based": 4,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0327",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistraturacns001-tipo-1.pdf",
+    "chave": "a06625b99d72dc71",
+    "pagina_pdf_1based": 22,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0348",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistraturacns001-tipo-1.pdf",
+    "chave": "a06625b99d72dc71",
+    "pagina_pdf_1based": 21,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0010",
+    "url": "https://cdn.cebraspe.org.br/concursos/DPE_TO_12_DEFENSOR/arquivos/DPETO13_001_01.pdf",
+    "chave": "cef8d916182a1dca",
+    "pagina_pdf_1based": 25,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0173",
+    "url": "https://cdn.cebraspe.org.br/concursos/DPE_TO_12_DEFENSOR/arquivos/DPETO13_001_01.pdf",
+    "chave": "cef8d916182a1dca",
+    "pagina_pdf_1based": 23,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0185",
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_pa_19_juiz/arquivos/MATRIZ_510_TJPA001_PAG_17.PDF",
+    "chave": "c30eb2de2fc4de3f",
+    "pagina_pdf_1based": 9,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0192",
+    "url": "https://ejef.tjmg.jus.br/wp-content/uploads/2021/07/prova_multipla_escolha.pdf",
+    "chave": "c4e126967053ed77",
+    "pagina_pdf_1based": 13,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 4,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0199",
+    "url": "https://www.mpdft.mp.br/portal/pdf/institucional/concursos/membros/29concurso/ProvaObjetiva29.pdf",
+    "chave": "d625dd657aa9d708",
+    "pagina_pdf_1based": 2,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 3,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0207",
+    "url": "https://cdn.cebraspe.org.br/concursos/DPE_SE_21/arquivos/664_DPESE_001_01.PDF",
+    "chave": "d852cc252819be90",
+    "pagina_pdf_1based": 4,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0215",
+    "url": "https://sistemas.institutoverbena.ufg.br/2024/tj-ac/sistema/provas_gabaritos/prova/analista%20judiciario%20%20direito%20area%20judiciaria.pdf",
+    "chave": "fe2599d03d9f322c",
+    "pagina_pdf_1based": 15,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 4,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0216",
+    "url": "https://cdn.cebraspe.org.br/concursos/pc_pb_21/arquivos/627_PCPB_001_01.PDF",
+    "chave": "1ceb9680bdec78e5",
+    "pagina_pdf_1based": 5,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0221",
+    "url": "https://cdn.cebraspe.org.br/concursos/TRE_TO_17/arquivos/349_TRETO_001_01.pdf",
+    "chave": "45049b05d3cbdcb1",
+    "pagina_pdf_1based": 5,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0224",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpr-2023-juiz-substitutojuizsubstituto-tipo-2.pdf",
+    "chave": "46f56e98e5ec4a5d",
+    "pagina_pdf_1based": 11,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0230",
+    "url": "https://cdn.cebraspe.org.br/concursos/TRF1JUIZ2009/arquivos/TRF109JUIZ_001_1.pdf",
+    "chave": "9ebc236bd02e2445",
+    "pagina_pdf_1based": 7,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0026",
+    "url": "https://cdn.cebraspe.org.br/concursos/PC_ES_22_DELEGADO/arquivos/729_PC_ES_001_01.PDF",
+    "chave": "b9e579c684687fe9",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0234",
+    "url": "https://cdn.cebraspe.org.br/concursos/PC_ES_22_DELEGADO/arquivos/729_PC_ES_001_01.PDF",
+    "chave": "b9e579c684687fe9",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0252",
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_pr_16_juiz/arquivos/301_tjpr_001_01.pdf",
+    "chave": "f8a0492df7576ae8",
+    "pagina_pdf_1based": 9,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 4,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0270",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tecnico-judiciario-area-judiciariatec-jud-tipo-3.pdf",
+    "chave": "e5e15f717f60a558",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0272",
+    "url": "https://cdn.cebraspe.org.br/concursos/dpe_pi_21/arquivos/634_DPE_PI_001_01.PDF",
+    "chave": "b951b6c7153b71a5",
+    "pagina_pdf_1based": 18,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0275",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-leigojuz-leg-tipo-3_0.pdf",
+    "chave": "cf4bc0d06bce9785",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 4,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0293",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substituto-j-sub-tipo-1.pdf",
+    "chave": "9e9953e7b8201e61",
+    "pagina_pdf_1based": 16,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0293",
+    "url": "https://docs.tjgo.jus.br/concursos/juizsubstituto/concurso59/37_Juiz_Substituto_J-SUB_Tipo_2.pdf",
+    "chave": "6aa9bbd73e85e13e",
+    "pagina_pdf_1based": 16,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0295",
+    "url": "https://cdn.cebraspe.org.br/concursos/pjc_mt_17_delegado/arquivos/320_PJCMT_001_01.pdf",
+    "chave": "7068ddc5d3d17134",
+    "pagina_pdf_1based": 6,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0302",
+    "url": "https://www.mpm.mp.br/wp-content/uploads/sites/5/2023/06/recurso-provas.pdf",
+    "chave": "835c6a0570662010",
+    "pagina_pdf_1based": 1,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 1,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0303",
+    "url": "https://cdn.cebraspe.org.br/concursos/tjdft_15_juiz_2/arquivos/caderno_de_prova_-_super_ampliada.pdf",
+    "chave": "b58084c77f03733d",
+    "pagina_pdf_1based": 54,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0304",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substituto-cns001-tipo-1_0.pdf",
+    "chave": "ea2a41b1586a9e45",
+    "pagina_pdf_1based": 23,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0318",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substituto-cns001-tipo-1_0.pdf",
+    "chave": "ea2a41b1586a9e45",
+    "pagina_pdf_1based": 14,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0256",
+    "url": "https://cdn.cebraspe.org.br/concursos/PC_BA_13/arquivos/PCBA13_001_01.pdf",
+    "chave": "6a84a52660ff3c36",
+    "pagina_pdf_1based": 3,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0311",
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_rj_20_tecnico/arquivos/534_tjrj_001_01.pdf",
+    "chave": "3ed2a590a6e5ae1a",
+    "pagina_pdf_1based": 3,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0320",
+    "url": "https://www.tjdft.jus.br/informacoes/concursos/juiz-de-direito-substituto/concurso-realizado-em-2008-1/ProvaMultiplasEscolhas2008.pdf",
+    "chave": "db098c29f0a538be",
+    "pagina_pdf_1based": 24,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 4,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0323",
+    "url": "https://cdn.cebraspe.org.br/concursos/TRF5_14_JUIZ/arquivos/131TRF515_001_01.PDF",
+    "chave": "cbb1af7a3408a8ff",
+    "pagina_pdf_1based": 10,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 4,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0335",
+    "url": "https://cdn.cebraspe.org.br/concursos/TRE_MT_15/arquivos/210TREMT_002_01.pdf",
+    "chave": "32e87b13abf72405",
+    "pagina_pdf_1based": 6,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0336",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_judiciaria_-_graduacao_em_direitocnsm001_tipo_4.pdf",
+    "chave": "b4faf80f2a2cf130",
+    "pagina_pdf_1based": 21,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0336",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_judiciaria_-_oficial_de_justica_avaliadorcnsm002_tipo_1.pdf",
+    "chave": "4a6300325d926a74",
+    "pagina_pdf_1based": 18,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0343",
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/cnm202_-_tecnico_judiciario_policial_judiciariocnm202_tipo_2.pdf",
+    "chave": "b3ec226a1a00728b",
+    "pagina_pdf_1based": 7,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0223",
+    "url": "https://cdn.cebraspe.org.br/concursos/MP_AP_21_PROMOTOR/arquivos/MATRIZ.PDF",
+    "chave": "ee1eeadab75172fa",
+    "pagina_pdf_1based": 4,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 1,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0117",
+    "url": "https://cdn.cebraspe.org.br/concursos/TJ_SC_19_JUIZ/arquivos/MATRIZ_450_TJSC001_PAG_20.PDF",
+    "chave": "05acca1c58eaa7b0",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 0,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0285",
+    "url": "https://cdn.cebraspe.org.br/concursos/TJ_SC_19_JUIZ/arquivos/MATRIZ_450_TJSC001_PAG_20.PDF",
+    "chave": "05acca1c58eaa7b0",
+    "pagina_pdf_1based": 7,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 3,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0352",
+    "url": "https://cdn.cebraspe.org.br/concursos/TJ_SC_19_JUIZ/arquivos/MATRIZ_450_TJSC001_PAG_20.PDF",
+    "chave": "05acca1c58eaa7b0",
+    "pagina_pdf_1based": 8,
+    "enunciado_prefixo_encontrado": true,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  },
+  {
+    "id": "Q0354",
+    "url": "https://www.mprs.mp.br/media/areas/concursos/arquivos/xlviii/prova_preambular_gabarito_definitivo.pdf",
+    "chave": "2a04d1579ecb940e",
+    "pagina_pdf_1based": 25,
+    "enunciado_prefixo_encontrado": false,
+    "alternativas_prefixos_encontrados": 5,
+    "estado": "correspondencia_textual_candidata_exige_conferencia_visual_de_ordem_e_numero"
+  }
+]

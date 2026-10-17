@@ -1,0 +1,326 @@
+[
+  {
+    "id": "Q0017",
+    "enunciado": "No processo e julgamento dos crimes de responsabilidade dos funcionários públicos,",
+    "comando": "Complete a frase ou responda conforme o contexto do processo penal.",
+    "alternativas": {
+      "A": "nos crimes afiançáveis e inafiançáveis, após a denúncia, o juiz ordenará a notificação do acusado para responder por escrito, dentro do prazo de 15 (quinze) dias.",
+      "B": "nos crimes inafiançáveis, após a denúncia, o juiz ordenará a notificação do acusado para responder por escrito, dentro do prazo de 15 (quinze) dias.",
+      "C": "nos crimes afiançáveis e inafiançáveis, o eventual recebimento da denúncia é feito depois da notificação do acusado e, caso existente, de sua resposta.",
+      "D": "nos crimes afiançáveis, o eventual recebimento da denúncia é feito depois da notificação do acusado e, caso existente, de sua resposta.",
+      "E": "a falta de notificação do acusado para, se quiser, responder à acusação causa nulidade absoluta, conforme súmulas do Superior Tribunal de Justiça e do Supremo Tribunal Federal."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0029",
+    "enunciado": "Nos termos da Lei nº 13.869/2019, configura crime de abuso de autoridade",
+    "comando": "Complete a frase ou explique o que configura crime de abuso de autoridade segundo a Lei nº 13.869/2019.",
+    "alternativas": {
+      "A": "deixar de entregar ao preso, imediatamente, a nota\nde culpa, assinada pela autoridade, com o motivo da\nprisão e os nomes do condutor e das testemunhas.",
+      "B": "prosseguir com o interrogatório de pessoa que tenha\noptado por ser assistida por advogado, sem a presença de seu patrono.",
+      "C": "submeter a pessoa, presa em flagrante, a interrogatório policial, durante o período de repouso noturno.",
+      "D": "impedir a entrevista pessoal e reservada do preso\ncom seu advogado, ainda que de modo justificado.",
+      "E": "adentrar, mediante consentimento do ocupante, imóvel alheio ou suas dependências, ou nele permanecer\nnas mesmas condições, sem determinação judicial."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Medida de Segurança",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0035",
+    "enunciado": "Nos termos da Lei no 13.260/2016 (Lei Antiterrorismo), assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "Os crimes previstos na referida Lei são praticados contra o interesse da União, cabendo à Polícia Federal a investigação criminal, em sede de inquérito policial.",
+      "B": "Aquele que for flagrado constituindo uma organização terrorista, não cometerá um crime, estando sujeito a responsabilização por realizar atos preparatórios do terrorismo.",
+      "C": "O terrorismo consistirá sempre na prática por mais de um indivíduo de atos criminosos por razões de xenofobia, discriminação ou preconceito de raça, cor, etnia e religião, quando cometidos com a finalidade de provocar terror social ou generalizado.",
+      "D": "São atos de terrorismo incendiar, depredar, saquear, destruir ou explodir meios de transporte ou qualquer bem público ou privado.",
+      "E": "São atos de terrorismo incendiar, interferir, sabotar ou danificar sistemas de informática ou bancos de dados, quando cometidos com a finalidade de provocar terror social ou generalizado."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "assunto_origem_ausente"
+    ]
+  },
+  {
+    "id": "Q0036",
+    "enunciado": "Em uma Vara de Violência Doméstica e Familiar contra a Mulher, o Juiz de Direito recebeu os autos de inquérito policial concluído, no qual se apurou a prática de crime de lesão corporal leve (Art. 129, §9º, do Código Penal) supostamente cometido por Tício contra sua companheira, Ana. Ela comparecera à Delegacia, ocasião em que narrou os fatos, solicitou medidas protetivas de urgência e manifestou expressamente o desejo de representar criminalmente contra Tício. O Ministério Público ofereceu denúncia contra Tício pela prática do referido crime. Não há, em nenhuma peça dos autos, qualquer manifestação posterior de Ana indicando desejo de retratar-se da representação oferecida na fase policial. O Magistrado, antes de decidir sobre o recebimento da denúncia, resolve analisar a necessidade de designar a audiência prevista no Art. 16 da Lei nº 11.340/2006 (Lei Maria da Penha). Considerando a situação hipotética e o entendimento consolidado pelo Superior Tribunal de Justiça, assinale a opção que apresenta a decisão correta do Magistrado.",
+    "comando": "",
+    "alternativas": {
+      "A": "Designar, de ofício, a audiência prevista no Art. 16 da Lei Maria da Penha, por ser ato processual obrigatório em crimes de lesão corporal leve no âmbito doméstico, visando confirmar a representação da vítima antes do recebimento da denúncia.",
+      "B": "Intimar o Ministério Público para que requeira a designação da audiência do Art. 16, pois, embora necessária para confirmar a representação, sua designação não pode ocorrer de ofício pelo Juiz, dependendo de provocação ministerial.",
+      "C": "Intimar pessoalmente a vítima Ana para que compareça em cartório e ratifique sua representação ou manifeste eventual desejo de retratação, condicionando o recebimento da denúncia a essa nova manifestação.",
+      "D": "Prosseguir com a análise dos requisitos para o recebimento da denúncia oferecida, sem designar a audiência do Art. 16, uma vez que esta só é necessária caso a vítima manifeste previamente o desejo de se retratar, o que não ocorreu nos autos.",
+      "E": "Determinar o arquivamento do inquérito policial, pois a ausência de manifestação expressa da vítima sobre o desejo de retratação impede a designação da audiência do art. 16, tornando inviável o prosseguimento da ação penal por falta de condição de procedibilidade."
+    },
+    "disciplina_origem": "",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "disciplina_origem_ausente",
+      "assunto_origem_ausente"
+    ]
+  },
+  {
+    "id": "Q0058",
+    "enunciado": "Sobre a relação entre sistema penal e pobreza é correto afirmar que",
+    "comando": "",
+    "alternativas": {
+      "A": "a vertente criminológica do conflito identifica a pobreza\ncomo principal causa da criminalidade e defende\nmaior investimento social para reduzir as taxas\nde crimes.",
+      "B": "tal qual o processo de criminalização, a vitimização\ntambém é um processo seletivo que tem como alvo\npreferencial os mais pobres.",
+      "C": "por se tratar de uma questão de saúde, a internação\ndas pessoas com transtorno mental pelas medidas\nde segurança não se dá de maneira seletiva como\nno processo de criminalização.",
+      "D": "o surgimento da prisão como forma de punição por\nexcelência nos séculos XVIII e XIX teve como fulcro\na substituição de penas cruéis, mas somente nas\núltimas duas décadas passou a ser um mecanismo\nde controle social da pobreza.",
+      "E": "o efetivo respeito ao garantismo penal é capaz de\nreverter o caráter seletivo do sistema penal brasileiro\ne sua consequente gestão autoritária da miséria."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Legitimidoras da Pena",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0059",
+    "enunciado": "Sobre a relação entre o preso e a sociedade, segundo Alessandro Baratta, é CORRETO afirmar:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A reinserção do preso na sociedade, após o cumprimento da pena, é assegurada\na partir do momento em que, no cárcere, o preso absorve um conjunto de\nvalores e modelos de comportamento desejados socialmente.",
+      "B": "É necessário primeiro modificar os excluídos, para que eles possam voltar ao\nconvívio social na sociedade que está apta a acolhê-los.",
+      "C": "O cárcere não reflete as características negativas da sociedade, em razão do\nisolamento a que são submetidos os presos.",
+      "D": "São relações sociais baseadas no egoísmo e na violência ilegal, no interior\ndas quais os indivíduos socialmente mais débeis são constrangidos a papéis\nde submissão e de exploração."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Legitimidoras da Pena",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0069",
+    "enunciado": "Em termos de interpretação da lei penal, quando se encontram na legislação expressões como “qualquer outro meio”, “qualquer outra vantagem”, “outro recurso” ou “qualquer outro meio fraudulento”, por exemplo, tais preceitos serão supridos por",
+    "comando": "",
+    "alternativas": {
+      "A": "analogia.",
+      "B": "interpretação progressiva.",
+      "C": "interpretação autêntica.",
+      "D": "interpretação analógica.",
+      "E": "interpretação declarativa."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Conceitos e caracteres, Noções Fundamentais",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0090",
+    "enunciado": "Assinale a alternativa CORRETA.",
+    "comando": "",
+    "alternativas": {
+      "A": "Em havendo reunião de processos perante o juízo comum ou o tribunal do júri, decorrentes da aplicação das regras de conexão e continência, não serão observados os institutos da transação penal e da composição dos danos civis, em relação aos crimes de menor potencial ofensivo.",
+      "B": "Em razão de a Lei n° 9.099/95 admitir a aplicação subsidiária das disposições do Código de Processo Penal, o juiz determinará a suspensão do processo e do curso do prazo prescricional sempre que, nos crimes submetidos ao procedimento traçado por aquela lei, o acusado, citado por edital, não comparecer e nem constituir advogado.",
+      "C": "No direito processual penal brasileiro, a réplica à resposta à acusação não se constitui em uma regra prevista expressamente para todas as modalidades de procedimentos existentes, podendo ser encontrada no procedimento aplicável aos processos de competência do Tribunal do Júri e no procedimento para os processos perante o Superior Tribunal de Justiça e o Supremo Tribunal Federal.",
+      "D": "De acordo com o Código de Processo Penal, nos processos submetidos ao rito comum ordinário, a denúncia ou queixa serão rejeitadas quando forem manifestamente ineptas, quando faltar pressuposto processual ou condição da ação para o exercício da ação penal, quando faltar justa causa para o oferecimento da ação penal e quando o fato narrado evidentemente não constitui crime.",
+      "E": "Tendo o funcionário público cometido o crime de racismo no exercício de sua função, e estando a denúncia ou queixa em devida ordem, o juiz mandará autuá-la e ordenará a notificação do acusado, para responder por escrito, dentro do prazo de quinze dias."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0106",
+    "enunciado": "Que delito praticam os estudantes de Direito com o chamado “pendura”, nas comemorações da instalação dos cursos jurídicos no País?",
+    "comando": "Responda qual é o delito praticado pelos estudantes de Direito com o chamado “pendura” nas comemorações da instalação dos cursos jurídicos no País.",
+    "alternativas": {
+      "A": "Nenhum crime foi praticado, por se tratar de fato atípico.",
+      "B": "Crime de dano qualificado, por motivo egoístico.",
+      "C": "Delito de fraude, consistente em tomar refeições em restaurante, sem dispor de recursos para pagar as despesas.",
+      "D": "Estelionato privilegiado, devido ao pequeno valor do prejuízo causado à vítima."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Crimes contra o patrimônio",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0116",
+    "enunciado": "Em relação à Lei Federal no 11.343/06, que estabelece o Sistema Nacional de Políticas Públicas sobre Drogas, é correto afirmar que",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "o comando legal que vedava a conversão da pena privativa de liberdade em restritiva de direitos no crime de tráfico teve sua execução suspensa por resolução do Senado Federal.",
+      "B": "a conduta de guardar, para consumo próprio, drogas em desacordo com determinação legal e regulamentar, configura mera infração administrativa.",
+      "C": "o informante que colabora com grupo que, sem autorização ou em desacordo com a legislação regulamentar, se dedica à venda de drogas, responde pelo mesmo tipo pena em que incorrerá o grupo vendedor, visto que sistema penal pátrio adota a teoria monista.",
+      "D": "por se tratar de norma penal em branco, a legislação delegou a órgão do Poder Executivo Federal a definição de critério quantitativo rígido para fins de distinção da conduta do usuário e do traficante.",
+      "E": "a lei em questão prevê pena privativa de liberdade para aquele que conduz veículo automotor, embarcação ou aeronave após o consumo de drogas, expondo a dano potencial a incolumidade de outrem."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Prescrição",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0164",
+    "enunciado": "Conforme o que a LEP prevê relativamente ao preso e ao egresso, assinale a opção correta.",
+    "comando": "Assinale a opção correta.",
+    "alternativas": {
+      "A": "A concessão de alojamento e alimentação ao egresso pelo\nprazo de dois meses poderá ser prorrogada uma vez, desde\nque seja comprovado o empenho dele na obtenção de\nemprego.",
+      "B": "A assistência à saúde do preso e do internado de caráter\npreventivo e curativo compreenderá atendimento médico,\npsicológico e odontológico.",
+      "C": "O estudo será obrigatório, integrando-se ao sistema escolar\nmunicipal, mas mantido pela administração penitenciária.",
+      "D": "Consideram-se egressos o liberado definitivo e o liberado\ncondicional, desde sua saída até a sua reabilitação.",
+      "E": "A assistência material é dever da administração, sendo\nvedada a comercialização de produtos dentro do\nestabelecimento prisional."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0171",
+    "enunciado": "Sobre as alterações trazidas pela Lei nº 13.964/2019 (Pacote Anticrime), é correto afirmar que:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "seguindo o anseio legislativo de maior recrudescimento\npenal, o limite de cumprimento das penas privativas de\nliberdade poderá alcançar o patamar de quarenta anos,\nindependentemente do momento da prática do delito;",
+      "B": "ainda que surtam efeitos na execução da pena e, portanto,\nno sistema carcerário, o crime de roubo circunstanciado pelo\nemprego de arma de fogo (Art. 157, §2º-A, I, do Código Penal)\npassou a ser considerado hediondo;",
+      "C": "o juiz não poderá receber a denúncia apenas com\nfundamento nas informações das declarações do réu que\nrealizou a colaboração premiada, mas poderá decretar\nmedidas cautelares reais;",
+      "D": "a exclusão dos perfis genéticos dos bancos de dados ocorrerá\napós dez anos do término do cumprimento da pena dos\ncrimes graves contra a pessoa;",
+      "E": "o cumprimento e/ou rescisão do acordo de não persecução\npenal é/são causa(s) interruptiva(s) da prescrição."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0193",
+    "enunciado": "Sobre o tema da colaboração premiada, assinale a alternativa incorreta:",
+    "comando": "Assinale a alternativa incorreta sobre o tema da colaboração premiada.",
+    "alternativas": {
+      "A": "O acordo de colaboração premiada poderá ser precedido de instrução, quando houver necessidade de\nidentificação ou complementação de seu objeto, dos fatos narrados, sua definição jurídica, relevância,\nutilidade e interesse público.",
+      "B": "Na hipótese de não ser celebrado o acordo por iniciativa do celebrante, esse não poderá se valer de\nnenhuma das informações ou provas apresentadas pelo colaborador, de boa-fé, para qualquer outra\nfinalidade.",
+      "C": "Considerando a relevância da colaboração prestada, o Ministério Público ou a autoridade policial\npoderão, a qualquer tempo, requerer ou representar ao juiz pela concessão de perdão judicial ao\ncolaborador, ainda que esse benefício não tenha sido previsto na proposta inicial.",
+      "D": "O juiz poderá, a requerimento das partes, conceder o perdão judicial, reduzir em até 2/3 (dois terços) a\npena privativa de liberdade ou substituí-la por restritiva de direitos daquele que tenha colaborado efetiva e\nvoluntariamente com a investigação e com o processo criminal, se dessa colaboração vier a identificação\ndos demais coautores e partícipes da organização criminosa e das infrações penais por eles praticadas.",
+      "E": "O prazo para oferecimento de denúncia ou o processo, relativos ao colaborador, poderá ser suspenso\npor até 6 (seis) meses, prorrogáveis por igual período, até que sejam cumpridas as medidas de colaboração,\nsuspendendo-se o respectivo prazo prescricional."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0195",
+    "enunciado": "Em relação ao conceito de crime, de criminoso e de pena nas diversas correntes do pensamento criminológico e ao desenvolvimento científico de seus modelos teóricos, é correto afirmar:",
+    "comando": "É correto afirmar em relação ao conceito de crime, de criminoso e de pena nas diversas correntes do pensamento criminológico e ao desenvolvimento científico de seus modelos teóricos.",
+    "alternativas": {
+      "A": "A criminologia científica nasceu no ambiente do\nséculo XVIII, recebendo contribuições da Escola\nPositivista, mas ganhando contornos mais precisos\ncom a Escola Clássica.",
+      "B": "A criminologia crítica compreende que a finalidade da\nsociedade é atingida quando há um perfeito funcionamento\ndas suas instituições, de forma que os indivíduos\ncompartilhem as regras sociais dominantes.",
+      "C": "As teorias desenvolvidas nas escolas positivistas a\npartir do método dedutivo buscaram maximizar as garantias\nindividuais na persecução penal e fora dela.",
+      "D": "No pensamento criminológico das escolas clássicas,\nidentifica-se uma grande preocupação com os conceitos\nde crime e pena como entidades jurídicas e\nabstratas de modo a estabelecer a razão e limitar o\npoder de punir do Estado.",
+      "E": "Os modelos teóricos de integração que compõem a\ncriminologia tradicional partem da premissa de que\ntoda a sociedade está, a cada momento, sujeita\na processos de mudança, exibindo dissensão e conflito,\nhaja vista que todo elemento em uma sociedade\ncontribui, de certa forma, para sua desintegração e\nmudança. Sendo assim, a sociedade é baseada na\ncoerção de alguns de seus membros por outros."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Etapas Evolutivas e Escolas Criminológicas",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0218",
+    "enunciado": "João da Silva vai à agência bancária obter o levantamento de conta de FGTS de terceiro, usando documento falso. Desconfiado da veracidade do documento, o gerente da agência pede a João que retorne em algumas horas, quando o dinheiro já estará disponível em sua conta. João retorna no horário combinado e, no momento em que efetua o saque, é preso por policiais militares acionados pelo gerente da agência após proceder à checagem da autenticidade do referido documento e confirmar sua falsidade.",
+    "comando": "Considerando essa narrativa, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A prisão em flagrante é ilegal, pois se trata de flagrante provocado.",
+      "B": "A prisão em flagrante é legal, pois se trata de ação controlada.",
+      "C": "A prisão em flagrante é legal, pois se trata de flagrante diferido.",
+      "D": "A prisão em flagrante é legal, pois se trata de flagrante preparado.",
+      "E": "A prisão em flagrante é legal, pois se trata de flagrante esperado."
+    },
+    "disciplina_origem": "Direito Constitucional",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "assunto_origem_ausente",
+      "disciplina_origem_fora_catalogo"
+    ]
+  },
+  {
+    "id": "Q0277",
+    "enunciado": "NÃO configura crime contra idoso:",
+    "comando": "",
+    "alternativas": {
+      "A": "Induzir pessoa idosa, mesmo que com discernimento, a outorgar procuração para fins de administração de bens.",
+      "B": "Desdenhar ou menosprezar pessoa idosa.",
+      "C": "Deixar de prestar assistência ao idoso em situação de iminente perigo.",
+      "D": "Abandonar idoso em hospital.",
+      "E": "Reter cartão magnético de conta bancária relativa a benefícios."
+    },
+    "disciplina_origem": "Direito Civil - Legislação Especial",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "assunto_origem_ausente",
+      "disciplina_origem_fora_catalogo"
+    ]
+  },
+  {
+    "id": "Q0299",
+    "enunciado": "Assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "A criminologia crítica defende a análise individualizada da periculosidade do agente como direito inerente ao princípio do respeito à dignidade humana.",
+      "B": "A Escola positivista pregava a análise puramente objetiva do fato, deixando em segundo plano as características pessoais de seu autor.",
+      "C": "A teoria retributiva dos fins da pena foi desenvolvida a partir dos estudos de Lombroso e Garofalo, em meados do século XVIII.",
+      "D": "A teoria do labelling approach dispõe-se a estudar, dentre outros aspectos do sistema punitivo, os mecanismos de reação social ao delito e a influência destes na reprodução da criminalidade.",
+      "E": "A teoria finalista da ação é fruto da concepção positivista de livre-arbítrio, que entende o homem como ser determinado pelas circunstâncias sociais."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Legitimidoras da Pena",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0302",
+    "enunciado": "César é açougueiro e está trabalhando regulamente no freezer do açougue, quando uma pessoa, fugindo da Polícia, se esconde atrás de algumas peças de carne, sem que César tenha percebido. Ao terminar seu turno, cansado, César acaba jogando uma enorme faca em direção a um armário, momento em que a faca acaba por acertar fatalmente o fugitivo. Sobre a conduta de César, trata-se de caso de exclusão",
+    "comando": "",
+    "alternativas": {
+      "A": "do dolo por erro de tipo.",
+      "B": "da imputabilidade.",
+      "C": "da culpabilidade por inexigibilidade de conduta diversa.",
+      "D": "do dolo por erro de proibição.",
+      "E": "de ilicitude."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Tipicidade, Erro do tipo essencial",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0303",
+    "enunciado": "Com relação à aplicação da lei penal, assinale a opção correta.",
+    "comando": "Assinale a opção correta.",
+    "alternativas": {
+      "A": "As frações de dia são computadas como um dia integral de pena nas penas privativas de liberdade e nas restritivas de direitos.",
+      "B": "O direito penal, quanto ao tempo do crime, considera praticado o crime no momento do seu resultado.",
+      "C": "A sentença estrangeira, quando a aplicação da lei brasileira produz as mesmas consequências, poderá ser homologada no Brasil para todos os efeitos, exceto para obrigar o condenado à reparação do dano.",
+      "D": "Ficam sujeitos à lei brasileira os crimes contra o patrimônio ou a fé pública do DF, de estado, de município, de empresa pública, sociedade de economia mista, autarquia ou fundação instituída pelo poder público, embora cometidos no estrangeiro, sendo o agente punido segundo a lei brasileira, ainda que absolvido no estrangeiro.",
+      "E": "Não é aplicável a lei brasileira aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada, ainda que achando-se aquelas em pouso no território nacional ou em vôo no espaço aéreo correspondente, e estas em porto ou mar territorial do Brasil."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0309",
+    "enunciado": "Segundo o Artigo 61 da Lei nº 9.605/98 a pena para quem disseminar doença ou praga ou espécies que possam causar dano à agricultura, à pecuária, à fauna, à flora ou aos ecossistemas é de:",
+    "comando": "Complete a frase com a pena prevista no Artigo 61 da Lei nº 9.605/98.",
+    "alternativas": {
+      "A": "reclusão, de um a cinco anos.",
+      "B": "prestação de serviços à comunidade com interdição temporária de direitos e multa.",
+      "C": "reclusão, de um a quatro anos, e multa.",
+      "D": "reclusão, de seis meses a dois anos, e multa.",
+      "E": "detenção, de três meses a um ano, e multa."
+    },
+    "disciplina_origem": "Direito Ambiental",
+    "assunto_origem": "Sistema de responsabilização por ilícitos ambientais",
+    "alertas_preparacao": [
+      "disciplina_origem_fora_catalogo"
+    ]
+  }
+]

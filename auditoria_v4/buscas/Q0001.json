@@ -1,0 +1,87 @@
+{
+  "id": "Q0001",
+  "consulta_executada": "\"No que se refere ao Tribunal do Júri, analise as assertivas abaixo. I - O desaforamento é admitido por interesse\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "No que se refere ao Tribunal do Júri, analise as assertivas ...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/ef86e15f-31",
+      "ref_consulta": "turn45search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Procedimento especial dos crimes de competência do Tribunal do Júri para Concurso - Página 12 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/procedimento-especial-dos-crimes-de-competencia-do-tribunal-do-juri/questoes?has_professor_commentaries=true&page=12",
+      "ref_consulta": "turn45search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "CADERNO_FINAL_COM CAPA",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/48237/ufmt-2016-dpe-mt-defensor-publico-prova.pdf",
+      "ref_consulta": "turn45search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões DPE-MT 2016 para Defensor Público | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/ufmt-2016-dpe-mt-defensor-publico/questoes?page=2",
+      "ref_consulta": "turn45search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 41 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&modality_ids%5B%5D=1&page=41&publication_year%5B%5D=2016&publication_year%5B%5D=2017",
+      "ref_consulta": "turn45search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 40 - DPE-MT - Defensor Público - UFMT (2016) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/dpe-mt-defensor-publico-2016-ufmt/40",
+      "ref_consulta": "turn45search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Processual Penal | Qconcursos.com - Página 409",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&page=409&sort=newest",
+      "ref_consulta": "turn45search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para Defensoria Pública | Qconcursos.com - Página 265",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?administrative_level_ids%5B%5D=22&page=265",
+      "ref_consulta": "turn45search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Jogar Quiz – Licínia Rossi",
+      "url": "https://liciniarossi.com.br/jogar-quiz/327/",
+      "ref_consulta": "turn45search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para DPE-MT | Qconcursos.com - Página 26",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&institute_ids%5B%5D=5778&page=26",
+      "ref_consulta": "turn45search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Dpe MT 2016 | PDF | Difamação | Sentença (jurídico)",
+      "url": "https://pt.scribd.com/document/919211416/DPE-MT-2016",
+      "ref_consulta": "turn45search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Defensor Público - Defensoria Pública (MT) CEV Coordenação de Concursos e Exames Vestibulares (UFMT) [Jun/2016] — Concurso Público | JurisWay",
+      "url": "https://jurisway.org.br/provas-concursos/634-defensor-publico-defensoria-publica-mt-cev",
+      "ref_consulta": "turn45search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Procedimento especial dos crimes de competência do Tribunal do Júri - Página 8 | Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-processual-penal-procedimento-especial-dos-crimes-de-competencia-do-tribunal-do-juri-406688?pagina=8",
+      "ref_consulta": "turn45search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

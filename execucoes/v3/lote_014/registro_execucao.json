@@ -1,0 +1,34 @@
+{
+  "origem": "chat_assistido",
+  "modelo_informado": "Assistente nesta conversa; identificador não confirmado",
+  "nota_operador": "Conversa existente com contexto prévio; regras v3, leitura de todas as questões e inspeção dirigida do catálogo e referências pontuais. Prompt é referência, não transcrição de todo o contexto. Confiança não calibrada; sem API paga.",
+  "importado_em_utc": "2026-10-15T18:36:14.667140+00:00",
+  "manifesto_lote": {
+    "nome": "lote_014",
+    "finalidade": "classificacao_v3_pos_piloto",
+    "versao_prompt": "v3",
+    "ids": [
+      "Q0141",
+      "Q0142",
+      "Q0143",
+      "Q0144",
+      "Q0145",
+      "Q0146",
+      "Q0147",
+      "Q0148",
+      "Q0149",
+      "Q0150"
+    ],
+    "sha256_prompt": "3cefb0b1de468a724258ecdc840aafcd1fe36789b3f92a0fda06d4918530308c",
+    "sha256_questoes": "1c0beec71e373846f4f69c227e405ae88894bdee9ad11e2ad8c5e2d584c8881e",
+    "sha256_temas": "bcb2c9d6357708d11ef0a08ed8946210bc4210e5d2412f462db58f0242431084",
+    "sha256_preparacao": "d631cb4843a2946f7caedbf1d237dfc4c2e5fbc9611a1ececf51111f4ed0dcf5",
+    "sha256_regras": "0415e8ea21e1bc24d2738df25d2a756001e292e3babe6b3505f78eaf465f346b",
+    "limite": "Inferência não executada. Não é avaliação nem gabarito."
+  },
+  "sha256_resposta_original": "b39880106d058dc3d2517771cd11b67c38f9d86e63a63758616d3c705dd8ef75",
+  "custo_api_executado_usd": 0,
+  "tokens_api_medidos": null,
+  "observacao_custo": "Importação da assinatura existente. Não mede tokens internos nem custo da assinatura.",
+  "publicacao_final": false
+}

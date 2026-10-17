@@ -1,0 +1,87 @@
+{
+  "id": "Q0267",
+  "consulta_executada": "\"Matheus, caminhoneiro, foi capturado em flagrante enquanto transportava, na fronteira entre a República Federativa do Brasil e a Colômbia, cem\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Matheus, caminhoneiro, foi capturado em flagrante enquanto ...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/4dc5518f-87",
+      "ref_consulta": "turn305search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Recebida cópia do auto de prisão em flagrante - Caderno de Prova",
+      "url": "https://cadernodeprova.com.br/recebida-copia-do-auto-de-prisao-em-flagrante/",
+      "ref_consulta": "turn305search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Matheus, caminhoneiro, foi capturado em flagrante enquanto...",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-406223/3449670",
+      "ref_consulta": "turn305search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "| | | TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO | MANHÃ | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO None | | | | | | | | | | | | | TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO | | | | | | | | | |",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/1.pdf",
+      "ref_consulta": "turn305search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Laudo de constatação da natureza e quantidade da droga - Caderno de Prova",
+      "url": "https://cadernodeprova.com.br/laudo-de-constatacao-da-natureza-e-quantidade-da-droga/",
+      "ref_consulta": "turn305search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 11 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_commentaries=true&has_professor_commentaries=true&institute_ids%5B%5D=2&page=11",
+      "ref_consulta": "turn305search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 52 do Concurso TRF - 1ª REGIÃO Analista Judiciário Área Administrativa Especialidade: Inspetor de Polícia Judicial - FGV (2024) - Questões Estratégicas",
+      "url": "https://www.questoesestrategicas.com.br/questoes/ver/FSumKFobMi3YggqOgP-ewOfO8G0CmveFvTIrbTz8uAQ",
+      "ref_consulta": "turn305search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Procedimento Penal em Direito Processual Penal | Qconcursos.com - Página 10",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&has_commentaries=true&page=10&subject_ids%5B%5D=6683",
+      "ref_consulta": "turn305search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Procedimento especial da Lei nº 11.343 de 2006 (Direito Processual Penal) - Questões Estratégicas",
+      "url": "https://www.questoesestrategicas.com.br/questoes/busca/assunto/procedimento-especial-da-lei-n-11343-de-2006",
+      "ref_consulta": "turn305search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Procedimento Penal para Concurso - Página 10 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/procedimento-penal/questoes?page=10",
+      "ref_consulta": "turn305search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Direito Processual Penal para FGV | Qconcursos.com - Página 22",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&examining_board_ids%5B%5D=63&has_professor_commentaries=true&page=22",
+      "ref_consulta": "turn305search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: TRF - Questões Resolvidas com Gabarito em PDF",
+      "url": "https://es.passeidireto.com/arquivo/160527265/trf",
+      "ref_consulta": "turn305search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Simulado Investigador PCMG 2025 | PDF | Tratado | Constituição",
+      "url": "https://pt.scribd.com/document/904738541/Simulado-04-Investigador-PCMG",
+      "ref_consulta": "turn305search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

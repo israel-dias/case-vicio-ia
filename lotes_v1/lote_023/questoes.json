@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Q0221",
+    "enunciado": "A respeito das penas e das medidas de segurança, assinale a opção correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "A atenuante da confissão espontânea é preponderante em\nrelação à reincidência, impossibilitando a compensação plena\nentre uma e outra na segunda fase da dosimetria.",
+      "B": "São espécies de penas privativas de liberdade a reclusão,\na detenção, a prisão simples e a prisão especial.",
+      "C": "São espécies de penas restritivas de direitos a prestação de\nserviços à comunidade, a interdição temporária de direitos e\na obrigação de reparar o dano causado pelo crime.",
+      "D": "São princípios constitucionais aplicáveis à pena a\npersonalidade ou responsabilidade pessoal, a legalidade,\na inderrogabilidade, a proporcionalidade, a individualização e\na humanização.",
+      "E": "A duração da medida de segurança é por tempo indeterminado,\ne o condenado só será liberado depois que perícia médica\natestar a cessação de sua periculosidade."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Diferenças entre reclusão e detenção, Sanções penais, Penas privativas de liberdade",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0222",
+    "enunciado": "Assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "O denominado direito penal do inimigo, que tem como expoente Günther Jakobs,\npode ser entendido como um direito penal de segunda velocidade, restringindo\ngarantias penais e processuais.",
+      "B": "A terceira velocidade do direito penal, ligada à ideia de aplicação de penas\nalternativas, encontra amparo no ordenamento penal brasileiro na Lei n.\n9.099/1995.",
+      "C": "A quarta velocidade do direito penal refere-se ao neopunitivismo, abrangendo\naquelas pessoas que violaram tratados e convenções internacionais de direitos\nhumanos, ostentando a condição de Chefes de Estado, devendo sofrer a incidência\nde normas internacionais.",
+      "D": "A teoria da primeira velocidade do direito penal, fundada no respeito às garantias\nindividuais, tinha a ideia de um direito penal de mínima intervenção e sanções não\nprivativas de liberdade.",
+      "E": "A ideia de velocidades do direito penal foi concebida e sistematizada pelo professor\nManuel Cancio Meliá."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0223",
+    "enunciado": "O ingresso de chip de aparelho celular em estabelecimento prisional configura",
+    "comando": "",
+    "alternativas": {
+      "A": "desobediência.",
+      "B": "favorecimento real.",
+      "C": "introdução de aparelho de comunicação, sem autorização\nlegal, em estabelecimento prisional.",
+      "D": "favorecimento pessoal.",
+      "E": "conduta atípica."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Tipicidade",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0224",
+    "enunciado": "Em ação penal na qual se imputa ao réu a prática do crime de roubo, na modalidade tentada, constam de sua Folha de Antecedentes Criminais as seguintes anotações, devidamente esclarecidas por certidões cartorárias:\n1. condenação transitada em julgado, por crime de ameaça, à pena de multa, cumprida 3 anos e 8 meses antes da prática do crime objeto do processo\n2. condenação transitada em julgado, por contravenção penal de exercício ilegal de profissão ou atividade, à pena de prestação pecuniária, cumprida 2 anos e 9 meses antes da prática do crime objeto do processo.",
+    "comando": "À vista das citadas anotações, é correto afirmar que:",
+    "alternativas": {
+      "A": "ambas as anotações geram reincidência, sendo possível a\nconcessão de suspensão condicional da pena privativa de\nliberdade aplicada, caso esta não supere os 2 anos e sejam\nfavoráveis ao réu as circunstâncias judiciais;",
+      "B": "ambas as anotações geram reincidência, não sendo possível a\nconcessão de suspensão condicional da pena privativa de\nliberdade aplicada, mesmo que esta não supere os 2 anos e\nsejam favoráveis ao réu as circunstâncias judiciais;",
+      "C": "somente a anotação número 1 gera reincidência, sendo\npossível a concessão de suspensão condicional da pena\nprivativa de liberdade aplicada, caso esta não supere os\n2 anos e sejam favoráveis ao réu as circunstâncias judiciais;",
+      "D": "somente a anotação número 1 gera reincidência, não sendo\npossível a concessão de suspensão condicional da pena\nprivativa de liberdade aplicada, mesmo que esta não supere\nos 2 anos e sejam favoráveis ao réu as circunstâncias judiciais;",
+      "E": "nenhuma das anotações gera reincidência, sendo possível a\nconcessão de suspensão condicional da pena privativa de\nliberdade aplicada, caso esta não supere os 2 anos e sejam\nfavoráveis ao réu as circunstâncias judiciais."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0225",
+    "enunciado": "A partir das disposições legais e da jurisprudência dos tribunais superiores acerca de temas relacionados à execução penal, julgue o item a seguir.\nPedro foi denunciado pela prática de latrocínio e, embora tenha alegado em seu interrogatório que estava a negócios em outra cidade no dia e na hora do fato descrito na denúncia, ele foi condenado. A defesa interpôs recurso de apelação ao tribunal de justiça, com fundamento na insuficiência probatória, porém a corte estadual manteve na íntegra a condenação. O STJ, sem fazer qualquer incursão no mérito, não conheceu do recurso especial defensivo, com fundamento no enunciado da sua Súmula n.º\n7. Após o trânsito em julgado da condenação, a defesa produziu, em juízo, prova nova que comprovava cabalmente o álibi de Pedro. Nessa situação, é do STJ a competência para processamento e julgamento da ação de revisão criminal com vistas à absolvição de Pedro, pois, de acordo com a Constituição Federal de 1988, cabem àquela corte as revisões criminais de seus próprios julgados.",
+    "comando": "Julgue o item a seguir.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0226",
+    "enunciado": "A lei nº 13.964/19, popularmente conhecida como Pacote Anticrime, introduziu no Código de Processo Penal disciplina acerca do procedimento da cadeia de custódia. De acordo com o que dispõe o código, assinale a alternativa INCORRETA.",
+    "comando": "Assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "A etapa de reconhecimento consiste no ato\nde distinguir um elemento como de\npotencial interesse para a produção da\nprova pericial.",
+      "B": "O armazenamento é o procedimento\nreferente à guarda, em condições\nadequadas, do material a ser processado,\nguardado para realização de contraperícia,\ndescartado ou transportado, com vinculação\nao número do laudo correspondente.",
+      "C": "O recebimento é ato formal de transferência\nda posse do vestígio, que deve ser documentado com, no mínimo, informações\nreferentes ao número de procedimento e\nunidade de polícia judiciária relacionada,\nlocal de origem, nome de quem transportou\no vestígio, código de rastreamento,\nnatureza do exame, tipo do vestígio,\nprotocolo, assinatura e identificação de\nquem o recebeu.",
+      "D": "A coleta dos vestígios deverá ser realizada\nexclusivamente por perito oficial, que dará o\nencaminhamento necessário para a central\nde custódia, salvo quando for necessária a\nrealização de exames complementares.",
+      "E": "O transporte consiste no ato de transferir o\nvestígio de um local para o outro, utilizando\nas condições adequadas (embalagens,\nveículos, temperatura, entre outras), de\nmodo a garantir a manutenção de suas\ncaracterísticas originais, bem como o\ncontrole de sua posse."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0227",
+    "enunciado": "Analise as seguintes situações hipotéticas, e assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "Viriato amordaça Gezilda, para que ela não grite por socorro. Em seguida, pratica conjunção carnal\ncom ela, sem perceber que a vítima está se engasgando devido à mordaça utilizada por ele. Gezilda,\nque é maior de idade e capaz, morre sufocada. Viriato deverá responder por estupro e homicídio\nculposo, em concurso material.",
+      "B": "Zezão aborda a vítima Vitinha, maior de idade e capaz, em via pública, arrasta-a para um terreno\nabandonado. Ao perceber que será estuprada, Vitinha entra em luta corporal com Zezão e acaba\nsendo morta, porque Zezão efetuou um disparo, empregando uma arma de fogo que levava\nconsigo. Em seguida, Zezão realiza atos sexuais com Vitinha. Nessa hipótese, Zezão responderá\ntão somente pelos crimes de estupro e homicídio qualificado, em concurso material.",
+      "C": "Beraldo aborda a vítima Zequinha, 11 anos de idade, em via pública, levando-o para um edifício\nem construção, oferecendo a ele dinheiro e doces, para que fizesse sexo oral em Beraldo. Após o\nato, com medo de ser identificado, Beraldo mata Zequinha com uma pedrada na cabeça. Beraldo\ndeverá responder pelo crime de estupro de vulnerável, qualificado pela morte de Zequinha.",
+      "D": "Tiburcio, imputável, tio de Adalgisa, 09 anos de idade, em uma ocasião em que foi visitar a irmã,\nmãe da menor, aproveitou-se de um momento em que esteve sozinho com Adalgisa, tirou a roupa\nda menina, pedindo que fizesse poses sensuais, fotografando-a em tal condição. No mesmo dia,\nporém, mais tarde, oferecendo a ela doces, fez com que praticasse sexo oral nele. Tibúrcio\nresponderá pela prática de estupro de vulnerável, em concurso material com o crime previsto no\nartigo 240 do Estatuto da Criança e do Adolescente, ambos os delitos em suas formas majoradas\npela condição de ser tio da menor.",
+      "E": "Tyrapele, cirurgião plástico, anestesiou a paciente Suzi, 25 anos e, em seguida, praticou ato\nlibidinoso diverso da conjunção carnal com ela, aproveitando-se de que Suzi estava inconsciente e\nsem condições de oferecer resistência. Nesse caso, praticou o crime denominado violação sexual\nmediante fraude."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Lesão Corporal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0228",
+    "enunciado": "Se o defensor de um condenado preso entender que ele faz jus ao livramento condicional, deverá:",
+    "comando": "Indique o procedimento que o defensor deve seguir nesse caso.",
+    "alternativas": {
+      "A": "Solicitar ao Tribunal, mediante a\nimpetração de habeas corpus;",
+      "B": "Solicitar ao Tribunal, mediante a\npropositura de Revisão Criminal;",
+      "C": "Solicitar ao Juiz da Execução, mediante\nAgravo em Execução;",
+      "D": "Solicitar ao Juiz da Execução, mediante\npetição."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0229",
+    "enunciado": "Assinale a opção incorreta acerca da prisão no processo penal.",
+    "comando": "",
+    "alternativas": {
+      "A": "A recaptura do réu evadido não depende de prévia ordem judicial e poderá ser efetuada por qualquer pessoa.",
+      "B": "Havendo consentimento do morador, o mandado de prisão poderá ser cumprido em domicílio durante a noite.",
+      "C": "Entre as hipóteses legais de decretação da prisão preventiva estão a garantia da ordem pública, a conveniência da instrução criminal e o clamor público.",
+      "D": "Em geral, a prisão especial somente poderá ser concedida durante o processo ou inquérito policial, cessando o benefício após o trânsito em julgado.",
+      "E": "A prisão temporária não pode ser decretada de ofício pelo juiz, que terá o prazo de 24 horas, a partir do recebimento do requerimento das partes, para decidir fundamentadamente."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Lei Processual Penal no tempo e no espaço",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0230",
+    "enunciado": "Assinale a opção correta em relação às causas de exclusão de culpabilidade, ao concurso de pessoas, às finalidades das penas e às medidas de segurança.",
+    "comando": "",
+    "alternativas": {
+      "A": "Em relação à embriaguez não acidental, o CP adotou a teoria da actio libera in causa, devendo ser considerado o momento da prática delituosa e não o da ingestão da substância, para aferir a culpabilidade do agente.",
+      "B": "No erro de proibição indireto, o agente tem perfeita noção da realidade, mas avalia de forma equivocada os limites da norma autorizadora. Tal erro, se escusável, isenta-o de pena; se inescusável, concede-lhe o direito a redução da pena de um sexto a um terço.",
+      "C": "No ordenamento jurídico brasileiro, a natureza jurídica do concurso de pessoas é justificada pela adoção da teoria monista, na qual inexistem desvios subjetivos de conduta.",
+      "D": "Segundo a teoria finalista, a pena tem a dupla função de punir o criminoso e prevenir a prática do crime pela reeducação e pela intimidação coletiva.",
+      "E": "A medida de segurança possui finalidade preventiva e visa ao tratamento dos inimputáveis que demonstrarem, pela prática delitiva, potencialidade para novas ações danosas, razão pela qual não se aplicam os princípios da irretroatividade da lei penal mais grave e da anterioridade a essa espécie de sanção penal."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Pessoas",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  }
+]

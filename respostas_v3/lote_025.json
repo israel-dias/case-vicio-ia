@@ -1,0 +1,143 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0256",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5224",
+      "confianca_modelo": 0.74,
+      "justificativa": "O item contrapõe erro sobre elemento do tipo e erro sobre autorização normativa, institutos em ramos distintos do catálogo. Erro de Tipo é hipótese central, concorrendo com Erro de Proibição.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5214"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0257",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5227",
+      "confianca_modelo": 0.93,
+      "justificativa": "O texto delimita legalidade e tipicidade, e as assertivas discutem tipo incriminador, sujeito e relação entre ilicitude e tipicidade. Tipicidade é o núcleo sustentado pela construção do enunciado, com princípios como contexto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5172",
+        "5219"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0258",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5545",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado e alternativas cobram exame de corpo de delito, perito, vestígios e prioridade. A menção ao Júri em uma opção não muda o núcleo probatório específico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0259",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5183",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando pede o princípio que resolve absorção entre tipos penais, isto é, conflito aparente de normas. Dano e furto exemplificam a relação, não constituem o objeto final.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0260",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4374",
+      "confianca_modelo": 0.64,
+      "justificativa": "O bloco combina direito penal do inimigo, justiça restaurativa, minorias e movimentos sociais. Política Criminal é hipótese agregadora, sem definição que absorva com segurança toda a discussão sociopolítica.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4376",
+        "4370",
+        "4368"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0261",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5136",
+      "confianca_modelo": 0.82,
+      "justificativa": "A questão cobra reprodução de software e regime da Lei 9.609. Crimes Contra a Propriedade Imaterial é hipótese pelo bem jurídico, mas não há definição que confirme alcance sobre a legislação especial de programas.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "software_lei_especial_sem_delimitacao_de_escopo"
+      ]
+    },
+    {
+      "id": "Q0262",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "6734",
+      "confianca_modelo": 0.74,
+      "justificativa": "O objeto é providência na execução por doença mental superveniente, com conversão e tratamento. LEP em Processo Penal é hipótese, concorrendo com o homônimo e Medida de Segurança; não confundir com imputabilidade no momento do fato.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4703",
+        "5184",
+        "5497"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0263",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5492",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado delimita suspeição e as assertivas contrapõem causas de suspeição e impedimento. O subtema conjunto corresponde diretamente ao objeto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0264",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5102",
+      "confianca_modelo": 0.94,
+      "justificativa": "O item compara enquadramentos sexuais por idade e vulnerabilidade, incluindo estupro e favorecimento à prostituição. O pai substantivo de dignidade sexual representa a combinação das espécies.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5103",
+        "5109"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0265",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5185",
+      "confianca_modelo": 0.96,
+      "justificativa": "A assertiva delimita como calcular prescrição em concurso de crimes. O objeto é a regra prescricional geral, não identificar uma espécie de concurso.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5066",
+        "5186"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

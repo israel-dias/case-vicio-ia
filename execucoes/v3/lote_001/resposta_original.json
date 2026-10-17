@@ -1,0 +1,104 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0001",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5524",
+      "extras_ids": [],
+      "confianca_modelo": 0.94,
+      "justificativa": "Enunciado e assertivas cobram o procedimento do Tribunal do Júri, combinando desaforamento com impronúncia, absolvição sumária e desclassificação. O pai substantivo 5524 representa o conjunto, enquanto 5527 isoladamente não abrange o desaforamento. A candidatura se apoia na delimitação expressa do procedimento.",
+      "temas_concorrentes_ids": ["5527", "5528"],
+      "alertas": ["tema_pai_substantivo_combina_conteudos_do_mesmo_procedimento", "sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0002",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4378",
+      "extras_ids": [],
+      "confianca_modelo": 0.92,
+      "justificativa": "O objeto é explicar a seleção dos pobres como clientela do sistema penal, contrastando propensão natural ao delito com chances de criminalização. O conhecimento central é a seletividade do processo de criminalização, compatível com 4378. A pergunta não versa sobre a finalidade legitimadora da pena indicada na origem.",
+      "temas_concorrentes_ids": ["4377", "4388"],
+      "alertas": ["assunto_origem_nao_representa_nucleo", "sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0003",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5562",
+      "extras_ids": ["5475"],
+      "confianca_modelo": 0.78,
+      "justificativa": "A pergunta exige identificar o recurso contra absolvição sumária e os efeitos da decisão no juízo cível. Apelação 5562 é a hipótese recursal específica; Ação Civil Ex Delicto 5475 representa conteúdo adicional efetivamente exigido em todas as opções. A divisão entre cabimento recursal e efeitos da absolvição torna o tema central incerto frente a 5534/5574, exigindo revisão.",
+      "temas_concorrentes_ids": ["5534", "5574", "5560"],
+      "alertas": ["dois_eixos_cobrados_recurso_e_vinculacao_civel", "nucleo_central_exige_revisao", "furto_e_contexto_nao_tema_central"]
+    },
+    {
+      "id": "Q0004",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5480",
+      "extras_ids": [],
+      "confianca_modelo": 0.91,
+      "justificativa": "Todas as assertivas tratam de competência penal, combinando prerrogativa de função, órgão julgador e critério territorial. O pai substantivo 5480 tem descrição que abrange essa combinação. A premissa é preferir o ramo com escopo definido aos títulos Parte 1/Parte 2 sem delimitação; o assunto de origem não fixa o ID 6733.",
+      "temas_concorrentes_ids": ["5484", "5483", "6733"],
+      "alertas": ["tema_pai_substantivo_combina_criterios_de_competencia", "premissa_escopo_definido_preferido_a_parte_sem_delimitacao", "sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0005",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5199",
+      "extras_ids": [],
+      "confianca_modelo": 0.80,
+      "justificativa": "O caso combina período depurador da reincidência, agravamento na dosimetria e regime inicial, com referência ao livramento condicional anterior. Teoria da Pena 5199 é a hipótese agregadora substantiva, mas o conteúdo distribui-se entre 5201, 5203 e 5208, além de existir enquadramento processual de fixação da pena em 5576. A predominância exige revisão; furto é contexto.",
+      "temas_concorrentes_ids": ["5201", "5203", "5208", "5576"],
+      "alertas": ["multiplos_institutos_da_pena", "delimitacao_entre_regime_reincidencia_e_fixacao_da_pena", "tema_central_provisorio"]
+    },
+    {
+      "id": "Q0006",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5157",
+      "extras_ids": [],
+      "confianca_modelo": 0.93,
+      "justificativa": "O enunciado delimita conjuntamente furto e roubo; as assertivas comparam consumação e emprego de meios para vencer a resistência. O pai substantivo Crimes Contra o Patrimônio 5157 abrange os filhos 5159 e 5160, evitando reduzir toda a questão ao Roubo registrado na origem. Não há necessidade de inventar a divisão das categorias Parte 1/Parte 2.",
+      "temas_concorrentes_ids": ["5159", "5160"],
+      "alertas": ["tema_pai_substantivo_combina_furto_e_roubo", "assunto_origem_roubo_nao_abrange_toda_questao", "sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0007",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5468",
+      "extras_ids": [],
+      "confianca_modelo": 0.92,
+      "justificativa": "Todas as alternativas exigem classificar as espécies de ação penal dos delitos narrados, distinguindo iniciativa privada, pública condicionada e incondicionada. O tema específico Classificação da Ação Penal 5468 representa esse objeto processual melhor que os temas de tipificação dos crimes. A premissa registrada para o concorrente Penal > Ação Penal 5063 é a preferência pelo subtema que nomeia expressamente a classificação das espécies.",
+      "temas_concorrentes_ids": ["5063", "5466"],
+      "alertas": ["premissa_tema_processual_especifico_para_classificacao_das_especies", "delitos_narrados_contextualizam_condicoes_da_acao", "nao_resolve_gabarito_ou_atualizacao_normativa", "sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0008",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5201",
+      "extras_ids": [],
+      "confianca_modelo": 0.93,
+      "justificativa": "O item cobra condição material para progressão do regime de cumprimento da pena privativa de liberdade. Seu conteúdo corresponde ao art. 33, §4º, do Código Penal, na seção de penas privativas de liberdade, sustentando 5201. A premissa é classificar pelo instituto da pena e não pelo nome do delito contra a administração ou por referência genérica à execução.",
+      "temas_concorrentes_ids": ["4703", "6734"],
+      "alertas": ["premissa_instituto_material_da_pena_previsto_no_codigo_penal", "tema_de_crime_contra_administracao_e_contexto", "sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0009",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5157",
+      "extras_ids": [],
+      "confianca_modelo": 0.91,
+      "justificativa": "A narrativa exige enquadrar subtração de bens e considerar parentesco e idade da vítima, confrontando furto e imunidade patrimonial. O pai substantivo 5157 abrange Furto 5159 e Disposições Gerais 5158, necessários ao conjunto. A escolha evita tomar Concurso de Crimes da origem como núcleo e não presume que o caso seja de furto de coisa comum só pela relação familiar.",
+      "temas_concorrentes_ids": ["5159", "5158"],
+      "alertas": ["assunto_origem_concurso_de_crimes_incompativel_com_nucleo", "tema_pai_substantivo_combina_tipo_patrimonial_e_imunidade", "sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0010",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4688",
+      "extras_ids": [],
+      "confianca_modelo": 0.78,
+      "justificativa": "Enunciado e alternativas tratam de crimes ambientais e de sua interpretação pelos tribunais, incluindo poluição, vegetação, responsabilidade e omissão. O núcleo não é Concurso de Crimes. O tema 4688 é a hipótese pelo objeto penal de legislação ambiental específica, mas existe 6717 com título idêntico em Penal, sem delimitação do escopo. A preferência taxonômica requer fundamentação antes de publicar, preservando a mesma cautela usada em Q0309.",
+      "temas_concorrentes_ids": ["6717"],
+      "alertas": ["assunto_origem_concurso_de_crimes_incompativel_com_nucleo", "preferencia_entre_ramos_sem_definicao_suficiente", "tema_central_provisorio"]
+    }
+  ]
+}

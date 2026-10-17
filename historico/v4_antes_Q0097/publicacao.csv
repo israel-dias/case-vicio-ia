@@ -1,0 +1,360 @@
+id,decisao,tema_central_id,extras_ids,confianca,motivo
+Q0001,publicar,5524,5486;5527;5562,0.97,I exige desaforamento (prazo não é um ano); II exige distinguir impronúncia e recurso; III e IV tratam dos efeitos da absolvição sumária e desclassificação.
+Q0002,publicar,4378,,0.97,"A resposta depende da seletividade da criminalização secundária, e não de suposta propensão natural dos pobres."
+Q0003,publicar,5562,5475,0.97,O recurso da absolvição sumária do procedimento comum é apelação.
+Q0004,publicar,5480,5484;5483,0.96,"As cinco assertivas cobram competência: prerrogativa de prefeito, Justiça Federal e foro territorial."
+Q0005,publicar,5199,5203;5201,0.96,"É necessário computar o período depurador desde o livramento sem revogação e daí afastar a reincidência, corrigir a dosimetria e o regime inicial."
+Q0006,publicar,5157,5159;5160,0.96,I exige teorias de consumação do furto; II distingue roubo com violência imprópria de furto; III exige tentativa no roubo impróprio.
+Q0007,publicar,5468,,0.96,"O problema pede identificar espécies de ação para ameaça contra mulher, injúria e perseguição."
+Q0008,publicar,5201,,0.98,"Julga-se condição material da progressão de regime, ligada à reparação/devolução do produto de crime contra a administração."
+Q0009,publicar,5159,5158,0.97,A resposta exige furto com rompimento de obstáculo e afastamento da imunidade patrimonial diante de vítima de 60 anos.
+Q0010,revisar,4688,,0.70,"Confirmar ramo ambiental 4688/6717 e contexto jurisprudencial; hipótese B, sem gabarito oficial confirmado."
+Q0011,revisar,4702,5482,0.72,Lavagem e competência federal são exigidas; confirmar central e escopo dos ramos 4702/6723. Não há interceptação no item concreto.
+Q0012,publicar,5569,,0.98,A resposta é apelação em dez dias no Juizado Especial Criminal.
+Q0013,publicar,5503,,0.97,"O EXCETO recai sobre homologar ANPP após decisão desclassificatória, fora da fase investigativa do juiz das garantias."
+Q0014,publicar,5477,,0.97,A assertiva nega de forma geral habeas corpus em restrição à liberdade de adolescente.
+Q0015,publicar,5500,,0.97,A resposta exige a regra de devolução do inquérito para diligências imprescindíveis.
+Q0016,publicar,5584,5519;5586;5589,0.96,I: vedação à preventiva de ofício; II: prisão especial por diploma; III: prazo da audiência de custódia.
+Q0017,revisar,5533,,0.68,Defesa prévia do rito especial de funcionário público; o nó 5533 está no Ordinário. Confirmar compatibilidade do caminho.
+Q0018,publicar,5540,,0.97,"O objeto é a exclusão/deslocamento da competência dos Juizados por conexão, impossibilidade de citação pessoal e complexidade."
+Q0019,publicar,5475,,0.97,É preciso distinguir efeitos civis da decisão penal e legítima defesa putativa.
+Q0020,revisar,5066,5203;5119;5159;5542;5541;5067,0.55,Cinco assuntos independentes; extras registrados. Falta tema central predominante e sequência confirmada; Teoria da Pena não cobre o conjunto.
+Q0021,publicar,5503,,0.98,O julgamento exige saber se o prazo de implantação do juiz das garantias admite prorrogação.
+Q0022,publicar,5089,,0.98,A pergunta genérica se resolve pelo peculato culposo.
+Q0023,revisar,5524,,0.85,Possíveis duas alternativas incorretas (B/C) sobre prisão e coisa julgada da impronúncia; conferir prova/gabarito antes de liberar.
+Q0024,publicar,4385,4379,0.96,"As assertivas exigem Escola de Chicago/ecologia, associação diferencial/aprendizagem, colarinho branco e cifras negras."
+Q0025,publicar,5101,,0.98,"A conduta descrita é tráfico de influência, pois solicita vantagem a pretexto de influir em auditor."
+Q0026,revisar,4704,,0.73,Âmbito protetivo da LMP identificado; confirmar ramo 4704/6724 para vínculos domésticos/familiares e de afeto.
+Q0027,publicar,5488,,0.98,A solução depende de citação/intimação pessoal e ausência injustificada do acusado.
+Q0028,publicar,5526,,0.98,"As três referências normativas descrevem fases do rito do Júri: resposta, manifestação sobre preliminares e remessa ao MP por fato superveniente depois da pronúncia."
+Q0029,revisar,4684,,0.72,Interrogatório sem advogado é o núcleo; confirmar ramo do abuso 4684/6716. Mistura de alternativas não é o motivo.
+Q0030,publicar,5135,,0.98,"O enunciado reproduz constrangimento violento para trabalhar ou não trabalhar, tipificado como atentado contra a liberdade de trabalho."
+Q0031,publicar,4385,,0.97,É necessário interpretar a teoria da anomia para julgar a explicação sobre metas e normas.
+Q0032,publicar,5497,,0.98,A solução é representar ao juiz para exame de integridade mental durante o inquérito.
+Q0033,publicar,5519,,0.98,"O conjunto exige pressupostos e cabimento da prisão preventiva, que pode atingir primário e pessoa de bons antecedentes."
+Q0034,publicar,5477,5594,0.96,Pede-se o cabimento de habeas corpus para excluir prova ilícita em persecução que ameace a liberdade.
+Q0035,publicar,4706,,0.98,A alternativa correta exige o art. 11 da Lei Antiterrorismo: interesse da União e investigação pela PF.
+Q0036,publicar,5470,,0.95,A lesão corporal doméstica é de ação pública incondicionada: não cabe exigir confirmação de representação nem condicionar recebimento a audiência de retratação.
+Q0037,publicar,5118,,0.97,"A INCORRETA trata como particular a falsidade da CTPS ou documento previdenciário, que o CP enquadra no art. 297, §3º."
+Q0038,publicar,5583,,0.96,A prerrogativa correta é a proteção de dados e depoimentos do ofendido contra exposição.
+Q0039,fora,,,0.00,A resolução identifica cartel e crime contra a ordem econômica.
+Q0040,publicar,5562,5515,0.97,O conhecimento é o efeito suspensivo da apelação do Júri conforme a disciplina legal mencionada na prova.
+Q0041,publicar,5184,,0.97,"A alternativa plausível descreve a lógica manicomial; as demais confundem sistema vicariante, imputabilidade e Lei 10.216."
+Q0042,publicar,5222,,0.98,"A resposta descreve vontade de produzir o resultado, núcleo do dolo direto, em contraste com dolo eventual e culpa."
+Q0043,publicar,5201,,0.96,"A opção correta exige o regime inicial semiaberto do reincidente condenado a até quatro anos, presentes circunstâncias favoráveis."
+Q0044,publicar,5488,,0.98,A assertiva cobra revelia após citação pessoal e inexistência de confissão ficta no processo penal.
+Q0045,publicar,5091,,0.98,O desvio do que se recebeu indevidamente para recolher aos cofres públicos qualifica o excesso de exação.
+Q0046,publicar,5509,,0.97,A regra de prejuízo e instrumentalidade é a resposta; as opções testam vícios e saneamento no processo.
+Q0047,publicar,5164,5468,0.97,Exigem-se duas modalidades de dano qualificado e a ação privada para o dano com prejuízo considerável ao particular.
+Q0048,publicar,5193,,0.97,A resposta depende da natureza declaratória da concessão de indulto/comutação quando preenchidos os requisitos.
+Q0049,publicar,5152,,0.98,A solução depende da redação do induzimento/instigação ao suicídio após a Lei 13.968/2019: o tipo básico não exige lesão.
+Q0050,publicar,5557,,0.97,"Todas as alternativas tratam dos requisitos da colaboração premiada na Lei de Drogas: identificação, recuperação, voluntariedade e cumulação."
+Q0051,publicar,5182,,0.97,A resolução depende de extraterritorialidade e das condições para aplicação da lei brasileira a fato no exterior.
+Q0052,publicar,6734,,0.95,I e II exigem as razões de remição por trabalho e estudo; III erra ao estender o bônus a toda remição; IV erra ao tornar a perda de um terço obrigatória.
+Q0053,publicar,5541,,0.98,"A assertiva é resolvida pela ausência de coisa julgada material da homologação da transação penal, permitindo retomar a persecução por descumprimento."
+Q0054,publicar,5174,,0.98,A pergunta exige associar categorias dogmáticas de crimes a exemplos.
+Q0055,publicar,5550,5510,0.96,O objeto é a ordem de inquirição das testemunhas e os efeitos da atuação judicial.
+Q0056,publicar,5066,5070,0.97,"A resposta exige distinguir soma, exasperação e tratamento da multa nas espécies de concurso, com ressalva do continuado."
+Q0057,publicar,5176,,0.99,"Pede-se a definição das fases percorridas pelo delito, objeto expresso e restrito das fases do iter criminis."
+Q0058,publicar,4390,,0.96,A opção correta afirma que a vitimização é seletiva e atinge preferencialmente pobres.
+Q0059,revisar,4385,,0.72,Crítica de Baratta às relações carcerárias; falta delimitar o alcance sociológico do catálogo e conferir fonte primária.
+Q0060,publicar,5093,,0.97,A resposta exige a majorante da corrupção ativa quando o funcionário retarda/omite o ato.
+Q0061,publicar,6734,,0.95,"O conhecimento necessário é falta grave e seus efeitos no processo de execução: regime aberto, remição, indulto e exame criminológico."
+Q0062,publicar,5182,,0.98,A pergunta delimita extraterritorialidade incondicionada em crime contra patrimônio de sociedade de economia mista brasileira no exterior.
+Q0063,revisar,4704,5522,0.74,Medidas protetivas e cautelares cumulativas são exigidas; confirmar ramo da LMP e pressupostos do afastamento pelo delegado.
+Q0064,revisar,5191,5165,0.76,Resposta proposta depende de pagamento e extinção da punibilidade previdenciária após trânsito; confirmar regime legal/jurisprudencial.
+Q0065,publicar,5161,,0.98,"A resolução exige qualificadoras e consumação da extorsão mediante sequestro, abrangida pelo tema Extorsão."
+Q0066,publicar,4373,,0.98,"A característica correta é o método empírico-científico da escola positivista, em contraste com livre-arbítrio clássico."
+Q0067,publicar,5091,,0.98,A exigência de dinheiro pelo policial em razão da função caracteriza concussão.
+Q0068,revisar,5096,,0.77,"B sugere condescendência; há pista de anulação e dúvida B/E. Conferir gabarito oficial, sem tratar a pista como anulação confirmada."
+Q0069,publicar,5173,,0.99,A enumeração seguida de fórmula genérica configura interpretação analógica.
+Q0070,publicar,5193,5201,0.96,"A solução exige computar prisão provisória no requisito temporal da comutação, articulando benefício e detração."
+Q0071,revisar,4688,,0.73,"Majorantes ambientais claras; confirmar ramo 4688/6717, sem presumir equivalência de homônimos."
+Q0072,publicar,5592,,0.98,Pede-se a formação do convencimento judicial e o limite ao uso exclusivo de elementos do inquérito.
+Q0073,publicar,5093,,0.98,A promessa de vantagem para omitir ato de ofício resolve a questão como corrupção ativa.
+Q0074,publicar,5485,5181,0.96,"Depois do trânsito, a aplicação da lei mais benigna compete ao juízo da execução, não ao juízo de origem."
+Q0075,publicar,5191,,0.99,A alternativa incorreta inverte a regra de comunicabilidade da extinção da punibilidade entre crimes conexos.
+Q0076,publicar,4373,,0.99,"A resposta identifica Lombroso, Ferri e Garofalo como representantes fundadores do positivismo criminológico."
+Q0077,publicar,5170,5171;5174,0.95,A resposta correta reúne norma penal em branco invertida e crime de atentado.
+Q0078,publicar,4697,,0.96,A resposta exige omissão de cautela que permite a adolescente acessar arma.
+Q0079,publicar,5581,,0.97,As alternativas comparam características e escolha dos sistemas acusatório e inquisitivo.
+Q0080,publicar,4370,,0.98,A assertiva confunde modelo restaurador com castigo/reintegração.
+Q0081,publicar,4373,,0.98,I cobra objeto da escola clássica; II erra ao incluir Beccaria na positivista; III exige influência do etiquetamento na escola crítica.
+Q0082,publicar,5100,,0.98,A ameaça ao policial para impedir ato legal constitui resistência.
+Q0083,revisar,5226,5150,0.79,"Dolo geral, nexo e homicídio são exigidos; confirmar predominância temática entre 5226 e 5150, apesar da hipótese de resposta E."
+Q0084,revisar,4704,,0.74,Assistência trabalhista/escolar da LMP; confirmar alcance extrapenal e ramo 4704/6724.
+Q0085,publicar,5076,,0.99,"A resposta exige comunicabilidade da condição funcional, elementar da concussão, ao particular que a conhece."
+Q0086,publicar,5092,,0.99,Aceitar promessa de vantagem indevida consuma corrupção passiva mesmo sem receber a estadia.
+Q0087,publicar,5521,,0.97,A resolução exige a extensão excepcional da prisão domiciliar executória para mãe em regime fechado com cuidado imprescindível.
+Q0088,publicar,4389,,0.98,Julga-se objeto da vitimologia e possibilidade de autonomia científica defendida por autores.
+Q0089,publicar,5172,,0.99,A resposta reúne os quatro vetores da insignificância.
+Q0090,revisar,5526,,0.74,Resposta C compara réplica em Júri e tribunais superiores; o nó Ordinário não cobre o conjunto e Júri é sugestão parcial.
+Q0091,publicar,5201,,0.98,"O item cobra a vedação à progressão por salto, do fechado diretamente ao aberto."
+Q0092,publicar,5511,,0.99,As lacunas reproduzem os efeitos de nulidade por incompetência e o saneamento da ilegitimidade de representação.
+Q0093,publicar,5223,,0.98,A solução depende de distinguir a omissão imprópria do salva-vidas garantidor da omissão própria do surfista.
+Q0094,publicar,4385,,0.97,O conhecimento decisivo é o etiquetamento/criminologia crítica associado ao estigma de roupa prisional.
+Q0095,publicar,5197,,0.98,É necessário aplicar perdão judicial a lesão culposa e homicídio culposo quando as consequências atingem gravemente o próprio agente.
+Q0096,publicar,5486,,0.97,A solução identifica o desaforamento como derrogação da competência territorial.
+Q0097,revisar,4705,5067,0.74,Gabarito definitivo E confirmado; concurso de associação e organização é o núcleo. Confirmar ramo 4705/6725 e predominância temática.
+Q0098,publicar,5548,,0.99,A resposta define confissão qualificada: admitir o fato e invocar uma tese defensiva favorável.
+Q0099,publicar,5100,5228,0.96,"A solução combina resistência consumada, responsabilização pelas lesões e exclusão da ilicitude da atuação proporcional dos fiscais."
+Q0100,publicar,5103,5224,0.97,"A resposta exige compreender estupro de vulnerável e erro sobre idade, que pode afastar o dolo."
+Q0101,revisar,4704,,0.76,"Divórcio e partilha têm competência civil na LMP; confirmar o alcance do ramo especial, evitando competência criminal por nome semelhante."
+Q0102,publicar,5574,,0.97,A alternativa correta exige reconhecer a sentença absolutória imprópria quando há imposição de medida de segurança.
+Q0103,publicar,5478,,0.99,"O item descreve finalidade e resultados possíveis da revisão criminal depois da coisa julgada, instituto explicitamente delimitado."
+Q0104,revisar,5500,5477,0.76,Conferir instauração/requisição pelo MP e autoridade coatora no HC; letra não confirmada e redação institucional controversa.
+Q0105,publicar,4385,,0.96,Julga-se a leitura da pichação pela criminologia cultural e sua relação com etiquetamento.
+Q0106,publicar,5157,,0.96,"A hipótese correta descreve fraude de refeição sem recursos para pagar, do art. 176."
+Q0107,publicar,5119,,0.99,"A solução depende da tipicidade de falsa identidade mesmo sob alegação de autodefesa, e não do princípio do silêncio em abstrato."
+Q0108,publicar,5561,5515,0.98,A decisão que nega reconhecer prescrição é impugnável por RESE e não tem efeito suspensivo legal.
+Q0109,revisar,4708,,0.75,"Uso compartilhado ocasional do art. 33, §3º; confirmar abrangência do título Tráfico e ramo 4708/6728."
+Q0110,publicar,5480,,0.96,A resposta depende da competência para exceção da verdade envolvendo pessoa com foro por função.
+Q0111,publicar,4373,,0.98,A resposta exige a recepção racista do positivismo no Brasil e o papel de Nina Rodrigues.
+Q0112,revisar,4705,,0.76,"Majorante da organização identificada; confirmar ramo 4705/6725, cujos limites comparativos não estão descritos."
+Q0113,fora,,,0.00,"A resposta exige aplicação de prazo penal à prescrição disciplinar no PAD, independentemente da persecução criminal."
+Q0114,revisar,5507,5181,0.73,Norma processual mista e efeitos de ADI; conferir gabarito histórico e predominância entre lei processual/material no tempo.
+Q0115,publicar,4385,,0.96,A narrativa de frustração e inadequação entre metas e meios é explicada pela teoria da anomia na hipótese de resolução.
+Q0116,publicar,5205,,0.95,A resposta sustentada é a suspensão da vedação à conversão em penas restritivas de direitos no tráfico.
+Q0117,publicar,5200,,0.96,A descrição corresponde à teoria agnóstica/negativa da pena.
+Q0118,publicar,5507,,0.98,A assertiva distingue incorretamente incidência temporal de lei processual nova para fiança e preventiva.
+Q0119,publicar,5194,,0.99,A resposta exige abolitio criminis com efeitos mesmo depois do trânsito em julgado.
+Q0120,publicar,5590,,0.96,"O julgamento exige momentos e iniciativa defensiva na proposição de provas, admitindo indicação no interrogatório."
+Q0121,publicar,5472,5196,0.98,A solução depende da indivisibilidade da ação privada e da renúncia tácita que se estende aos coautores conhecidos.
+Q0122,publicar,6734,,0.96,"O núcleo é remição executória: razão de trabalho/estudo, cumulação, bônus por conclusão e perda de dias."
+Q0123,revisar,4378,4385;5594,0.65,"Assertivas de seletividade, etiquetamento, prova discriminatória e estatística racial; confirmar sequência e central entre conteúdos independentes."
+Q0124,publicar,4384,,0.97,"As cinco proposições comparam fundamentos legitimadores da pena em Kant, Hegel, Roxin, Binding e teorias relativas."
+Q0125,publicar,5485,5181,0.96,A resposta exige reconhecer a competência do juízo da execução para lei mais benéfica após trânsito.
+Q0126,publicar,5182,,0.97,A resposta correta delimita extraterritorialidade por crime contra fé pública de entes brasileiros.
+Q0127,publicar,5581,,0.96,A resolução exige discutir a possibilidade de condenar apesar do pedido absolutório do MP e sua relação com o sistema acusatório.
+Q0128,publicar,5468,5184,0.95,"Julga-se a definição doutrinária de ação de prevenção penal, voltada à medida de segurança."
+Q0129,publicar,5550,,0.98,Pede-se admissibilidade da oitiva de familiares e sua relevância no caso.
+Q0130,publicar,5160,5205,0.98,"O caso exige reconhecer roubo consumado com simulacro, sem majorante de arma de fogo, e vedação à substituição por restritiva em crime com grave ameaça."
+Q0131,publicar,5072,,0.98,A assertiva reduz indevidamente domínio do fato à prática executória.
+Q0132,publicar,5583,,0.96,I e III tratam da proteção de dados e acesso controlado; II erra ao vedar atuação de ofício.
+Q0133,publicar,5524,,0.98,"Julga-se a fase em que é admissível o desaforamento, ligado ao procedimento do Júri."
+Q0134,publicar,5092,,0.99,A descrição e a pena correspondem à corrupção passiva.
+Q0135,publicar,5169,,0.99,A resposta aplica autonomia da receptação em relação à identificação/punibilidade do autor do antecedente.
+Q0136,revisar,4704,,0.76,Incidência da LMP em relação afetiva encerrada; confirmar ramo protetivo-material 4704/6724.
+Q0137,publicar,5498,,0.97,"Pede-se o regime da investigação conduzida pelo delegado: indiciamento, avocação, remoção e tratamento institucional."
+Q0138,publicar,5205,,0.97,A opção correta exige a possibilidade de manter pena restritiva quando compatível com condenação superveniente.
+Q0139,publicar,5212,,0.97,A resposta identifica coculpabilidade e redução da possibilidade de autodeterminação por condições sociais.
+Q0140,publicar,5159,5545,0.96,A alternativa correta exige a perícia na qualificadora de rompimento de obstáculo e a exceção por desaparecimento dos vestígios.
+Q0141,publicar,4385,,0.98,A resposta é teoria ecológica/Escola de Chicago e sua relação com desorganização urbana.
+Q0142,fora,,,0.00,O conhecimento necessário é isenção tributária estadual de ITCD em doação/transmissão causa mortis.
+Q0143,publicar,5507,,0.99,"A regra geral processual é tempus regit actum, e não tempus delicti."
+Q0144,publicar,5562,,0.99,O conhecimento é cabimento de apelação contra sentença do juiz-presidente contrária à lei ou aos jurados.
+Q0145,revisar,4702,5084;4695,0.69,"Objeto/antecedente da lavagem, tributação e favorecimento real; conferir sequência, primeira assertiva e ramo 4702/6723."
+Q0146,publicar,5594,,0.97,"A resolução exige a admissão excepcional de prova em favor da inocência e análise de ilicitude em domicílio, sigilo e interceptação."
+Q0147,publicar,5500,,0.97,"A resposta exige a insuficiência de denúncia anônima isolada para instaurar inquérito ou medidas invasivas, sem diligências preliminares."
+Q0148,publicar,5203,5202,0.96,"A resolução exige tratar confissão, reincidência e múltiplas condenações na dosimetria, inclusive eventual uso de uma condenação como antecedente."
+Q0149,publicar,5500,,0.97,A resposta depende do procedimento para localização de vítima de tráfico de pessoas após ausência de manifestação judicial em doze horas.
+Q0150,revisar,4708,5181,0.76,Majorantes do tráfico e retroatividade sem combinação são exigidas; confirmar ramo 4708/6728 e contexto sumulado.
+Q0151,publicar,5523,,0.97,A resposta correta exige o aumento de fiança em até mil vezes conforme situação econômica.
+Q0152,publicar,5472,,0.98,"Pede-se a preferência entre sucessores com direito de queixa, começando pelo cônjuge."
+Q0153,publicar,5222,,0.98,A resposta identifica dolo geral em dois atos sucessivos que realizam o resultado pretendido.
+Q0154,publicar,5135,,0.95,A resposta exige a proibição criminal de teste de gravidez/esterilização no acesso ou manutenção do trabalho.
+Q0155,publicar,6734,,0.95,"O conhecimento é cabimento, condições e duração do RDD na execução, inclusive prisão provisória e suspeita de associação."
+Q0156,revisar,4688,,0.75,Sanção ambiental especial identificada; confirmar ramo 4688/6717 antes de publicar.
+Q0157,publicar,5520,4693,0.98,"A solução combina prazo da prisão temporária e a hediondez da epidemia com morte, que leva ao prazo de trinta dias prorrogável."
+Q0158,publicar,4707,,0.98,A perda de cargo e a interdição pelo dobro da pena decorrem da Lei de Tortura.
+Q0159,revisar,5226,5150;5160,0.78,"Resposta B é hipótese; causalidade, homicídio e latrocínio são exigidos. Confirmar predominância temática, não apenas a letra."
+Q0160,publicar,5205,,0.99,A assertiva ignora a possibilidade de substituição para reincidente genérico quando socialmente recomendável.
+Q0161,publicar,5588,5554,0.98,A tese principal é relaxar prisão ilegal por ingresso domiciliar sem justa causa/autorização.
+Q0162,publicar,4381,,0.98,"A solução diferencia controle social formal, exercido por órgãos estatais, e informal."
+Q0163,revisar,5133,4703,0.74,Correspondência prisional sob antiga Lei 4.898; conferir contexto histórico e central entre inviolabilidade e restrição executória.
+Q0164,revisar,4703,,0.77,Assistência ao preso/egresso; confirmar divisão do catálogo entre estatuto assistencial 4703 e execução processual 6734.
+Q0165,revisar,4705,,0.75,Tipo da organização e embaraço à investigação identificados; confirmar ramo 4705/6725 e contexto temporal.
+Q0166,publicar,5521,,0.98,A resposta é prisão domiciliar ao condenado em regime aberto maior de setenta anos.
+Q0167,publicar,5524,,0.96,"As opções exigem pressupostos, legitimados e momento do desaforamento."
+Q0168,fora,,,0.00,A resolução identifica crimes contra a incerteza do resultado esportivo da Lei Geral do Esporte.
+Q0169,publicar,5492,,0.99,A resposta exige os efeitos da dissolução da afinidade sobre impedimento/suspeição e a exceção para familiares indicados.
+Q0170,publicar,5199,5188,0.96,"O conhecimento central é reincidência/primariedade e efeitos de condenações, representado por Teoria da Pena."
+Q0171,publicar,4693,,0.97,"A prova oficial e o gabarito preliminar indicam B, sobre inclusão do roubo com arma de fogo no rol de hediondos."
+Q0172,revisar,5484,5467,0.73,Hipótese D exige imunidade parlamentar; não equivale automaticamente a competência por função. Confirmar escopo do tema sugerido.
+Q0173,publicar,6734,,0.95,O objeto é regressão de regime e efeitos das faltas no processo de execução.
+Q0174,publicar,5133,,0.97,"A resposta exige a redação de invasão de dispositivo informático após 2021, que dispensou violação de mecanismo de segurança."
+Q0175,publicar,5092,,0.99,"O agente solicita vantagem para não autuar, caracterizando corrupção passiva; não há exigência constrangedora típica da concussão."
+Q0176,publicar,5081,,0.97,A resposta assistida identifica falso testemunho como delito de mão própria.
+Q0177,publicar,5547,,0.98,A INCORRETA permite usar silêncio para aumentar pena-base.
+Q0178,publicar,4697,,0.97,A resposta depende do alcance territorial e funcional do porte de arma da polícia judicial previsto no estatuto e regulamentação do CNJ.
+Q0179,publicar,4369,,0.98,Julga-se a prevenção secundária dirigida a grupos e contextos de risco.
+Q0180,publicar,5594,5554,0.98,A resposta exige reconhecer ilicitude da busca noturna sem ordem ou consentimento e inadmissibilidade das provas.
+Q0181,publicar,4695,,0.98,"Apenas III descreve crime contra a ordem tributária, pela nota fiscal."
+Q0182,revisar,5138,5154;5074;5122;5139,0.58,"Aborto/participação, perigo venéreo, rixa e calúnia no mesmo item; sem central único e sem sequência confirmada. Extras explicitados."
+Q0183,publicar,5561,,0.97,A conclusão perguntada é o recurso contra extinção da punibilidade e o prazo de cinco dias.
+Q0184,publicar,5518,,0.98,Julga-se o prazo de comunicação e remessa do flagrante.
+Q0185,publicar,6734,,0.96,"A resposta exige procedimento disciplinar com defesa e decisão judicial de regressão, sem esperar condenação pela arma."
+Q0186,publicar,5202,,0.99,Condenação por fato anterior com trânsito no curso da ação pode ser valorada como antecedente na primeira fase.
+Q0187,publicar,5201,,0.97,A resposta correta é condicionar progressão à reparação/devolução no crime contra a administração.
+Q0188,publicar,5228,,0.98,"Ofendículos relacionam-se à exclusão da ilicitude, por regular exercício de direito/defesa conforme a construção adotada."
+Q0189,publicar,5472,,0.97,A assertiva exige disponibilidade da ação penal privada e limite temporal até trânsito.
+Q0190,publicar,5540,,0.98,"A resposta correta é a regra territorial do Jecrim, lugar da prática da infração."
+Q0191,publicar,5560,5567;5561,0.99,I exige carta testemunhável; II exige RESE com retratação.
+Q0192,publicar,5092,5091,0.98,"A INCORRETA chama de concussão a conduta de solicitar vantagem, que é corrupção passiva."
+Q0193,publicar,5557,,0.97,"O conjunto exige negociação, benefícios e suspensão no acordo de colaboração."
+Q0194,publicar,5089,5076,0.99,O funcionário com guarda do computador pratica peculato e a elementar funcional se comunica ao particular que a conhece.
+Q0195,publicar,4373,,0.98,A resposta exige reconhecer a preocupação clássica com crime/pena jurídicos e limitação do poder punitivo.
+Q0196,publicar,4385,,0.98,O conhecimento é o caráter seletivo e constitutivo do controle penal no etiquetamento.
+Q0197,revisar,5482,,0.77,Atribuição investigatória da PF difere de competência judicial; hipótese E baseada no Banco do Brasil. Confirmar caminho temático.
+Q0198,publicar,5073,,0.98,"O EXCETO é prévio acerto entre comandante e executores, desnecessário ao domínio da organização."
+Q0199,publicar,5219,,0.96,"A resposta exige o conceito de bem jurídico, objeto de tutela que orienta interpretação e sistematização dos tipos."
+Q0200,revisar,4705,,0.75,"Permanência da organização após denúncia; confirmar precedente, contexto e ramo 4705/6725."
+Q0201,publicar,5103,,0.99,A resposta exige irrelevância do consentimento e experiência sexual da menor de quatorze anos para estupro de vulnerável.
+Q0202,publicar,5224,5109,0.97,O desconhecimento de menoridade e condição de prostituição afasta dolo e não há modalidade culposa.
+Q0203,publicar,5496,,0.95,Julga-se medida patrimonial assecuratória sobre bens em nome de interpostas pessoas.
+Q0204,publicar,5507,,0.99,A assertiva descreve incidência imediata da lei processual com preservação dos atos anteriores.
+Q0205,publicar,5567,,0.97,A opção correta enuncia o cabimento de carta testemunhável contra denegação de recurso.
+Q0206,publicar,5583,,0.98,"A resposta exige oitiva prévia do MP para admissão do assistente, sem confundir manifestação com concordância vinculante."
+Q0207,publicar,6734,,0.96,"O julgamento exige prescrição da falta grave, isolamento, RDD, perda da remição e regressão."
+Q0208,publicar,5072,,0.97,O comando exige atribuir autoria e participação; a narrativa não mostra adesão de Carlos ao homicídio.
+Q0209,publicar,5499,,0.98,A resposta decorre da vedação legal de mencionar instauração de inquérito em atestado de antecedentes.
+Q0210,publicar,4697,5172,0.97,A resposta exige a atipicidade material excepcional de ínfima munição sem arma apta a disparar.
+Q0211,publicar,5583,,0.95,A INCORRETA permite manifestação de aprovação/desaprovação da plateia; o CPP a veda.
+Q0212,publicar,5488,,0.99,A assertiva transfere indevidamente à citação por hora certa os efeitos da citação por edital.
+Q0213,revisar,4708,,0.75,Defesa prévia do rito da Lei de Drogas; nó 5533 é Ordinário. Confirmar inclusão do procedimento no módulo Tráfico e o ramo.
+Q0214,publicar,5494,,0.99,"Há repetição da ação pelos mesmos fatos sem trânsito da primeira, caracterizando litispendência e processamento da exceção em apartado."
+Q0215,publicar,5201,,0.99,A resposta depende de regime inicial semiaberto para primário com seis anos e circunstâncias favoráveis; gravidade abstrata não basta para fechado.
+Q0216,publicar,5539,,0.98,A resposta exige efeitos da composição civil em ação privada ou pública condicionada no Jecrim.
+Q0217,publicar,4371,,0.95,A resolução identifica a reforma penal setecentista como reorganização do poder de punir na leitura de Foucault.
+Q0218,publicar,5518,,0.99,"A polícia aguarda o retorno sem induzir o crime, caracterizando flagrante esperado."
+Q0219,revisar,5074,,0.78,"Falta integralmente a situação hipotética. O assunto sugerido é Participação, mas o item não está completo para o aluno."
+Q0220,publicar,5501,,0.98,A resposta exige a revisão ministerial do arquivamento e a possibilidade excepcional de remessa judicial por ilegalidade patente/teratologia.
+Q0221,publicar,5184,,0.95,A hipótese de resposta recai sobre duração e cessação de periculosidade na medida de segurança.
+Q0222,publicar,4375,,0.95,A opção correta identifica quarta velocidade/neopunitivismo e responsabilização internacional de dirigentes.
+Q0223,publicar,5086,,0.98,A solução exige a tipicidade estrita do ingresso de aparelho de comunicação: chip isolado não equivale ao aparelho descrito no art. 349-A.
+Q0224,publicar,5199,5207,0.98,É necessário distinguir condenação por crime e contravenção para reincidência e a exceção da condenação anterior só a multa para sursis.
+Q0225,publicar,5478,,0.99,"O STJ não examinou mérito, logo a revisão não se torna de sua competência só pelo não conhecimento do especial."
+Q0226,publicar,5544,,0.99,A INCORRETA troca coleta preferencial por exclusivamente perito oficial.
+Q0227,revisar,5103,4709,0.80,Hipótese D exige estupro e imagem sexual do ECA. Confirmar se 4709 inclui art. 240 ou apenas disciplina da Lei 13.431.
+Q0228,publicar,5208,,0.98,"Pede-se o meio inicial de requerer livramento condicional ao juiz da execução: petição, sem decisão anterior a agravar."
+Q0229,publicar,5519,,0.98,A INCORRETA inclui clamor público como fundamento autônomo da preventiva.
+Q0230,publicar,5214,,0.98,A opção correta descreve erro de proibição indireto sobre limites de norma autorizadora e seus efeitos.
+Q0231,publicar,5224,,0.99,"A resposta exige que erro essencial exclua dolo e, inexistindo tráfico culposo, gere atipicidade."
+Q0232,publicar,5080,,0.98,"A resposta correta exige denunciação caluniosa por imputação consciente de ato ímprobo, com nome suposto."
+Q0233,publicar,5178,,0.99,A alternativa correta descreve desistência voluntária e responsabilidade pelos atos já praticados.
+Q0234,publicar,4382,,0.98,A resposta afasta hermenêutica dogmática do método empírico e interdisciplinar da criminologia.
+Q0235,publicar,5561,5515,0.98,"O CPP prevê RESE contra decisão que conclui pela incompetência, e não pela competência como escrito."
+Q0236,revisar,5590,5491;5495;5582;5592,0.64,"Prejudicial, restituição, valoração de prova e presença defensiva são autônomos; confirmar central e sequência. Extras não eliminam a ambiguidade."
+Q0237,publicar,5178,,0.99,A solução distingue interrupção voluntária da execução e atuação eficaz posterior aos atos executórios para evitar resultado.
+Q0238,publicar,5523,,0.99,A assertiva reproduz a hipótese de reforço da fiança por mudança de classificação do delito.
+Q0239,publicar,5207,,0.98,A resposta correta descreve sursis simples e especial e suas condições.
+Q0240,publicar,5500,5473,0.97,"A resolução soma dez dias do inquérito preso e cinco para denúncia, considerando remessa/vista no mesmo dia útil e as regras de contagem."
+Q0241,publicar,5224,,0.97,"As quatro proposições exigem erro essencial e acidental, erro sobre objeto, aberratio ictus e aberratio criminis."
+Q0242,publicar,5560,,0.95,A resposta exige o processamento do recurso ordinário constitucional e o exame de admissibilidade pelo tribunal julgador.
+Q0243,publicar,5178,,0.99,"A devolução voluntária em crime sem violência, antes do recebimento da denúncia, é arrependimento posterior."
+Q0244,publicar,5091,,0.99,O verbo exigir em razão da função caracteriza concussão.
+Q0245,publicar,5185,,0.96,A resposta exige o termo inicial da prescrição do crime falimentar na homologação do plano extrajudicial.
+Q0246,publicar,5527,,0.99,"A semi-imputabilidade não autoriza absolvição sumária; presentes materialidade e indícios, cabe pronúncia."
+Q0247,publicar,5502,,0.99,A assertiva contém restrições incorretas de confissão no flagrante e irretroatividade do ANPP.
+Q0248,publicar,5087,5100;5092;5093;5091,0.99,"A correspondência exige julgar os cinco tipos: desobediência-d, resistência-c, passiva-a, ativa-e, concussão-b."
+Q0249,publicar,5492,,0.99,O item reproduz hipóteses de impedimento do juiz e parentesco em órgão coletivo.
+Q0250,publicar,5201,,0.98,"A resposta admite semiaberto na extorsão mediante sequestro, sem regime fechado automático por hediondez."
+Q0251,publicar,5191,5185;5193,0.98,I exige rol não taxativo das causas extintivas; II diferencia anistia/indulto; III define perda da pretensão pelo tempo.
+Q0252,publicar,5206,,0.98,A resposta correta exige parcelamento da pena de multa conforme condições do condenado.
+Q0253,publicar,4373,,0.99,"A resposta identifica escola clássica, livre-arbítrio e Carrara."
+Q0254,revisar,4704,,0.76,Tutelas protetivas autônomas da LMP; confirmar ramo 4704/6724. O ano 2016 no enunciado é erro preservado do original.
+Q0255,publicar,5213,,0.99,A INCORRETA confunde incapacidade parcial por perturbação/desenvolvimento com isenção total de pena.
+Q0256,revisar,5224,5214,0.77,Compara erro de tipo e de proibição com redação problemática sobre imprudência/invencibilidade. Confirmar original e predominância temática.
+Q0257,publicar,5227,5219,0.97,I exige distinguir tipo penal de improbidade; II exige sujeitos ativo humano/PJ; III exige distinguir ilicitude de tipicidade.
+Q0258,publicar,5545,,0.99,A resposta exige prioridade do exame de corpo de delito em violência doméstica.
+Q0259,publicar,5183,,0.98,"A pergunta exige distinguir critérios de solução do conflito aparente entre dano e furto qualificado, especialmente subsidiariedade tácita e consunção."
+Q0260,revisar,4374,4376;4370,0.66,"Inimigo, restauração e movimentos de direitos no mesmo item; Política Criminal é sugestão parcial. Confirmar alcance do catálogo."
+Q0261,publicar,5136,,0.96,"A resposta exige a permissão de uma cópia de salvaguarda de software legitimamente adquirido, sem crime autoral."
+Q0262,publicar,5184,,0.97,"A resposta identifica internação ou conversão da pena em medida de segurança diante de doença mental superveniente, por decisão do juízo da execução com perícia."
+Q0263,publicar,5492,,0.99,"II e III descrevem suspeição; I e IV, impedimento."
+Q0264,publicar,5102,5103;5109,0.97,As duas partes exigem distinguir estupro de vulnerável e favorecimento da prostituição conforme idade/condição da vítima e papel dos agentes.
+Q0265,publicar,5185,,0.99,A regra julgada é a incidência isolada da prescrição no concurso de crimes.
+Q0266,publicar,5482,,0.98,A resolução distingue Justiça Militar da União para militar federal em GLO e Júri para militar estadual no crime doloso contra vida de civil.
+Q0267,revisar,4708,,0.76,Laudo e destruição de drogas no rito especial; confirmar abrangência do módulo Tráfico e ramo 4708/6728.
+Q0268,publicar,5118,,0.96,A hipótese correta enumera requisitos de falsidade ideológica.
+Q0269,publicar,4375,,0.98,A opção que não se ajusta ao garantismo subordina decisões ao consenso popular.
+Q0270,publicar,5091,,0.99,"O policial exige vantagem para liberar veículo, caracterizando concussão."
+Q0271,publicar,5562,5515,0.97,"A exceção é a apelação do Júri, cujo efeito devolutivo se limita aos fundamentos de interposição."
+Q0272,publicar,6734,,0.96,"A resposta exige termo inicial da prescrição de falta grave de fuga na recaptura, por permanência."
+Q0273,publicar,5089,,0.99,"A pergunta genérica sobre modalidade culposa se resolve pelo peculato, tal como na Q0022."
+Q0274,publicar,5160,,0.99,A morte consumada com subtração tentada caracteriza latrocínio consumado.
+Q0275,publicar,5540,,0.99,A solução é remeter peças ao juízo comum quando o acusado não é encontrado para citação no Jecrim.
+Q0276,publicar,5554,,0.98,A alternativa correta exige dispensa de mandado para busca pessoal no curso de busca domiciliar.
+Q0277,revisar,4696,,0.76,Tipo contra pessoa idosa identificado; confirmar ramo 4696/6722 sem presumir equivalência de títulos.
+Q0278,publicar,5542,,0.99,A assertiva troca o limite de pena mínima de um por dois anos para suspensão condicional do processo.
+Q0279,publicar,5188,,0.99,A resposta exige prazo prescricional do furto reduzido pela idade inferior a 21 anos no fato e ausência de interrupção antes de quatro anos.
+Q0280,publicar,5122,,0.96,A INCORRETA torna sempre cabível exceção da verdade na imputação de crime funcional.
+Q0281,revisar,5590,5555;5499,0.67,"Interceptação, sigilo bancário/fiscal, acesso a autos e correspondência; falta central inequívoco para os quatro julgamentos."
+Q0282,revisar,4704,,0.76,Resposta E identifica restrição de visitas na LMP; confirmar ramo 4704/6724. Outros estatutos nas opções não motivam a revisão.
+Q0283,publicar,5496,,0.99,A resposta exige caução suficiente em dinheiro para evitar inscrição da hipoteca legal.
+Q0284,publicar,5224,,0.97,"A defesa depende de erro sobre pressuposto fático de justificante, tratado como erro de tipo permissivo na teoria limitada."
+Q0285,publicar,4376,,0.99,A resposta identifica legislação diferenciada como característica do Direito Penal do Inimigo.
+Q0286,publicar,5199,5202;5204,0.98,A solução exige ordem das fases: antecedentes na pena-base antes da redução por tentativa.
+Q0287,publicar,5228,,0.99,"A resposta distingue estado de necessidade, causa de ilicitude, das hipóteses de erro e inimputabilidade."
+Q0288,revisar,5103,4695;4688;5068,0.58,"Cinco campos penais independentes, incluindo DL 201; sequência e redação de V pendentes. Sem central predominante sustentado."
+Q0289,revisar,4704,,0.77,Tutela inibitória da LMP/Tema 1249; confirmar ramo do catálogo. Não enquadrar como cautelar penal comum.
+Q0290,publicar,5468,,0.97,A INCORRETA generaliza ação incondicionada a todas as lesões dolosas.
+Q0291,publicar,5500,,0.99,A assertiva cobra prazos especiais do inquérito da Lei de Drogas e duplicação por decisão judicial.
+Q0292,publicar,4374,,0.97,A resposta exige analisar política criminal e encarceramento em massa no período constitucional.
+Q0293,publicar,5185,5188;5189,0.97,"A resolução exige comparar prescrição punitiva e executória, marcos interruptivos entre coautores e efeitos da interrupção das restritivas."
+Q0294,publicar,5212,,0.97,A opção correta descreve reprovação pessoal na teoria normativa pura da culpabilidade.
+Q0295,publicar,5489,,0.99,"A resposta exige termo inicial pela entrega dos autos à Defensoria, distinto do ciente individual."
+Q0296,publicar,5472,,0.99,A assertiva nega indevidamente sucessão do direito de queixa por morte da vítima.
+Q0297,publicar,4695,5191,0.96,A resposta exige efeito extintivo do pagamento do tributo e acessórios no regime dos crimes tributários.
+Q0298,fora,,,0.00,"A assertiva trata de crimes de relações de consumo da Lei 8.137, que admite culpa em hipóteses do art. 7º."
+Q0299,publicar,4385,,0.98,"A resposta correta descreve etiquetamento, reação social e reprodução da criminalidade."
+Q0300,publicar,5084,,0.96,A resolução assistida identifica favorecimento pessoal: ocultar o instrumento auxilia o autor a escapar da ação da autoridade.
+Q0301,publicar,5197,,0.98,"O NÃO recai sobre retorsão em difamação, pois o perdão judicial do CP se refere à injúria."
+Q0302,publicar,5224,,0.99,"César desconhece a presença humana e erra sobre elemento fático, afastando dolo."
+Q0303,publicar,5182,,0.99,A alternativa correta descreve extraterritorialidade incondicionada em delitos contra patrimônio/fé pública de entes brasileiros.
+Q0304,publicar,5540,,0.98,A resolução exige conservar institutos despenalizadores quando a competência se desloca do Jecrim.
+Q0305,publicar,5471,,0.96,A opção correta trata de requisição do Ministro da Justiça como condição da ação pública nos casos legais.
+Q0306,publicar,5146,,0.99,"O conhecimento é associação criminosa do CP, com estabilidade e finalidade de crimes indeterminados, distinta de organização criminosa."
+Q0307,publicar,4707,,0.98,A assertiva erra ao excluir responsabilidade omissiva do delegado e afirmar que tortura só pode ser comissiva.
+Q0308,publicar,5501,,0.98,O arquivamento por insuficiência de elementos denota falta de justa causa e não coisa julgada material.
+Q0309,revisar,4688,,0.76,Tipo e pena ambientais identificados; confirmar ramo 4688/6717.
+Q0310,publicar,5507,5181,0.98,A resposta exige reconhecer irretroatividade prejudicial de norma processual com conteúdo material.
+Q0311,publicar,5488,,0.97,A resolução exige citação por edital e seus efeitos se o acusado não comparecer nem constituir defensor.
+Q0312,publicar,4384,,0.98,"O item expõe prevenção especial em Liszt, com socialização, intimidação e neutralização conforme destinatários."
+Q0313,publicar,5209,5475,0.96,O núcleo é o efeito genérico automático da condenação sobre obrigação de reparar.
+Q0314,publicar,5477,,0.98,A resposta exige a natureza de ação constitucional protetora da liberdade de locomoção.
+Q0315,publicar,5189,,0.97,"A hipótese de resposta calcula quatro anos da prescrição executória após trânsito para ambas as partes, com redução por idade no fato."
+Q0316,publicar,5224,,0.97,"O conhecimento é erro sobre a pessoa com consideração das qualidades da vítima pretendida, associado à equivalência."
+Q0317,publicar,5198,,0.98,"O prazo de seis meses corre da ciência da autoria, que no caso coincide com o fato."
+Q0318,publicar,5178,5203,0.97,"A morte ocorreu apesar do socorro, logo não há arrependimento eficaz que afaste o resultado consumado."
+Q0319,revisar,5073,,0.79,Lista I/II/III não corresponde às opções A–E; possível concatenação de questões. Conferir fonte antes de remover/reconstruir trechos.
+Q0320,publicar,5550,,0.99,A testemunha fedatária atesta regularidade de ato praticado no inquérito/processo.
+Q0321,publicar,5073,,0.99,A resposta caracteriza autoria colateral sem vínculo subjetivo.
+Q0322,publicar,5569,,0.97,"A conduta é a do art. 12 da Lei 13.869, com pena máxima de dois anos, e a própria lei admite a Lei 9.099."
+Q0323,publicar,5590,,0.97,"A resposta exige pressupostos da produção antecipada de prova urgente e relevante, como risco de morte de testemunha."
+Q0324,revisar,5199,5184;4703;5201;5209,0.65,"Pena simples, efeitos, medida de segurança e trabalho prisional; possível problema na assertiva III. Conferir combinação e central."
+Q0325,publicar,5467,,0.97,A opção correta descreve justa causa para recebimento da denúncia e processamento da ação.
+Q0326,revisar,4708,,0.75,"Resposta C é prescrição/ministração culposa do art. 38, não tráfico. Confirmar abrangência do módulo e ramo 4708/6728."
+Q0327,publicar,5203,,0.99,"A condenação antiga ultrapassou cinco anos desde o início do livramento não revogado; contravenção anterior não gera reincidência para novo crime, e ação posterior não é condenação."
+Q0328,publicar,4382,4374,0.97,A assertiva atribui à criminologia a ponte normativa que cabe à política criminal.
+Q0329,publicar,5557,,0.96,"A resolução exige efeitos e condições da colaboração do jogador, com possível redução de até dois terços e sem imunidade automática."
+Q0330,publicar,5501,,0.99,A resposta correta é revisão ministerial do arquivamento provocada pela vítima em trinta dias.
+Q0331,revisar,5477,,0.98,Possíveis duas alternativas incorretas A/C sobre HC e legitimidade do juiz; conferir gabarito/anulação. Tema claro não elimina esse problema.
+Q0332,publicar,5541,,0.97,A resolução exige intervalo de cinco anos para nova transação e efeitos de cumprimento/descumprimento.
+Q0333,publicar,4373,,0.98,A resposta correta identifica método empírico-experimental positivista em contraste com a escola clássica.
+Q0334,publicar,4381,,0.99,O dever-ser pertence ao campo normativo e não é objeto empírico da criminologia.
+Q0335,publicar,5218,5221;5222,0.97,"A opção correta exige ação finalista, deslocamento de dolo/culpa ao tipo e desvalor da ação/resultado."
+Q0336,publicar,5159,,0.99,"A resolução aplica consumação do furto pela inversão da posse, independentemente de sair do restaurante ou manter posse tranquila."
+Q0337,revisar,4684,5470,0.77,"Dolo específico, divergência e ação incondicionada; confirmar ramo do abuso 4684/6716. Extra de ação penal necessário à assertiva III."
+Q0338,publicar,5595,,0.97,"A resposta exige limites à liberdade probatória quanto ao estado das pessoas, regido pelas restrições civis."
+Q0339,publicar,5524,,0.97,"A alternativa correta exige reclassificação por fato superveniente depois da pronúncia, no procedimento do Júri."
+Q0340,publicar,5071,5203,0.98,A resposta exige agravante de instigar/determinar crime a quem se subordina ao agente ou é inimputável por condição pessoal.
+Q0341,publicar,5157,,0.97,"A resposta exige natureza formal da duplicata simulada, crime patrimonial do art. 172."
+Q0342,publicar,5543,5545;5546,0.97,"As cinco proposições exigem corpo de delito, habilitação de peritos, assistente técnico, autópsia, exumação e esclarecimentos."
+Q0343,publicar,5195,5196,0.98,"A resposta exige perempção por inércia superior a trinta dias, possível apesar da recusa do perdão bilateral."
+Q0344,revisar,4688,,0.76,Destinação de bens na lei ambiental; confirmar ramo 4688/6717 para essa disciplina especial.
+Q0345,publicar,5103,5203;5204,0.97,A resposta exige estupro de vulnerável consumado por atos libidinosos e vedação de dupla valoração da mesma relação de autoridade do professor.
+Q0346,publicar,5583,,0.98,"I exige decisão/pedido nos autos; II, legitimidade para preventiva; III, legitimidade para desaforamento; IV, legitimidade de entidades de consumo; V, momento de intervenção."
+Q0347,publicar,5207,,0.98,A alternativa correta exige revogação obrigatória do sursis por frustração de multa apesar de solvência e falta injustificada de reparação.
+Q0348,revisar,5093,,0.69,Corrupção ativa internacional: possível problema D/E e falta delimitar se o tema inclui art. 337-B. Conferir prova e gabarito.
+Q0349,publicar,5178,,0.99,A resposta exige o requisito de crime sem violência/grave ameaça para arrependimento posterior.
+Q0350,publicar,5557,,0.96,A resposta exige benefícios da colaboração na lei de lavagem.
+Q0351,publicar,5118,,0.99,A resposta exige equiparação do cartão de crédito a documento particular para falsificação material.
+Q0352,publicar,5515,,0.99,A resposta aplica efeito extensivo ao corréu por fundamento objetivo de atipicidade.
+Q0353,revisar,5535,,0.77,"Resposta B trata da concentração de oitivas; confirmar central entre audiência do rito ordinário e princípio processual, não prescrição contextual."
+Q0354,publicar,5227,5172,0.98,"A INCORRETA atribui à insignificância/adequação social efeito sobre tipicidade formal, quando o debate é material."
+Q0355,revisar,4708,,0.75,Gabarito definitivo E confirmado; conteúdo é uso não penal de maconha. Confirmar se Tráfico inclui art. 28 e qual ramo do catálogo.
+Q0356,publicar,5066,5067;5068;5070,0.99,"As quatro proposições exigem distinguir concurso material, formal impróprio e soma de multas conforme texto do CP."
+Q0357,publicar,5135,,0.99,A resposta reproduz boicotagem violenta por constranger a não fornecer/adquirir produtos.
+Q0358,publicar,5133,,0.97,"O conhecimento é invasão de dispositivo e efeitos de obtenção/divulgação de dados, do art. 154-A."
+Q0359,revisar,5539,,0.81,Art. 94 mudou pela Lei 15.163/2025. Conferir versão histórica e sinalizar desatualização; núcleo é rito/benefícios do Jecrim.

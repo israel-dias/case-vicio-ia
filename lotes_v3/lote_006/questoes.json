@@ -1,0 +1,151 @@
+[
+  {
+    "id": "Q0055",
+    "enunciado": "No que tange à oitiva das testemunhas arroladas pela acusação em audiência de instrução e julgamento, na forma do Art. 212 do Código de Processo Penal, é correto afirmar que:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "a nulidade pela alteração da ordem de inquirição deve indicar\no prejuízo gerado;",
+      "B": "é possível ao juiz formular perguntas de forma detalhada,\napós as partes;",
+      "C": "a ordem de inquirição pode ser alterada no caso de ausência\nmomentânea de uma das partes;",
+      "D": "havendo atuação comedida, o juiz pode iniciar a inquirição da\ntestemunha;",
+      "E": "o juiz pode intervir, a qualquer momento, diante de\nilegalidade na condução do depoimento."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Comunicação dos atos processuais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0056",
+    "enunciado": "No caso de pluralidade delitiva, deve-se adotar, na determinação da pena,",
+    "comando": "Complete a frase sobre a determinação da pena no caso de pluralidade delitiva.",
+    "alternativas": {
+      "A": "o sistema de cúmulo jurídico, somando-se as penas aplicadas\na cada um dos crimes.",
+      "B": "o sistema da exasperação, quando se tratar de casos de\nconcurso formal imperfeito.",
+      "C": "o sistema da exasperação, quando se tratar de concurso\nmaterial heterogêneo, para evitar que a pena ultrapasse o limite\nlegal de cumprimento.",
+      "D": "o sistema da exasperação, que considera tão somente o número\nde crimes consumados para definição da pena.",
+      "E": "o sistema do cúmulo material, quando se tratar de pena\npecuniária, independentemente das demais sanções aplicadas,\nressalvado o crime continuado."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0057",
+    "enunciado": "Por iter criminis compreende-se o conjunto de",
+    "comando": "Complete a definição de iter criminis.",
+    "alternativas": {
+      "A": "atos de execução do delito.",
+      "B": "atos preparatórios antecedentes ao delito.",
+      "C": "atos de consumação do delito.",
+      "D": "fases pelas quais passa o delito.",
+      "E": "atos de cogitação."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Iter Criminis",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0060",
+    "enunciado": "A respeito dos crimes praticados em detrimento da administração pública, assinale a alternativa correta.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "São crimes próprios de funcionários públicos o de\nconcussão, o de peculato e o de tráfico de influência.",
+      "B": "O crime de facilitação de contrabando ou descaminho pode ser praticado por particular, individualmente ou em concurso de agentes com o funcionário\npúblico.",
+      "C": "O crime de advocacia administrativa, para restar caracterizado, exige a qualidade de advogado do sujeito ativo.",
+      "D": "No crime de corrupção ativa, incidirá causa de aumento da pena ao sujeito ativo, na hipótese de o funcionário omitir ou retardar ato de ofício.",
+      "E": "O funcionário público que, por recebimento de vantagem ilícita, de qualquer natureza, deixa de responsabilizar subordinado que praticou ato ilícito comete\ncrime de condescendência criminosa."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Corrupção ativa",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0061",
+    "enunciado": "Sobre a falta grave no processo de execução criminal, é correto afirmar:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "a falta grave abrange o descumprimento em regime aberto das condições impostas.",
+      "B": "a falta grave não abrange o condenado a pena restritiva de direito que descumpre,\ninjustificadamente, a restrição imposta.",
+      "C": "a decisão judicial que reconhece a falta grave faz com que seja obrigatório o exame\ncriminológico em eventual pedido de progressão de regime.",
+      "D": "a decisão judicial que reconhece a falta grave implica na perda de, no mínimo, de\n1/3 dos dias remidos.",
+      "E": "a decisão judicial que reconhece a falta grave interrompe a contagem do período\npara fins de comutação e indulto."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0062",
+    "enunciado": "Camargo, terrorista, tenta explodir agência do Banco do Brasil, na França. Considerando o princípio da extraterritorialidade incondicionada, previsto no Código Penal brasileiro, é correto afirmar que:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Camargo só pode ser processado criminalmente na França.",
+      "B": "O Estado brasileiro não tem interesse em delitos ocorridos fora do Brasil.",
+      "C": "Caso Camargo tenha sido condenado e encarcerado na França, não poderá ser preso no Brasil.",
+      "D": "O fato deve ser julgado no local onde ocorreu o crime: na França.",
+      "E": "Mesmo Camargo tendo sido julgado na França, poderá ser julgado no Brasil."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0063",
+    "enunciado": "No contexto da violência doméstica e familiar contra a mulher, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).\n( ) As medidas protetivas de urgência, previstas na Lei nº 11.340/2006, poderão ser aplicadas cumulativamente, diferentemente das medidas cautelares alternativas dispostas no Código de Processo Penal, as quais não podem ser aplicadas de forma cumulada, tendo em vista o princípio ne bis in idem.\n( ) Independentemente de autorização judicial, o delegado de polícia, quando o município não for sede de comarca, poderá tomar medidas para o imediato afastamento do agressor do local de convivência com a ofendida.\n( ) As medidas protetivas de urgência serão concedidas em juízo de cognição sumária a partir do depoimento da ofendida perante a autoridade policial ou a partir da apresentação de suas alegações escritas.\n( ) Segundo a Lei nº 11.340/06, as medidas protetivas de urgência poderão ser concedidas de imediato, independentemente de audiência das partes e de manifestação do Ministério Público. Todavia, o órgão do Parquet deverá ser comunicado prontamente sobre a medida.\nAs afirmativas são, respectivamente,",
+    "comando": "Assinale se as afirmativas são verdadeiras (V) ou falsas (F).",
+    "alternativas": {
+      "A": "F – V – V – F.",
+      "B": "V – F – V – F.",
+      "C": "F – V – V – V.",
+      "D": "V – F – F – V.",
+      "E": "F – V – F – F."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0064",
+    "enunciado": "Francisco contratou empregada doméstica, porém, durante a relação de emprego, por três meses, realizou o desconto da contribuição previdenciária sem, contudo, fazer o devido repasse aos cofres públicos. Após a finalização do procedimento administrativo, apurou-se que a dívida de Francisco com a previdência somava R$ 1.000.",
+    "comando": "Acerca dessa situação hipotética, assinale a opção correta.",
+    "alternativas": {
+      "A": "Na situação em apreço, conforme dispositivo do Código\nPenal, a conduta narrada configura o crime de estelionato\nprevidenciário.",
+      "B": "Mesmo que condenado por sentença definitiva, caso\nFrancisco realize o pagamento integral da dívida fiscal,\ndeverá ser declarada a extinção da punibilidade.",
+      "C": "Para a situação narrada, a prescrição começa a correr a partir\ndo dia subsequente ao último mês em que Francisco deixou\nde recolher a contribuição previdenciária, uma vez que se\ntrata de crime permanente e que sua consumação se posterga\naté que cesse a permanência.",
+      "D": "Se preenchidos os requisitos de ordem subjetiva, será possível\na incidência do princípio da insignificância para o caso em\nanálise, haja vista o pequeno valor do crédito tributário."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Causas de extinção da punibilidade",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0065",
+    "enunciado": "O crime de extorsão mediante sequestro (CP, art. 159)",
+    "comando": "Complete a explicação sobre o crime de extorsão mediante sequestro previsto no artigo 159 do Código Penal.",
+    "alternativas": {
+      "A": "é qualificado se do fato resulta lesão corporal grave\nou morte.",
+      "B": "é qualificado se cometido contra vítima menor de\n18 (dezoito) anos ou maior de 50 (cinquenta) anos.",
+      "C": "não admite a modalidade tentada.",
+      "D": "consuma-se quando o agente solicita vantagem\ncomo preço do resgate, por se tratar de crime contra\no patrimônio.",
+      "E": "consuma-se quando o agente obtém vantagem\ncomo preço do resgate, por se tratar de crime contra\no patrimônio."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Lesão Corporal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0066",
+    "enunciado": "O positivismo criminológico",
+    "comando": "Explique o que é o positivismo criminológico.",
+    "alternativas": {
+      "A": "constitui uma continuidade da Escola Clássica, aprofundando suas ideias a partir do mesmo paradigma metodológico.",
+      "B": "rejeita o viés etiológico ao buscar o desenvolvimento de um plano individualizador da pena.",
+      "C": "sofreu um abandono teórico que teve como decorrência a ausência de reflexos em práticas atuais e no direito contemporâneo.",
+      "D": "revela, em seus estudos, a primazia do livre-arbítrio na compreensão do fenômeno criminoso.",
+      "E": "primou pela aplicação do método científico no qual a observação direta e a experiência assumem papel decisivo."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Etapas Evolutivas e Escolas Criminológicas",
+    "alertas_preparacao": []
+  }
+]

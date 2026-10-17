@@ -1,0 +1,39 @@
+{
+  "id": "Q0345",
+  "consulta_executada": "\"Antônio, professor respeitado na escola, ofereceu carona à sua aluna Lívia, adolescente de 13 anos, que aceitou a oferta. Ainda\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Questões de Crimes contra a Dignidade Sexual com Gabarito - Comentado",
+      "url": "https://gabarite.com.br/questoes-de-concursos/assunto/crimes-contra-a-dignidade-sexual?assunto=crimes-contra-a-dignidade-sexual&pagina=2",
+      "ref_consulta": "turn384search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "| E N F SCOLA ACIONAL DE ORMAÇÃO E A M PERFEIÇOAMENTO DE AGISTRADOS None | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | E N F SCOLA ACIONAL DE ORMAÇÃO E A M PERFEIÇOAMENTO DE AGISTRADOS None | | | | | | | | E N F SCOLA ACIONAL DE ORMAÇÃO E A M PERFEIÇOAMENTO DE AGISTRADOS | | | | | | |",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/131875/fgv-2025-enam-exame-nacional-da-magistratura-enam-2025-1-prova.pdf",
+      "ref_consulta": "turn384search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Gabarito Comentado ENAM 2024 - Direito | PDF | Constituição | Emenda Constitucional",
+      "url": "https://pt.scribd.com/document/919993363/Enam-Gabaritos-Comentados",
+      "ref_consulta": "turn384search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Comprehensive Guide to ENAM 2025.1 Exam and Constitutional Law Questions | PDF",
+      "url": "https://pt.slideshare.net/slideshow/comprehensive-guide-to-enam-2025-1-exam-and-constitutional-law-questions/286836929",
+      "ref_consulta": "turn384search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Análise da Prova ENAM 2025.1 e Recursos | PDF | Constituição | Eleições",
+      "url": "https://pt.scribd.com/document/871329863/ENAM-2025-1-Prova-Comentada-MEGE",
+      "ref_consulta": "turn384search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

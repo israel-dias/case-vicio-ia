@@ -1,0 +1,23 @@
+{
+  "nome": "lote_031",
+  "finalidade": "classificacao_v3_pos_piloto",
+  "versao_prompt": "v3",
+  "ids": [
+    "Q0321",
+    "Q0322",
+    "Q0323",
+    "Q0324",
+    "Q0325",
+    "Q0326",
+    "Q0327",
+    "Q0328",
+    "Q0329",
+    "Q0330"
+  ],
+  "sha256_prompt": "e369c8e46ba2e8ff695e1c6faa47e2506fbaad3493af9b7ff791ee91294dc22e",
+  "sha256_questoes": "6f3eb7494b92ff718540d5c6f6226ad9f9b953bf91b7b74986cab89152959730",
+  "sha256_temas": "bcb2c9d6357708d11ef0a08ed8946210bc4210e5d2412f462db58f0242431084",
+  "sha256_preparacao": "d631cb4843a2946f7caedbf1d237dfc4c2e5fbc9611a1ececf51111f4ed0dcf5",
+  "sha256_regras": "0415e8ea21e1bc24d2738df25d2a756001e292e3babe6b3505f78eaf465f346b",
+  "limite": "Inferência não executada. Não é avaliação nem gabarito."
+}

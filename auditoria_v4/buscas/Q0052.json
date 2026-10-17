@@ -1,0 +1,93 @@
+{
+  "id": "Q0052",
+  "consulta_executada": "\"Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional intra muros, bem como, simultaneamente, teve\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de ...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/180552-questao",
+      "ref_consulta": "turn73search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Uma pessoa presa em regime fechado, definitivamente conde... - Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/lei-no-7-210-1984-lei-de-execucao-penal-lep/1501044",
+      "ref_consulta": "turn73search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Lei de Execução Penal – Lei nº 7.210 de 1984 para Concurso - Página 45 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/lei-de-execucao-penal-lei-n-7-210-de-1984/questoes?page=45",
+      "ref_consulta": "turn73search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Outubro/2014",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/40669/fcc-2014-dpe-rs-defensor-publico-prova.pdf",
+      "ref_consulta": "turn73search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional intra m...",
+      "url": "https://cj.estrategia.com/public/questoes/pessoa-presa-regime1536c34ef16/",
+      "ref_consulta": "turn73search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 73 - DPE-RS - Defensor Público - FCC (2014) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/dpe-rs-defensor-publico-2014-fcc/73",
+      "ref_consulta": "turn73search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Penal | Qconcursos.com - Página 726",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&page=726",
+      "ref_consulta": "turn73search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal para Concurso - Página 724 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/questoes?page=724",
+      "ref_consulta": "turn73search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Do Trabalho Interno (Art. 31 a 35)",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/lei-no-7-210-1984-lei-de-execucao-penal-lep-do-trabalho-interno-art-31-a-35-411019",
+      "ref_consulta": "turn73search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Direito Penal para FCC | Qconcursos.com - Página 45",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&examining_board_ids%5B%5D=1&has_professor_commentaries=true&page=45",
+      "ref_consulta": "turn73search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Trabalho - Página 3 | Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/lei-no-7-210-1984-lei-de-execucao-penal-lep-trabalho-411017?pagina=3",
+      "ref_consulta": "turn73search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "CP.MODELO",
+      "url": "https://www.estudegratis.com.br/images/provas/32264-fcc-2014-dpe-rs-defensor-publico-prova.pdf",
+      "ref_consulta": "turn73search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Lei de Execução Penal – Lei nº 7.210 de 1984 em Direito Penal | Qconcursos.com - Página 45",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?page=45&subject_ids%5B%5D=17467",
+      "ref_consulta": "turn73search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para Defensor Público | Qconcursos.com - Página 275",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&job_ids%5B%5D=175&page=275",
+      "ref_consulta": "turn73search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

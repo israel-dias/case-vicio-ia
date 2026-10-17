@@ -1,0 +1,136 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0045",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5091",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado delimita excesso de exação e sua forma qualificada; o subtema conjunto de Concussão e Excesso de Exação é diretamente aplicável.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0046",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5509",
+      "confianca_modelo": 0.95,
+      "justificativa": "As alternativas comparam vícios, prejuízo e efeitos das nulidades. O tema substantivo Nulidades cobre o conjunto, sem reduzir tudo à divisão absoluta/relativa.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5510",
+        "5511"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0047",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5164",
+      "confianca_modelo": 0.94,
+      "justificativa": "O caso exige tipificar danos a patrimônio particular e público e distinguir a iniciativa da ação penal. Dano é central; classificação da ação é adicional efetivamente exigido.",
+      "extras_ids": [
+        "5468"
+      ],
+      "temas_concorrentes_ids": [
+        "5157"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0048",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5193",
+      "confianca_modelo": 0.97,
+      "justificativa": "Enunciado e alternativas cobram indulto e comutação, requisitos e efeitos. O tema Anistia, Graça e Indulto é o enquadramento específico disponível.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0049",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5152",
+      "confianca_modelo": 0.98,
+      "justificativa": "Todas as opções discutem induzimento, instigação ou auxílio ao suicídio no caso narrado. A relação afetiva e a ausência de lesão não alteram o instituto central.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0050",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5557",
+      "confianca_modelo": 0.96,
+      "justificativa": "O núcleo explícito são requisitos da delação/colaboração premiada. A Lei de Drogas fornece o contexto normativo; a pergunta não é sobre tipificação de tráfico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4708"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0051",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5182",
+      "confianca_modelo": 0.98,
+      "justificativa": "Todas as alternativas perguntam pela aplicação espacial da lei brasileira a fatos no exterior. Racismo e investigação são contexto; extraterritorialidade é o núcleo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0052",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "6734",
+      "confianca_modelo": 0.8,
+      "justificativa": "O objeto é remição na execução da pena, incluindo trabalho, estudo e falta grave. LEP em Processo Penal é hipótese, mas 4703 também nomeia a lei e não delimita escopo distinto; fundamentar a preferência.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4703",
+        "5201"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0053",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5541",
+      "confianca_modelo": 0.98,
+      "justificativa": "O item delimita homologação e descumprimento da transação penal. As outras matérias aparecem apenas na introdução; o instituto efetivamente afirmado é específico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0054",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5174",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado exige classificar delitos como de mera atividade, lesão, plurissubjetivos e pluriofensivos. Os tipos exemplificam categorias, sem constituir temas centrais separados.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

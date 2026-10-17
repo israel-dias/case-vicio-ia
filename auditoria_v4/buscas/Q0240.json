@@ -1,0 +1,111 @@
+{
+  "id": "Q0240",
+  "consulta_executada": "\"Pedro, que estava indiciado por crime de roubo, teve sua prisão decretada pelo juiz da comarca de Miracema-RJ em 08\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Pedro,que estava indiciado por crime de roubo,teve sua prisã...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/b0a24b60-f5",
+      "ref_consulta": "turn276search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Pedro, que estava indiciado por crime de roubo, teve sua prisão decretada pelo juiz...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/236738-questao",
+      "ref_consulta": "turn276search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Gabarito - C",
+      "url": "https://www.mprj.mp.br/documents/20184/93975/PV%20PROMOTOR%20-%20C%20WEB.pdf",
+      "ref_consulta": "turn276search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO",
+      "url": "https://www.mprj.mp.br/documents/20184/93975/PV%20PROMOTOR%20-%20B%20WEB.pdf",
+      "ref_consulta": "turn276search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Inquérito Policial - Noções Gerais para Concurso - Página 13 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/inquerito-policial-nocoes-gerais/questoes?has_professor_commentaries=true&page=13",
+      "ref_consulta": "turn276search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Inquérito Policial para Concurso - Página 54 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/inquerito-policial/questoes?page=54",
+      "ref_consulta": "turn276search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Inquérito Policial para Concurso - Página 46 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/inquerito-policial/questoes?has_professor_commentaries=true&page=46",
+      "ref_consulta": "turn276search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de FUJB com Gabarito - Comentado",
+      "url": "https://gabarite.com.br/questoes-de-concursos/banca/fujb",
+      "ref_consulta": "turn276search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Da Ação Penal com Gabarito - Comentado",
+      "url": "https://gabarite.com.br/questoes-de-concursos/assunto/da-acao-penal",
+      "ref_consulta": "turn276search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Inquérito Policial em Direito Processual Penal | Qconcursos.com - Página 45",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&page=45&per_page=5&subject_ids%5B%5D=149",
+      "ref_consulta": "turn276search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Classe Inicial da Carreira do Ministério Público",
+      "url": "https://www.estudegratis.com.br/images/provas/24175-fujb-2012-mpe-rj-promotor-de-justica-prova.pdf",
+      "ref_consulta": "turn276search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 427 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?job_ids%5B%5D=176&modality_ids%5B%5D=1&page=427",
+      "ref_consulta": "turn276search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões da Prova FUJB - 2012 - MPE-RJ - Promotor de Justiça | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?exam_ids%5B%5D=30076&page=4&per_page=5",
+      "ref_consulta": "turn276search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Direito Processual Penal para FUJB | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&examining_board_ids%5B%5D=307&has_professor_commentaries=true&last_professor_comment_at=2016-05-30",
+      "ref_consulta": "turn276search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 28 - MPE-RJ - Promotor de Justiça - FUJB (2012) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/mpe-rj-promotor-de-justica-2012-fujb/28",
+      "ref_consulta": "turn276search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Gabarito - D",
+      "url": "https://www.mprj.mp.br/documents/20184/93975/PV%20PROMOTOR%20-%20D%20WEB.pdf",
+      "ref_consulta": "turn276search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Gabarito - A",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/30076/fujb-2012-mpe-rj-promotor-de-justica-prova.pdf",
+      "ref_consulta": "turn276search16",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

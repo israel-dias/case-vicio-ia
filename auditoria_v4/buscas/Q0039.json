@@ -1,0 +1,87 @@
+{
+  "id": "Q0039",
+  "consulta_executada": "\"Suponha que todos os revendedores de gás liquefeito de petróleo (GLP) ajustem artificialmente preço final de venda do produto em\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Suponha que todos os revendedores de gás liquefeito de petró...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/1648dc2a-b5",
+      "ref_consulta": "turn82search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra o Consumidor, a Ordem Econômica e Tributária – Lei nº 8.078 de 1990 e Lei nº 8.137 de 1990 para Concurso - Página 22 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-o-consumidor-a-ordem-economica-e-tributaria-lei-n-8-078-de-1990-e-lei-n-8-137-de-1990/questoes?has_professor_commentaries=true&page=22",
+      "ref_consulta": "turn82search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões • Prova 2009 • FUNIVERSA • PC-DF • Delegado de Polícia Civil | olhonavaga",
+      "url": "https://olhonavaga.com.br/questoes?pr=45560&tc=1",
+      "ref_consulta": "turn82search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra o Consumidor, a Ordem Econômica e Tributária – Lei nº 8.078 de 1990 e Lei nº 8.137 de 1990 para Concurso - Página 25 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-o-consumidor-a-ordem-economica-e-tributaria-lei-n-8-078-de-1990-e-lei-n-8-137-de-1990/questoes?page=25",
+      "ref_consulta": "turn82search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 2 - PC-DF - Delegado de Polícia - FUNIVERSA (2009) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/pc-df-delegado-de-policia-2009-funiversa/2",
+      "ref_consulta": "turn82search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões da Prova FUNIVERSA - 2009 - PC-DF - Delegado de Polícia - Objetiva | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?exam_ids%5B%5D=1980&page=4&per_page=5",
+      "ref_consulta": "turn82search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Legislação Penal Especial para Concurso - Página 273 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/legislacao-penal-especial/questoes?page=273",
+      "ref_consulta": "turn82search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para Delegado de Polícia nível Superior | Qconcursos.com - Página 339",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?job_ids%5B%5D=169&page=339&scholarity_ids%5B%5D=3",
+      "ref_consulta": "turn82search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "A_PCDF",
+      "url": "https://www.estudegratis.com.br/images/provas/12798-funiversa-2009-pc-df-delegado-de-policia-objetiva-prova.pdf",
+      "ref_consulta": "turn82search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova do PC-DF - Delegado de Polícia - FUNIVERSA (2009) - Questões Comentadas | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/busca/prova/pc-df-delegado-de-policia-2009-funiversa",
+      "ref_consulta": "turn82search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: Questões de Direito Penal Economico - Questões Resolvidas com Gabarito em PDF",
+      "url": "https://www.passeidireto.com/arquivo/76631152/questoes-de-direito-penal-economico",
+      "ref_consulta": "turn82search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: direito penal - Material Claro e Objetivo em PDF para Estudo Rápido",
+      "url": "https://www.passeidireto.com/arquivo/6681841/direito-penal",
+      "ref_consulta": "turn82search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Perguntas Frequentes — Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",
+      "url": "https://www.gov.br/anp/pt-br/acesso-a-informacao/perguntas-frequentes",
+      "ref_consulta": "turn82search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,87 @@
+{
+  "id": "Q0128",
+  "consulta_executada": "\"A ação de prevenção penal é aquela ajuizada com a finalidade de se aplicar medida de segurança a acusado que,\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "A ação de prevenção penal é aquela ajuizada com a finalidade...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/23cafb12-a9",
+      "ref_consulta": "turn155search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "A ação de prevenção penal é aquela ajuizada com a finalidade de se apl...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/63804-questao",
+      "ref_consulta": "turn155search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Ação penal secundária, popular, adesiva e ação de prevenção penal para Concurso | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/acao-penal-secundaria-popular-adesiva-e-acao-de-prevencao-penal/questoes?has_professor_commentaries=true",
+      "ref_consulta": "turn155search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 96 - MPE-SC - Promotor de Justiça - MPE-SC (2019) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/ministerio-publico-de-santa-catarina-promotor-de-justica-matutina-mpe-sc-2019/96",
+      "ref_consulta": "turn155search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 183 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&job_ids%5B%5D=176&page=183",
+      "ref_consulta": "turn155search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Processual Penal | Qconcursos.com - Página 302",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&page=302&per_page=5",
+      "ref_consulta": "turn155search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Ação penal secundária, popular, adesiva e ação de prevenção penal para Concurso | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/acao-penal-secundaria-popular-adesiva-e-acao-de-prevencao-penal/questoes",
+      "ref_consulta": "turn155search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA",
+      "url": "https://www.mpsc.mp.br/documents/d/guest/pdf-prova-preambular-objetiva-matutino?download=true",
+      "ref_consulta": "turn155search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Ação Penal em Direito Processual Penal | Qconcursos.com - Página 27",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?page=27&subject_ids%5B%5D=150",
+      "ref_consulta": "turn155search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para Promotor de Justiça | Qconcursos.com - Página 264",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&job_ids%5B%5D=176&page=264",
+      "ref_consulta": "turn155search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Ação Penal em Direito Processual Penal para Promotor de Justiça | Qconcursos.com - Página 4",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&job_ids%5B%5D=176&page=4&subject_ids%5B%5D=150",
+      "ref_consulta": "turn155search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Acao Penal | PDF",
+      "url": "https://id.scribd.com/document/774529741/Acao-Penal",
+      "ref_consulta": "turn155search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "2 Processo - Ação Penal | PDF | Casamento | Ação judicial",
+      "url": "https://pt.scribd.com/document/1068751301/2-Processo-Acao-Penal",
+      "ref_consulta": "turn155search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

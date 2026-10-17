@@ -1,0 +1,99 @@
+{
+  "id": "Q0056",
+  "consulta_executada": "\"o sistema de cúmulo jurídico, somando-se as penas aplicadas a cada um dos crimes.\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Você Acertou 3 de 10 Questões: Lista de Exercícios | PDF | Punições | Crimes",
+      "url": "https://pt.scribd.com/document/1062014702/T03",
+      "ref_consulta": "turn84search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 30 - DPE-AC - Defensor Público - CESPE/CEBRASPE (2017) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/dpe-ac-defensor-publico-2017-cespe/30",
+      "ref_consulta": "turn84search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Concurso de crimes para Concurso - Página 9 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/concurso-de-crimes/questoes?page=9",
+      "ref_consulta": "turn84search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "No caso de pluralidade delitiva, deve-se adotar, na deter... - Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-406223/928217",
+      "ref_consulta": "turn84search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "No caso de pluralidade delitiva, deve-se adotar, na determin...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/61848-questao",
+      "ref_consulta": "turn84search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crime continuado para Concurso - Página 3 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crime-continuado/questoes?page=3",
+      "ref_consulta": "turn84search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "||338_DPEAC_001_01N786864||",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/55979/cespe-2017-dpe-ac-defensor-publico-prova.pdf",
+      "ref_consulta": "turn84search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Sistemas de aplicação da pena em concurso de crimes",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-sistemas-de-aplicacao-da-pena-em-concurso-de-crimes-418719",
+      "ref_consulta": "turn84search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: 01 - DESAFIO 500 QUESTÕES (GABARITO) (1) - Questões Resolvidas com Gabarito em PDF",
+      "url": "https://www.passeidireto.com/arquivo/96202666/01-desafio-500-questoes-gabarito-1",
+      "ref_consulta": "turn84search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova Objetiva DPE/AC 2017 | PDF | Sentença (jurídico) | Crimes",
+      "url": "https://pt.scribd.com/document/534249523/cespe-2017-dpe-ac-defensor-publico-prova",
+      "ref_consulta": "turn84search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "GRAN CURSOS ONLINE",
+      "url": "https://concursos.grancursosonline.com.br/hubfs/QUEST%C3%95ES%20CESPE%20-%20REVISADO.pdf",
+      "ref_consulta": "turn84search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "CFO / PMMG",
+      "url": "https://prolabore.com.br/upload/download/simuladocfogabarito.pdf",
+      "ref_consulta": "turn84search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "618 Questões CEBRASPE (CESPE UnB) de Direito Penal para concursos 2026 | Direito Penal para concursos 2026",
+      "url": "https://www.spsconcursos.com/questoes-direito-penal-cebraspe-cespe-unb/QW11B4?pagina=49",
+      "ref_consulta": "turn84search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crime continuado para Concurso - Página 2 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crime-continuado/questoes?has_professor_commentaries=true&page=2",
+      "ref_consulta": "turn84search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "1. CEBRASPE - 2018 - DPE/PE - DEFENSOR PÚBLICO",
+      "url": "https://aulas.verbojuridico3.com/gratis/DireitoPenal_DP_Cebraspe.pdf",
+      "ref_consulta": "turn84search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

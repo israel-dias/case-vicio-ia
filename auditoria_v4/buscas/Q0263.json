@@ -1,0 +1,75 @@
+{
+  "id": "Q0263",
+  "consulta_executada": "\"O juiz dar-se-á por suspeito e, se não o fizer, poderá ser recusado por qualquer das partes: I. Se ele\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Microsoft Word - gabarito- SIMULADO TJ-SP - JULHO",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/113942/vunesp-2024-tj-sp-escrevente-tecnico-judiciario-1-simulado-gabarito.pdf",
+      "ref_consulta": "turn296search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "STJ - Decisões Monocráticas",
+      "url": "https://scon.stj.jus.br/SCON/pesquisar.jsp?O=JT&b=DTXT&i=1&livre=%28HC+e+835719%29.nome.",
+      "ref_consulta": "turn296search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Art. 254 CPP — Art (2026) | Vade Mecum Inteligente",
+      "url": "https://vademecum.juriscorrespondente.com.br/codigo-processo-penal/art-254",
+      "ref_consulta": "turn296search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 52 - MPE-TO - Promotor de Justiça - CESPE/CEBRASPE (2022) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/ministerio-publico-do-estado-de-tocantins-mpe-to-promotor-de-justica-substituto-cespe-cebraspe-2022/52",
+      "ref_consulta": "turn296search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão O juiz dar-se-á por suspeito e, se não o fizer, poderá ser recusado por qualquer das partes:I. Se ele próprio...",
+      "url": "https://cj.estrategia.com/public/questoes/juiz-dar-a-por12425aaea43/",
+      "ref_consulta": "turn296search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 113 - MPE-SC - Promotor de Justiça - CESPE/CEBRASPE (2023) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/mpe-sc-promotor-de-justica-substituto-fase-matutina-cespe-cebraspe-2023/113",
+      "ref_consulta": "turn296search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 65 do XXXIV Exame de Ordem (OAB 2022): Suspeição do membro do Ministério Público | LegJur",
+      "url": "https://www.legjur.com/exame-de-ordem/questao/34-65",
+      "ref_consulta": "turn296search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "SUPERIOR TRIBUNAL DE JUSTIÇA",
+      "url": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?dt_publicacao=22%2F10%2F2014&num_registro=201303373271",
+      "ref_consulta": "turn296search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Superior Tribunal de Justiça STJ - RECURSO ESPECIAL: REsp XXXXX PR XXXX/XXXXX-9 | Jurisprudência",
+      "url": "https://www.jusbrasil.com.br/jurisprudencia/stj/897580797",
+      "ref_consulta": "turn296search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "UNIVERSIDADE​ ​FEDERAL​ ​DO​ ​ESTADO​ ​DO​ ​RIO​ ​DE​ ​JANEIRO​ ​-​ ​UNIRIO",
+      "url": "https://www.unirio.br/cla/unirio/ccjp/arquivos/tcc/2017-2-tcc-renatta-capote-almeida-araujo",
+      "ref_consulta": "turn296search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Tribunal de Justiça de São Paulo TJ-SP - Exceção de Suspeição: EXSUSP XXXXX-73.2022.8.26.0000 SP XXXXX-73.2022.8.26.0000 | Jurisprudência",
+      "url": "https://www.jusbrasil.com.br/jurisprudencia/tj-sp/1709691005/inteiro-teor-1709691068",
+      "ref_consulta": "turn296search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "Q0041",
+    "enunciado": "Sobre as medidas de segurança é correto afirmar:",
+    "comando": "",
+    "alternativas": {
+      "A": "A lógica manicomial se funda na segregação hospitalar da pessoa com transtorno mental que tenha praticado um injusto\npenal para sua neutralização e tentativa declarada de cura.",
+      "B": "O Código Penal adota o sistema do duplo binário, sem a possibilidade de aplicação simultânea de pena e medida de segurança, que só se aplicam sucessivamente.",
+      "C": "Pelo regime adotado no Código Penal, a medida de segurança pode ser aplicada ao imputável, desde que presente a periculosidade.",
+      "D": "É inaplicável o Estatuto da Pessoa com Deficiência (Lei n° 13.146/2015) aos inimputáveis por doença mental, pois seria\numa aplicação indevida do positivismo criminológico considerá-los pessoas com deficiência.",
+      "E": "Segundo a Lei n° 10.216/2001, a desinternação é sempre condicional, podendo ser restabelecida se dentro de um ano o\nagente praticar fato indicativo de persistência de sua periculosidade."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Espécies de Medida de Segurança",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0042",
+    "enunciado": "Sobre o elemento subjetivo da conduta, dolo direto é aquele em que:",
+    "comando": "",
+    "alternativas": {
+      "A": "o agente prevê o resultado como possível o provável e\nassume o risco de produzi-lo, agindo com indiferença\nem relação às consequências de sua conduta.",
+      "B": "o agente tem a intenção de realizar a conduta e alcançar\no resultado almejado, visualizando a produção do\nevento como um objetivo.",
+      "C": "o agente, em virtude de sua falta de cuidado e sem prever\no resultado que seria previsível, age, provocando, desta\nforma, um evento indesejado.",
+      "D": "o agente, mesmo prevendo o resultado como possível ou\nprovável, age acreditando que esse evento ocorrerá, ainda\nque sua conduta seja idônea para produzi-lo."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Tipo Penal Doloso, Tipicidade",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0043",
+    "enunciado": "Sobre a fixação da pena, tem-se o seguinte:",
+    "comando": "Complete o estudo sobre a fixação da pena.",
+    "alternativas": {
+      "A": "a existência de circunstância atenuante pode conduzir à redução da pena abaixo do mínimo legal.",
+      "B": "pelo critério trifásico, adotado pelo Código Penal, o juiz, na segunda fase, deverá apreciar as causas de aumento e de diminuição da parte geral e especial.",
+      "C": "o estabelecimento do valor de dias-multa independe da condição econômica do condenado.",
+      "D": "em caso de reincidência, fixada a pena em patamar inferior a 4 (quatro) anos, o condenado poderá iniciar o cumprimento da pena em regime semiaberto, desde que as circunstâncias judiciais o recomendem."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0044",
+    "enunciado": "Paulo e Jean foram denunciados pela prática do crime de furto de joias, praticado contra Maria, tia sexagenária de Paulo. A subtração foi facilitada pelo fato de Paulo residir com a vítima. Quando da citação, Paulo não foi encontrado no novo endereço que havia fornecido na fase do inquérito, tendo sido o mandado entregue a outro morador, que se comprometeu a entregá-lo ao destinatário. Jean, que retornou para a França, seu país de origem, havia fornecido seu endereço completo ao delegado. A partir dessa situação hipotética, julgue o item a seguir. Se Jean, após a citação pessoal válida, não comparecer em juízo para defender-se no curso da ação penal, o juiz deverá decretar a sua revelia e nomear-lhe um defensor dativo, dando continuidade ao processo, mas não poderá considerar a existência de confissão ficta.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Das Provas, Das Citações e Intimações, Confissão no Processo Penal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0045",
+    "enunciado": "No crime de excesso de exação, o crime é qualificado se",
+    "comando": "",
+    "alternativas": {
+      "A": "praticado por funcionário público.",
+      "B": "cometido por meio vexatório ou gravoso, que a lei\nnão autoriza.",
+      "C": "resulta dano para a Administração Pública ou para o\nadministrado.",
+      "D": "o funcionário pratica ato de ofício, com infração de\ndever funcional, cedendo a pedido ou influência de\noutrem.",
+      "E": "o funcionário desvia, em proveito próprio ou de\noutrem, o que recebeu indevidamente para recolher\naos cofres públicos."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Concussão e Excesso de Exação , Crimes contra a administração pública",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0046",
+    "enunciado": "Acerca das nulidades processuais e dos vícios procedimentais, assinale a alternativa correta.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "As nulidades processuais penais sofrem influência da\ninstrumentalidade do processo, não se declarando\nqualquer tipo de nulidade se não verificado o prejuízo.",
+      "B": "Segundo a jurisprudência do Superior Tribunal de\nJustiça, a inversão da ordem das perguntas (art. 212,\nCPP) não gera nulidade, não implicando afronta ao\nprincípio do contraditório.",
+      "C": "As nulidades são divididas conforme a gravidade dos\nvícios, em relativas e absolutas, sendo a nulidade de ordem\nabsoluta reconhecida ainda que não haja prejuízo.",
+      "D": "A inépcia da acusação só pode ser apreciada na fase do\nartigo 396, do Código de Processo Penal, não podendo\ntal análise ser refeita na fase do artigo 397, do Código\nde Processo Penal, após a resposta à acusação.",
+      "E": "A coisa julgada sana todas as hipóteses de nulidades\nprocessuais penais."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Sistemas e Princípios Processuais Penais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0047",
+    "enunciado": "Durante um pacífico protesto realizado no interior do Município Alfa, Caio, destoando do público presente e agindo com dolo, lançou uma pedra em direção ao pequeno estabelecimento comercial de João, gerando, em razão dos bens móveis destruídos, prejuízo considerável para a vítima.\nNa sequência, Caio jogou diversos paralelepípedos contra a sede da municipalidade, deteriorando o bem público.\nNesse cenário, considerando as disposições do Código Penal, é correto afirmar que Caio responderá, em concurso, pelos crimes de",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "dano qualificado em detrimento de João e dano qualificado\npor ter deteriorado bem público, hipóteses em que se procede\nmediante ação penal pública incondicionada.",
+      "B": "dano qualificado em detrimento de João, hipótese em que\nsomente se procede mediante representação do ofendido, e\ndano qualificado por ter deteriorado bem público.",
+      "C": "dano simples em detrimento de João e dano simples por ter\ndeteriorado bem público, hipóteses em que se procede\nmediante ação penal pública incondicionada.",
+      "D": "dano qualificado em detrimento de João, hipótese em que\nsomente se procede mediante queixa, e dano qualificado por\nter deteriorado bem público.",
+      "E": "dano simples em detrimento de João, hipótese em que\nsomente se procede mediante queixa, e dano qualificado por\nter deteriorado bem público."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Lesão Corporal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0048",
+    "enunciado": "“Predomina, segundo se conclui pelo conteúdo dos decretos presidenciais, a preocupação em se reduzir os prazos de encarceramento e o contingente carcerário e, além disso, proporcionar condições de reinserção social do condenado, evitando lesão aos direitos fundamentais pela deterioração das condições de encarceramento decorrente de superpopulação.” (Ferreira, Ana Lúcia Tavares. Indulto e sistema penal: limites, finalidades e propostas. São Paulo. LiberArs, 2017)\nSobre indulto e comutação de pena, é correto afirmar que:",
+    "comando": "Sobre indulto e comutação de pena, é correto afirmar que:",
+    "alternativas": {
+      "A": "cumpridos todos os requisitos do decreto presidencial, não\nhá possibilidade de ser indeferida a concessão do indulto ou\nda comutação de pena ao apenado, considerando a natureza\ndeclaratória da sentença que concede esses benefícios;",
+      "B": "nos decretos mais recentes, verificou-se a vedação à\nconcessão da comutação de pena aos condenados por crime\ncomum praticado em concurso com crime de natureza\nhedionda;",
+      "C": "a concessão do indulto extingue os efeitos primários e\nsecundários da condenação, não subsistindo a condenação\nextinta para efeitos de reconhecimento de reincidência\nfutura;",
+      "D": "o cometimento de falta disciplinar de natureza grave fora do\nperíodo previsto no decreto presidencial justifica o\nindeferimento do indulto e da comutação de pena, por\nausência de requisito subjetivo;",
+      "E": "a prática de falta disciplinar de natureza grave interrompe a\ncontagem do prazo para fins de indulto e da comutação de\npena."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0049",
+    "enunciado": "Mévia e Tício foram namorados, por 5 anos. Mévia terminou a relação, por ter conhecido e se apaixonado por outra pessoa. Tício não se conformava com o término e, diagnosticado com depressão, todos os dias, durante meses, mandava mensagem para Mévia, dizendo que a vida sem ela perdera a graça. Mévia, sabendo da condição de saúde mental de Tício, manteve-se silente durante todo o tempo. Mas, um dia, irritada com as mensagens, que estavam causando instabilidade em seu atual relacionamento, Mévia envia a Tício a seguinte resposta: “se a vida perdeu a graça, de que vale viver? Seja homem ao menos uma vez! Coloque fim em seu sofrimento e pare de me infernizar! Eu até vou a seu enterro e faço uma homenagem póstuma!” Tício visualizou a mensagem, respondendo com “Ok”. Passados dois dias, Tício se joga da janela do prédio de sua casa. Por sorte, Tício cai em cima da carroceria de um caminhão, lotado de colchão, que passava na rua no exato momento da queda. Tício não sofreu qualquer lesão. Diante da situação hipotética, assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza grave.",
+      "B": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, que\nse configura com a conduta de induzir, instigar ou\nauxiliar, independentemente do resultado.",
+      "C": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nmodalidade tentada, vez que a morte não se concretizou, por circunstância alheia a sua vontade.",
+      "D": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza leve.",
+      "E": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nfigura qualificada, dada a relação afetiva, entre a vítima e o autor."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Tipicidade, Crimes contra a vida",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0050",
+    "enunciado": "Sobre o instituto da delação premiada, previsto na Lei de Drogas (Lei no 11.343/2006), para os autores dos crimes nela descritos é correto afirmar que",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "pressupõe a colaboração do autor da delação na\nidentificação de seus comparsas.",
+      "B": "os requisitos legais para obtenção do benefício decorrente da delação premiada são alternativos.",
+      "C": "exige voluntariedade e espontaneidade do autor da\ndelação.",
+      "D": "exige a recuperação total ou parcial do proveito do\ncrime."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Legislação Penal Especial",
+    "alertas_preparacao": []
+  }
+]

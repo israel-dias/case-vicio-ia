@@ -1,0 +1,147 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0099",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5100",
+      "confianca_modelo": 0.93,
+      "justificativa": "A pergunta compara resistência à execução de ato legal e a atuação justificável dos fiscais. Resistência é central; Estrito Cumprimento do Dever Legal é conteúdo adicional efetivamente cobrado sobre os agentes.",
+      "extras_ids": [
+        "5232"
+      ],
+      "temas_concorrentes_ids": [
+        "5077"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0100",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5103",
+      "confianca_modelo": 0.93,
+      "justificativa": "O núcleo é o enquadramento sexual envolvendo menor de quatorze anos e eventual erro sobre idade. Estupro e Estupro de Vulnerável é específico; Erro de Tipo constitui questão adicional sustentada na narrativa e opções.",
+      "extras_ids": [
+        "5224"
+      ],
+      "temas_concorrentes_ids": [
+        "5108"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0101",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4704",
+      "confianca_modelo": 0.76,
+      "justificativa": "O objeto é competência civil para divórcio na Lei Maria da Penha, não tipificação penal. A lei tem temas ativos, mas seus ramos penais não delimitam o alcance civil e são homônimos; revisar o enquadramento antes de excluir ou publicar.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6724",
+        "5480"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0102",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5572",
+      "confianca_modelo": 0.95,
+      "justificativa": "O enunciado delimita sentença e efeitos; as opções combinam espécies absolutórias e efeitos da condenação. O pai substantivo Sentença Penal representa os filhos sem escolher apenas o efeito patrimonial.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5574",
+        "5577"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0103",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5478",
+      "confianca_modelo": 0.98,
+      "justificativa": "O item nomeia revisão criminal e examina sua finalidade após coisa julgada. O tema específico corresponde diretamente ao instituto de impugnação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0104",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5500",
+      "confianca_modelo": 0.77,
+      "justificativa": "A assertiva combina instauração/prosseguimento do inquérito e identificação de autoridade coatora em habeas corpus. Procedimento do Inquérito é hipótese central; o papel do remédio constitucional exige conferir a predominância.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5477",
+        "5499"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0105",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4388",
+      "confianca_modelo": 0.95,
+      "justificativa": "O item explicitamente pergunta por criminologia cultural e atualização do etiquetamento. Teorias Criminológicas em Espécie representa o modelo; o tratamento policial desigual é contexto explicativo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0107",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5119",
+      "confianca_modelo": 0.97,
+      "justificativa": "A assertiva delimita falsa identidade perante autoridade e sua tipicidade. De outras falsidades é o subtema correspondente, distinguindo identidade declarada de falsificação documental.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0108",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5561",
+      "confianca_modelo": 0.96,
+      "justificativa": "O comando pede o recurso contra decisão que nega reconhecimento de prescrição. RESE é hipótese específica e o efeito recursal é segundo eixo efetivamente perguntado; prescrição contextualiza a decisão impugnada.",
+      "extras_ids": [
+        "5515"
+      ],
+      "temas_concorrentes_ids": [
+        "5188"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0109",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4708",
+      "confianca_modelo": 0.79,
+      "justificativa": "O item descreve oferta eventual de droga para consumo conjunto e pede a sanção. O tema Tráfico de Drogas é hipótese do art. 33, mas há concorrente 6728 e título de escopo não explicitado para uso compartilhado.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6728"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    }
+  ]
+}

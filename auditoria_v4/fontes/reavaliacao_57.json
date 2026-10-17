@@ -1,0 +1,185 @@
+{
+  "data_consulta": "2026-10-16",
+  "alcance": "Artigos selecionados e teses dirigidas, sem gabarito temático independente. Leitura de norma, trecho indexado e gabarito de prova são estados distintos. Não afirma validação integral de todos os fundamentos das 57 questões.",
+  "fontes": [
+    {
+      "fonte": "Lei9.605/1998",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "estado": "artigos_selecionados_lidos",
+      "artigos": [
+        "10",
+        "25,§5º",
+        "48 (núcleo ambiental)",
+        "53",
+        "61"
+      ],
+      "ids": [
+        "Q0010",
+        "Q0071",
+        "Q0156",
+        "Q0309",
+        "Q0344"
+      ]
+    },
+    {
+      "fonte": "Lei11.340/2006",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
+      "estado": "artigos_selecionados_lidos_no_site_e_copia_oficial_preservada",
+      "artigos": [
+        "5",
+        "7",
+        "9",
+        "14-A",
+        "19",
+        "22,IV"
+      ],
+      "ids": [
+        "Q0026",
+        "Q0063",
+        "Q0084",
+        "Q0101",
+        "Q0136",
+        "Q0254",
+        "Q0282",
+        "Q0289"
+      ]
+    },
+    {
+      "fonte": "Lei13.869/2019",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "estado": "artigos_selecionados_lidos",
+      "artigos": [
+        "1",
+        "3",
+        "15,parágrafo único,II"
+      ],
+      "ids": [
+        "Q0029",
+        "Q0337"
+      ]
+    },
+    {
+      "fonte": "Lei11.343/2006",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "estado": "artigos_selecionados_lidos",
+      "artigos": [
+        "33,§3º",
+        "50,§§1ºa5º",
+        "55"
+      ],
+      "ids": [
+        "Q0109",
+        "Q0213",
+        "Q0267"
+      ],
+      "limite": "Súmulas indicadas na Q0150 não receberam nova confirmação integral nesta rodada."
+    },
+    {
+      "fonte": "Lei12.850/2013",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "estado": "artigos_selecionados_lidos",
+      "artigos": [
+        "1",
+        "2"
+      ],
+      "ids": [
+        "Q0112",
+        "Q0200",
+        "Q0165"
+      ],
+      "limite": "Q0165 permanece em revisão pela alteração temporal do art.2º,§1º pela Lei15.245/2025."
+    },
+    {
+      "fonte": "Lei7.210/1984",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm",
+      "estado": "artigo_selecionado_lido",
+      "artigos": [
+        "25"
+      ],
+      "ids": [
+        "Q0164"
+      ]
+    },
+    {
+      "fonte": "Lei9.613/1998",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9613.htm",
+      "estado": "artigo_selecionado_lido_em_copia_oficial_preservada",
+      "artigos": [
+        "2,III"
+      ],
+      "ids": [
+        "Q0011"
+      ],
+      "limite": "Sequência V/F da Q0145 não confirmada; classificação por núcleo inequívoco, com essa limitação registrada."
+    },
+    {
+      "fonte": "CódigoPenal",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+      "estado": "artigos_selecionados_lidos",
+      "artigos": [
+        "13",
+        "20",
+        "21"
+      ],
+      "ids": [
+        "Q0083",
+        "Q0159",
+        "Q0256"
+      ],
+      "limite": "Aplicação às questões é resolução assistida, não confirmação do gabarito da prova."
+    },
+    {
+      "fonte": "CPP",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm",
+      "estado": "artigos_selecionados_lidos_em_copia_oficial_preservada",
+      "artigos": [
+        "282",
+        "400"
+      ],
+      "ids": [
+        "Q0063",
+        "Q0353"
+      ]
+    },
+    {
+      "fonte": "ConstituiçãoFederal",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "estado": "artigo_selecionado_lido",
+      "artigos": [
+        "144,§1º"
+      ],
+      "ids": [
+        "Q0197"
+      ]
+    },
+    {
+      "fonte": "EstatutoPessoaIdosa",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "estado": "artigo_selecionado_lido_em_copia_oficial_preservada",
+      "artigos": [
+        "106"
+      ],
+      "ids": [
+        "Q0277"
+      ]
+    },
+    {
+      "fonte": "STJ:Tema1249",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&aplicacao=informativo&livre=%40CNOT%3D%27021177%27",
+      "estado": "informativo_oficial_836_teses_I_a_IV_lidas",
+      "ids": [
+        "Q0289"
+      ],
+      "limite": "Nesta rodada foi possível ler o informativo; a falha anterior permanece registrada no histórico."
+    },
+    {
+      "fonte": "STJ:AgRgnoAREsp1619918",
+      "url": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&fr=veja&i=1&livre=%28%27AGARESP%27+INPATH%28CLAS%29+AND+%271619918%27+INPATH%28NUM%29%29+OR+%28%28%27AgRg+no+AREsp+1619918%27%29+INPATH%28SUCE%29%29&thesaurus=JURIDICO",
+      "estado": "trecho_indexado_oficial_lido_abertura_redirecionou_para_busca",
+      "ids": [
+        "Q0200"
+      ],
+      "limite": "Não afirmar leitura integral do acórdão ou confirmação do gabarito da prova."
+    }
+  ]
+}

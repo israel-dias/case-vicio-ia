@@ -1,0 +1,69 @@
+{
+  "id": "Q0201",
+  "consulta_executada": "\"José, com trinta anos de idade, manteve, entre 2013 e 2015, relacionamento amoroso com uma menor que atualmente tem treze\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "José, com trinta anos de idade, manteve, entre 2013 e 2015, relacionamento a...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/33745-questao",
+      "ref_consulta": "turn244search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "José, com trinta anos de idade, manteve, entre 2013 e 2...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/b51ef60d-a5",
+      "ref_consulta": "turn244search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra a dignidade sexual para Concurso - Página 12 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-a-dignidade-sexual/questoes?has_professor_commentaries=true&page=12",
+      "ref_consulta": "turn244search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "X:\\1_TiposGerados\\ProvaGeradasWPD\\208DPERN_001_01.wpd",
+      "url": "https://www.estudegratis.com.br/images/provas/36466-cespe-2015-dpe-rn-defensor-publico-substituto-prova.pdf",
+      "ref_consulta": "turn244search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 81 - DPE-RN - Defensor Público - CESPE/CEBRASPE (2015) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/dpe-rn-defensor-publico-2015-cespe/81",
+      "ref_consulta": "turn244search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra a dignidade sexual para Concurso - Página 15 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-a-dignidade-sexual/questoes?page=15",
+      "ref_consulta": "turn244search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso de Direito Penal - Página 2 - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questoes-de-concurso/materia/direito-penal/assunto/crimes-contra-a-dignidade-sexual/banca/cespe?cursor=644537&cursor_ano=2016&pag=2",
+      "ref_consulta": "turn244search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "1. CEBRASPE - 2018 - DPE/PE - DEFENSOR PÚBLICO",
+      "url": "https://aulas.verbojuridico3.com/gratis/DireitoPenal_DP_Cebraspe.pdf",
+      "ref_consulta": "turn244search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de DPE RN com Gabarito - Comentado",
+      "url": "https://gabarite.com.br/questoes-de-concursos/orgao/dpe-rn",
+      "ref_consulta": "turn244search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra a dignidade sexual para Concurso - Página 15 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-a-dignidade-sexual/questoes?from_omniauth=true&page=15",
+      "ref_consulta": "turn244search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

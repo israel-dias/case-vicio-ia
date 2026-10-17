@@ -1,0 +1,136 @@
+[
+  {
+    "id": "Q0351",
+    "enunciado": "Falsificar cartão de crédito é",
+    "comando": "Complete a frase sobre a falsificação de cartão de crédito.",
+    "alternativas": {
+      "A": "conduta atípica.",
+      "B": "falsificação de documento público.",
+      "C": "falsidade ideológica.",
+      "D": "falsa identidade.",
+      "E": "falsificação de documento particular."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria do Crime (Ilicitude)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0352",
+    "enunciado": "De acordo com a legislação vigente acerca de recursos em geral no processo penal, assinale a opção correta.",
+    "comando": "Assinale a opção correta.",
+    "alternativas": {
+      "A": "Decisão proferida em sede de recurso interposto por um dos\nréus em concurso de agentes que reconheça a atipicidade do\nfato a eles atribuído aproveitará ao outro réu por força do\nefeito extensivo.",
+      "B": "É viável que, no curso da tramitação, o Ministério Público\ndesista de recurso que tenha interposto, desde que o assistente\nde acusação também desista do ato processual.",
+      "C": "É viável a interposição de recurso por um réu que pleiteie a\ncondenação de outro que tenha sido absolvido.",
+      "D": "O recurso deverá ser feito por meio de petição escrita caso o\nréu não saiba assinar o nome, não sendo viável que o recurso\nseja apresentado por termo nos autos.",
+      "E": "O princípio da fungibilidade deverá ser aplicado a todos os\nrecursos que forem apresentados de forma indevida."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0353",
+    "enunciado": "Se, no curso da ação penal, o magistrado notar que a prescrição está prestes a ocorrer, poderá:",
+    "comando": "Complete as possibilidades do magistrado ao notar que a prescrição está prestes a ocorrer no curso da ação penal.",
+    "alternativas": {
+      "A": "Sentenciar, independentemente da\napresentação dos memoriais defensivos;",
+      "B": "Concentrar a oitiva das testemunhas de\nacusação e defesa em um único ato;",
+      "C": "Determinar à defesa que apresente\ndeclarações escritas, no lugar de ouvir as\ntestemunhas arroladas;",
+      "D": "Declarar, desde logo, a extinção da\npunibilidade, pela prescrição em\nperspectiva."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0354",
+    "enunciado": "Assinale a alternativa INCORRETA.",
+    "comando": "",
+    "alternativas": {
+      "A": "Para a teoria da conditio sine qua non, se a vítima morre quando poderia ter sido salva, caso levada,\nlogo após o fato, a atendimento médico, responde o agente da ação com animus necandi por homicídio\nconsumado. Mas, se levada a socorro em hospital, morresse por efeito de substância tóxica ministrada\npor engano pela enfermeira, o agente responderia por tentativa de homicídio e não por homicídio\nconsumado.",
+      "B": "Para a teoria da imputação objetiva, o ato de imputar significa atribuir a alguém a realização de uma\nconduta criadora de um risco relevante e juridicamente proibido e a produção de um resultado jurídico.\nPressupõe um perigo criado pelo agente e não coberto por um risco permitido dentro do alcance do\ntipo. O risco permitido conduz à atipicidade, e o risco proibido, quando relevante, à tipicidade. A\nimputação objetiva constitui elemento normativo implícito do tipo penal.",
+      "C": "Os princípios da adequação social e da insignificância, sugeridos pela doutrina, servem de instrumentos\nde interpretação restritiva do tipo penal, que afetam a tipicidade formal do fato.",
+      "D": "Para a teoria do domínio do fato, autor é quem executa a ação típica, por conduta própria ou pela\nutilização de outro como instrumento de realização; também quem, mesmo não executando o fato\ntípico em sentido estrito, participa da resolução criminosa, realizando parte necessária da execução do\nplano global. A teoria, partindo do conceito restritivo de autor, segue um critério objetivo-subjetivo.",
+      "E": "Para a teoria finalista, ação é a conduta do homem, comissiva ou omissiva, dirigida a uma finalidade e\ndesenvolvida sob o domínio da vontade do agente, razão pela qual não reputa criminosa a ação\nocorrida em estado de inconsciência, como no caso de quem, durante o sono, sonhando estar em\nlegítima defesa, esbofeteia e causa lesão corporal na pessoa que dorme ao seu lado. Para esta mesma\nteoria, a culpabilidade não é psicológica, nem psicológico-normativa."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria do Crime (Fato Típico) Parte 02",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0355",
+    "enunciado": "À luz da recente decisão do Supremo Tribunal Federal com repercussão geral a respeito do Art. 28 da Lei nº 11.343/2006, é correto afirmar que:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "são atípicas as condutas de adquirir, guardar, ter em\ndepósito, transportar ou trazer consigo, para consumo\npessoal, 1g da substância entorpecente cocaína, distribuído\nem duas cápsulas plásticas;",
+      "B": "a transação penal firmada, em dezembro de 2023, pela\nprática do crime de trazer consigo maconha, para consumo\npessoal, configura obstáculo ao oferecimento de acordo de\nnão persecução penal, caso praticado o crime de furto\nsimples, em janeiro de 2025;",
+      "C": "pratica crime de abuso de autoridade o delegado de polícia\nque lavrar auto de prisão em flagrante contra o cidadão\nsurpreendido com um tablete de 10g de maconha\nacondicionados em um sacolé, uma balança de precisão e\num caderno com anotações relativas a datas, valores e\nnomes;",
+      "D": "as condutas de adquirir, guardar, ter em depósito,\ntransportar ou trazer consigo até 40g de maconha ou seis\nplantas fêmeas, para consumo próprio, são indiferentes para\no ordenamento jurídico;",
+      "E": "não se admite a imposição de prestação de serviços à\ncomunidade em virtude da prática das condutas de adquirir,\nguardar, ter em depósito, transportar ou trazer consigo até\n40g de maconha ou seis plantas fêmeas, para consumo\npróprio."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0356",
+    "enunciado": "O concurso de crimes é o instituto que se verifica quando o agente, mediante uma ou várias condutas, pratica duas ou mais infrações penais. Com base nesse assunto, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. ( ) O concurso material, também chamado de real, é aquele em que o agente, mediante uma única conduta, pratica dois ou mais crimes, idênticos ou não. ( ) No concurso material, há pluralidade de condutas e pluralidade de resultados. ( ) No que diz respeito ao concurso formal impróprio ou imperfeito, tal como no concurso material, serão somadas as penas de todos os crimes praticados pelo agente. ( ) De acordo com o Código Penal brasileiro, no concurso de crimes, as penas de multa são aplicadas distinta e integralmente para cada crime.",
+    "comando": "",
+    "alternativas": {
+      "A": "V – F – V – F.",
+      "B": "F – V – F – V.",
+      "C": "V – V – F – V.",
+      "D": "F – V – V – V",
+      "E": "F – F – V – F."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Concurso de crimes",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0357",
+    "enunciado": "Configura o crime de boicotagem violenta",
+    "comando": "Defina o que configura o crime de boicotagem violenta.",
+    "alternativas": {
+      "A": "constranger alguém, mediante violência ou grave ameaça, a não fornecer a outrem ou não adquirir de outrem matéria-prima ou produto industrial ou agrícola.",
+      "B": "participar de suspensão ou abandono coletivo de trabalho, praticando violência contra pessoa ou contra coisa.",
+      "C": "constranger alguém, mediante violência ou grave ameaça, a abrir ou fechar o seu estabelecimento, ou a participar de parede ou paralisação de atividade econômica.",
+      "D": "participar de suspensão ou abandono coletivo de trabalho, provocando a interrupção de obra pública ou serviço de interesse coletivo.",
+      "E": "danificar estabelecimento industrial, comercial ou agrícola com o intuito de impedir ou embaraçar o curso normal do trabalho."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Iter Criminis",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0358",
+    "enunciado": "Julgue o próximo item, considerando a Lei de Acesso à Informação, o Marco Civil da Internet e os demais instrumentos normativos que regulam a publicidade e a segurança de redes de comunicação no Brasil. É tipificada como crime, de acordo com a Lei de delitos informáticos, a invasão de dispositivo informático alheio mediante violação de mecanismo de segurança, previstos agravantes para casos de obtenção de dados sigilosos e divulgação ou comercialização desses dados.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Crimes contra a inviolabilidade de segredos",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0359",
+    "enunciado": "Aos crimes cometidos contra idosos, cuja pena máxima privativa de liberdade não ultrapasse quatro anos, aplica-se o procedimento previsto na Lei nº 9.099/1995, e, subsidiariamente, no que couber, as disposições do Código Penal e do Código de Processo Penal.\nO STF, contudo, vedou, nesses casos, a possibilidade de que fossem aplicadas quaisquer das medidas despenalizadoras previstas na Lei nº 9.099/1995.",
+    "comando": "Sobre o caso acima, assinale a afirmativa correta.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  }
+]

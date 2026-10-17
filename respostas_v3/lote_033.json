@@ -1,0 +1,152 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0341",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5157",
+      "confianca_modelo": 0.97,
+      "justificativa": "Enunciado e alternativas comparam crimes patrimoniais: dano, roubo, furto, duplicata e receptação. O pai substantivo representa o conjunto de tipos e regras de incidência.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0342",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5543",
+      "confianca_modelo": 0.94,
+      "justificativa": "O enunciado combina corpo de delito e perícias em geral, irmãos 5545/5546. O pai estruturado Provas em Espécies abrange ambos; a premissa evita escolher um dos irmãos como equivalente ao outro.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5545",
+        "5546",
+        "6735"
+      ],
+      "alertas": [
+        "pai_substantivo_para_dois_subtemas_efetivamente_cobrados",
+        "premissa_ramo_estruturado"
+      ]
+    },
+    {
+      "id": "Q0343",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5191",
+      "confianca_modelo": 0.77,
+      "justificativa": "O caso contrapõe perdão recusado e perempção como meios de encerrar ação privada. Punibilidade é hipótese que agrega as causas, mas a natureza processual da ação privada também é central e exige delimitação.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5195",
+        "5196",
+        "5472"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0344",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4688",
+      "confianca_modelo": 0.8,
+      "justificativa": "O enunciado delimita apreensão, destinação e ação penal na Lei Ambiental. O tema legal é hipótese, com concorrente 6717 sem critério de escopo suficiente para certificar o ID.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6717"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0345",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5103",
+      "confianca_modelo": 0.93,
+      "justificativa": "O caso exige enquadrar ato sexual com menor de quatorze anos e cumulação de agravante/majorante. Estupro de Vulnerável é central; segunda e terceira fases da dosimetria são adicionais explicitamente exigidas.",
+      "extras_ids": [
+        "5203",
+        "5204"
+      ],
+      "temas_concorrentes_ids": [
+        "5105",
+        "5177"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0346",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5583",
+      "confianca_modelo": 0.97,
+      "justificativa": "Todas as assertivas examinam poderes, admissão e legitimidade do assistente da acusação. As referências ao Júri e consumo são aplicações do mesmo sujeito processual.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0347",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5199",
+      "confianca_modelo": 0.54,
+      "justificativa": "O bloco genérico mistura excludentes de ilicitude, sursis, continuidade delitiva e livramento. Teoria da Pena é hipótese parcial; não cobre os institutos de ilicitude e concurso de outro ramo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5228",
+        "5207",
+        "5069",
+        "5208"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0348",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5093",
+      "confianca_modelo": 0.79,
+      "justificativa": "O objeto é corrupção ativa em transação internacional, com aplicação espacial e prescrição. Corrupção Ativa é hipótese, mas o catálogo não explicita alcance ao tipo contra administração estrangeira nem um núcleo único para os efeitos adicionais.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5087",
+        "5182",
+        "5188"
+      ],
+      "alertas": [
+        "tipo_internacional_sem_delimitacao_de_escopo"
+      ]
+    },
+    {
+      "id": "Q0349",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5178",
+      "confianca_modelo": 0.98,
+      "justificativa": "A assertiva pergunta pela incidência do arrependimento posterior quando há restituição em crime com grave ameaça. O roubo é o caso de aplicação do instituto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0350",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4702",
+      "confianca_modelo": 0.81,
+      "justificativa": "Todas as alternativas tratam de lavagem e seus requisitos/benefícios. O ramo legal é hipótese, mas o homônimo 6723 não possui delimitação para certificar a preferência.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6723"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "Q0182",
+  "consulta_executada": "\"Analise os itens e assinale a quantidade de itens errados. I - A instigação da gestante para permitir que terceiro\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Analise os itens e assinale a quantidade de itens errados...",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-406223/1102332",
+      "ref_consulta": "turn216search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Analise os itens e assinale a quantidade de itens errados.I ...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/5754d16a-28",
+      "ref_consulta": "turn216search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões MPDFT 2009 para Promotor de Justiça | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/mpdft-2009-mpdft-promotor-de-justica/questoes?page=2",
+      "ref_consulta": "turn216search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 30 - MPDFT - Promotor de Justiça - MPDFT (2009) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/mpdft-promotor-de-justica-2009-mpdft/30",
+      "ref_consulta": "turn216search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "MINISTÉRIO PÚBLICO DA UNIÃO",
+      "url": "https://www.estudegratis.com.br/images/provas/10365-mpdft-2009-mpdft-promotor-de-justica-prova.pdf",
+      "ref_consulta": "turn216search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Penal | Qconcursos.com - Página 985",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&page=985",
+      "ref_consulta": "turn216search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Analise os itens e assinale a quantidade de itens errados.I - A instigação da gestante para permitir que terc...",
+      "url": "https://cj.estrategia.com/public/questoes/Analise-itens1847d15ef85/",
+      "ref_consulta": "turn216search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Autoaborto e Aborto Consentido",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-autoaborto-e-aborto-consentido-413922",
+      "ref_consulta": "turn216search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Crimes contra a vida em Direito Penal | Qconcursos.com - Página 33",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&page=33&sort=recents&subject_ids%5B%5D=17293",
+      "ref_consulta": "turn216search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Direito Penal para MPDFT | Qconcursos.com - Página 4",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&examining_board_ids%5B%5D=306&has_professor_commentaries=true&page=4",
+      "ref_consulta": "turn216search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões • #423838 • Nº 30 • Prova 2009 • MPDFT • MPDFT • Promotor de Justiça | olhonavaga",
+      "url": "https://olhonavaga.com.br/questoes%3Bjsessionid%3D77A27E0F06BED4B98A78E1CDE5D991DD?id=423838&tc=1",
+      "ref_consulta": "turn216search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Crimes contra a vida em Direito Penal para Promotor de Justiça | Qconcursos.com - Página 4",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&job_ids%5B%5D=176&page=4&subject_ids%5B%5D=17293",
+      "ref_consulta": "turn216search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Periclitação da Vida e da Saúde - Página 5 | Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-periclitacao-da-vida-e-da-saude-406324?pagina=5",
+      "ref_consulta": "turn216search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

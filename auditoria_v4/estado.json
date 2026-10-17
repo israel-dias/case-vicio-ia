@@ -1,0 +1,9 @@
+{
+  "estado": "REEXAME_ASSISTIDO_DOS_359_IDS_INCORPORADO",
+  "validacao_juridica_independente": false,
+  "precisao_medida": null,
+  "relatorio_atual": "resumo_auditoria.json",
+  "registro_atual": "reexame_359.json",
+  "rascunhos_anteriores": "historico/pesquisa_inicial_v4",
+  "ultima_reavaliacao": "Releitura das 57 revisões após Q0097: 32 liberadas, 25 mantidas; entrega329/25/5; ver reavaliacao_57.json"
+}

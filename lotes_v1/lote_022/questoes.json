@@ -1,0 +1,156 @@
+[
+  {
+    "id": "Q0211",
+    "enunciado": "As audiências realizadas nos Fóruns representam parte relevante da vida forense. O contato humano e a ritualística do Direito e da Justiça formam um ambiente único, no qual a abstração e a aridez dos conceitos jurídicos conflitam com as vidas humanas, com os problemas sociais e com os efeitos práticos suportados pelas pessoas de carne e osso. Diante do exposto, assinale a alternativa incorreta.",
+    "comando": "",
+    "alternativas": {
+      "A": "Os espectadores das audiências ou das\nsessões poderão manifestar aprovação ou\ndesaprovação sobre as decisões judiciais,\nexpressão da garantia constitucional de\nliberdade de opinião e de expressão",
+      "B": "A polícia das audiências compete aos\nrespectivos juízes, que poderão determinar o\nque for conveniente à manutenção da ordem e,\npara isso, poderão requisitar a força pública,\nque ficará exclusivamente à sua disposição",
+      "C": "A exceção é o segredo. As audiências, as\nsessões e os atos processuais serão, em regra,\npúblicos e realizados com assistência dos\nfuncionários da Justiça",
+      "D": "O Juiz fará retirar da sala aqueles que\ndesobedecerem seus legais comandos"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Do juiz, do ministério público, do acusado e defensor, dos assistentes e auxiliares da justiça",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0212",
+    "enunciado": "Julgue o item subsequente, em relação à prova, ao instituto da interceptação telefônica e à citação por hora certa. Em processo penal, a citação por hora certa do réu que se oculte para não ser citado segue os procedimentos previstos no Código de Processo Civil, de modo que, caso o réu não compareça em juízo nem constitua advogado, ficam suspensos o processo e o curso do prazo prescricional, podendo o juiz, se for o caso, determinar a produção antecipada de provas consideradas urgentes.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Das Citações e Intimações, Citação no Processo Penal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0213",
+    "enunciado": "Nos crimes previstos na Lei de Drogas (Lei nº 11.343/2006), oferecida a denúncia, o(a) juiz(a) ordenará a:",
+    "comando": "",
+    "alternativas": {
+      "A": "citação do acusado para oferecer resposta à acusação,\npor escrito, no prazo de 10 (dez) dias.",
+      "B": "notificação do acusado para oferecer defesa prévia, por\nescrito, no prazo de 15 (quinze) dias.",
+      "C": "notificação do acusado para oferecer defesa prévia, por\nescrito, no prazo de 10 (dez) dias.",
+      "D": "citação do acusado para oferecer resposta à acusação,\npor escrito, no prazo de 15 (quinze) dias."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Legislação Penal Especial, Lei de Tóxicos – Lei nº 11.343 de 2006",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0214",
+    "enunciado": "Patrick foi denunciado e condenado, em primeira instância, perante a 1ª Vara Criminal de Florianópolis, pela prática de crime de corrupção passiva. Após a condenação, dentro do prazo legal, apresentou o recurso cabível, que se encontra pendente de julgamento. Nesse período, foi novamente denunciado pela prática do crime de corrupção passiva, dessa vez perante a 2ª Vara Criminal de Florianópolis, sendo verificado pelo teor da denúncia que os fatos imputados são os mesmos daquela ação da 1ª Vara Criminal. A defesa técnica de Patrick, poderá apresentar, ao responder a segunda ação penal, a exceção de:",
+    "comando": "",
+    "alternativas": {
+      "A": "incompetência do juízo, que deverá ser processada nos autos\nprincipais;",
+      "B": "coisa julgada, que deverá ser processada em autos apartados;",
+      "C": "coisa julgada, que suspenderá o andamento da ação penal;",
+      "D": "litispendência, que deverá ser processada em autos\napartados;",
+      "E": "suspeição, que precederá a qualquer outra eventualmente\noposta."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Das Questões e Processos Incidentes",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0215",
+    "enunciado": "Leia o caso a seguir. Um homem é réu primário e é condenado por crime cometido com violência à pessoa, fixando o juiz a pena-base no mínimo legal, que é de 6 (seis) anos de reclusão. Elaborado pelo(a) autor(a). O regime inicial de cumprimento da pena será o",
+    "comando": "",
+    "alternativas": {
+      "A": "semiaberto, proibida a fixação de regime inicial mais\ngravoso com base apenas na gravidade do delito.",
+      "B": "fechado, proibida a fixação de regime inicial mais gravoso\ncom base apenas na gravidade do delito.",
+      "C": "semiaberto, permitida a fixação de regime inicial mais\ngravoso com base apenas na gravidade do delito.",
+      "D": "fechado, permitida a fixação de regime inicial mais\ngravoso com base apenas na gravidade do delito."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Penas privativas de liberdade, Regimes penitenciários",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0216",
+    "enunciado": "Considerando o sistema de juizados especiais criminais, previsto na Lei n.° 9.099/1995, e a jurisprudência do STJ e STF sobre a matéria,",
+    "comando": "assinale a opção correta.",
+    "alternativas": {
+      "A": "Tratando-se de crime de ação penal privada ou pública\ncondicionada à representação, a realização de composição\ncivil dos danos entre autor e vítima gera a extinção da\npunibilidade.",
+      "B": "Admite-se transação penal para os crimes dolosos com pena\nmáxima inferior ou igual a 2 anos e para os delitos culposos,\nindependentemente da sanção aplicada.",
+      "C": "A sentença que homologa a transação penal faz coisa julgada\nmaterial, e o descumprimento do acordo deve ser resolvido\npor meio de execução na esfera cível.",
+      "D": "O procedimento de apuração de infrações de menor potencial\nofensivo não admite a realização de exames periciais, haja\nvista a necessidade de brevidade na conclusão do processo.",
+      "E": "A despeito da omissão legislativa, é permitida a realização de\ntransação penal para os crimes de ação penal privada, por se\ntratar de direito subjetivo do autor do fato."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0217",
+    "enunciado": "Para Michel Foucault, em Vigiar e punir, as razões de ser essenciais da reforma penal no século XVIII, também denominada Reforma Humanista do Direito penal, são constituir uma nova economia e uma nova tecnologia do poder de:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "recuperar.",
+      "B": "ressocializar.",
+      "C": "humanizar.",
+      "D": "punir.",
+      "E": "descriminalizar."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Legitimidoras da Pena",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0218",
+    "enunciado": "João da Silva vai à agência bancária obter o levantamento de conta de FGTS de terceiro, usando documento falso. Desconfiado da veracidade do documento, o gerente da agência pede a João que retorne em algumas horas, quando o dinheiro já estará disponível em sua conta. João retorna no horário combinado e, no momento em que efetua o saque, é preso por policiais militares acionados pelo gerente da agência após proceder à checagem da autenticidade do referido documento e confirmar sua falsidade.",
+    "comando": "Considerando essa narrativa, assinale a afirmativa correta.",
+    "alternativas": {
+      "A": "A prisão em flagrante é ilegal, pois se trata de flagrante provocado.",
+      "B": "A prisão em flagrante é legal, pois se trata de ação controlada.",
+      "C": "A prisão em flagrante é legal, pois se trata de flagrante diferido.",
+      "D": "A prisão em flagrante é legal, pois se trata de flagrante preparado.",
+      "E": "A prisão em flagrante é legal, pois se trata de flagrante esperado."
+    },
+    "disciplina_origem": "Direito Constitucional",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "assunto_origem_ausente",
+      "disciplina_origem_fora_catalogo"
+    ]
+  },
+  {
+    "id": "Q0219",
+    "enunciado": "Considerando essa situação hipotética, julgue o item subsequente.\nNa situação descrita, está presente a hipótese de participação necessária imprópria.",
+    "comando": "Julgue o item subsequente.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Pessoas",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0220",
+    "enunciado": "De acordo com precedente firmado pelo STF em sede de controle concentrado de constitucionalidade, assinale a opção correta.",
+    "comando": "Assinale a opção correta.",
+    "alternativas": {
+      "A": "Em caso de discordância do arquivamento do inquérito\npolicial, somente a vítima ou seu representante legal pode\nsubmeter, a qualquer tempo, a matéria à revisão da instância\ncompetente do órgão ministerial.",
+      "B": "Em caso de discordância do arquivamento do inquérito\npolicial, somente a vítima ou seu representante legal pode\nsubmeter a matéria à revisão da instância competente do\nórgão ministerial, no prazo de trinta dias, contados do\nrecebimento da comunicação.",
+      "C": "Em caso de discordância do arquivamento do inquérito\npolicial, além da vítima e de seu representante legal, a\nautoridade judicial competente também poderá submeter a\nmatéria à revisão da instância competente do órgão\nministerial, caso verifique patente ilegalidade ou teratologia\nno ato do arquivamento.",
+      "D": "O STF julgou inconstitucional o dispositivo que autorizava,\nem caso de discordância do arquivamento do inquérito\npolicial, a submissão da matéria à revisão da instância\ncompetente do órgão ministerial, por entender que a decisão\nde arquivamento do inquérito policial é insuscetível de\nrevisão.",
+      "E": "Em caso de discordância do arquivamento do inquérito\npolicial, somente podem submeter a matéria à revisão da\ninstância competente do órgão ministerial a vítima ou seu\nrepresentante legal e o membro do órgão ministerial que\nhouver se manifestado contra o arquivamento do inquérito\npolicial."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  }
+]

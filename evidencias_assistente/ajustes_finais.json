@@ -1,0 +1,13 @@
+{
+  "origem": "Revisão assistida nesta conversa; não auditoria independente.",
+  "ajustes": [
+    {
+      "id": "Q0298",
+      "decisao_anterior": "fora",
+      "decisao": "revisar",
+      "tema_central_id": "4694",
+      "confianca": 0.55,
+      "motivo": "O item é sobre consumo na Lei 8.137, e o tema ativo menciona crimes do CDC. O escopo entre leis é incerto; manter sugestão para o professor, sem presumir equivalência nem excluir definitivamente."
+    }
+  ]
+}

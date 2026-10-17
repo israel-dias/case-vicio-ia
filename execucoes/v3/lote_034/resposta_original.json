@@ -1,0 +1,134 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0351",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5118",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando pede o enquadramento da falsificação de cartão de crédito como documento. Falsidade Documental é o subtema específico, distinto de falsa identidade.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0352",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5512",
+      "confianca_modelo": 0.97,
+      "justificativa": "O enunciado delimita recursos em geral e compara efeitos, interesse, forma e fungibilidade. O pai Parte Geral dos Recursos abrange esses filhos sem escolher uma espécie não indicada.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5513",
+        "5514",
+        "5515"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0353",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5188",
+      "confianca_modelo": 0.77,
+      "justificativa": "O caso pergunta por providências durante processo diante de prescrição iminente, contrastando prescrição em perspectiva e garantias de instrução. Pretensão Punitiva é hipótese central, mas a gestão do rito e defesa também são essenciais.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5535",
+        "5582",
+        "5191"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0354",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5218",
+      "confianca_modelo": 0.74,
+      "justificativa": "O bloco genérico combina nexo/imputação, tipicidade, domínio do fato e teoria finalista. Fato Típico é hipótese predominante, mas autoria e culpabilidade ultrapassam seu ramo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5226",
+        "5227",
+        "5221",
+        "5072",
+        "5211"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0355",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4708",
+      "confianca_modelo": 0.73,
+      "justificativa": "O enunciado delimita porte de maconha para consumo e efeitos da decisão sobre art. 28. O tema Tráfico tem escopo mais estreito e homônimo 6728; não publicar nem excluir automaticamente por mudança da natureza penal do porte.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6728"
+      ],
+      "alertas": [
+        "escopo_porte_para_consumo_diferente_de_trafico"
+      ]
+    },
+    {
+      "id": "Q0356",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5066",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado delimita concurso de crimes e compara material, formal e multa. O pai substantivo abrange os filhos efetivamente cobrados.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0357",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5135",
+      "confianca_modelo": 0.98,
+      "justificativa": "A pergunta pede definir boicotagem violenta, tipo contra organização do trabalho. Iter criminis da origem não representa o conteúdo cobrado.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "metadado_origem_nao_utilizado_como_gabarito"
+      ]
+    },
+    {
+      "id": "Q0358",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5133",
+      "confianca_modelo": 0.95,
+      "justificativa": "A assertiva delimita invasão de dispositivo e proteção de dados sigilosos, tema de inviolabilidade dos segredos. LAI e Marco Civil aparecem apenas na introdução e não determinam exclusão do item penal.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5116"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0359",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4696",
+      "confianca_modelo": 0.78,
+      "justificativa": "O item cobra aplicação de rito e vedação de benefícios dos juizados em crimes contra idosos. O estatuto específico é hipótese, mas há concorrente 6722 e objeto processual em Procedimento Sumaríssimo, exigindo premissa de ramo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6722",
+        "5539",
+        "5540"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    }
+  ]
+}

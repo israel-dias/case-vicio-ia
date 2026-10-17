@@ -1,0 +1,1922 @@
+{
+  "registros": [
+    {
+      "id": "Q0010",
+      "antes": {
+        "id": "Q0010",
+        "decisao": "revisar",
+        "tema_central_id": "4688",
+        "extras_ids": "",
+        "confianca": "0.78",
+        "motivo": "Enunciado e alternativas tratam de crimes ambientais e de sua interpretação pelos tribunais, incluindo poluição, vegetação, responsabilidade e omissão. O núcleo não é Concurso de Crimes. O tema 4688 é a hipótese pelo objeto penal de legislação ambiental específica, mas existe 6717 com título idêntico em Penal, sem delimitação do escopo. A preferência taxonômica requer fundamentação antes de publicar, preservando a mesma cautela usada em Q0309."
+      },
+      "depois": {
+        "id": "Q0010",
+        "decisao": "revisar",
+        "tema_central_id": "4688",
+        "extras_ids": "",
+        "confianca": "0.70",
+        "motivo": "Confirmar ramo ambiental 4688/6717 e contexto jurisprudencial; hipótese B, sem gabarito oficial confirmado."
+      },
+      "resposta_proposta": "B",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A hipótese de resposta é a permanência do impedimento de regeneração da vegetação. Todo o conjunto é ambiental; a revisão permanece para confirmar jurisprudência/contexto e o ramo entre 4688 e 6717, cujo escopo comparativo o catálogo não explica.",
+      "fundamento_indicado": "Lei 9.605/1998:48; precedentes STF/STJ e ramo do catálogo a confirmar",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0010.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0011",
+      "antes": {
+        "id": "Q0011",
+        "decisao": "revisar",
+        "tema_central_id": "4702",
+        "extras_ids": "5482",
+        "confianca": "0.80",
+        "motivo": "O caso exige enquadramento da ocultação de recursos ilícitos e competência federal. Lavagem de Dinheiro 4702 é hipótese central e competência material 5482 é adicional efetivamente cobrado; o homônimo 6723 não tem escopo que permita desempate seguro."
+      },
+      "depois": {
+        "id": "Q0011",
+        "decisao": "revisar",
+        "tema_central_id": "4702",
+        "extras_ids": "5482",
+        "confianca": "0.72",
+        "motivo": "Lavagem e competência federal são exigidas; confirmar central e escopo dos ramos 4702/6723. Não há interceptação no item concreto."
+      },
+      "resposta_proposta": "C",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "O caso exige lavagem por ocultação de produto de corrupção federal e competência da Justiça Federal; o cabeçalho genérico não torna interceptação ou cibercrimes centrais. Há dois conteúdos efetivos e escopo concorrente 6723 para a lei especial.",
+      "fundamento_indicado": "Lei 9.613/1998:1,2; CF:109; confirmar versão da prova e preferência de ramo",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0011.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Lavagem de Dinheiro",
+      "caminhos_extras": [
+        "Processo Penal > Competência > Competência em Razão da Matéria"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0017",
+      "antes": {
+        "id": "Q0017",
+        "decisao": "revisar",
+        "tema_central_id": "5533",
+        "extras_ids": "",
+        "confianca": "0.65",
+        "motivo": "Rito de crimes funcionais é especial, mas 5533 fica sob Procedimento Ordinário. Não publicar apenas pelo título Defesa Preliminar."
+      },
+      "depois": {
+        "id": "Q0017",
+        "decisao": "revisar",
+        "tema_central_id": "5533",
+        "extras_ids": "",
+        "confianca": "0.68",
+        "motivo": "Defesa prévia do rito especial de funcionário público; o nó 5533 está no Ordinário. Confirmar compatibilidade do caminho."
+      },
+      "resposta_proposta": "D",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "O conhecimento é a resposta preliminar de funcionário público em crime afiançável, anterior ao recebimento da denúncia. A resposta assistida é D, mas o nó 5533 pertence ao procedimento ordinário e a questão é de procedimento especial; confirmar se esse caminho admite o instituto.",
+      "fundamento_indicado": "CPP:513,514,516; STJ:Súmula330",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0017.json",
+      "caminho_central": "Processo Penal > Procedimento Ordinário > Defesa Preliminar",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0020",
+      "antes": {
+        "id": "Q0020",
+        "decisao": "revisar",
+        "tema_central_id": "5199",
+        "extras_ids": "",
+        "confianca": "0.40",
+        "motivo": "O bloco reúne concurso de crimes do ECA, dosimetria, falsa identidade, furto noturno e benefícios dos juizados. Teoria da Pena é só hipótese parcial para revisão; nenhum núcleo único é sustentado pelo enunciado genérico de jurisprudência."
+      },
+      "depois": {
+        "id": "Q0020",
+        "decisao": "revisar",
+        "tema_central_id": "5066",
+        "extras_ids": "5203;5119;5159;5542;5541;5067",
+        "confianca": "0.55",
+        "motivo": "Cinco assuntos independentes; extras registrados. Falta tema central predominante e sequência confirmada; Teoria da Pena não cobre o conjunto."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "São cinco julgamentos autônomos: concurso de crimes do ECA; confissão e reincidência na dosimetria; falsa identidade; furto noturno qualificado; benefícios do Jecrim. Não há um núcleo único de Teoria da Pena. Sugere-se concurso como um dos núcleos e registram-se os demais extras; especialista deve decidir a organização deste item multitemático e conferir a sequência. Extras específicos são mantidos para os conteúdos efetivamente exigidos, inclusive sob um central mais amplo.",
+      "fundamento_indicado": "CP:69,307,155; ECA:241-A,241-B; Lei 9.099/1995:76,89; jurisprudência temporal a conferir",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0020.json",
+      "caminho_central": "Penal > Concurso de Crimes",
+      "caminhos_extras": [
+        "Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes",
+        "Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > De outras falsidades",
+        "Penal > Dos Crimes Contra o Patrimônio > Furto",
+        "Processo Penal > Procedimento Sumaríssimo > Suspensão Condicional do Processo",
+        "Processo Penal > Procedimento Sumaríssimo > Transação Penal",
+        "Penal > Concurso de Crimes > Concurso Material"
+      ],
+      "justificativas_extras_independentes": {
+        "5067": "Primeira assertiva: concurso material entre crimes autônomos do ECA."
+      },
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0023",
+      "antes": {
+        "id": "Q0023",
+        "decisao": "publicar",
+        "tema_central_id": "5524",
+        "extras_ids": "",
+        "confianca": "0.96",
+        "motivo": "Enunciado e todas as alternativas versam sobre Tribunal do Júri, combinando fases, pronúncia, julgamento e depoimentos. O pai substantivo cobre a combinação de filhos do mesmo procedimento."
+      },
+      "depois": {
+        "id": "Q0023",
+        "decisao": "revisar",
+        "tema_central_id": "5524",
+        "extras_ids": "",
+        "confianca": "0.85",
+        "motivo": "Possíveis duas alternativas incorretas (B/C) sobre prisão e coisa julgada da impronúncia; conferir prova/gabarito antes de liberar."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "O conjunto é do Tribunal do Júri, mas B afirma manutenção automática da prisão e C nega coisa julgada formal e material da impronúncia. A presença de duas possíveis incorreções precisa ser conferida na prova/gabarito antes de liberar o item; não é revisão por mistura de temas.",
+      "fundamento_indicado": "CPP:414,413,456,473; gabarito e eventual anulação a confirmar",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0023.json",
+      "caminho_central": "Processo Penal > Procedimento do Tribunal do Júri",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0026",
+      "antes": {
+        "id": "Q0026",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.80",
+        "motivo": "A questão cobra o âmbito de proteção e incidência da Lei Maria da Penha. O tema legal é inequívoco, mas os IDs 4704 e 6724 não têm distinção de escopo suficiente para certificar a preferência; registrar premissa de ramo antes de liberar."
+      },
+      "depois": {
+        "id": "Q0026",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.73",
+        "motivo": "Âmbito protetivo da LMP identificado; confirmar ramo 4704/6724 para vínculos domésticos/familiares e de afeto."
+      },
+      "resposta_proposta": "C",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta exige delimitar unidade doméstica, família e relação íntima de afeto, excluindo mero colega laboral sem vínculo. O objeto é a incidência protetiva da Lei Maria da Penha; a pendência é o alcance dos ramos 4704/6724, não alternativas de assuntos diferentes.",
+      "fundamento_indicado": "Lei 11.340/2006:5; STJ sobre mulher trans e unidade doméstica; ramo taxonômico a confirmar",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0026.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0029",
+      "antes": {
+        "id": "Q0029",
+        "decisao": "revisar",
+        "tema_central_id": "4684",
+        "extras_ids": "",
+        "confianca": "0.80",
+        "motivo": "Lei de Abuso de Autoridade é o núcleo; não há escopo discriminante para certificar a preferência entre 4684 e 6716."
+      },
+      "depois": {
+        "id": "Q0029",
+        "decisao": "revisar",
+        "tema_central_id": "4684",
+        "extras_ids": "",
+        "confianca": "0.72",
+        "motivo": "Interrogatório sem advogado é o núcleo; confirmar ramo do abuso 4684/6716. Mistura de alternativas não é o motivo."
+      },
+      "resposta_proposta": "B",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A solução é o prosseguimento de interrogatório sem advogado quando a pessoa optou por assistência. Não é qualquer interrogatório noturno ou ingresso consentido que configura abuso. O instituto é claro; permanece pendente o ramo entre a lei especial 4684 e o homônimo penal 6716.",
+      "fundamento_indicado": "Lei 13.869/2019:15; confirmar escopo do ramo e contexto da prova",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0029.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Abuso de Autoridade",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0059",
+      "antes": {
+        "id": "Q0059",
+        "decisao": "revisar",
+        "tema_central_id": "4388",
+        "extras_ids": "",
+        "confianca": "0.65",
+        "motivo": "A crítica de Baratta ao cárcere não se torna teoria legitimadora só por mencionar a pena. Manter hipótese em teorias criminológicas e revisar o escopo."
+      },
+      "depois": {
+        "id": "Q0059",
+        "decisao": "revisar",
+        "tema_central_id": "4385",
+        "extras_ids": "",
+        "confianca": "0.72",
+        "motivo": "Crítica de Baratta às relações carcerárias; falta delimitar o alcance sociológico do catálogo e conferir fonte primária."
+      },
+      "resposta_proposta": "D",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta assistida corresponde à crítica de Baratta às relações de submissão e exploração no cárcere. O pai sociológico é sugestão para a criminologia crítica, mas o catálogo não delimita se essa reflexão sobre reintegração está nesse ramo ou em teorias da pena; não atribuir a teoria legitimadora sem fundamento.",
+      "fundamento_indicado": "Alessandro Baratta: crítica do cárcere e reintegração; obra primária a confirmar",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0059.json",
+      "caminho_central": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0063",
+      "antes": {
+        "id": "Q0063",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.81",
+        "motivo": "O bloco cobra medidas protetivas da Lei Maria da Penha. O núcleo legal é claro, mas a preferência entre 4704 e 6724 exige premissa sobre o ramo, não simples igualdade de título."
+      },
+      "depois": {
+        "id": "Q0063",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "5522",
+        "confianca": "0.74",
+        "motivo": "Medidas protetivas e cautelares cumulativas são exigidas; confirmar ramo da LMP e pressupostos do afastamento pelo delegado."
+      },
+      "resposta_proposta": "C",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "As quatro proposições exigem cumulatividade das medidas protetivas e cautelares, afastamento pelo delegado e concessão sumária das medidas. O extra Cautelares Diversas é necessário para julgar a comparação de I. A pendência principal é o ramo do catálogo da LMP, além de conferir os pressupostos do afastamento.",
+      "fundamento_indicado": "Lei 11.340/2006:12-C,19; CPP:282",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0063.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "caminhos_extras": [
+        "Processo Penal > Prisões em Espécie > Medidas Cautelares Diversas da Prisão"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0064",
+      "antes": {
+        "id": "Q0064",
+        "decisao": "revisar",
+        "tema_central_id": "5165",
+        "extras_ids": "",
+        "confianca": "0.77",
+        "motivo": "A retenção e não repasse de contribuição previdenciária sustenta hipótese em apropriação indébita, mas as opções cobram matéria tributária, insignificância e extinção da punibilidade. O catálogo não explicita apropriação previdenciária; revisar o encaixe."
+      },
+      "depois": {
+        "id": "Q0064",
+        "decisao": "revisar",
+        "tema_central_id": "5191",
+        "extras_ids": "5165",
+        "confianca": "0.76",
+        "motivo": "Resposta proposta depende de pagamento e extinção da punibilidade previdenciária após trânsito; confirmar regime legal/jurisprudencial."
+      },
+      "resposta_proposta": "B",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A hipótese de resposta correta é extinção da punibilidade pelo pagamento integral da dívida, inclusive após condenação definitiva. A apropriação previdenciária descreve o crime; o efeito do pagamento é o conhecimento decisivo. Confirmar regime legal e jurisprudência aplicáveis antes de publicar.",
+      "fundamento_indicado": "CP:168-A; Lei 10.684/2003:9; jurisprudência sobre pagamento após trânsito a conferir",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0064.json",
+      "caminho_central": "Penal > Punibilidade",
+      "caminhos_extras": [
+        "Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0068",
+      "antes": {
+        "id": "Q0068",
+        "decisao": "revisar",
+        "tema_central_id": "5116",
+        "extras_ids": "",
+        "confianca": "0.43",
+        "motivo": "O enunciado genérico mistura estupro, condescendência, incêndio e falsidades. Fé pública/falsidade é hipótese por duas opções, sem núcleo que represente todo o conjunto; não selecionar só uma alternativa aparentemente correta."
+      },
+      "depois": {
+        "id": "Q0068",
+        "decisao": "revisar",
+        "tema_central_id": "5096",
+        "extras_ids": "",
+        "confianca": "0.77",
+        "motivo": "B sugere condescendência; há pista de anulação e dúvida B/E. Conferir gabarito oficial, sem tratar a pista como anulação confirmada."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "B descreve condescendência criminosa e fornece um núcleo específico, em vez do antigo pai Fé Pública. Entretanto há pista de anulação da questão e necessidade de conferir B/E na prova original; não registrar essa pista como anulação oficial confirmada.",
+      "fundamento_indicado": "CP:320; catálogo:5096 conferido; gabarito/anulação oficial pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0068.json",
+      "caminho_central": "Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0071",
+      "antes": {
+        "id": "Q0071",
+        "decisao": "revisar",
+        "tema_central_id": "4688",
+        "extras_ids": "",
+        "confianca": "0.81",
+        "motivo": "O objeto são majorantes de crimes contra a flora na Lei 9.605. Existem 4688 e 6717, sem distinção de escopo que certifique o ramo preferencial. Manter a mesma cautela das outras questões ambientais."
+      },
+      "depois": {
+        "id": "Q0071",
+        "decisao": "revisar",
+        "tema_central_id": "4688",
+        "extras_ids": "",
+        "confianca": "0.73",
+        "motivo": "Majorantes ambientais claras; confirmar ramo 4688/6717, sem presumir equivalência de homônimos."
+      },
+      "resposta_proposta": "C",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "O julgamento depende das majorantes dos crimes contra a flora, não de um assunto externo. A lei oferece fundamento direto; a revisão permanece por escolha de ramo entre 4688/6717 sem definição comparativa no catálogo, e não pela diversidade de alternativas.",
+      "fundamento_indicado": "Lei 9.605/1998:53; ramo taxonômico a confirmar",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0071.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0083",
+      "antes": {
+        "id": "Q0083",
+        "decisao": "revisar",
+        "tema_central_id": "5226",
+        "extras_ids": "",
+        "confianca": "0.79",
+        "motivo": "A sucessão disparo, erro sobre a morte e enterramento exige examinar desvio do curso causal/dolo geral e classificação do homicídio. Nexo Causal é hipótese, concorrendo com Homicídio e Erro de Tipo; o enunciado não nomeia o instituto teórico."
+      },
+      "depois": {
+        "id": "Q0083",
+        "decisao": "revisar",
+        "tema_central_id": "5226",
+        "extras_ids": "5150",
+        "confianca": "0.79",
+        "motivo": "Dolo geral, nexo e homicídio são exigidos; confirmar predominância temática entre 5226 e 5150, apesar da hipótese de resposta E."
+      },
+      "resposta_proposta": "E",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta assistida é homicídio simples por erro sucessivo/dolo geral: a morte sobrevém ao segundo ato do mesmo plano. A resolução exige a discussão do nexo/desvio causal e o enquadramento homicida. A dúvida restante é a predominância pedagógica entre os dois temas, não ausência de resposta.",
+      "fundamento_indicado": "CP:13,18,121; doutrina de dolus generalis; confirmar gabarito/escopo pedagógico",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0083.json",
+      "caminho_central": "Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva",
+      "caminhos_extras": [
+        "Penal > Dos Crimes Contra a Vida > Homicídio"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0084",
+      "antes": {
+        "id": "Q0084",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.80",
+        "motivo": "O núcleo é assistência prevista na Lei Maria da Penha, incluindo vínculo trabalhista e dependentes. Os ramos 4704/6724 não delimitam esse conteúdo não tipificador; explicitar premissa antes de publicar."
+      },
+      "depois": {
+        "id": "Q0084",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.74",
+        "motivo": "Assistência trabalhista/escolar da LMP; confirmar alcance extrapenal e ramo 4704/6724."
+      },
+      "resposta_proposta": "E",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "I e II tratam de assistência trabalhista e matrícula de dependentes; III atribui incorretamente os custos de saúde à vítima. Todos integram a proteção da LMP. O ramo Legislação Especial é sugerido por esse alcance extrapenal, mas deve ser confirmado ante o homônimo penal.",
+      "fundamento_indicado": "Lei 11.340/2006:9; ramo do catálogo a confirmar",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0084.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0090",
+      "antes": {
+        "id": "Q0090",
+        "decisao": "revisar",
+        "tema_central_id": "5530",
+        "extras_ids": "",
+        "confianca": "0.65",
+        "motivo": "Alternativas de procedimentos distintos, sem núcleo no enunciado. O pai ordinário é hipótese parcial, não enquadramento publicável confirmado."
+      },
+      "depois": {
+        "id": "Q0090",
+        "decisao": "revisar",
+        "tema_central_id": "5526",
+        "extras_ids": "",
+        "confianca": "0.74",
+        "motivo": "Resposta C compara réplica em Júri e tribunais superiores; o nó Ordinário não cobre o conjunto e Júri é sugestão parcial."
+      },
+      "resposta_proposta": "C",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A alternativa correta trata de réplica à resposta em procedimentos especiais do Júri e dos tribunais superiores. O antigo pai Ordinário não é adequado ao conhecimento que resolve a questão. Júri é uma sugestão parcial; falta nó que represente também o procedimento originário superior, exigindo decisão pedagógica especializada.",
+      "fundamento_indicado": "CPP:409; Lei 8.038/1990:5; conferir gabarito e tema central do item comparativo",
+      "conferencias_dirigidas_registradas": [
+        "CPP:409"
+      ],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0090.json",
+      "caminho_central": "Processo Penal > Procedimento do Tribunal do Júri > Procedimento Bifásico do Tribunal do Júri",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0101",
+      "antes": {
+        "id": "Q0101",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.76",
+        "motivo": "O objeto é competência civil para divórcio na Lei Maria da Penha, não tipificação penal. A lei tem temas ativos, mas seus ramos penais não delimitam o alcance civil e são homônimos; revisar o enquadramento antes de excluir ou publicar."
+      },
+      "depois": {
+        "id": "Q0101",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.76",
+        "motivo": "Divórcio e partilha têm competência civil na LMP; confirmar o alcance do ramo especial, evitando competência criminal por nome semelhante."
+      },
+      "resposta_proposta": "B",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta é opção da ofendida pelo Juizado para divórcio/união estável, excluída partilha. É competência civil prevista na LMP; não classificar como competência criminal só pela palavra juizado. Confirmar alcance extrapenal do ramo 4704 ante o catálogo duplicado.",
+      "fundamento_indicado": "Lei 11.340/2006:14-A",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0101.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0104",
+      "antes": {
+        "id": "Q0104",
+        "decisao": "revisar",
+        "tema_central_id": "5500",
+        "extras_ids": "",
+        "confianca": "0.77",
+        "motivo": "A assertiva combina instauração/prosseguimento do inquérito e identificação de autoridade coatora em habeas corpus. Procedimento do Inquérito é hipótese central; o papel do remédio constitucional exige conferir a predominância."
+      },
+      "depois": {
+        "id": "Q0104",
+        "decisao": "revisar",
+        "tema_central_id": "5500",
+        "extras_ids": "5477",
+        "confianca": "0.76",
+        "motivo": "Conferir instauração/requisição pelo MP e autoridade coatora no HC; letra não confirmada e redação institucional controversa."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "O julgamento exige distinguir instauração/requisição pelo MP, prosseguimento pela polícia e identificação de autoridade coatora. A letra não foi confirmada e a redação sobre instaurar pode ser tecnicamente controversa. A pendência é institucional/jurisprudencial concreta, não diversidade de temas do cabeçalho.",
+      "fundamento_indicado": "CPP:5,647; conferir prova PC-AL2023 e fundamento jurisprudencial",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0104.json",
+      "caminho_central": "Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial",
+      "caminhos_extras": [
+        "Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0109",
+      "antes": {
+        "id": "Q0109",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "",
+        "confianca": "0.79",
+        "motivo": "O item descreve oferta eventual de droga para consumo conjunto e pede a sanção. O tema Tráfico de Drogas é hipótese do art. 33, mas há concorrente 6728 e título de escopo não explicitado para uso compartilhado."
+      },
+      "depois": {
+        "id": "Q0109",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "",
+        "confianca": "0.75",
+        "motivo": "Uso compartilhado ocasional do art. 33, §3º; confirmar abrangência do título Tráfico e ramo 4708/6728."
+      },
+      "resposta_proposta": "D",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta exige a pena do uso compartilhado ocasional sem lucro do art. 33, §3º. Confirmar se o título Tráfico de Drogas inclui esse tipo e qual o ramo correto entre 4708/6728; não é dúvida de leitura do enunciado.",
+      "fundamento_indicado": "Lei 11.343/2006:33; escopo taxonômico de uso compartilhado pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0109.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0112",
+      "antes": {
+        "id": "Q0112",
+        "decisao": "revisar",
+        "tema_central_id": "4705",
+        "extras_ids": "",
+        "confianca": "0.81",
+        "motivo": "A questão pede majorantes da organização criminosa na Lei 12.850. O objeto é claro, mas os dois IDs 4705/6725 não distinguem escopo; registrar preferência de ramo antes de publicar."
+      },
+      "depois": {
+        "id": "Q0112",
+        "decisao": "revisar",
+        "tema_central_id": "4705",
+        "extras_ids": "",
+        "confianca": "0.76",
+        "motivo": "Majorante da organização identificada; confirmar ramo 4705/6725, cujos limites comparativos não estão descritos."
+      },
+      "resposta_proposta": "C",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A majorante é concurso de funcionário público aproveitado pela organização. O tipo e a lei são claros, mas o ramo penal 6725 e o de legislação especial 4705 não têm escopo comparativo explicado; confirmar a escolha antes de publicação.",
+      "fundamento_indicado": "Lei 12.850/2013:2",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0112.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Organizações Criminosas",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0114",
+      "antes": {
+        "id": "Q0114",
+        "decisao": "revisar",
+        "tema_central_id": "5507",
+        "extras_ids": "",
+        "confianca": "0.69",
+        "motivo": "O caso combina efeitos temporais de decisão em controle abstrato, norma processual mista e ação penal em violência doméstica. Lei processual no Tempo é hipótese; a predominância material/constitucional não está delimitada."
+      },
+      "depois": {
+        "id": "Q0114",
+        "decisao": "revisar",
+        "tema_central_id": "5507",
+        "extras_ids": "5181",
+        "confianca": "0.73",
+        "motivo": "Norma processual mista e efeitos de ADI; conferir gabarito histórico e predominância entre lei processual/material no tempo."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "O problema exige efeitos temporais de decisão de controle abstrato sobre norma processual mista. Não basta identificar LMP no cenário. A letra e a premissa doutrinária sobre prospectividade não foram confirmadas; o componente de irretroatividade material justifica o extra Lei Penal no Tempo.",
+      "fundamento_indicado": "STF:ADI4424; CF:5,XL; CPP:2; conferir gabarito e tese doutrinária do contexto de 2012",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0114.json",
+      "caminho_central": "Processo Penal > Lei Processual no Tempo e no Espaço > Lei processual no Tempo",
+      "caminhos_extras": [
+        "Penal > Lei Penal no Tempo e no Espaço > Lei penal no Tempo"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0123",
+      "antes": {
+        "id": "Q0123",
+        "decisao": "revisar",
+        "tema_central_id": "4385",
+        "extras_ids": "",
+        "confianca": "0.68",
+        "motivo": "As assertivas combinam etiquetamento, seletividade racial, letalidade policial e validade de prova discriminatória. Teorias Sociológicas é hipótese agregadora, sem núcleo inequívoco para a parte processual."
+      },
+      "depois": {
+        "id": "Q0123",
+        "decisao": "revisar",
+        "tema_central_id": "4378",
+        "extras_ids": "4385;5594",
+        "confianca": "0.65",
+        "motivo": "Assertivas de seletividade, etiquetamento, prova discriminatória e estatística racial; confirmar sequência e central entre conteúdos independentes."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "As assertivas exigem seletividade/racismo institucional, etiquetamento e validade de prisão/prova discriminatória. III é plausível, mas falta confirmar a sequência e a delimitação do tema central; não reduzir todo o conjunto à teoria citada em I. Os extras representam conhecimentos exigidos separadamente.",
+      "fundamento_indicado": "Criminologia: seletividade racial e etiquetamento; dados FBSP e precedente de prova discriminatória a confirmar",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0123.json",
+      "caminho_central": "Criminologia > Processos de Criminalização e Cifras Criminais > Criminalização Primária e Secundária",
+      "caminhos_extras": [
+        "Criminologia > Teorias Sociológicas Explicativas da Criminalidade",
+        "Processo Penal > Teoria Geral das Provas > Prova Ilegal e Prova Ilícita"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0136",
+      "antes": {
+        "id": "Q0136",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.81",
+        "motivo": "O objeto é incidência da Lei Maria da Penha sobre ofensas após separação, e não pensão alimentícia. Os IDs homônimos não delimitam escopo de ramo, exigindo premissa antes da publicação."
+      },
+      "depois": {
+        "id": "Q0136",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.76",
+        "motivo": "Incidência da LMP em relação afetiva encerrada; confirmar ramo protetivo-material 4704/6724."
+      },
+      "resposta_proposta": "B",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resolução exige compreender que agressão vinculada à relação íntima anterior pode atrair a LMP mesmo sem convivência atual ou lesão física. O escopo de incidência é identificável; falta confirmar o ramo 4704/6724 para esse conteúdo protetivo-material.",
+      "fundamento_indicado": "Lei 11.340/2006:5,7; STJ:Súmula600; ramo do catálogo pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0136.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0145",
+      "antes": {
+        "id": "Q0145",
+        "decisao": "revisar",
+        "tema_central_id": "4702",
+        "extras_ids": "",
+        "confianca": "0.80",
+        "motivo": "O bloco examina lavagem e infração antecedente, incluindo tributação e favorecimento real. Lavagem é central, mas o concorrente 6723 não tem distinção taxonômica de ramo que permita certificar a escolha."
+      },
+      "depois": {
+        "id": "Q0145",
+        "decisao": "revisar",
+        "tema_central_id": "4702",
+        "extras_ids": "5084;4695",
+        "confianca": "0.69",
+        "motivo": "Objeto/antecedente da lavagem, tributação e favorecimento real; conferir sequência, primeira assertiva e ramo 4702/6723."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "As cinco proposições exigem objeto e antecedente da lavagem, produto de crime tributário e distinção do favorecimento real. Os extras correspondem a III e IV; não basta coletar palavras. Falta confirmar sequência/primeira assertiva e o ramo 4702/6723 antes de publicar.",
+      "fundamento_indicado": "Lei 9.613/1998:1; CP:349; Lei 8.137/1990; gabarito e escopo de ramo pendentes",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0145.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Lavagem de Dinheiro",
+      "caminhos_extras": [
+        "Penal > Dos Crimes Contra a Administração Judicial > Favorecimento Pessoal e Real",
+        "Direito Penal - Legislação Especial > Crimes Tributários"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0150",
+      "antes": {
+        "id": "Q0150",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "",
+        "confianca": "0.80",
+        "motivo": "A questão delimita majorantes e aplicação da Lei de Drogas. Tráfico é o núcleo, mas os IDs 4708/6728 permanecem sem delimitação de ramo; registrar premissa antes de liberar."
+      },
+      "depois": {
+        "id": "Q0150",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "5181",
+        "confianca": "0.76",
+        "motivo": "Majorantes do tráfico e retroatividade sem combinação são exigidas; confirmar ramo 4708/6728 e contexto sumulado."
+      },
+      "resposta_proposta": "E",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "I e II exigem destinação internacional/interestadual; III exige retroatividade sem combinação de leis; IV erra ao exigir distância de duzentos metros para majorante de escola. O extra temporal é necessário para julgar III. Falta confirmar ramo 4708/6728 e contexto de jurisprudência.",
+      "fundamento_indicado": "Lei 11.343/2006:40; STJ:Súmulas501,587,607; ramo taxonômico pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0150.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "caminhos_extras": [
+        "Penal > Lei Penal no Tempo e no Espaço > Lei penal no Tempo"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0156",
+      "antes": {
+        "id": "Q0156",
+        "decisao": "revisar",
+        "tema_central_id": "4688",
+        "extras_ids": "",
+        "confianca": "0.80",
+        "motivo": "O bloco cobra sanções e regras da Lei de Crimes Ambientais. Os IDs 4688/6717 se sobrepõem sem escopo discriminante fornecido; a dúvida é taxonômica, não ausência de assunto penal."
+      },
+      "depois": {
+        "id": "Q0156",
+        "decisao": "revisar",
+        "tema_central_id": "4688",
+        "extras_ids": "",
+        "confianca": "0.75",
+        "motivo": "Sanção ambiental especial identificada; confirmar ramo 4688/6717 antes de publicar."
+      },
+      "resposta_proposta": "D",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A solução é interdição temporária de contratar por três anos no crime ambiental culposo. O fundamento é a sanção especial ambiental; falta confirmar o ramo 4688/6717, sem inferir equivalência entre títulos.",
+      "fundamento_indicado": "Lei 9.605/1998:10,16,22,37",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0156.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0159",
+      "antes": {
+        "id": "Q0159",
+        "decisao": "revisar",
+        "tema_central_id": "5226",
+        "extras_ids": "",
+        "confianca": "0.74",
+        "motivo": "O caso exige atribuir resultados a duas condutas sucessivas, confrontando homicídio tentado/consumado e latrocínio. Nexo Causal é hipótese explicativa, mas os tipos de vida e patrimônio são concorrentes sem núcleo único explícito."
+      },
+      "depois": {
+        "id": "Q0159",
+        "decisao": "revisar",
+        "tema_central_id": "5226",
+        "extras_ids": "5150;5160",
+        "confianca": "0.78",
+        "motivo": "Resposta B é hipótese; causalidade, homicídio e latrocínio são exigidos. Confirmar predominância temática, não apenas a letra."
+      },
+      "resposta_proposta": "B",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta assistida distingue tentativa de homicídio do primeiro autor e latrocínio do segundo, que produz a morte por golpe. Exige causalidade e dois enquadramentos penais independentes. Os extras tornam o conteúdo explícito; resta confirmar a predominância pedagógica do central, em vez de presumir que uma letra elimina a natureza composta.",
+      "fundamento_indicado": "CP:13,121,157; gabarito oficial e tema predominante a confirmar",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0159.json",
+      "caminho_central": "Penal > Teoria do Crime: Fato Típico > Nexo Causal e Imputação Objetiva",
+      "caminhos_extras": [
+        "Penal > Dos Crimes Contra a Vida > Homicídio",
+        "Penal > Dos Crimes Contra o Patrimônio > Roubo"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0163",
+      "antes": {
+        "id": "Q0163",
+        "decisao": "revisar",
+        "tema_central_id": "5133",
+        "extras_ids": "",
+        "confianca": "0.68",
+        "motivo": "O caso combina violação de correspondência prisional, abuso de autoridade e especialidade, com referência a lei antiga. Inviolabilidade da Correspondência é hipótese material; a predominância e o ramo de abuso exigem revisão."
+      },
+      "depois": {
+        "id": "Q0163",
+        "decisao": "revisar",
+        "tema_central_id": "5133",
+        "extras_ids": "4703",
+        "confianca": "0.74",
+        "motivo": "Correspondência prisional sob antiga Lei 4.898; conferir contexto histórico e central entre inviolabilidade e restrição executória."
+      },
+      "resposta_proposta": "E",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta assistida é ausência de crime na fiscalização motivada de correspondência prisional. É necessário distinguir inviolabilidade geral e restrições da execução. A questão usa a revogada Lei 4.898/1965 e requer conferir a versão histórica e o enquadramento central, não aplicar silenciosamente a lei atual.",
+      "fundamento_indicado": "CP:151; LEP:41; STF:HC70814; contexto histórico da Lei 4.898/1965",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0163.json",
+      "caminho_central": "Penal > Dos Crimes Contra a Liberdade Pessoal > Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos",
+      "caminhos_extras": [
+        "Direito Penal - Legislação Especial > Lei de Execução Penal"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0164",
+      "antes": {
+        "id": "Q0164",
+        "decisao": "revisar",
+        "tema_central_id": "4703",
+        "extras_ids": "",
+        "confianca": "0.78",
+        "motivo": "A assistência ao preso/egresso é conteúdo da LEP, mas o concorrente 6734 continua ativo. Fundamentar o ramo; desaparecimento de alerta na v2 não resolve a dúvida."
+      },
+      "depois": {
+        "id": "Q0164",
+        "decisao": "revisar",
+        "tema_central_id": "4703",
+        "extras_ids": "",
+        "confianca": "0.77",
+        "motivo": "Assistência ao preso/egresso; confirmar divisão do catálogo entre estatuto assistencial 4703 e execução processual 6734."
+      },
+      "resposta_proposta": "A",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta exige assistência ao egresso com alojamento/alimentação por dois meses prorrogáveis uma vez diante de busca de emprego. O conteúdo é assistência estatutária, não um pedido judicial específico. Confirmar divisão do catálogo entre LEP especial 4703 e processual 6734.",
+      "fundamento_indicado": "LEP:12,14,18,25,26",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0164.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0165",
+      "antes": {
+        "id": "Q0165",
+        "decisao": "revisar",
+        "tema_central_id": "4705",
+        "extras_ids": "",
+        "confianca": "0.80",
+        "motivo": "Enunciado e opções discutem organização criminosa, investigação e colaboração na Lei 12.850. O tema legal é hipótese central, mas há homônimo 6725 sem escopo discriminante."
+      },
+      "depois": {
+        "id": "Q0165",
+        "decisao": "revisar",
+        "tema_central_id": "4705",
+        "extras_ids": "",
+        "confianca": "0.75",
+        "motivo": "Tipo da organização e embaraço à investigação identificados; confirmar ramo 4705/6725 e contexto temporal."
+      },
+      "resposta_proposta": "A",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta compara promover organização e embaraçar sua investigação, submetidos ao art. 2º e §1º. Os distratores não tornam colaboração premiada o núcleo. A pendência continua sendo o ramo 4705/6725 e o contexto temporal da redação.",
+      "fundamento_indicado": "Lei 12.850/2013:1,2,4",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0165.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Organizações Criminosas",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0172",
+      "antes": {
+        "id": "Q0172",
+        "decisao": "revisar",
+        "tema_central_id": "5466",
+        "extras_ids": "",
+        "confianca": "0.63",
+        "motivo": "O bloco reúne recebimento/aditamento da denúncia, prescrição, imunidade parlamentar e exceção da verdade. Ação Penal é hipótese predominante, sem filho único nem garantia de cobrir a parte prescricional."
+      },
+      "depois": {
+        "id": "Q0172",
+        "decisao": "revisar",
+        "tema_central_id": "5484",
+        "extras_ids": "5467",
+        "confianca": "0.73",
+        "motivo": "Hipótese D exige imunidade parlamentar; não equivale automaticamente a competência por função. Confirmar escopo do tema sugerido."
+      },
+      "resposta_proposta": "D",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A hipótese de INCORRETA é a exigência de autorização legislativa para receber denúncia contra deputado distrital. A resolução identifica imunidade processual parlamentar, que não equivale simplesmente a competência por prerrogativa. O catálogo não tem esse instituto explícito; confirmar a sugestão e o contexto da prova.",
+      "fundamento_indicado": "CF:27,53; EC35/2001; escopo de imunidade/condições da ação no catálogo pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0172.json",
+      "caminho_central": "Processo Penal > Competência > Competência por Prerrogativa de Função",
+      "caminhos_extras": [
+        "Processo Penal > Ação Penal > Características e Condições da Ação Penal"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0182",
+      "antes": {
+        "id": "Q0182",
+        "decisao": "revisar",
+        "tema_central_id": "5138",
+        "extras_ids": "",
+        "confianca": "0.48",
+        "motivo": "O bloco sem núcleo no enunciado combina aborto, contágio, rixa e calúnia. Periclitação da Vida e Saúde é hipótese parcial para contágio/rixa, sem corresponder a todos os itens."
+      },
+      "depois": {
+        "id": "Q0182",
+        "decisao": "revisar",
+        "tema_central_id": "5138",
+        "extras_ids": "5154;5074;5122;5139",
+        "confianca": "0.58",
+        "motivo": "Aborto/participação, perigo venéreo, rixa e calúnia no mesmo item; sem central único e sem sequência confirmada. Extras explicitados."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "Os cinco itens cobram participação em aborto, perigo venéreo, rixa qualificada e consumação da calúnia. Não há núcleo único de Periclitação e a rixa não tem nó explícito; a quantidade de erros não foi confirmada. Extras registram os conhecimentos autônomos, inclusive das proposições falsas. Extras específicos são mantidos para os conteúdos efetivamente exigidos, inclusive sob um central mais amplo.",
+      "fundamento_indicado": "CP:124,126,130,137,138; confirmar gabarito e organização do item multitemático",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0182.json",
+      "caminho_central": "Penal > Dos Crimes Contra a Periclitação da Vida e da Saúde",
+      "caminhos_extras": [
+        "Penal > Dos Crimes Contra a Vida > Aborto",
+        "Penal > Concurso de Pessoas > Participação",
+        "Penal > Dos Crimes Contra a Honra > Calúnia",
+        "Penal > Dos Crimes Contra a Periclitação da Vida e da Saúde > Perigo de Contágio Venéreo e de Moléstia Grave"
+      ],
+      "justificativas_extras_independentes": {
+        "5139": "II: perigo de contágio de moléstia venérea é proposição independente."
+      },
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0197",
+      "antes": {
+        "id": "Q0197",
+        "decisao": "revisar",
+        "tema_central_id": "5498",
+        "extras_ids": "",
+        "confianca": "0.79",
+        "motivo": "A assertiva pergunta por atribuição investigativa da Polícia Federal em fatos contra banco. Inquérito é hipótese, mas a distinção material/federal e o ramo de competência também são essenciais e o catálogo não separa atribuições policiais."
+      },
+      "depois": {
+        "id": "Q0197",
+        "decisao": "revisar",
+        "tema_central_id": "5482",
+        "extras_ids": "",
+        "confianca": "0.77",
+        "motivo": "Atribuição investigatória da PF difere de competência judicial; hipótese E baseada no Banco do Brasil. Confirmar caminho temático."
+      },
+      "resposta_proposta": "E",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta rejeita atribuição federal automática por prejuízo ao Banco do Brasil, sociedade de economia mista. A resolução identifica o critério federal/estadual, mas o comando versa atribuição investigatória da PF e não competência judicial diretamente; confirmar se 5482 representa esse conteúdo melhor que Inquérito.",
+      "fundamento_indicado": "CF:144; STJ:Súmula42; escopo pedagógico da atribuição policial pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0197.json",
+      "caminho_central": "Processo Penal > Competência > Competência em Razão da Matéria",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0200",
+      "antes": {
+        "id": "Q0200",
+        "decisao": "revisar",
+        "tema_central_id": "4705",
+        "extras_ids": "",
+        "confianca": "0.80",
+        "motivo": "Todas as opções tratam da Lei de Organizações Criminosas, seus efeitos e investigação. O núcleo legal é claro, mas a preferência sobre o homônimo 6725 exige premissa de ramo."
+      },
+      "depois": {
+        "id": "Q0200",
+        "decisao": "revisar",
+        "tema_central_id": "4705",
+        "extras_ids": "",
+        "confianca": "0.75",
+        "motivo": "Permanência da organização após denúncia; confirmar precedente, contexto e ramo 4705/6725."
+      },
+      "resposta_proposta": "E",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A hipótese de resposta é cessação da permanência pelo recebimento da denúncia para nova imputação por conduta posterior. O núcleo é o crime de integrar organização; falta confirmar precedente/contexto e o ramo 4705/6725.",
+      "fundamento_indicado": "Lei 12.850/2013:1,2; jurisprudência de permanência a conferir",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0200.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Organizações Criminosas",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0213",
+      "antes": {
+        "id": "Q0213",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "",
+        "confianca": "0.75",
+        "motivo": "O comando cobra defesa prévia no rito especial da Lei de Drogas. O filho Defesa Preliminar 5533 tem pai ordinário incompatível, e os dois temas de tráfico não definem o escopo procedimental. Revisar em vez de publicar por título parecido."
+      },
+      "depois": {
+        "id": "Q0213",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "",
+        "confianca": "0.75",
+        "motivo": "Defesa prévia do rito da Lei de Drogas; nó 5533 é Ordinário. Confirmar inclusão do procedimento no módulo Tráfico e o ramo."
+      },
+      "resposta_proposta": "C",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta é notificação para defesa prévia em dez dias no rito especial da Lei de Drogas. O nó Defesa Preliminar está subordinado ao Ordinário e não deve ser usado por semelhança textual; confirmar se Tráfico inclui o procedimento e escolher o ramo 4708/6728.",
+      "fundamento_indicado": "Lei 11.343/2006:55; escopo do procedimento especial no catálogo pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0213.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0219",
+      "antes": {
+        "id": "Q0219",
+        "decisao": "revisar",
+        "tema_central_id": "5074",
+        "extras_ids": "",
+        "confianca": "0.35",
+        "motivo": "A assertiva nomeia participação necessária imprópria, mas depende de situação hipotética que não veio no registro. Participação é a hipótese temática; a ausência do caso impede avaliar o enquadramento específico."
+      },
+      "depois": {
+        "id": "Q0219",
+        "decisao": "revisar",
+        "tema_central_id": "5074",
+        "extras_ids": "",
+        "confianca": "0.78",
+        "motivo": "Falta integralmente a situação hipotética. O assunto sugerido é Participação, mas o item não está completo para o aluno."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "A expressão participação necessária imprópria sugere o tema Participação, mas falta a situação hipotética inteira. Não é possível julgar C/E nem oferecer ao aluno uma questão completa; a pendência é integridade do conteúdo, não simples ausência de gabarito.",
+      "fundamento_indicado": "Contexto hipotético ausente no arquivo original; CP:29 como referência temática",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0219.json",
+      "caminho_central": "Penal > Concurso de Pessoas > Participação",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0227",
+      "antes": {
+        "id": "Q0227",
+        "decisao": "publicar",
+        "tema_central_id": "5102",
+        "extras_ids": "",
+        "confianca": "0.93",
+        "motivo": "As situações comparam tipificações sexuais, especialmente estupro, vulnerabilidade e consequências. O pai substantivo de dignidade sexual cobre as espécies comparadas; o ECA aparece como imputação adicional em um caso, não núcleo autônomo geral."
+      },
+      "depois": {
+        "id": "Q0227",
+        "decisao": "revisar",
+        "tema_central_id": "5103",
+        "extras_ids": "4709",
+        "confianca": "0.80",
+        "motivo": "Hipótese D exige estupro e imagem sexual do ECA. Confirmar se 4709 inclui art. 240 ou apenas disciplina da Lei 13.431."
+      },
+      "resposta_proposta": "D",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A hipótese correta exige estupro de vulnerável e produção de imagem sexual da criança em concurso, com majorantes por parentesco. O central sexual é específico; o extra é sugestão para o crime do ECA, mas o catálogo não esclarece se 4709 inclui o art. 240 ou apenas a Lei 13.431. Confirmar esse escopo e o gabarito antes de publicar.",
+      "fundamento_indicado": "CP:217-A,226; ECA:240; escopo do tema 4709 pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0227.json",
+      "caminho_central": "Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável",
+      "caminhos_extras": [
+        "Direito Penal - Legislação Especial > Violência contra Criança e Adolescente"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0236",
+      "antes": {
+        "id": "Q0236",
+        "decisao": "revisar",
+        "tema_central_id": "5490",
+        "extras_ids": "",
+        "confianca": "0.52",
+        "motivo": "As assertivas misturam questão prejudicial, restituição de bens, prova investigativa e presença do acusado. Questões e Processos Incidentes é hipótese para os primeiros itens, sem cobrir todo o conjunto."
+      },
+      "depois": {
+        "id": "Q0236",
+        "decisao": "revisar",
+        "tema_central_id": "5590",
+        "extras_ids": "5491;5495;5582;5592",
+        "confianca": "0.64",
+        "motivo": "Prejudicial, restituição, valoração de prova e presença defensiva são autônomos; confirmar central e sequência. Extras não eliminam a ambiguidade."
+      },
+      "resposta_proposta": "C",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "I exige questão prejudicial de domínio; II, restituição; III, valoração de elementos do inquérito; IV, direito de presença/defesa. A hipótese de resposta C não elimina os quatro conteúdos. Teoria Geral das Provas é sugestão parcial; falta definir núcleo central entre institutos independentes. Extras específicos são mantidos para os conteúdos efetivamente exigidos, inclusive sob um central mais amplo.",
+      "fundamento_indicado": "CPP:93,120,155; CF:5,LV; gabarito e tema predominante a confirmar",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0236.json",
+      "caminho_central": "Processo Penal > Teoria Geral das Provas",
+      "caminhos_extras": [
+        "Processo Penal > Das Questões e Processos Incidentes > Questões Prejudiciais e Preliminares",
+        "Processo Penal > Das Questões e Processos Incidentes > Restituição de Coisas Apreendidas",
+        "Processo Penal > Sistemas e Princípios Processuais Penais > Princípios do Processo Penal",
+        "Processo Penal > Teoria Geral das Provas > Sistemas de Avaliação da Prova"
+      ],
+      "justificativas_extras_independentes": {
+        "5592": "III: limite à condenação fundada só em elementos do inquérito."
+      },
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0254",
+      "antes": {
+        "id": "Q0254",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.80",
+        "motivo": "O núcleo é medida protetiva na Lei Maria da Penha, com concorrente 6724 sem escopo discriminante. O ano 2016 mencionado na referência da lei aparenta ruído e foi preservado, sem corrigir os originais."
+      },
+      "depois": {
+        "id": "Q0254",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.76",
+        "motivo": "Tutelas protetivas autônomas da LMP; confirmar ramo 4704/6724. O ano 2016 no enunciado é erro preservado do original."
+      },
+      "resposta_proposta": "C",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "As três proposições exigem autonomia, duração pelo risco e concessão imediata das medidas protetivas. A referência a Lei 11.340/2016 é erro de ano preservado; a lei é de 2006. Confirmar o ramo 4704/6724 para essas tutelas, sem tratá-las como cautelares penais comuns por simples semelhança.",
+      "fundamento_indicado": "Lei 11.340/2006:19; Lei 14.550/2023; erro de ano no original",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0254.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0256",
+      "antes": {
+        "id": "Q0256",
+        "decisao": "revisar",
+        "tema_central_id": "5224",
+        "extras_ids": "",
+        "confianca": "0.74",
+        "motivo": "O item contrapõe erro sobre elemento do tipo e erro sobre autorização normativa, institutos em ramos distintos do catálogo. Erro de Tipo é hipótese central, concorrendo com Erro de Proibição."
+      },
+      "depois": {
+        "id": "Q0256",
+        "decisao": "revisar",
+        "tema_central_id": "5224",
+        "extras_ids": "5214",
+        "confianca": "0.77",
+        "motivo": "Compara erro de tipo e de proibição com redação problemática sobre imprudência/invencibilidade. Confirmar original e predominância temática."
+      },
+      "resposta_proposta": "E",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "O julgamento compara erro sobre elemento do tipo e crença de autorização jurídica. Erro de proibição não exclui dolo como afirma a conclusão; o primeiro segmento também usa imprudência/invencibilidade de modo problemático. Os dois ramos são conhecimentos efetivos e não há pai comum específico; confirmar predominância e redação original.",
+      "fundamento_indicado": "CP:20,21; erro de tipo e de proibição",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0256.json",
+      "caminho_central": "Penal > Teoria do Crime: Fato Típico > Erro de Tipo",
+      "caminhos_extras": [
+        "Penal > Teoria do Crime: Culpabilidade > Erro de Proibição"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0260",
+      "antes": {
+        "id": "Q0260",
+        "decisao": "revisar",
+        "tema_central_id": "4374",
+        "extras_ids": "",
+        "confianca": "0.64",
+        "motivo": "O bloco combina direito penal do inimigo, justiça restaurativa, minorias e movimentos sociais. Política Criminal é hipótese agregadora, sem definição que absorva com segurança toda a discussão sociopolítica."
+      },
+      "depois": {
+        "id": "Q0260",
+        "decisao": "revisar",
+        "tema_central_id": "4374",
+        "extras_ids": "4376;4370",
+        "confianca": "0.66",
+        "motivo": "Inimigo, restauração e movimentos de direitos no mesmo item; Política Criminal é sugestão parcial. Confirmar alcance do catálogo."
+      },
+      "resposta_proposta": "E",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "I exige Direito Penal do Inimigo; II exige Justiça Restaurativa; III e IV tratam de reivindicações de minorias e movimentos criadores de direitos. Política Criminal é sugestão parcial e não representa automaticamente os campos sociopolíticos externos. Extras explicitam os dois institutos identificáveis; confirmar central e alcance dos demais conteúdos. Extras específicos são mantidos para os conteúdos efetivamente exigidos, inclusive sob um central mais amplo.",
+      "fundamento_indicado": "Jakobs; Herkenhoff:MovimentosSociais; Justiça Restaurativa; gabarito e escopo pedagógico a confirmar",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0260.json",
+      "caminho_central": "Criminologia > Política Criminal",
+      "caminhos_extras": [
+        "Criminologia > Política Criminal > Direito Penal do Inimigo",
+        "Criminologia > Criminologia no Estado Democrático de Direito > Modelos de Reação ao Delito"
+      ],
+      "justificativas_extras_independentes": {
+        "4376": "I: definição de inimigo em Jakobs.",
+        "4370": "II: justiça restaurativa como modelo de reação ao delito."
+      },
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0267",
+      "antes": {
+        "id": "Q0267",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "",
+        "confianca": "0.74",
+        "motivo": "O caso reúne laudo de constatação, comunicação do flagrante e destruição da droga no rito especial. Lei de Drogas é hipótese, mas há homônimo e concorrência entre prova pericial e procedimento prisional."
+      },
+      "depois": {
+        "id": "Q0267",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "",
+        "confianca": "0.76",
+        "motivo": "Laudo e destruição de drogas no rito especial; confirmar abrangência do módulo Tráfico e ramo 4708/6728."
+      },
+      "resposta_proposta": "A",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta é a certificação judicial do laudo e destruição das drogas em dez dias, guardando amostra. A lei especial define o procedimento; confirmar abrangência desse conteúdo no título Tráfico e o ramo 4708/6728, sem usar perícia genérica para a rotina inteira.",
+      "fundamento_indicado": "Lei 11.343/2006:50",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0267.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0277",
+      "antes": {
+        "id": "Q0277",
+        "decisao": "revisar",
+        "tema_central_id": "4696",
+        "extras_ids": "",
+        "confianca": "0.78",
+        "motivo": "Crimes contra pessoa idosa são o núcleo, apesar da origem Civil. O desempate 4696/6722 exige premissa de ramo ainda não certificada."
+      },
+      "depois": {
+        "id": "Q0277",
+        "decisao": "revisar",
+        "tema_central_id": "4696",
+        "extras_ids": "",
+        "confianca": "0.76",
+        "motivo": "Tipo contra pessoa idosa identificado; confirmar ramo 4696/6722 sem presumir equivalência de títulos."
+      },
+      "resposta_proposta": "A",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta depende de a indução a procuração exigir pessoa idosa sem discernimento, diferentemente da opção com discernimento. O conteúdo criminal é identificável; confirmar o ramo 4696/6722, sem supor equivalência apenas pelo título.",
+      "fundamento_indicado": "Lei 10.741/2003:96,97,98,104,106",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0277.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0281",
+      "antes": {
+        "id": "Q0281",
+        "decisao": "revisar",
+        "tema_central_id": "5594",
+        "extras_ids": "",
+        "confianca": "0.79",
+        "motivo": "As assertivas comparam limites de interceptação, sigilo bancário, acesso da defesa e correspondência. Prova Ilegal/Ilícita é hipótese pelo controle das restrições, concorrendo com princípios e meios específicos sem núcleo expresso."
+      },
+      "depois": {
+        "id": "Q0281",
+        "decisao": "revisar",
+        "tema_central_id": "5590",
+        "extras_ids": "5555;5499",
+        "confianca": "0.67",
+        "motivo": "Interceptação, sigilo bancário/fiscal, acesso a autos e correspondência; falta central inequívoco para os quatro julgamentos."
+      },
+      "resposta_proposta": "B",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "I exige requisitos de interceptação; II, manutenção do segredo bancário/fiscal após quebra; III, acesso defensivo a autos; IV, sigilo de correspondência. A resposta B não elimina esses conteúdos autônomos. Sugere-se teoria geral da prova com extras de interceptação e sigilo do inquérito; confirmar central e limites das fontes de sigilo.",
+      "fundamento_indicado": "Lei 9.296/1996:2; LC105/2001; STF:SúmulaVinculante14; CF:5,XII",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0281.json",
+      "caminho_central": "Processo Penal > Teoria Geral das Provas",
+      "caminhos_extras": [
+        "Processo Penal > Provas em Espécies > Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos",
+        "Processo Penal > Inquérito Policial > Conceito, Finalidade e Caractéristas do Inquérito Policial"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0282",
+      "antes": {
+        "id": "Q0282",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.53",
+        "motivo": "O enunciado genérico mistura medidas protetivas, racismo e duas regras de armas. Maria da Penha é hipótese para duas opções, sem predominância que sustente publicação, e ainda há homônimo."
+      },
+      "depois": {
+        "id": "Q0282",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.76",
+        "motivo": "Resposta E identifica restrição de visitas na LMP; confirmar ramo 4704/6724. Outros estatutos nas opções não motivam a revisão."
+      },
+      "resposta_proposta": "E",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resolução exige restrição/suspensão de visitas aos dependentes com equipe multidisciplinar no âmbito da LMP. Os outros estatutos nas alternativas são distratores, e não motivo para revisar. A pendência é a escolha de ramo 4704/6724 para a medida protetiva.",
+      "fundamento_indicado": "Lei 11.340/2006:22; ramo do catálogo pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0282.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0288",
+      "antes": {
+        "id": "Q0288",
+        "decisao": "revisar",
+        "tema_central_id": "5103",
+        "extras_ids": "",
+        "confianca": "0.30",
+        "motivo": "O bloco mistura estupro, tributação penal, ambiente, concurso e responsabilidade de prefeitos, sem núcleo no enunciado. Estupro é apenas hipótese para revisão do primeiro item; não representa todo o conjunto."
+      },
+      "depois": {
+        "id": "Q0288",
+        "decisao": "revisar",
+        "tema_central_id": "5103",
+        "extras_ids": "4695;4688;5068",
+        "confianca": "0.58",
+        "motivo": "Cinco campos penais independentes, incluindo DL 201; sequência e redação de V pendentes. Sem central predominante sustentado."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "As cinco proposições exigem consentimento sexual/idade, ação em sonegação, atenuante ambiental, concurso formal impróprio e crimes de responsabilidade municipal. Não há núcleo único dominante; a V exige conferir distinção entre prefeitos e vereadores, e a sequência oficial não foi confirmada. Extras registram conteúdos efetivos, sem fingir que o central sexual cobre todos.",
+      "fundamento_indicado": "CP:70,217-A; Lei 8.137/1990; Lei 9.605/1998:14; DL201/1967:1",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0288.json",
+      "caminho_central": "Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável",
+      "caminhos_extras": [
+        "Direito Penal - Legislação Especial > Crimes Tributários",
+        "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+        "Penal > Concurso de Crimes > Concurso Formal"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0289",
+      "antes": {
+        "id": "Q0289",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.81",
+        "motivo": "O bloco delimita aspectos processuais e medidas protetivas da Lei Maria da Penha. O núcleo legal é claro, mas 4704/6724 não distinguem ramo para essa cobrança; fundamentar a escolha."
+      },
+      "depois": {
+        "id": "Q0289",
+        "decisao": "revisar",
+        "tema_central_id": "4704",
+        "extras_ids": "",
+        "confianca": "0.77",
+        "motivo": "Tutela inibitória da LMP/Tema 1249; confirmar ramo do catálogo. Não enquadrar como cautelar penal comum."
+      },
+      "resposta_proposta": "E",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta exige autonomia e duração das medidas protetivas como tutela inibitória no Tema 1249/STJ. Não são cautelares penais comuns; é preciso confirmar o ramo LMP do catálogo para esse conteúdo, sem se basear na citação genérica de violência.",
+      "fundamento_indicado": "STJ:REsp2070863/MG,Tema1249; Lei 11.340/2006:19; ramo taxonômico pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0289.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0309",
+      "antes": {
+        "id": "Q0309",
+        "decisao": "revisar",
+        "tema_central_id": "4688",
+        "extras_ids": "",
+        "confianca": "0.79",
+        "motivo": "A pergunta cobra sanção penal ambiental, mas os IDs 4688 e 6717 não têm escopo discriminante para certificar preferência de ramo."
+      },
+      "depois": {
+        "id": "Q0309",
+        "decisao": "revisar",
+        "tema_central_id": "4688",
+        "extras_ids": "",
+        "confianca": "0.76",
+        "motivo": "Tipo e pena ambientais identificados; confirmar ramo 4688/6717."
+      },
+      "resposta_proposta": "C",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta depende da pena de um a quatro anos e multa por disseminar doença/praga danosa no art. 61. O conteúdo legal é claro; confirmar o ramo ambiental 4688/6717 para a publicação.",
+      "fundamento_indicado": "Lei 9.605/1998:61",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0309.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0319",
+      "antes": {
+        "id": "Q0319",
+        "decisao": "revisar",
+        "tema_central_id": "5073",
+        "extras_ids": "",
+        "confianca": "0.76",
+        "motivo": "O texto mistura uma lista de categorias com alternativas de formato inconsistente, mas o núcleo legível é possibilidade de coautoria por espécie de crime. Modalidades de Autoria é hipótese, sujeita a revisão do registro original."
+      },
+      "depois": {
+        "id": "Q0319",
+        "decisao": "revisar",
+        "tema_central_id": "5073",
+        "extras_ids": "",
+        "confianca": "0.79",
+        "motivo": "Lista I/II/III não corresponde às opções A–E; possível concatenação de questões. Conferir fonte antes de remover/reconstruir trechos."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "A pergunta e as opções indicam coautoria em crimes de mão própria, mas há lista I/II/III sem ligação com as alternativas. É possível concatenação/corrupção de duas questões. Conferir a fonte original antes de publicar; não apagar o trecho silenciosamente.",
+      "fundamento_indicado": "Integridade do original: lista desconectada; doutrina de coautoria em delito de mão própria",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0319.json",
+      "caminho_central": "Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0324",
+      "antes": {
+        "id": "Q0324",
+        "decisao": "revisar",
+        "tema_central_id": "5199",
+        "extras_ids": "",
+        "confianca": "0.70",
+        "motivo": "As assertivas combinam prisão simples, efeitos acessórios, medida de segurança e trabalho do preso. Teoria da Pena é hipótese agregadora parcial, com segurança e execução em ramos distintos."
+      },
+      "depois": {
+        "id": "Q0324",
+        "decisao": "revisar",
+        "tema_central_id": "5199",
+        "extras_ids": "5184;4703;5201;5209",
+        "confianca": "0.65",
+        "motivo": "Pena simples, efeitos, medida de segurança e trabalho prisional; possível problema na assertiva III. Conferir combinação e central."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "I exige prisão simples; II, penas acessórias/efeitos; III, periculosidade em semi-imputável e medida de segurança; IV, trabalho prisional/remuneração e CLT. Não há núcleo único no pai Teoria da Pena. A redação de III sobre periculosidade presumida e a combinação ofertada precisam ser conferidas. Extras específicos são mantidos para os conteúdos efetivamente exigidos, inclusive sob um central mais amplo.",
+      "fundamento_indicado": "LCP:6; CP:92,98; LEP:28,29; gabarito e redação original pendentes",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0324.json",
+      "caminho_central": "Penal > Teoria da Pena",
+      "caminhos_extras": [
+        "Penal > Medida de Segurança",
+        "Direito Penal - Legislação Especial > Lei de Execução Penal",
+        "Penal > Teoria da Pena > Penas Privativas de Liberdade",
+        "Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais"
+      ],
+      "justificativas_extras_independentes": {
+        "5201": "I: regime e estabelecimento da prisão simples.",
+        "5209": "II: distinguir efeitos da condenação de antigas penas acessórias."
+      },
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0326",
+      "antes": {
+        "id": "Q0326",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "",
+        "confianca": "0.78",
+        "motivo": "O objeto é identificar crimes diversos na Lei de Drogas, incluindo prescrição culposa e uso compartilhado. Tráfico é hipótese de escopo mais estreito, com concorrente 6728 e ausência de tema geral explicitado da lei."
+      },
+      "depois": {
+        "id": "Q0326",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "",
+        "confianca": "0.75",
+        "motivo": "Resposta C é prescrição/ministração culposa do art. 38, não tráfico. Confirmar abrangência do módulo e ramo 4708/6728."
+      },
+      "resposta_proposta": "C",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta identifica prescrição/ministração culposa de drogas do art. 38, e não tráfico. Confirmar se o módulo de título Tráfico inclui esse tipo médico autônomo e qual ramo 4708/6728 usar. Não publicar por mera referência geral à Lei de Drogas.",
+      "fundamento_indicado": "Lei 11.343/2006:38; escopo do catálogo pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0326.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0331",
+      "antes": {
+        "id": "Q0331",
+        "decisao": "publicar",
+        "tema_central_id": "5477",
+        "extras_ids": "",
+        "confianca": "0.98",
+        "motivo": "Todas as alternativas tratam de cabimento, legitimados e processamento de habeas corpus. O instituto específico delimita o núcleo mesmo com enunciado genérico."
+      },
+      "depois": {
+        "id": "Q0331",
+        "decisao": "revisar",
+        "tema_central_id": "5477",
+        "extras_ids": "",
+        "confianca": "0.98",
+        "motivo": "Possíveis duas alternativas incorretas A/C sobre HC e legitimidade do juiz; conferir gabarito/anulação. Tema claro não elimina esse problema."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "O conteúdo é inequivocamente habeas corpus, mas A nega cabimento por ameaça e C afirma que magistrado jamais pode impetrar em favor de terceiro. Há possível duplicidade de alternativas incorretas; conferir gabarito/anulação e a posição do magistrado antes de liberar. A confiança alta no tema não elimina a pendência de integridade jurídica.",
+      "fundamento_indicado": "CPP:647,654; CF:5,LXVIII; gabarito/anulação oficial pendentes",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0331.json",
+      "caminho_central": "Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0337",
+      "antes": {
+        "id": "Q0337",
+        "decisao": "revisar",
+        "tema_central_id": "4684",
+        "extras_ids": "",
+        "confianca": "0.81",
+        "motivo": "O bloco delimita finalidade, interpretação e ação penal dos crimes da Lei 13.869. O núcleo é abuso de autoridade, com homônimo 6716 sem distinção de escopo fornecida."
+      },
+      "depois": {
+        "id": "Q0337",
+        "decisao": "revisar",
+        "tema_central_id": "4684",
+        "extras_ids": "5470",
+        "confianca": "0.77",
+        "motivo": "Dolo específico, divergência e ação incondicionada; confirmar ramo do abuso 4684/6716. Extra de ação penal necessário à assertiva III."
+      },
+      "resposta_proposta": "D",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "I exige dolo específico do abuso; II exige limite por divergência interpretativa; III é falsa porque a ação é pública incondicionada. O extra da espécie de ação representa conhecimento efetivamente julgado. A pendência é o ramo 4684/6716 e não a combinação V/F.",
+      "fundamento_indicado": "Lei 13.869/2019:1,3; ramo do catálogo pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0337.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Abuso de Autoridade",
+      "caminhos_extras": [
+        "Processo Penal > Ação Penal > Ação Penal Pública Incondicionada"
+      ],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0344",
+      "antes": {
+        "id": "Q0344",
+        "decisao": "revisar",
+        "tema_central_id": "4688",
+        "extras_ids": "",
+        "confianca": "0.80",
+        "motivo": "O enunciado delimita apreensão, destinação e ação penal na Lei Ambiental. O tema legal é hipótese, com concorrente 6717 sem critério de escopo suficiente para certificar o ID."
+      },
+      "depois": {
+        "id": "Q0344",
+        "decisao": "revisar",
+        "tema_central_id": "4688",
+        "extras_ids": "",
+        "confianca": "0.76",
+        "motivo": "Destinação de bens na lei ambiental; confirmar ramo 4688/6717 para essa disciplina especial."
+      },
+      "resposta_proposta": "D",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta exige venda de instrumentos com descaracterização/reciclagem. O objeto é destinação dos bens na lei ambiental; confirmar qual ramo 4688/6717 representa essa disciplina especial, sem usar restituição genérica para a regra inteira.",
+      "fundamento_indicado": "Lei 9.605/1998:25",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0344.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0348",
+      "antes": {
+        "id": "Q0348",
+        "decisao": "revisar",
+        "tema_central_id": "5093",
+        "extras_ids": "",
+        "confianca": "0.79",
+        "motivo": "O objeto é corrupção ativa em transação internacional, com aplicação espacial e prescrição. Corrupção Ativa é hipótese, mas o catálogo não explicita alcance ao tipo contra administração estrangeira nem um núcleo único para os efeitos adicionais."
+      },
+      "depois": {
+        "id": "Q0348",
+        "decisao": "revisar",
+        "tema_central_id": "5093",
+        "extras_ids": "",
+        "confianca": "0.69",
+        "motivo": "Corrupção ativa internacional: possível problema D/E e falta delimitar se o tema inclui art. 337-B. Conferir prova e gabarito."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "O núcleo é corrupção ativa internacional, com ato de dar, ato de ofício, extraterritorialidade, majorante e consumação/prescrição. Há possível problema entre D e E e o catálogo não explicita se Corrupção Ativa inclui o art. 337-B. Confirmar prova/gabarito e alcance do tema antes de publicar.",
+      "fundamento_indicado": "CP:337-B,337-D,327,111; contexto e gabarito oficial pendentes",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0348.json",
+      "caminho_central": "Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0353",
+      "antes": {
+        "id": "Q0353",
+        "decisao": "revisar",
+        "tema_central_id": "5188",
+        "extras_ids": "",
+        "confianca": "0.77",
+        "motivo": "O caso pergunta por providências durante processo diante de prescrição iminente, contrastando prescrição em perspectiva e garantias de instrução. Pretensão Punitiva é hipótese central, mas a gestão do rito e defesa também são essenciais."
+      },
+      "depois": {
+        "id": "Q0353",
+        "decisao": "revisar",
+        "tema_central_id": "5535",
+        "extras_ids": "",
+        "confianca": "0.77",
+        "motivo": "Resposta B trata da concentração de oitivas; confirmar central entre audiência do rito ordinário e princípio processual, não prescrição contextual."
+      },
+      "resposta_proposta": "B",
+      "estado_resposta": "resposta_assistida_sem_gabarito_oficial_confirmado",
+      "analise_individual": "A resposta permite concentrar oitivas sem suprimir defesa, em vez de antecipar prescrição ou cortar memoriais. O antigo tema Prescrição captava só a finalidade de acelerar. A sugestão é Audiência de Instrução, mas falta confirmar se o item genérico se refere ao rito ordinário ou ao princípio de concentração/celeridade em 5582.",
+      "fundamento_indicado": "CPP:400,403; STJ:Súmula438; escopo pedagógico pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0353.json",
+      "caminho_central": "Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0355",
+      "antes": {
+        "id": "Q0355",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "",
+        "confianca": "0.73",
+        "motivo": "O enunciado delimita porte de maconha para consumo e efeitos da decisão sobre art. 28. O tema Tráfico tem escopo mais estreito e homônimo 6728; não publicar nem excluir automaticamente por mudança da natureza penal do porte."
+      },
+      "depois": {
+        "id": "Q0355",
+        "decisao": "revisar",
+        "tema_central_id": "4708",
+        "extras_ids": "",
+        "confianca": "0.75",
+        "motivo": "Gabarito definitivo E confirmado; conteúdo é uso não penal de maconha. Confirmar se Tráfico inclui art. 28 e qual ramo do catálogo."
+      },
+      "resposta_proposta": "E",
+      "estado_resposta": "gabarito_oficial_definitivo",
+      "analise_individual": "A resposta exige sanções não penais ao usuário de maconha após o Tema 506/STF, com impossibilidade de prestação de serviços comunitários. Isso não é tipificação de tráfico. Confirmar se o módulo Tráfico abrange art. 28/uso e o ramo; não publicar por mero pertencimento à mesma lei.",
+      "fundamento_indicado": "STF:RE635659,Tema506; Lei 11.343/2006:28; escopo do catálogo pendente",
+      "conferencias_dirigidas_registradas": [],
+      "gabarito_oficial": {
+        "estado": "gabarito_oficial_definitivo",
+        "resposta": "E",
+        "banca": "FGV",
+        "concurso": "TJSE edital 01/2024; prova objetiva 2025",
+        "tipo": "2 verde",
+        "numero": 43,
+        "pagina_prova_pdf": 16,
+        "pagina_gabarito_pdf": 2,
+        "prova_url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutotjse-jsub-tipo-2.pdf",
+        "gabarito_url": "https://conhecimento.fgv.br/sites/default/files/concursos/tj-se-gabaritos-definitivo.pdf",
+        "conferencia": "Enunciado, alternativas, ordem e número conferidos no texto oficial; tabela visual tipo2 Q43 E. Não certifica abrangência do tema Tráfico para uso de maconha."
+      },
+      "busca_registrada": "auditoria_v4/buscas/Q0355.json",
+      "caminho_central": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    },
+    {
+      "id": "Q0359",
+      "antes": {
+        "id": "Q0359",
+        "decisao": "revisar",
+        "tema_central_id": "4696",
+        "extras_ids": "",
+        "confianca": "0.78",
+        "motivo": "O item cobra aplicação de rito e vedação de benefícios dos juizados em crimes contra idosos. O estatuto específico é hipótese, mas há concorrente 6722 e objeto processual em Procedimento Sumaríssimo, exigindo premissa de ramo."
+      },
+      "depois": {
+        "id": "Q0359",
+        "decisao": "revisar",
+        "tema_central_id": "5539",
+        "extras_ids": "",
+        "confianca": "0.81",
+        "motivo": "Art. 94 mudou pela Lei 15.163/2025. Conferir versão histórica e sinalizar desatualização; núcleo é rito/benefícios do Jecrim."
+      },
+      "resposta_proposta": null,
+      "estado_resposta": "resposta_nao_confirmada",
+      "analise_individual": "A questão reflete o art. 94 anterior e a ADI3096, mas a Lei 15.163/2025 alterou esse artigo e passou a excluir a Lei 9.099. O conteúdo é rito/benefícios do Jecrim, sugerindo 5539, e não tipificação contra idoso. A revisão é necessária para identificar a versão histórica e sinalizar desatualização; não adaptar silenciosamente o gabarito ao texto atual.",
+      "fundamento_indicado": "Fontes primárias consultadas: Lei 15.163/2025, art.3; Estatuto da Pessoa Idosa, art.94 atual; gabarito histórico não confirmado",
+      "conferencias_dirigidas_registradas": [
+        "Lei 15.163/2025:3",
+        "Lei 10.741/2003:94 atual"
+      ],
+      "gabarito_oficial": null,
+      "busca_registrada": "auditoria_v4/buscas/Q0359.json",
+      "caminho_central": "Processo Penal > Procedimento Sumaríssimo",
+      "caminhos_extras": [],
+      "justificativas_extras_independentes": {},
+      "referencia_independente_de_tema": false,
+      "data_reexame": "2026-10-16",
+      "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+    }
+  ]
+}

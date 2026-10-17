@@ -1,0 +1,21 @@
+{
+  "nome": "lote_003",
+  "finalidade": "classificacao",
+  "ids": [
+    "Q0021",
+    "Q0022",
+    "Q0023",
+    "Q0024",
+    "Q0025",
+    "Q0026",
+    "Q0027",
+    "Q0028",
+    "Q0029",
+    "Q0030"
+  ],
+  "sha256_prompt": "ad899d6923348a6858487fd773074bfc9f359a69c9e4aabfe072964473491c88",
+  "sha256_questoes": "c0c3639a42c0b24fa8e7dc94ef096cb6d00fa38eb1faa8bd5b4d3c059ee728ce",
+  "sha256_temas": "bcb2c9d6357708d11ef0a08ed8946210bc4210e5d2412f462db58f0242431084",
+  "sha256_preparacao": "d631cb4843a2946f7caedbf1d237dfc4c2e5fbc9611a1ececf51111f4ed0dcf5",
+  "descricao": "Catálogo compacto. Descrições completas em temas_ativos.json. Se forem acrescentadas ao prompt, registrar nova versão."
+}

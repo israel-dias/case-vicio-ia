@@ -1,0 +1,149 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0331",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5477",
+      "confianca_modelo": 0.98,
+      "justificativa": "Todas as alternativas tratam de cabimento, legitimados e processamento de habeas corpus. O instituto específico delimita o núcleo mesmo com enunciado genérico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0332",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5541",
+      "confianca_modelo": 0.98,
+      "justificativa": "O texto descreve aceitação de transação penal e intervalo para novo benefício, e todas as opções aplicam esse instituto. O tema específico corresponde diretamente à cobrança.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0333",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5170",
+      "confianca_modelo": 0.34,
+      "justificativa": "O enunciado genérico mistura sujeitos do delito, arrependimento, regime, positivismo e prazos. Introdução ao Direito Penal é só hipótese parcial, sem tema único que abranja todos os itens.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5219",
+        "5178",
+        "5201",
+        "4373",
+        "5487"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0334",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4381",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando pergunta pelos objetos de estudo criminológico, contrastando crime, vítima, controle e dogmática. Conceito e objeto é o subtema expresso.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0335",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5218",
+      "confianca_modelo": 0.7,
+      "justificativa": "O bloco reúne teoria da ação, omissão, dolo, norma em branco e classificações. Fato Típico é hipótese predominante, mas fontes e classificação dos crimes estão em outro ramo introdutório.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5171",
+        "5174",
+        "5221",
+        "5222"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0336",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5159",
+      "confianca_modelo": 0.97,
+      "justificativa": "A narrativa de subtração sem violência e recuperação imediata exige tipificar e verificar consumação de furto. O subtema específico é mais adequado que consumação em abstrato.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5177"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0337",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4684",
+      "confianca_modelo": 0.81,
+      "justificativa": "O bloco delimita finalidade, interpretação e ação penal dos crimes da Lei 13.869. O núcleo é abuso de autoridade, com homônimo 6716 sem distinção de escopo fornecida.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6716"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0338",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5590",
+      "confianca_modelo": 0.74,
+      "justificativa": "As opções combinam indício, confissão, testemunho, restrições civis e perícia. Teoria Geral das Provas é hipótese; o ramo estruturado de espécies concorre e não há instituto dominante no enunciado.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5543",
+        "5595",
+        "5548",
+        "5546"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0339",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5572",
+      "confianca_modelo": 0.76,
+      "justificativa": "O bloco mistura declaração da sentença, pronúncia, agravantes e correlação. Sentença Penal é hipótese predominante, mas os temas recursais e procedimento do Júri são externos ao seu ramo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5565",
+        "5527",
+        "5578",
+        "5576"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0340",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5071",
+      "confianca_modelo": 0.97,
+      "justificativa": "O enunciado delimita concurso de pessoas e todas as opções discutem participação, coautoria, menor importância e comunicabilidade. O pai substantivo abrange os filhos comparados.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

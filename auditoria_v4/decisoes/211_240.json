@@ -1,0 +1,315 @@
+[
+  [
+    211,
+    "A",
+    "publicar",
+    "5583",
+    [],
+    0.95,
+    "A INCORRETA permite manifestação de aprovação/desaprovação da plateia; o CPP a veda. A função de polícia da audiência exercida pelo juiz é o objeto comum, representado por Sujeitos do Processo como premissa de escopo, e não por um delito narrativo.",
+    "CPP:794,795; premissa: poderes de direção/polícia do juiz incluídos em Sujeitos do Processo"
+  ],
+  [
+    212,
+    "E",
+    "publicar",
+    "5488",
+    [],
+    0.99,
+    "A assertiva transfere indevidamente à citação por hora certa os efeitos da citação por edital. O núcleo é modalidade e consequência da citação, não interceptação ou prova citadas no cabeçalho.",
+    "CPP:362,366"
+  ],
+  [
+    213,
+    "C",
+    "publicar",
+    "4708",
+    [],
+    0.95,
+    "A notificação para defesa prévia em dez dias decorre do rito especial do art.55 da Lei de Drogas. Adota-se 4708 para o procedimento próprio do tráfico e afins, premissa explícita; não usar Defesa Preliminar subordinada ao Ordinário por coincidência textual.",
+    "Lei11.343/2006:55 consultado; C assistida"
+  ],
+  [
+    214,
+    "D",
+    "publicar",
+    "5494",
+    [],
+    0.99,
+    "Há repetição da ação pelos mesmos fatos sem trânsito da primeira, caracterizando litispendência e processamento da exceção em apartado. Corrupção passiva é só o caso narrado.",
+    "CPP:95,110,111"
+  ],
+  [
+    215,
+    "A",
+    "publicar",
+    "5201",
+    [],
+    0.99,
+    "A resposta depende de regime inicial semiaberto para primário com seis anos e circunstâncias favoráveis; gravidade abstrata não basta para fechado. O conhecimento é fixação do regime da pena privativa.",
+    "CP:33; STJ:Súmula440; STF:Súmulas718,719"
+  ],
+  [
+    216,
+    "A",
+    "publicar",
+    "5539",
+    [],
+    0.98,
+    "A resposta exige efeitos da composição civil em ação privada ou pública condicionada no Jecrim. O catálogo não possui filho de composição, e o pai Procedimento Sumaríssimo cobre o instituto sem reduzi-lo à transação.",
+    "Lei 9.099/1995:74,76,89"
+  ],
+  [
+    217,
+    "D",
+    "publicar",
+    "4371",
+    [],
+    0.95,
+    "A resolução identifica a reforma penal setecentista como reorganização do poder de punir na leitura de Foucault. O pai de etapas evolutivas e escolas é adotado pelo objeto histórico da reforma, sem presumir que toda menção a Foucault seja etiquetamento ou teoria legitimadora.",
+    "Michel Foucault: Vigiar e Punir; recorte histórico da reforma do século XVIII; fonte primária/gabarito a confirmar"
+  ],
+  [
+    218,
+    "E",
+    "publicar",
+    "5518",
+    [],
+    0.99,
+    "A polícia aguarda o retorno sem induzir o crime, caracterizando flagrante esperado. Documento falso e FGTS são contexto da modalidade de flagrante perguntada.",
+    "CPP:302; STF:Súmula145; distinção esperado/preparado"
+  ],
+  [
+    219,
+    null,
+    "revisar",
+    "5074",
+    [],
+    0.78,
+    "Falta integralmente a situação hipotética. A expressão participação sugere tema, mas o item não pode ser resolvido ou apresentado completo ao aluno.",
+    "Contexto hipotético ausente no arquivo original; CP:29 como referência temática"
+  ],
+  [
+    220,
+    "C",
+    "publicar",
+    "5501",
+    [],
+    0.98,
+    "A resposta exige a revisão ministerial do arquivamento e a possibilidade excepcional de remessa judicial por ilegalidade patente/teratologia. O instituto específico de conclusão/arquivamento é inequívoco.",
+    "CPP:28; STF:ADIs6298,6299,6300,6305"
+  ],
+  [
+    221,
+    "E",
+    "publicar",
+    "5184",
+    [],
+    0.95,
+    "A hipótese de resposta recai sobre duração e cessação de periculosidade na medida de segurança. Deve-se conferir data/gabarito e o limite jurisprudencial da duração; o conteúdo temático da resolução continua específico de Medida de Segurança.",
+    "CP:97; STJ:Súmula527; contexto temporal e gabarito a conferir"
+  ],
+  [
+    222,
+    "C",
+    "publicar",
+    "4375",
+    [],
+    0.95,
+    "A opção correta identifica quarta velocidade/neopunitivismo e responsabilização internacional de dirigentes. O conjunto exige correntes/velocidades de política criminal; Direito Penal do Inimigo é um dos distratores e não o núcleo único.",
+    "Doutrina: velocidades do Direito Penal; resposta assistida, sem gabarito oficial confirmado"
+  ],
+  [
+    223,
+    "E",
+    "publicar",
+    "5086",
+    [],
+    0.98,
+    "A solução exige a tipicidade estrita do ingresso de aparelho de comunicação: chip isolado não equivale ao aparelho descrito no art. 349-A. O tema Outros Crimes contra Administração Judicial cobre o tipo cujo alcance é perguntado, mesmo com resposta de atipicidade.",
+    "CP:349-A; precedentes STJ sobre chip isolado a conferir"
+  ],
+  [
+    224,
+    "C",
+    "publicar",
+    "5199",
+    [
+      "5207"
+    ],
+    0.98,
+    "É necessário distinguir condenação por crime e contravenção para reincidência e a exceção da condenação anterior só a multa para sursis. O pai Teoria da Pena cobre os dois institutos; roubo tentado é contexto. Extras específicos são mantidos para os conteúdos efetivamente exigidos, inclusive sob um central mais amplo.",
+    "CP:63,64,77"
+  ],
+  [
+    225,
+    "E",
+    "publicar",
+    "5478",
+    [],
+    0.99,
+    "O STJ não examinou mérito, logo a revisão não se torna de sua competência só pelo não conhecimento do especial. O conhecimento é competência na revisão criminal, não o latrocínio do relato.",
+    "CF:105; CPP:624; jurisprudência de competência revisional"
+  ],
+  [
+    226,
+    "D",
+    "publicar",
+    "5544",
+    [],
+    0.99,
+    "A INCORRETA troca coleta preferencial por exclusivamente perito oficial. As demais alternativas descrevem etapas da cadeia de custódia, instituto expressamente cobrado.",
+    "CPP:158-A,158-B,158-C"
+  ],
+  [
+    227,
+    "D",
+    "revisar",
+    "5103",
+    [
+      "4709"
+    ],
+    0.8,
+    "O art.240 do ECA é conteúdo adicional necessário; não se sabe se4709 abrange produção de imagem ou o regime da Lei13.431. É lacuna de escopo, não mero número de temas.",
+    "CP:217-A,226; ECA:240; escopo do tema 4709 pendente"
+  ],
+  [
+    228,
+    "D",
+    "publicar",
+    "5208",
+    [],
+    0.98,
+    "Pede-se o meio inicial de requerer livramento condicional ao juiz da execução: petição, sem decisão anterior a agravar. O procedimento para obter o benefício integra o tema específico; não é apelação ou revisão só porque são opções.",
+    "LEP:66,131; CP:83"
+  ],
+  [
+    229,
+    "C",
+    "publicar",
+    "5519",
+    [],
+    0.98,
+    "A INCORRETA inclui clamor público como fundamento autônomo da preventiva. A resolução permite escolher Preventiva em vez do pai de todas as prisões; as outras espécies nas opções não são motivo de revisão.",
+    "CPP:312,289-A,295; Lei 7.960/1989:2"
+  ],
+  [
+    230,
+    "B",
+    "publicar",
+    "5214",
+    [],
+    0.98,
+    "A opção correta descreve erro de proibição indireto sobre limites de norma autorizadora e seus efeitos. O conhecimento da resolução fornece o filho específico de Culpabilidade; concurso e sanção nos distratores não impedem a classificação.",
+    "CP:21,28,29; doutrina de erro de proibição indireto"
+  ],
+  [
+    231,
+    "A",
+    "publicar",
+    "5224",
+    [],
+    0.99,
+    "A resposta exige que erro essencial exclua dolo e, inexistindo tráfico culposo, gere atipicidade. Tráfico é o caso de aplicação; o instituto perguntado é erro de tipo.",
+    "CP:20; Lei 11.343/2006:33"
+  ],
+  [
+    232,
+    "A",
+    "publicar",
+    "5080",
+    [],
+    0.98,
+    "A resposta correta exige denunciação caluniosa por imputação consciente de ato ímprobo, com nome suposto. A resolução permite selecionar o tipo específico em vez do pai Administração Judicial.",
+    "CP:339; Lei 14.110/2020; conferir data da prova"
+  ],
+  [
+    233,
+    "B",
+    "publicar",
+    "5178",
+    [],
+    0.99,
+    "A alternativa correta descreve desistência voluntária e responsabilidade pelos atos já praticados. As outras opções trocam arrependimento, tentativa e impossibilidade; o tema específico cobre os institutos comparados.",
+    "CP:15,16,17"
+  ],
+  [
+    234,
+    "B",
+    "publicar",
+    "4382",
+    [],
+    0.98,
+    "A resposta afasta hermenêutica dogmática do método empírico e interdisciplinar da criminologia. As demais ciências são contribuições metodológicas, não temas penais a adicionar.",
+    "Criminologia: método empírico e interdisciplinaridade"
+  ],
+  [
+    235,
+    "E",
+    "publicar",
+    "5561",
+    [
+      "5515"
+    ],
+    0.98,
+    "O CPP prevê RESE contra decisão que conclui pela incompetência, e não pela competência como escrito. O efeito recursal também é afirmado e integra o conteúdo; o cabimento da espécie resolve a falsidade.",
+    "CPP:581,584,586"
+  ],
+  [
+    236,
+    "C",
+    "revisar",
+    "5590",
+    [
+      "5491",
+      "5495",
+      "5582",
+      "5592"
+    ],
+    0.64,
+    "Institutos independentes e afirmação de nulidade absoluta exigem conferir contexto. Provas é sugestão parcial; resposta e integridade jurídica ainda não confirmadas.",
+    "CPP:93,120,155; CF:5,LV; gabarito e tema predominante a confirmar"
+  ],
+  [
+    237,
+    "A",
+    "publicar",
+    "5178",
+    [],
+    0.99,
+    "A solução distingue interrupção voluntária da execução e atuação eficaz posterior aos atos executórios para evitar resultado. É comparação direta dos dois institutos cobertos pelo mesmo tema.",
+    "CP:15"
+  ],
+  [
+    238,
+    "C",
+    "publicar",
+    "5523",
+    [],
+    0.99,
+    "A assertiva reproduz a hipótese de reforço da fiança por mudança de classificação do delito. O núcleo específico é fiança/liberdade provisória.",
+    "CPP:340"
+  ],
+  [
+    239,
+    "D",
+    "publicar",
+    "5207",
+    [],
+    0.98,
+    "A resposta correta descreve sursis simples e especial e suas condições. As outras alternativas de atenuantes/aberratio não justificam ficar no pai Teoria da Pena; o conhecimento decisivo é suspensão condicional da pena.",
+    "CP:77,78,65,66,73"
+  ],
+  [
+    240,
+    "A",
+    "publicar",
+    "5500",
+    [
+      "5473"
+    ],
+    0.97,
+    "A resolução soma dez dias do inquérito preso e cinco para denúncia, considerando remessa/vista no mesmo dia útil e as regras de contagem. O extra Denúncia é necessário ao segundo prazo; roubo não é o objeto cobrado.",
+    "CPP:10,46,798; data inicial 08/08/2011; hipótese de total quinze dias"
+  ]
+]

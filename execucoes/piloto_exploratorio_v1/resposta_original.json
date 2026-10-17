@@ -1,0 +1,204 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0017",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5533",
+      "extras_ids": [],
+      "confianca_modelo": 0.6,
+      "justificativa": "A questão cobra notificação e resposta antes do recebimento da acusação no procedimento relativo a funcionários públicos. Defesa Preliminar é a sugestão mais próxima, mas está sob Procedimento Ordinário, não sob o rito especial mencionado.",
+      "temas_concorrentes_ids": ["5531", "5473"],
+      "alertas": ["rito_especial_sem_categoria_explicitamente_correspondente", "sugestao_exige_confirmacao_do_escopo"]
+    },
+    {
+      "id": "Q0029",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4684",
+      "extras_ids": [],
+      "confianca_modelo": 0.75,
+      "justificativa": "O enunciado identifica expressamente a Lei 13.869/2019 e pergunta por conduta de abuso de autoridade. Há outro tema ativo com o mesmo título em Penal, sem equivalência de ramo definida.",
+      "temas_concorrentes_ids": ["6716"],
+      "alertas": ["titulo_repetido_em_ramos_distintos", "assunto_origem_medida_de_seguranca_nao_representa_nucleo"]
+    },
+    {
+      "id": "Q0035",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4706",
+      "extras_ids": [],
+      "confianca_modelo": 0.96,
+      "justificativa": "O enunciado nomeia a Lei Antiterrorismo e as alternativas tratam de suas regras. Terrorismo é um tema ativo específico; o comando já está no enunciado.",
+      "temas_concorrentes_ids": [],
+      "alertas": ["sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0036",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4704",
+      "extras_ids": [],
+      "confianca_modelo": 0.7,
+      "justificativa": "A pergunta se concentra na audiência prevista no artigo 16 da Lei Maria da Penha. O enquadramento material é claro, mas há dois IDs de Lei Maria da Penha em ramos distintos e interface com ação penal.",
+      "temas_concorrentes_ids": ["6724", "5471", "5470"],
+      "alertas": ["titulo_repetido_em_ramos_distintos", "metadados_de_origem_ausentes"]
+    },
+    {
+      "id": "Q0058",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4390",
+      "extras_ids": [],
+      "confianca_modelo": 0.55,
+      "justificativa": "A relação entre pobreza e sistema penal envolve seletividade da criminalização e da vitimização. Processo de Vitimização é uma sugestão apoiada na alternativa sobre seleção das vítimas, mas o enunciado é amplo e não permite fixar o núcleo com segurança.",
+      "temas_concorrentes_ids": ["4378", "4388", "4384"],
+      "alertas": ["conteudo_transversal", "nucleo_depende_de_interpretacao_das_alternativas", "origem_nao_e_gabarito"]
+    },
+    {
+      "id": "Q0059",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4388",
+      "extras_ids": [],
+      "confianca_modelo": 0.6,
+      "justificativa": "O texto cobra uma concepção criminológica sobre cárcere, reinserção e relação entre preso e sociedade a partir de Alessandro Baratta. A árvore não nomeia explicitamente essa concepção; há dúvida entre teorias criminológicas e teorias da pena.",
+      "temas_concorrentes_ids": ["4384", "4375"],
+      "alertas": ["escopo_dos_temas_nao_distingue_a_concepcao_cobrada"]
+    },
+    {
+      "id": "Q0069",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5173",
+      "extras_ids": [],
+      "confianca_modelo": 0.96,
+      "justificativa": "O enunciado pergunta explicitamente pela forma de interpretação da legislação penal diante de expressões abertas, e todas as opções são métodos interpretativos.",
+      "temas_concorrentes_ids": [],
+      "alertas": ["sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0090",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5532",
+      "extras_ids": [],
+      "confianca_modelo": 0.45,
+      "justificativa": "As alternativas comparam atos e regras de vários procedimentos: juizados, júri, rito ordinário e procedimento relativo a funcionário público. Classificação dos Procedimentos é uma sugestão agregadora, mas pertence ao ramo do procedimento ordinário.",
+      "temas_concorrentes_ids": ["5539", "5524", "5531", "5533"],
+      "alertas": ["enunciado_generico", "multiplos_procedimentos", "categoria_agregadora_com_escopo_incertamente_adequado"]
+    },
+    {
+      "id": "Q0106",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5157",
+      "extras_ids": [],
+      "confianca_modelo": 0.75,
+      "justificativa": "A pergunta trata do enquadramento do pendura em restaurante, com alternativas sobre fraude e outros crimes patrimoniais. O ramo patrimonial é a sugestão central; a árvore não explicita a fraude relativa a refeições e mantém categorias Parte 1 e Parte 2 sem limites definidos.",
+      "temas_concorrentes_ids": ["5166", "6720", "6721"],
+      "alertas": ["subtipo_nao_explicitado_na_arvore", "sobreposicao_com_categorias_parte_1_e_2"]
+    },
+    {
+      "id": "Q0116",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4708",
+      "extras_ids": [],
+      "confianca_modelo": 0.7,
+      "justificativa": "Enunciado e alternativas tratam da Lei 11.343/2006, incluindo tráfico, consumo e disposições penais. Tráfico de Drogas é o tema específico disponível, mas seu alcance é mais estreito que o conjunto da lei e há um homônimo em Penal.",
+      "temas_concorrentes_ids": ["6728"],
+      "alertas": ["titulo_repetido_em_ramos_distintos", "escopo_lei_de_drogas_mais_amplo_que_titulo_trafico", "assunto_origem_prescricao_nao_representa_nucleo"]
+    },
+    {
+      "id": "Q0164",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4703",
+      "extras_ids": [],
+      "confianca_modelo": 0.75,
+      "justificativa": "O enunciado cita a LEP e cobra assistência ao preso e ao egresso. Existe Lei de Execução Penal tanto em Legislação Especial quanto em Processo Penal.",
+      "temas_concorrentes_ids": ["6734"],
+      "alertas": ["titulo_repetido_em_ramos_distintos", "assunto_origem_teoria_da_pena_nao_define_ramo"]
+    },
+    {
+      "id": "Q0171",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4693",
+      "extras_ids": [],
+      "confianca_modelo": 0.35,
+      "justificativa": "A questão reúne alterações do Pacote Anticrime em pena, crimes hediondos, colaboração, perfis genéticos e ANPP. Crimes Hediondos é uma sugestão provisória apoiada em uma dessas alternativas; o enunciado não estabelece um único tópico central.",
+      "temas_concorrentes_ids": ["5502", "5201", "5557", "5187"],
+      "alertas": ["questao_multitematica", "tema_central_provisorio", "nao_classificar_apenas_por_assunto_de_origem"]
+    },
+    {
+      "id": "Q0193",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5557",
+      "extras_ids": [],
+      "confianca_modelo": 0.9,
+      "justificativa": "O enunciado identifica colaboração premiada e todas as alternativas tratam de acordo, benefícios e procedimento da colaboração. Há um subtema ativo com esse título específico.",
+      "temas_concorrentes_ids": ["4705"],
+      "alertas": ["origem_inquerito_policial_nao_define_nucleo", "sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0195",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4373",
+      "extras_ids": [],
+      "confianca_modelo": 0.92,
+      "justificativa": "A questão compara conceitos e modelos das escolas clássica, positivista e crítica, correspondendo ao subtema de escolas criminológicas.",
+      "temas_concorrentes_ids": [],
+      "alertas": ["sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0218",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5518",
+      "extras_ids": [],
+      "confianca_modelo": 0.96,
+      "justificativa": "As alternativas perguntam exclusivamente pelo tipo e pela legalidade da prisão em flagrante narrada. O documento falso contextualiza o fato, mas não é o núcleo cobrado.",
+      "temas_concorrentes_ids": [],
+      "alertas": ["disciplina_origem_constitucional_nao_representa_nucleo", "sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0277",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4696",
+      "extras_ids": [],
+      "confianca_modelo": 0.7,
+      "justificativa": "O enunciado e as alternativas tratam expressamente dos crimes contra pessoa idosa. Dois temas ativos representam esse conteúdo em Legislação Especial e Penal, apesar da diferença de grafia dos títulos.",
+      "temas_concorrentes_ids": ["6722"],
+      "alertas": ["sobreposicao_semantica_em_ramos_distintos", "disciplina_origem_civil_nao_representa_nucleo"]
+    },
+    {
+      "id": "Q0299",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4388",
+      "extras_ids": [],
+      "confianca_modelo": 0.7,
+      "justificativa": "As alternativas comparam correntes criminológicas, incluindo labelling approach, positivismo e criminologia crítica. Teorias Criminológicas em Espécie é a sugestão, com sobreposição possível com escolas e teorias da pena.",
+      "temas_concorrentes_ids": ["4373", "4384"],
+      "alertas": ["enunciado_generico", "nucleo_identificado_nas_alternativas", "sobreposicao_entre_escolas_e_teorias"]
+    },
+    {
+      "id": "Q0302",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5224",
+      "extras_ids": [],
+      "confianca_modelo": 0.94,
+      "justificativa": "O caso enfatiza desconhecimento de uma circunstância fática e pergunta por exclusão do dolo, distinguindo erro de tipo de erro de proibição e outras excludentes.",
+      "temas_concorrentes_ids": ["5214"],
+      "alertas": ["sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0303",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5180",
+      "extras_ids": [],
+      "confianca_modelo": 0.88,
+      "justificativa": "A pergunta trata de aplicação da lei penal, com alternativas sobre tempo do crime, sentença estrangeira e extraterritorialidade. O tema pai cobre a combinação de aspectos temporais e espaciais.",
+      "temas_concorrentes_ids": ["5182", "5181"],
+      "alertas": ["assunto_origem_acao_penal_nao_representa_nucleo", "tema_pai_escolhido_por_conteudo_transversal", "sugestao_preliminar_sujeita_a_auditoria"]
+    },
+    {
+      "id": "Q0309",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4688",
+      "extras_ids": [],
+      "confianca_modelo": 0.75,
+      "justificativa": "O enunciado cita a Lei 9.605/1998 e cobra a pena de um ilícito ambiental. Há dois temas ativos de crimes contra o meio ambiente em ramos diferentes.",
+      "temas_concorrentes_ids": ["6717"],
+      "alertas": ["titulo_repetido_em_ramos_distintos", "origem_ambiental_nao_implica_fora_do_catalogo"]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0011",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4702",
+      "extras_ids": [
+        "5482"
+      ],
+      "confianca_modelo": 0.8,
+      "justificativa": "O caso exige enquadramento da ocultação de recursos ilícitos e competência federal. Lavagem de Dinheiro 4702 é hipótese central e competência material 5482 é adicional efetivamente cobrado; o homônimo 6723 não tem escopo que permita desempate seguro.",
+      "temas_concorrentes_ids": [
+        "6723"
+      ],
+      "alertas": [
+        "desempate_de_ramo_pendente",
+        "competencia_federal_tambem_cobrada"
+      ]
+    },
+    {
+      "id": "Q0012",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5569",
+      "extras_ids": [],
+      "confianca_modelo": 0.96,
+      "justificativa": "A pergunta delimita o recurso contra rejeição da denúncia no Juizado Especial Criminal. O subtema Recursos no Âmbito dos Juizados Especiais é mais específico que apelação genérica ou toda a Lei 9.099.",
+      "temas_concorrentes_ids": [
+        "5562",
+        "5539",
+        "4701"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0013",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5503",
+      "extras_ids": [],
+      "confianca_modelo": 0.98,
+      "justificativa": "Enunciado e alternativas delimitam as competências legais do juiz das garantias. Há subtema ativo específico 5503; a menção ao Pacote Anticrime apenas contextualiza sua criação.",
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0014",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5477",
+      "extras_ids": [],
+      "confianca_modelo": 0.94,
+      "justificativa": "A assertiva discute o cabimento do habeas corpus para questionar restrição da liberdade de adolescente. O instituto de impugnação é o núcleo explícito, independentemente da falta de detalhes anteriores sobre Pedro.",
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "narrativa_anterior_nao_fornecida_mas_objeto_do_item_identificavel",
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0015",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5500",
+      "extras_ids": [],
+      "confianca_modelo": 0.94,
+      "justificativa": "O enunciado delimita inquérito policial e as alternativas comparam atuação da polícia, prazos, diligências e devolução dos autos. Procedimento do Inquérito representa esse conjunto sem se restringir ao arquivamento.",
+      "temas_concorrentes_ids": [
+        "5498",
+        "5501"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0016",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5584",
+      "extras_ids": [],
+      "confianca_modelo": 0.68,
+      "justificativa": "As assertivas combinam preventiva de ofício, prisão especial e apresentação ao juiz das garantias. Teoria Geral das Prisões é hipótese agregadora, mas os conteúdos estão em ramos diferentes e nenhum filho abrange o conjunto.",
+      "temas_concorrentes_ids": [
+        "5519",
+        "5586",
+        "5589",
+        "5503"
+      ],
+      "alertas": [
+        "questao_multitematica_sobre_prisoes",
+        "tema_agregador_exige_revisao"
+      ]
+    },
+    {
+      "id": "Q0018",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5540",
+      "extras_ids": [],
+      "confianca_modelo": 0.97,
+      "justificativa": "O item pergunta por hipóteses que excluem a competência dos Juizados Especiais Criminais. Há subtema expresso de competência nesse procedimento, mais adequado que competência criminal genérica.",
+      "temas_concorrentes_ids": [
+        "5480",
+        "4701"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0019",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5475",
+      "extras_ids": [],
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado nomeia a ação civil ex delicto e todas as alternativas discutem legitimidade, suspensão ou efeitos de decisões penais na reparação civil. O tema específico 5475 abrange o conjunto.",
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0020",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5199",
+      "extras_ids": [],
+      "confianca_modelo": 0.4,
+      "justificativa": "O bloco reúne concurso de crimes do ECA, dosimetria, falsa identidade, furto noturno e benefícios dos juizados. Teoria da Pena é só hipótese parcial para revisão; nenhum núcleo único é sustentado pelo enunciado genérico de jurisprudência.",
+      "temas_concorrentes_ids": [
+        "5067",
+        "5203",
+        "5119",
+        "5159",
+        "5539"
+      ],
+      "alertas": [
+        "alternativas_de_ramos_distintos",
+        "tema_central_apenas_hipotese_parcial"
+      ]
+    },
+    {
+      "id": "Q0021",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5503",
+      "extras_ids": [],
+      "confianca_modelo": 0.98,
+      "justificativa": "O item trata exclusivamente da implementação do juiz das garantias segundo julgamento do STF. O prazo é aspecto desse instituto, não prazo de ato processual ou competência genérica.",
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

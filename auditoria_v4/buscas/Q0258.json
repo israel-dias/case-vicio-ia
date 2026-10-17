@@ -1,0 +1,87 @@
+{
+  "id": "Q0258",
+  "consulta_executada": "\"deve ser realizado por perito oficial ou pelo próprio juiz.\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "O exame de corpo de delito",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/a50dfb94-fc",
+      "ref_consulta": "turn292search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Prova pericial e exame de corpo de delito para Concurso - Página 11 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/prova-pericial-e-exame-de-corpo-de-delito/questoes?page=11",
+      "ref_consulta": "turn292search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 79 - TJ-MA - Oficial de Justiça - FCC (2019) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tribunal-de-justica-do-estado-do-maranhao-tj-ma-oficial-de-justica-fcc-2019/79",
+      "ref_consulta": "turn292search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Direito Processual Penal para FCC | Qconcursos.com - Página 15",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&examining_board_ids%5B%5D=1&has_professor_commentaries=true&page=15",
+      "ref_consulta": "turn292search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Prova pericial e exame de corpo de delito em Direito Processual Penal | Qconcursos.com - Página 11",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?page=11&subject_ids%5B%5D=20540",
+      "ref_consulta": "turn292search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Prova pericial e exame de corpo de delito em Direito Processual Penal | Qconcursos.com - Página 11",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&has_commentaries=true&page=11&subject_ids%5B%5D=20540",
+      "ref_consulta": "turn292search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 14 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&examining_board_ids%5B%5D=1&examining_board_ids%5B%5D=152&examining_board_ids%5B%5D=63&page=14&subject_ids%5B%5D=154",
+      "ref_consulta": "turn292search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "    <th>Sala</",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/65715/fcc-2019-tj-ma-oficial-de-justica-prova.pdf",
+      "ref_consulta": "turn292search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Portal da Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-publicacaooriginal-146341-pl.html",
+      "ref_consulta": "turn292search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Exame de corpo delito e perícias - Página 8 | Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-processual-penal-exame-de-corpo-delito-e-pericias-406647?pagina=8",
+      "ref_consulta": "turn292search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "CP.MODELO",
+      "url": "https://dhg1h5j42swfq.cloudfront.net/2019/10/01093723/Oficial_de_Justi%C3%A7a.pdf",
+      "ref_consulta": "turn292search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "• CP_CPP_Leis_2022.indb",
+      "url": "https://juspodivmdigital.com.br/cdn/arquivos/jus1966_previa-do-livro.pdf",
+      "ref_consulta": "turn292search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Investigação Forense e Inquérito Policial | PDF | Procedimento criminal | Direito Penal",
+      "url": "https://pt.scribd.com/document/630018322/Apostila-Investigacao-forense-e-inquerito-policial-pdf",
+      "ref_consulta": "turn292search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

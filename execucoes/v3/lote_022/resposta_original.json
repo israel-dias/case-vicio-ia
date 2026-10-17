@@ -1,0 +1,144 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0226",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5544",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado nomeia cadeia de custódia e as alternativas discutem suas etapas. O tema específico corresponde diretamente ao conteúdo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0227",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5102",
+      "confianca_modelo": 0.93,
+      "justificativa": "As situações comparam tipificações sexuais, especialmente estupro, vulnerabilidade e consequências. O pai substantivo de dignidade sexual cobre as espécies comparadas; o ECA aparece como imputação adicional em um caso, não núcleo autônomo geral.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5103",
+        "5104",
+        "5109"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0228",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5208",
+      "confianca_modelo": 0.95,
+      "justificativa": "O comando delimita o pedido de livramento condicional e distingue a via adequada de impugnações indevidas. O instituto do benefício é explícito e específico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6734",
+        "5566"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0229",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5584",
+      "confianca_modelo": 0.72,
+      "justificativa": "O bloco combina execução de mandado, recaptura, prisão especial, preventiva e temporária. Teoria Geral das Prisões é hipótese agregadora, mas os objetos se distribuem em ramos distintos.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5517",
+        "5586",
+        "5519",
+        "5520"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0230",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5211",
+      "confianca_modelo": 0.56,
+      "justificativa": "O enunciado já combina culpabilidade, concurso de pessoas, finalidades da pena e segurança. Culpabilidade é hipótese para as duas primeiras alternativas; não representa todo o conjunto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5071",
+        "4384",
+        "5184"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0231",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5224",
+      "confianca_modelo": 0.98,
+      "justificativa": "A pergunta nomeia erro de tipo essencial e exige seus efeitos. O tráfico é apenas o delito usado para aplicar o instituto da teoria do fato típico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0232",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5079",
+      "confianca_modelo": 0.97,
+      "justificativa": "Todas as alternativas comparam crimes contra a administração da Justiça, filhos do mesmo pai substantivo. O enunciado confirma essa delimitação temática.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0233",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5178",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado e alternativas comparam desistência voluntária e arrependimento eficaz, expressamente reunidos no subtema 5178.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0234",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4382",
+      "confianca_modelo": 0.94,
+      "justificativa": "O comando pergunta pela interdisciplinaridade e campos metodológicos da criminologia, contrastando empiria e dogmática. Métodos e funções é o subtema mais específico disponível.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4381"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0235",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5561",
+      "confianca_modelo": 0.97,
+      "justificativa": "O item delimita cabimento, prazo e efeito do recurso em sentido estrito. RESE é central e efeitos recursais são adicional explicitamente perguntado.",
+      "extras_ids": [
+        "5515"
+      ],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

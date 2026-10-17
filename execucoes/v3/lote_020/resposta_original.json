@@ -1,0 +1,139 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0205",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5512",
+      "confianca_modelo": 0.77,
+      "justificativa": "As opções comparam espécies recursais, desistência, interesse e efeito da apelação, sem delimitar núcleo no enunciado. Parte Geral dos Recursos é hipótese, mas a espécie carta testemunhável pertence a outro ramo estruturado.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5567",
+        "5513",
+        "5514",
+        "5515"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0206",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5583",
+      "confianca_modelo": 0.97,
+      "justificativa": "O enunciado delimita admissão e poderes do assistente de acusação como sujeito processual. Não há filho específico, e o pai substantivo Sujeitos do Processo representa a cobrança.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0207",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "6734",
+      "confianca_modelo": 0.8,
+      "justificativa": "O caso cobra falta grave por celular, disciplina, regressão e prescrição na execução. LEP em Processo Penal é hipótese, mas a sobreposição com 4703 ainda exige premissa de ramo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4703"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0208",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5072",
+      "confianca_modelo": 0.95,
+      "justificativa": "A assertiva final pergunta exclusivamente se os dois irmãos são autor e partícipe. Homicídio e reação defensiva são a narrativa de contexto; Autores e Partícipes corresponde ao objeto efetivamente afirmado.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0209",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5499",
+      "confianca_modelo": 0.78,
+      "justificativa": "O item combina sigilo/registro de inquérito em atestado e presunção de inocência. Características do Inquérito é hipótese pelo ato policial, concorrendo com Princípios do Processo Penal sem núcleo unívoco no catálogo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5582"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0210",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4697",
+      "confianca_modelo": 0.97,
+      "justificativa": "Enunciado e todas as opções delimitam crimes e regimes do Estatuto do Desarmamento. Insignificância, lei benéfica e hediondez são examinadas dentro desse objeto legal específico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0211",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5583",
+      "confianca_modelo": 0.75,
+      "justificativa": "O bloco trata de poderes do juiz e publicidade/ordem nas audiências em geral. Sujeitos do Processo é hipótese; não há fundamento para restringir ao filho Audiência de Instrução sob Procedimento Ordinário.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5582",
+        "5535"
+      ],
+      "alertas": [
+        "audiencia_generica_nao_implica_rito_ordinario"
+      ]
+    },
+    {
+      "id": "Q0212",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5488",
+      "confianca_modelo": 0.98,
+      "justificativa": "A assertiva delimita citação por hora certa e seus efeitos no prosseguimento processual. Interceptação e provas aparecem só na introdução.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0213",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4708",
+      "confianca_modelo": 0.75,
+      "justificativa": "O comando cobra defesa prévia no rito especial da Lei de Drogas. O filho Defesa Preliminar 5533 tem pai ordinário incompatível, e os dois temas de tráfico não definem o escopo procedimental. Revisar em vez de publicar por título parecido.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5533",
+        "6728"
+      ],
+      "alertas": [
+        "rito_especial_sem_filho_especifico_compativel"
+      ]
+    },
+    {
+      "id": "Q0214",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5494",
+      "confianca_modelo": 0.98,
+      "justificativa": "O caso delimita exceção por repetição da ação ainda pendente, contrastando litispendência e coisa julgada. O subtema conjunto representa diretamente a cobrança.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

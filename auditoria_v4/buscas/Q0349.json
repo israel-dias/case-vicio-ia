@@ -1,0 +1,117 @@
+{
+  "id": "Q0349",
+  "consulta_executada": "\"Em cada item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada com base na\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Em cada item a seguir, é apresentada uma situação hipotética...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/63400-questao",
+      "ref_consulta": "turn383search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Em cada item a seguir, é apresentada uma situação hipotética, seguida ...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/958868-questao",
+      "ref_consulta": "turn383search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Em cada item a seguir, é apresentada uma situação hipotética, seguida de uma ...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/61855-questao",
+      "ref_consulta": "turn383search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Em cada item a seguir, é apresentada uma situação hipotética, seguida de u...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/958869-questao",
+      "ref_consulta": "turn383search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Em cada item a seguir, é apresentada uma situação hipotética, seguida de u...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/958867-questao",
+      "ref_consulta": "turn383search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Em cada item a seguir, é apresentada uma situação hipotética, seguida de u...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/958866-questao",
+      "ref_consulta": "turn383search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Em cada item a seguir, é apresentada uma situação hipotética, seguida de u...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/958865-questao",
+      "ref_consulta": "turn383search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões Polícia Federal 2018 para Delegado de Polícia Federal | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/cespe-2018-policia-federal-delegado-de-policia-federal/questoes?discipline_ids%5B%5D=9",
+      "ref_consulta": "turn383search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Em cada item a seguir, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base ...",
+      "url": "https://cj.estrategia.com/public/questoes/cada-seguir-e1462d0bcc12/",
+      "ref_consulta": "turn383search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 47 - Polícia Federal - Delegado de Polícia - CESPE/CEBRASPE (2018) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/departamento-de-policia-federal-policia-federal-delegado-de-policia-cespe-2018/47",
+      "ref_consulta": "turn383search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Em cada item a seguir, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base ...",
+      "url": "https://cj.estrategia.com/public/questoes/cada-seguir-e149c212f7f7/",
+      "ref_consulta": "turn383search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Em cada item a seguir, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base ...",
+      "url": "https://cj.estrategia.com/public/questoes/cada-seguir-e135c7bb95bb/",
+      "ref_consulta": "turn383search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "-- CONHECIMENTOS ESPECÍFICOS --",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/87319/cespe-cebraspe-2022-funpresp-exe-analista-de-previdencia-complementar-area-de-atuacao-investimentos-prova.pdf",
+      "ref_consulta": "turn383search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "C:\\Trabalho\\1_ps\\DPEBA10_001_1.wpd",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/23181/cespe-2010-dpe-ba-defensor-publico-prova.pdf",
+      "ref_consulta": "turn383search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Direito Penal – Curso Gratuito",
+      "url": "https://free-content.direcaoconcursos.com.br/demo/curso-7436.pdf",
+      "ref_consulta": "turn383search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Direito Penal – Auditor Fiscal do SEFAZ/DF",
+      "url": "https://free-content.direcaoconcursos.com.br/demo/curso-90.pdf",
+      "ref_consulta": "turn383search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Direito Penal para Analista Jurídico do MP SP",
+      "url": "https://vali.qconcursos.com/odin/topics/f27ee8c6-6013-4486-8a49-ecdab27916ab.pdf",
+      "ref_consulta": "turn383search16",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Em cada um dos itens a seguir é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada, com base na Lei de Diretrizes e Bases da Educação Nacional (LDB) — Lei n.º 9.394, de 20 de dezembro de 1996.",
+      "url": "https://www.estudegratis.com.br/images/provas/975-cespe-2004-prefeitura-de-boa-vista-rr-assistente-social-prova.pdf",
+      "ref_consulta": "turn383search17",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "Q0097",
+  "antes": {
+    "id": "Q0097",
+    "decisao": "revisar",
+    "tema_central_id": "4705",
+    "extras_ids": "",
+    "confianca": "0.60",
+    "motivo": "O caso combina organização criminosa, associação para tráfico, prova da droga e lavagem de dinheiro. Organização Criminosa é hipótese parcial, com escopo e ID concorrentes; nenhum núcleo único é estabelecido pela pergunta geral de sentença."
+  },
+  "depois": {
+    "id": "Q0097",
+    "decisao": "revisar",
+    "tema_central_id": "4705",
+    "extras_ids": "5067",
+    "confianca": "0.74",
+    "motivo": "Gabarito definitivo E confirmado; concurso de associação e organização é o núcleo. Confirmar ramo 4705/6725 e predominância temática."
+  },
+  "resposta_proposta": "E",
+  "estado_resposta": "gabarito_oficial_definitivo",
+  "analise_individual": "A hipótese de resposta é a possibilidade de concurso material entre associação para tráfico e organização criminosa voltada também a outros delitos. A resolução fornece núcleo identificável; a revisão não decorre mais de mera mistura de alternativas, mas do enquadramento entre organização/associação e do ramo 4705/6725 ainda não delimitado.",
+  "fundamento_indicado": "Lei 12.850/2013:1,2; Lei 11.343/2006:35; CP:69; confirmar gabarito FGV/TJSE2025",
+  "conferencias_dirigidas_registradas": [],
+  "gabarito_oficial": {
+    "estado": "gabarito_oficial_definitivo",
+    "resposta": "E",
+    "banca": "FGV",
+    "concurso": "TJSE edital 01/2024; prova objetiva 2025",
+    "tipo": "2 verde",
+    "numero": 44,
+    "pagina_prova_pdf": 17,
+    "pagina_gabarito_pdf": 2,
+    "prova_url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutotjse-jsub-tipo-2.pdf",
+    "gabarito_url": "https://conhecimento.fgv.br/sites/default/files/concursos/tj-se-gabaritos-definitivo.pdf",
+    "conferencia": "Conferidos enunciado, cinco alternativas, ordem e número; gabarito tipo2 Q44 E. PDF da questão e tabela do gabarito inspecionados visualmente. O gabarito não resolve sozinho o ID da taxonomia."
+  },
+  "busca_registrada": "auditoria_v4/buscas/Q0097.json",
+  "caminho_central": "Direito Penal - Legislação Especial > Organizações Criminosas",
+  "caminhos_extras": [
+    "Penal > Concurso de Crimes > Concurso Material"
+  ],
+  "justificativas_extras_independentes": {},
+  "referencia_independente_de_tema": false,
+  "data_reexame": "2026-10-16",
+  "responsavel": "Assistente nesta conversa, com critérios corrigidos a partir da auditoria de Israel; identificador exato do modelo não confirmado."
+}

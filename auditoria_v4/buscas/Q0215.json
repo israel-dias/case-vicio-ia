@@ -1,0 +1,63 @@
+{
+  "id": "Q0215",
+  "consulta_executada": "\"Leia o caso a seguir. Um homem é réu primário e é condenado por crime cometido com violência à pessoa,\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Concurso Público para provimento dos cargos efetivos de servidores",
+      "url": "https://sistemas.institutoverbena.ufg.br/2024/tj-ac/sistema/provas_gabaritos/prova/analista%20judiciario%20%20direito%20area%20judiciaria.pdf",
+      "ref_consulta": "turn249search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Leia o caso a seguir. Um homem é réu primário e é condenado...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/9c652bc6-19",
+      "ref_consulta": "turn249search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões TJ-AC 2024 para Analista Judiciário - Direito (Área Judiciária) | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/iv-ufg-2024-tj-ac-analista-judiciario-direito-area-judiciaria/questoes?discipline_ids%5B%5D=9",
+      "ref_consulta": "turn249search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal para Concurso - Página 201 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/questoes?page=201",
+      "ref_consulta": "turn249search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para TJ-AC | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&institute_ids%5B%5D=104",
+      "ref_consulta": "turn249search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões TJ-AC 2024 para Analista Judiciário - Direito (Área Judiciária) | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/iv-ufg-2024-tj-ac-analista-judiciario-direito-area-judiciaria/questoes?page=3",
+      "ref_consulta": "turn249search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: lei-de-execucao-penal-omaterialdoneto2021 - Material Claro e Objetivo em PDF para Estudo Rápido",
+      "url": "https://www.passeidireto.com/arquivo/99833604/lei-de-execucao-penal-omaterialdoneto-2021",
+      "ref_consulta": "turn249search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "500 Questões Gabaritadas TJ-SP | PDF",
+      "url": "https://fr.scribd.com/document/676519069/Sl-074fv-23-Caderno-Tj-Sp-Escrevente-Gab-1",
+      "ref_consulta": "turn249search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Portal de Serviços e-SAJ",
+      "url": "https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001F39U0000&processo.foro=1&processo.numero=0001070-18.2023.8.02.0001",
+      "ref_consulta": "turn249search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

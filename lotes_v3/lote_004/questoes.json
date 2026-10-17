@@ -1,0 +1,156 @@
+[
+  {
+    "id": "Q0033",
+    "enunciado": "A prisão preventiva",
+    "comando": "Explique o que é a prisão preventiva.",
+    "alternativas": {
+      "A": "pode ser decretada como garantia da ordem pública, mas não da econômica.",
+      "B": "é obrigatória no caso de réu citado por edital e que não constituiu defensor, nos termos do art. 366 do Código de Processo Penal.",
+      "C": "não admite revogação por excesso de prazo para o término da instrução, medida cabível apenas para o relaxamento de flagrante.",
+      "D": "não é cabível se houver apresentação espontânea do acusado à autoridade.",
+      "E": "pode recair sobre acusado primário e de bons antecedentes."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento Ordinário e Sumário (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0034",
+    "enunciado": "A situação em que o habeas corpus é medida de impugnação cabível é",
+    "comando": "Complete a frase sobre a situação em que o habeas corpus é medida de impugnação cabível.",
+    "alternativas": {
+      "A": "para trancar processo em curso por infração penal em que a pena pecuniária seja a única cominada.",
+      "B": "para que o advogado consiga ter acesso aos autos de inquérito policial.",
+      "C": "contra a decisão que inadmite assistente de acusação.",
+      "D": "para se pedir o desentranhamento de prova ilícita dos autos de inquérito policial ou de ação penal.",
+      "E": "para se obter restituição de coisas apreendidas."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0037",
+    "enunciado": "Assinale a alternativa INCORRETA:",
+    "comando": "",
+    "alternativas": {
+      "A": "O artigo 149 do Código Penal tipifica, na seção dos crimes contra a liberdade pessoal,\na conduta de reduzir alguém à condição análoga à de escravo, incluindo o exercício do\ntrabalho forçado, em condições degradantes, em jornada exaustiva ou com restrição, por\nqualquer meio, da locomoção, em razão de dívida contraída com o empregador ou\npreposto.",
+      "B": "A pena relativa ao crime de redução a condição análoga à de escravo é aumentada se\no crime é cometido contra criança ou adolescente.",
+      "C": "O crime de falso testemunho ou falsa perícia é crime próprio cometido por\ntestemunha, intérprete, contador ou perito em processo judicial, administrativo, inquérito\npolicial ou juízo arbitral.",
+      "D": "Comete falsificação de documento particular, previsto no artigo 298 do Código Penal,\naquele que insere ou faz inserir declaração falsa ou diversa da que deveria ter sido escrita\nna CTPS do empregado ou em documento que deva produzir efeito perante a Previdência\nSocial."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Crimes contra a administração pública",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0038",
+    "enunciado": "No que diz respeito ao ofendido e às suas prerrogativas no processo penal brasileiro, é correto afirmar que poderá:",
+    "comando": "Complete a afirmação sobre as prerrogativas do ofendido no processo penal brasileiro.",
+    "alternativas": {
+      "A": "interpor recurso de apelação, ainda que não habilitado como\nassistente, quando o Ministério Público tiver recorrido de\ntodo o conteúdo impugnável da sentença;",
+      "B": "o juiz determinar o segredo de justiça em relação a dados e\ndepoimentos constantes dos autos a respeito do ofendido\npara evitar sua exposição aos meios de comunicação;",
+      "C": "se habilitar como assistente de acusação, no curso da\ninvestigação criminal, com a anuência prévia do Ministério\nPúblico;",
+      "D": "requerer ao juiz a prisão temporária do investigado caso este\nameace a sua integridade física durante a investigação\ncriminal;",
+      "E": "requisitar a instauração de inquérito policial e a realização de\ndiligências investigatórias que deverão ser realizadas pela\nautoridade policial."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0039",
+    "enunciado": "Suponha que todos os revendedores de gás liquefeito de petróleo (GLP) ajustem artificialmente preço final de venda do produto em determinada localidade. A esse respeito, é correto afirmar que",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "o ajuste é comum e em nada influencia na concorrência entre as empresas.",
+      "B": "há, em princípio, um ilícito penal a ser apurado que se subsumi ao crime contra o consumidor.",
+      "C": "o fato descrito encarta-se como crime contra a ordem econômica.",
+      "D": "a relação de consumo é afetada pela conduta descrita; portanto, há contravenção praticada contra a economia popular.",
+      "E": "a investigação a respeito do caso ficará a cargo da Polícia Federal, em virtude de que a União possui o monopólio de distribuição do GLP no Brasil."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0040",
+    "enunciado": "Assinale a alternativa que traz duas características do recurso de apelação contra sentença condenatória do Tribunal do Júri que, cumuladas, podem levar à atribuição de efeito suspensivo ao referido recurso.",
+    "comando": "",
+    "alternativas": {
+      "A": "Crime cometido sem violência ou grave ameaça e\nprimariedade do apelante.",
+      "B": "Votação não unânime quanto a quesito essencial e\nexcesso de prazo para formação da culpa.",
+      "C": "Pleitear reforma de sentença superior a 20 anos e\nlevantar questão substancial, que pode resultar em\nanulação da sentença.",
+      "D": "Interposição por acusado primário e levantar questão\nsubstancial, que pode resultar em redução da pena\npara patamar inferior a 15 (quinze) anos de reclusão.",
+      "E": "Não ter propósito meramente protelatório e levantar\nquestão substancial, que pode resultar em absolvição."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Recursos Criminais",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0041",
+    "enunciado": "Sobre as medidas de segurança é correto afirmar:",
+    "comando": "",
+    "alternativas": {
+      "A": "A lógica manicomial se funda na segregação hospitalar da pessoa com transtorno mental que tenha praticado um injusto\npenal para sua neutralização e tentativa declarada de cura.",
+      "B": "O Código Penal adota o sistema do duplo binário, sem a possibilidade de aplicação simultânea de pena e medida de segurança, que só se aplicam sucessivamente.",
+      "C": "Pelo regime adotado no Código Penal, a medida de segurança pode ser aplicada ao imputável, desde que presente a periculosidade.",
+      "D": "É inaplicável o Estatuto da Pessoa com Deficiência (Lei n° 13.146/2015) aos inimputáveis por doença mental, pois seria\numa aplicação indevida do positivismo criminológico considerá-los pessoas com deficiência.",
+      "E": "Segundo a Lei n° 10.216/2001, a desinternação é sempre condicional, podendo ser restabelecida se dentro de um ano o\nagente praticar fato indicativo de persistência de sua periculosidade."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Espécies de Medida de Segurança",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0042",
+    "enunciado": "Sobre o elemento subjetivo da conduta, dolo direto é aquele em que:",
+    "comando": "",
+    "alternativas": {
+      "A": "o agente prevê o resultado como possível o provável e\nassume o risco de produzi-lo, agindo com indiferença\nem relação às consequências de sua conduta.",
+      "B": "o agente tem a intenção de realizar a conduta e alcançar\no resultado almejado, visualizando a produção do\nevento como um objetivo.",
+      "C": "o agente, em virtude de sua falta de cuidado e sem prever\no resultado que seria previsível, age, provocando, desta\nforma, um evento indesejado.",
+      "D": "o agente, mesmo prevendo o resultado como possível ou\nprovável, age acreditando que esse evento ocorrerá, ainda\nque sua conduta seja idônea para produzi-lo."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Tipo Penal Doloso, Tipicidade",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0043",
+    "enunciado": "Sobre a fixação da pena, tem-se o seguinte:",
+    "comando": "Complete o estudo sobre a fixação da pena.",
+    "alternativas": {
+      "A": "a existência de circunstância atenuante pode conduzir à redução da pena abaixo do mínimo legal.",
+      "B": "pelo critério trifásico, adotado pelo Código Penal, o juiz, na segunda fase, deverá apreciar as causas de aumento e de diminuição da parte geral e especial.",
+      "C": "o estabelecimento do valor de dias-multa independe da condição econômica do condenado.",
+      "D": "em caso de reincidência, fixada a pena em patamar inferior a 4 (quatro) anos, o condenado poderá iniciar o cumprimento da pena em regime semiaberto, desde que as circunstâncias judiciais o recomendem."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0044",
+    "enunciado": "Paulo e Jean foram denunciados pela prática do crime de furto de joias, praticado contra Maria, tia sexagenária de Paulo. A subtração foi facilitada pelo fato de Paulo residir com a vítima. Quando da citação, Paulo não foi encontrado no novo endereço que havia fornecido na fase do inquérito, tendo sido o mandado entregue a outro morador, que se comprometeu a entregá-lo ao destinatário. Jean, que retornou para a França, seu país de origem, havia fornecido seu endereço completo ao delegado. A partir dessa situação hipotética, julgue o item a seguir. Se Jean, após a citação pessoal válida, não comparecer em juízo para defender-se no curso da ação penal, o juiz deverá decretar a sua revelia e nomear-lhe um defensor dativo, dando continuidade ao processo, mas não poderá considerar a existência de confissão ficta.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Das Provas, Das Citações e Intimações, Confissão no Processo Penal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  }
+]

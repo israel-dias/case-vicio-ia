@@ -1,0 +1,87 @@
+{
+  "id": "Q0005",
+  "consulta_executada": "\"Carlos foi denunciado pelo crime de furto qualificado, praticado em 15/5/2022. Após a tramitação regular do processo, o juiz fixou\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Carlos foi denunciado pelo crime de furto qualificado, p...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/f6fc5e90-46",
+      "ref_consulta": "turn41search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Carlos foi denunciado pelo crime de furto qualificado, pr... - Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-406223/2604650",
+      "ref_consulta": "turn41search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Fixação do regime inicial da pena privativa de liberdade para Concurso | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/fixacao-do-regime-inicial-da-pena-privativa-de-liberdade/questoes?has_professor_commentaries=true",
+      "ref_consulta": "turn41search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Penal | Qconcursos.com - Página 332",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&page=332&sort=newest",
+      "ref_consulta": "turn41search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Regime Aberto",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-regime-aberto-418704",
+      "ref_consulta": "turn41search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões PC-RO 2022 para Delegado de Polícia | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/cespe-cebraspe-2022-pc-ro-delegado-de-policia/questoes?discipline_ids%5B%5D=9",
+      "ref_consulta": "turn41search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Penas privativas de liberdade para Concurso - Página 13 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/penas-privativas-de-liberdade/questoes?page=13",
+      "ref_consulta": "turn41search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "732002_01N130338",
+      "url": "https://cdn.cebraspe.org.br/concursos/PC_RO_22/arquivos/732_PCRO_002_01.PDF",
+      "ref_consulta": "turn41search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 14 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&page=14&subject_ids%5B%5D=17215&subject_ids%5B%5D=17222&subject_ids%5B%5D=17234&subject_ids%5B%5D=17238",
+      "ref_consulta": "turn41search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Carlos foi denunciado pelo crime de furto qualificado, praticado em 15/5/2022. Após a tramitação regular do p...",
+      "url": "https://cj.estrategia.com/public/questoes/Carlos-foi-denunciado10940dba518/",
+      "ref_consulta": "turn41search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Penas Privativas de Liberdade - Página 3 | Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-penas-privativas-de-liberdade-406285?pagina=3",
+      "ref_consulta": "turn41search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Carlos foi denunciado pelo crime de furto qualificado (pena de 2 a 8 anos) , praticado em 15/5/2022. Após a t...",
+      "url": "https://oab.estrategia.com/public/questoes/Carlos-foi-denunciado129bdfb08f7/",
+      "ref_consulta": "turn41search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 31 - PC-RO - Delegado de Polícia - CESPE/CEBRASPE (2022) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/policia-civil-do-estado-de-rondonia-pc-ro-delegado-de-policia-cespe-cebraspe-2022/31",
+      "ref_consulta": "turn41search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

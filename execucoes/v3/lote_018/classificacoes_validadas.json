@@ -1,0 +1,154 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0183",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5561",
+      "confianca_modelo": 0.93,
+      "justificativa": "A assertiva pergunta pela impugnação de sentença extintiva por RESE e seu prazo. A prescrição e citação por edital formam a situação antecedente; o ato recursal é o objeto final do item.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5188",
+        "5488"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0184",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5518",
+      "confianca_modelo": 0.94,
+      "justificativa": "O item cobra comunicação da prisão em flagrante e envio do auto, ainda que contextualizado pela Lei de Drogas. O instituto prisional específico representa a cobrança processual.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4708"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0185",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "6734",
+      "confianca_modelo": 0.8,
+      "justificativa": "O caso cobra regressão, procedimento disciplinar e falta grave na execução. O objeto sustenta hipótese em LEP, mas não resolve a sobreposição de ramo com 4703.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4703",
+        "5201"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0186",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5202",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado delimita expressamente a primeira fase da dosimetria e valoração dos antecedentes como circunstância judicial. O subtema específico corresponde ao objeto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0187",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5209",
+      "confianca_modelo": 0.8,
+      "justificativa": "O bloco combina efeitos materiais da condenação e progressão, com corrupção como antecedente. Efeitos da Condenação Penais e Extrapenais é hipótese; o tema processual 5577 e a progressão são concorrentes.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5577",
+        "5201"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0188",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5228",
+      "confianca_modelo": 0.96,
+      "justificativa": "O comando pede identificar a categoria da teoria do crime excluída pelos ofendículos. Ilicitude é o pai substantivo adequado; a alternativa não exige escolher uma excludente específica.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5231",
+        "5232"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0189",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5472",
+      "confianca_modelo": 0.94,
+      "justificativa": "A assertiva delimita disponibilidade/desistência da ação penal privada e seu limite temporal. O subtema processual da iniciativa privada representa o conjunto, em vez de uma causa de punibilidade não especificada.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5196",
+        "5065"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0190",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5539",
+      "confianca_modelo": 0.93,
+      "justificativa": "O enunciado e opções comparam competência e institutos processuais dos juizados. O pai Procedimento Sumaríssimo abrange seus filhos; a premissa é preferir o ramo de atos processuais estruturado ao tema amplo da lei em Legislação Especial.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4701",
+        "5540",
+        "5541",
+        "5542"
+      ],
+      "alertas": [
+        "premissa_objeto_processual_e_escopo_do_ramo"
+      ]
+    },
+    {
+      "id": "Q0191",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5560",
+      "confianca_modelo": 0.97,
+      "justificativa": "A pergunta exige identificar duas espécies recursais por suas características, carta testemunhável e RESE. O pai substantivo Recursos em Espécies abrange ambos os filhos.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5567",
+        "5561"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0192",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5087",
+      "confianca_modelo": 0.63,
+      "justificativa": "O bloco genérico mistura concussão/corrupção, progressão de regime, peculato e falsa perícia. Administração Pública é hipótese predominante, mas os outros institutos ficam em ramos distintos.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5081",
+        "5201",
+        "5089",
+        "5092"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    }
+  ]
+}

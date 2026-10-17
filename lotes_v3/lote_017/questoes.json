@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Q0173",
+    "enunciado": "Com relação à regressão de regime prisional e às faltas disciplinares, assinale a opção correta com base no disposto na LEP e no entendimento dos tribunais superiores.",
+    "comando": "Assinale a opção correta com base no disposto na LEP e no entendimento dos tribunais superiores.",
+    "alternativas": {
+      "A": "A falta disciplinar de natureza grave cometida pelo executando acarreta o reinício do cômputo do interstício necessário ao preenchimento do requisito objetivo para a concessão do benefício da progressão de regime bem como a perda total do tempo remido.",
+      "B": "Segundo os princípios da estrita legalidade e da anterioridade, consideram-se faltas disciplinares, classificadas em leves, médias, graves e gravíssimas, apenas as que sejam previstas expressamente na LEP e que sejam anteriores à prática do fato.",
+      "C": "Admite-se a regressão de regime prisional, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado frustrar os fins da execução ou não pagar a multa cumulativamente imposta.",
+      "D": "Considera-se falta média a inobservância, pelo condenado à pena privativa de liberdade, do dever de obediência ao servidor e do respeito a qualquer pessoa com quem se relacione no ambiente prisional, bem como do dever de cumprir as ordens recebidas.",
+      "E": "A autoridade administrativa é detentora do poder disciplinar exercido sobre o preso na execução das penas restritivas de direitos, podendo, em caso de falta grave do sentenciado, suspender-lhe automaticamente o direito às saídas temporárias e decidir pela regressão de regime, ouvido previamente o condenado."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria da Pena (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0174",
+    "enunciado": "Sobre os crimes cibernéticos ou informáticos, é CORRETO afirmar:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A simples disponibilização de imagens ou vídeos com conteúdo pornográfico, envolvendo criança ou adolescente, na Internet, não é suficiente para\na caracterização do tipo penal do art. 241-A do ECA, sendo imprescindível\no efetivo acesso de pelo menos um usuário.",
+      "B": "Agente que se aproveita da ausência momentânea de colega de trabalho\npara, no computador alheio, ligado sem nenhum tipo de dispositivo de segurança, acessar fotos íntimas, copiando-as para si, pratica o crime de invasão de dispositivo informático do art. 154-A do Código Penal.",
+      "C": "É fraude eletrônica, figura qualificada do crime de estelionato, a utilização\nde informações fornecidas pela vítima induzida a erro presencialmente, se\no agente obtém a vantagem, em prejuízo da vítima, passando-se por ela em\numa compra em ambiente virtual.",
+      "D": "Em razão da necessária segurança coletiva e proteção de dados, os crimes\nde invasão de dispositivos informáticos, definidos no art. 154-A do Código\nPenal, são de ação penal pública incondicionada."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0175",
+    "enunciado": "João, agente público federal competente, deu ordem de parada a um veículo automotor que transitava em excesso de velocidade no interior do estado do Pará. Realizado o exame de alcoolemia (teste do bafômetro), constatou-se que o condutor havia ingerido grande quantidade de álcool, dando azo à caracterização de crime previsto no Código de Trânsito Brasileiro. Dessa forma, João solicitou ao condutor dez mil reais para liberá-lo, proposta aceita imediatamente e operacionalizada por meio de transferência bancária. Nesse cenário, considerando as disposições do Código Penal, João responderá pelo(s) crime(s) de:",
+    "comando": "",
+    "alternativas": {
+      "A": "corrupção passiva e corrupção ativa, em concurso;",
+      "B": "concussão e corrupção passiva, em concurso;",
+      "C": "corrupção passiva;",
+      "D": "corrupção ativa;",
+      "E": "concussão."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Corrupção passiva, Concussão e Excesso de Exação , Crimes contra a administração pública",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0176",
+    "enunciado": "Sobre o crime de falso testemunho, é CORRETO afirmar que:",
+    "comando": "",
+    "alternativas": {
+      "A": "o crime de falso testemunho é delito de mão própria, pois somente pode ser executado pela própria testemunha;",
+      "B": "comete crime de falso testemunho o irmão do reclamante, mesmo não estando compromissado pelo Juiz;",
+      "C": "mesmo não se observando a existência de potencial dano à administração da Justiça, comete crime de falso testemunho a testemunha que faltar com a verdade em seu depoimento;",
+      "D": "o dolo do crime não exige que a testemunha tenha consciência de estar cometendo uma falsidade;",
+      "E": "não cabe retratação de falso testemunho na Justiça do Trabalho;"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0177",
+    "enunciado": "Assinale a afirmativa incorreta.",
+    "comando": "",
+    "alternativas": {
+      "A": "O silêncio do réu não importará em confissão nem poderá ser valorado pelo juiz em prejuízo da defesa para efeito de condenação, mas poderá ser valorado na fixação da penabase no aspecto da personalidade do criminoso.",
+      "B": "O réu tem o direito de entrevistar-se reservadamente com seu advogado antes de seu interrogatório judicial.",
+      "C": "O réu tem o direito de permanecer calado, negar a verdade ou mentir durante seu interrogatório judicial.",
+      "D": "Além de permanecer calado, o réu tem o direito de recusar-se a fornecer material para exame grafotécnico.",
+      "E": "Se o réu não for previamente advertido de seu direito de permanecer em silêncio, tudo que disser em seu interrogatório poderá ser anulado posteriormente."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Comunicação dos atos processuais",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0178",
+    "enunciado": "A Resolução CNJ nº 467/2022 regulamentou o inciso XI do artigo 6º da Lei nº 10.826/2003 e prevê que o porte de arma de fogo de servidores dos quadros pessoais do Poder Judiciário é:",
+    "comando": "",
+    "alternativas": {
+      "A": "defeso aos servidores do Poder Judiciário, enquadrados como agentes e inspetores da especialidade Polícia Judicial,\nainda que efetivamente estejam no exercício do poder de polícia, em todo o território nacional, sendo permitido somente no\nEstado em que está lotado para o exercício de suas funções.",
+      "B": "autorizado aos servidores do Poder Judiciário, enquadrados como agentes e inspetores da especialidade Polícia Judicial,\nindependentemente de estarem no exercício do poder de polícia, somente no Estado em que estejam lotados.",
+      "C": "defeso aos servidores do Poder Judiciário, enquadrados como agentes e inspetores da especialidade Polícia Judicial,\nainda que efetivamente estejam no exercício do poder de polícia, em todo o território nacional.",
+      "D": "autorizado aos servidores do Poder Judiciário, enquadrados como agentes e inspetores da especialidade Polícia Judicial, e\nque efetivamente estejam no exercício do poder de polícia, em todo o território nacional.",
+      "E": "autorizado aos servidores do Poder Judiciário, enquadrados como agentes e inspetores da especialidade Polícia Judicial, e\nque efetivamente estejam no exercício do poder de polícia, somente no Estado em que estejam lotado para os exercícios\nde suas funções."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Legislação Penal Especial, Lei de Armas (Estatuto do Desarmamento) – Lei nº 10.826 de 2003 e Decretos Regulamentares",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0179",
+    "enunciado": "Ações como controle dos meios de comunicação e ordenação urbana, orientadas a determinados grupos ou subgrupos sociais, estão inseridas no âmbito da chamada prevenção secundária do delito.",
+    "comando": "Explique o que caracteriza a prevenção secundária do delito.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Criminologia no Estado Democrático de Direito",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0180",
+    "enunciado": "João é investigado pela prática de um crime de peculato. Durante a fase de inquérito policial, o Delegado de Polícia, sem autorização judicial, determina a entrada de agentes na residência de João durante a noite, sob o argumento de que o crime em questão causa grave dano ao erário e que a apreensão de documentos seria essencial para evitar a ocultação de provas. Os agentes apreendem diversos computadores que continham evidências do crime. Diante de tal situação hipotética, assinale a afirmativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "A prova é plenamente válida, uma vez que o princípio da busca\nda verdade real se sobrepõe à inviolabilidade do domicílio em\ncrimes cometidos contra a Administração Pública.",
+      "B": "A prova é legítima se for demonstrado que a diligência foi\npautada pelo princípio da eficiência, visando à celeridade\nprocessual e à proteção do patrimônio público.",
+      "C": "Pelo princípio da não culpabilidade, João não poderia ter seus\nbens apreendidos antes de uma sentença penal condenatória\ntransitada em julgado.",
+      "D": "Em virtude do princípio do contraditório, o Delegado de Polícia\né obrigado a intimar a defesa de João para acompanhar a\ndiligência de busca e apreensão na residência, sob pena de\nnulidade absoluta.",
+      "E": "As provas obtidas são ilícitas, pois, embora a entrada em\ndomicílio possa ocorrer sem mandado em caso de flagrante\ndelito, a busca para apreensão de provas exige ordem judicial\ne deve respeitar o período diurno, salvo consentimento do\nmorador."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Das Provas, Inadmissibilidade das provas obtidas por meios ilícitos, Busca e apreensão",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0181",
+    "enunciado": "Identifique o que constitui crime contra a ordem tributária e assinale a alternativa correta.\nI Adquirir, distribuir e revender derivados de petróleo, gás natural e suas frações recuperáveis, álcool etílico, hidratado carburante e demais combustíveis líquidos carburantes, em desacordo com as normas estabelecidas na forma da lei.\nII Usar gás liquefeito de petróleo em motores de qualquer espécie, saunas, caldeiras e aquecimento de piscinas, ou para fins automotivos, em desacordo com as normas estabelecidas na forma da lei.\nIII Negar ou deixar de fornecer, quando obrigatório, nota fiscal ou documento equivalente, relativa a venda de mercadoria ou prestação de serviço, efetivamente realizada, ou fornecê-la em desacordo com a legislação.\nIV Sem autorização legal, produzir, adquirir, transportar, industrializar, ter consigo, consumir ou comercializar produtos ou matéria-prima pertencentes à União.",
+    "comando": "Identifique o que constitui crime contra a ordem tributária e assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Apenas II e III estão corretas.",
+      "B": "Apenas a afirmação III está correta.",
+      "C": "Apenas II e IV estão corretas.",
+      "D": "Apenas I, II e IV estão corretas.",
+      "E": "Todas as afirmações estão corretas."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0182",
+    "enunciado": "Analise os itens e assinale a quantidade de itens errados.\nI - A instigação da gestante para permitir que terceiro lhe provoque aborto, em se consumando o crime, enseja para o instigador a participação no crime de aborto consensual, descrito no artigo 126 do CP.\nII - O crime de perigo de contágio de moléstia venérea tipificado no artigo 130 do CP exige o perigo concreto para a sua consumação.\nIII - O rixoso que sofre a lesão corporal de natureza grave, causa de aumento de pena no crime em questão, não responde por esta circunstância.\nIV - Descoberto o autor da morte ocorrida durante uma rixa, imputa-se a este o crime de acordo com o elemento volitivo que informou a sua conduta, excluindo-se os demais rixosos que passam a responder pela forma simples do crime de rixa prevista no artigo 137 do CP.\nV - É incorreto afirmar que um indivíduo que chega à sala do seu chefe, numa conversa a dois, e assevera que este está subtraindo verba da empresa onde trabalham, comete, caso seja falsa a afirmação e tendo ciência desta falsidade, o crime de calúnia.",
+    "comando": "Assinale a quantidade de itens errados.",
+    "alternativas": {
+      "A": "Um.",
+      "B": "Dois.",
+      "C": "Três.",
+      "D": "Quatro.",
+      "E": "Cinco."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  }
+]

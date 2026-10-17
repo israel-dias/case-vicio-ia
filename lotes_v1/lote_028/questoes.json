@@ -1,0 +1,157 @@
+[
+  {
+    "id": "Q0271",
+    "enunciado": "Não prevalece de forma absoluta, no processo penal, o princípio tantum devolutum quantum appellatum, razão pela qual, de forma dominante na jurisprudência, o tribunal não fica impedido de reformar a decisão em decorrência da análise plena do julgado, mesmo constatado recurso exclusivo da acusação, desde que verificado e fundamentado equívoco nela apontado, e que beneficie o réu, o que é feito por força do artigo 617 do CPP, a contrario sensu, que permite concluir ser vedada somente a reformatio in pejus e não a reformatio in mellius.\nA exceção a essa regra, por decisão de entendimento consolidado pela Corte Suprema, diz respeito",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "às apelações contra as decisões definitivas, se interpostas por acusação e defesa, sobre a mesma\nquestão.",
+      "B": "às apelações contra as decisões do Júri.",
+      "C": "aos recursos interpostos pela acusação e pelos\nquais se questiona a classificação jurídica do fato reconhecido como crime.",
+      "D": "aos recursos interpostos de forma parcial pela defesa, conforme autoriza o artigo 593 do Código de\nProcesso Penal."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0272",
+    "enunciado": "No que concerne à prática de falta grave no curso da execução penal, assinale a opção correta.",
+    "comando": "Assinale a opção correta.",
+    "alternativas": {
+      "A": "Nos termos da orientação do STJ, no caso de fuga, o marco\ninicial da prescrição para a apuração da falta grave é o dia da\nrecaptura, por se tratar de infração permanente.",
+      "B": "Nos termos da Lei de Execução Penal, as faltas disciplinares\ngraves não se aplicam ao preso provisório.",
+      "C": "Conforme orientação do STJ, é exemplificativo o rol de faltas\ngraves previsto no art. 50 da Lei de Execução Penal.",
+      "D": "Segundo o STJ, a posse de droga para uso próprio não\nconstitui falta grave.",
+      "E": "Segundo o STJ, a utilização de tornozeleira eletrônica sem\nbateria não configura falta grave."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Legislação Penal Especial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0273",
+    "enunciado": "É punido na modalidade culposa o crime de",
+    "comando": "Complete a frase com o crime punido na modalidade culposa.",
+    "alternativas": {
+      "A": "peculato.",
+      "B": "falsidade ideológica.",
+      "C": "condescendência criminosa.",
+      "D": "violação de sigilo funcional.",
+      "E": "supressão de tributos mediante omissão de informação."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Tipo Penal Culposo",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0274",
+    "enunciado": "Tendo como referência a jurisprudência sumulada dos tribunais superiores, julgue o item a seguir, acerca de crimes, penas, imputabilidade penal, aplicação da lei penal e institutos. Na hipótese de tentativa de subtração patrimonial e morte consumada, o agente responderá pelo crime de latrocínio consumado.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Roubo, Crimes contra o patrimônio",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0275",
+    "enunciado": "O Ministério Público ofereceu denúncia em face de Tício, pela\nsuposta prática de infração penal de menor potencial ofensivo.\nNesse cenário, considerando as disposições da Lei nº 9.099/1995,\ncaso Tício não seja encontrado para ser citado, o juiz:",
+    "comando": "Complete a frase conforme a Lei nº 9.099/1995.",
+    "alternativas": {
+      "A": "suspenderá o processo até que o acusado seja localizado, em\nrazão da incompatibilidade da citação por edital com o\nprocedimento do Juizado Especial Criminal;",
+      "B": "extinguirá o processo sem resolução do mérito, em razão da\nincompatibilidade da citação por edital com o procedimento\ndo Juizado Especial Criminal;",
+      "C": "determinará que o Ministério Público diligencie novos\nendereços, antes de determinar a citação por edital;",
+      "D": "encaminhará as peças existentes ao juízo comum para\nadoção do procedimento previsto em lei;",
+      "E": "determinará a citação por hora certa."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Comunicação dos atos processuais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0276",
+    "enunciado": "Sobre as provas no processo penal, é correto:",
+    "comando": "",
+    "alternativas": {
+      "A": "O interrogatório do réu é ato único, não podendo ser renovado pelo magistrado de ofício ou a pedido das partes.",
+      "B": "A confissão informal realizada perante os agentes da lei é suficiente a ensejar o desfecho condenatório.",
+      "C": "A acareação é admitida entre acusado e vítima, mas é vedada entre corréus, diante da não obrigação destes em dizer a\nverdade.",
+      "D": "O juiz negará a realização do exame de corpo de delito requerida pela parte quando não for necessária ao esclarecimento\nda verdade.",
+      "E": "A busca pessoal não dependerá de mandado quando a medida for determinada no curso de busca e apreensão domiciliar."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0277",
+    "enunciado": "NÃO configura crime contra idoso:",
+    "comando": "",
+    "alternativas": {
+      "A": "Induzir pessoa idosa, mesmo que com discernimento, a outorgar procuração para fins de administração de bens.",
+      "B": "Desdenhar ou menosprezar pessoa idosa.",
+      "C": "Deixar de prestar assistência ao idoso em situação de iminente perigo.",
+      "D": "Abandonar idoso em hospital.",
+      "E": "Reter cartão magnético de conta bancária relativa a benefícios."
+    },
+    "disciplina_origem": "Direito Civil - Legislação Especial",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "assunto_origem_ausente",
+      "disciplina_origem_fora_catalogo"
+    ]
+  },
+  {
+    "id": "Q0278",
+    "enunciado": "Com base na legislação penal extravagante, julgue o item seguinte. Nos crimes em que a pena mínima cominada for igual ou inferior a dois anos, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo por até quatro anos, se o acusado não for condenado por outro crime e estiverem presentes os demais requisitos da suspensão condicional da pena.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento Ordinário e Sumário (Parte 02)",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0279",
+    "enunciado": "Um indivíduo de dezenove anos de idade, livre, consciente e capaz, dirigiu-se a uma joalheria com a intenção de praticar furto. Na loja, passou-se por cliente e pediu a uma vendedora para ver algumas peças. Enquanto via as joias, aproveitando-se de um descuido da vendedora, o indivíduo colocou um colar de ouro em seu bolso e, em seguida, saiu da loja, sem nada ter comprado. Trinta minutos depois, ele retornou à loja e devolveu a joia, incentivado por sua mãe. Apesar disso, o gerente, representando a joalheria, decidiu registrar boletim de ocorrência sobre o fato em uma delegacia de polícia, e o homem foi indiciado por furto simples. Após o término do inquérito policial, o Ministério Público denunciou o acusado por furto simples. A denúncia foi recebida pelo juízo competente quatro anos e seis meses depois da prática do delito, com a determinação da citação do acusado. Nesse caso, é possível o reconhecimento de",
+    "comando": "",
+    "alternativas": {
+      "A": "arrependimento eficaz.",
+      "B": "desistência voluntária.",
+      "C": "prescrição da pretensão punitiva.",
+      "D": "tentativa de furto.",
+      "E": "crime oco."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Causas de extinção da punibilidade, Crimes contra o patrimônio, Desistência voluntária e arrependimento eficaz ",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0280",
+    "enunciado": "Em data de 20 de dezembro de 2016, Astolfo pratica, em tese, crime contra a honra de Lucíolo, afirmando que este, na condição de funcionário público, subtraiu valores do departamento de obras públicas do município de Giramundo.\nConsidere a data de hoje (28.05.2017) e que Lucíolo teve ciência da suposta ofensa em 29 de dezembro de 2016.\nAponte a alternativa incorreta:",
+    "comando": "Aponte a alternativa incorreta.",
+    "alternativas": {
+      "A": "Cabe oferecimento de representação de Lucíolo ao Ministério Público.",
+      "B": "Cabe oferecimento de queixa em juízo por Lucíolo, representado por advogado, atribuindo-se a\neste poderes especiais.",
+      "C": "Deflagrada a ação penal, é sempre cabível a proposição de incidente de exceção da verdade por\nAstolfo, com o intuito de provar a subtração atribuída a Lucíolo, isso na fase da defesa escrita.",
+      "D": "Sem Lucíolo manifestar de forma clara que pretende responsabilizar criminalmente Astolfo, o\ndelegado não poderá deflagrar a investigação da suposta infração contra a honra.",
+      "E": "Oferecida a queixa em juízo, poderá o Ministério Público aditá-la."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Comunicação dos atos processuais",
+    "alertas_preparacao": []
+  }
+]

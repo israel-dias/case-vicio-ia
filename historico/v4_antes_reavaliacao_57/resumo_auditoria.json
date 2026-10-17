@@ -1,0 +1,54 @@
+{
+  "questoes_reexaminadas": 359,
+  "decisoes": {
+    "publicar": 297,
+    "revisar": 57,
+    "fora": 5
+  },
+  "cobertura": 0.8272980501392758,
+  "mudancas_de_decisao": 75,
+  "mudancas_de_tema_central": 79,
+  "mudancas_de_extras": 64,
+  "questoes_com_extras": 79,
+  "estados_de_resposta": {
+    "resposta_assistida_sem_gabarito_oficial_confirmado": 326,
+    "resposta_nao_confirmada": 30,
+    "gabarito_oficial_definitivo": 2,
+    "gabarito_oficial_preliminar": 1
+  },
+  "transicoes": [
+    {
+      "antes": "fora",
+      "depois": "fora",
+      "quantidade": 4
+    },
+    {
+      "antes": "publicar",
+      "depois": "publicar",
+      "quantidade": 226
+    },
+    {
+      "antes": "publicar",
+      "depois": "revisar",
+      "quantidade": 3
+    },
+    {
+      "antes": "revisar",
+      "depois": "fora",
+      "quantidade": 1
+    },
+    {
+      "antes": "revisar",
+      "depois": "publicar",
+      "quantidade": 71
+    },
+    {
+      "antes": "revisar",
+      "depois": "revisar",
+      "quantidade": 54
+    }
+  ],
+  "precisao_medida": null,
+  "gabaritos_nao_sao_rotulos_tematicos": true,
+  "aumento_de_cobertura_nao_comprova_aumento_de_precisao": true
+}

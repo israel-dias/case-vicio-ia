@@ -1,0 +1,93 @@
+{
+  "id": "Q0172",
+  "consulta_executada": "\"O juízo de prelibação, na ação penal contra Promotor de Justiça do Distrito Federal, é feito por\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Assinale a alternativa incorreta.",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/90705c87-29",
+      "ref_consulta": "turn210search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Ação Penal para Concurso - Página 62 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/acao-penal/questoes?has_professor_commentaries=true&page=62",
+      "ref_consulta": "turn210search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "MINISTÉRIO PÚBLICO DA UNIÃO",
+      "url": "https://www.mpdft.mp.br/portal/pdf/institucional/concursos/membros/27_Objetiva.pdf",
+      "ref_consulta": "turn210search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Ação Penal em Direito Processual Penal para Promotor de Justiça | Qconcursos.com - Página 9",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&job_ids%5B%5D=176&page=9&subject_ids%5B%5D=150",
+      "ref_consulta": "turn210search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Direito Processual Penal para MPDFT | Qconcursos.com - Página 5",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&examining_board_ids%5B%5D=306&has_professor_commentaries=true&page=5",
+      "ref_consulta": "turn210search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Processual Penal | Qconcursos.com - Página 727",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&page=727&sort=newest",
+      "ref_consulta": "turn210search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Denúncia e Queixa para Concurso - Página 20 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/denuncia-e-queixa/questoes?page=20",
+      "ref_consulta": "turn210search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 27 - MPDFT - Promotor de Justiça - MPDFT (2004) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/mpdft-promotor-de-justica-2004-mpdft/27",
+      "ref_consulta": "turn210search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Assinale a alternativa incorreta.",
+      "url": "https://cj.estrategia.com/public/questoes/3ac7075980381b512f00f16b/",
+      "ref_consulta": "turn210search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para Promotor de Justiça | Qconcursos.com - Página 762",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?job_ids%5B%5D=176&page=762",
+      "ref_consulta": "turn210search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para Promotor de Justiça | Qconcursos.com - Página 764",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?job_ids%5B%5D=176&page=764&per_page=5",
+      "ref_consulta": "turn210search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Denúncia e queixa - Página 8 | Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-processual-penal-denuncia-e-queixa-406617?pagina=8",
+      "ref_consulta": "turn210search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "DIÁRIO DA JUSTIÇA",
+      "url": "https://pesquisadje-api.tjdft.jus.br/v1/diarios/pdf/2019/205.pdf",
+      "ref_consulta": "turn210search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "STJ - Informativo de Jurisprudência n. 893 - 23 de junho de 2026.",
+      "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&livre=este",
+      "ref_consulta": "turn210search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

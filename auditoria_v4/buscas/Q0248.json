@@ -1,0 +1,81 @@
+{
+  "id": "Q0248",
+  "consulta_executada": "\"Considere os seguintes tipos penais praticados contra a Administração Pública: Tipos penais 1. Desobediência 2. Resistência 3. Corrupção passiva 4.\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Considere os seguintes tipos penais praticados contra a Administração Pública...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/1039362-questao",
+      "ref_consulta": "turn279search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para FCC e TRT - 12ª Região (SC) | Qconcursos.com - Página 7",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=1&institute_ids%5B%5D=84&page=7",
+      "ref_consulta": "turn279search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 11 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&examining_board_ids%5B%5D=1&examining_board_ids%5B%5D=152&examining_board_ids%5B%5D=63&page=11&subject_ids%5B%5D=17398&subject_ids%5B%5D=17399&subject_ids%5B%5D=17400&subject_ids%5B%5D=17401&subject_ids%5B%5D=17404&subject_ids%5B%5D=17405&subject_ids%5B%5D=17406&subject_ids%5B%5D=17408&subject_ids%5B%5D=17409&subject_ids%5B%5D=17410&subject_ids%5B%5D=17411&subject_ids%5B%5D=17412&subject_ids%5B%5D=17413&subject_ids%5B%5D=17414&subject_ids%5B%5D=17415&subject_ids%5B%5D=17416",
+      "ref_consulta": "turn279search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: QUESTOES PARA ESTUDO - CRIMES FUNCIONAIS - PROVA NP1 - Material Claro e Objetivo em PDF para Estudo Rápido",
+      "url": "https://www.passeidireto.com/arquivo/126248544/questoes-para-estudo-crimes-funcionais-prova-np-1",
+      "ref_consulta": "turn279search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: apostila-teorica-ppmg-2021 - Material Claro e Objetivo em PDF para Estudo Rápido",
+      "url": "https://www.passeidireto.com/arquivo/101511957/apostila-teorica-ppmg-2021",
+      "ref_consulta": "turn279search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "SIMULADOS FOCUS CONCURSOS | ANOVAPROVA",
+      "url": "https://www.anovaprova.com.br/jogo.php?game_id=3087",
+      "ref_consulta": "turn279search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Português e Direito Penal 2025 | PDF | Citação (jurídico) | Crimes",
+      "url": "https://www.scribd.com/document/969497091/Slides-Revisao-Tj-Sp-Completo",
+      "ref_consulta": "turn279search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Jogar Quiz – Licínia Rossi",
+      "url": "https://liciniarossi.com.br/jogar-quiz/278/",
+      "ref_consulta": "turn279search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Decreto-Lei Nº 2848 DE 07/12/1940 - Federal - LegisWeb",
+      "url": "https://www.legisweb.com.br/legislacao/?id=62290",
+      "ref_consulta": "turn279search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "GERAL 1 Flashcards in Keoma de Oliveira Belusso's LAB + QPP Collection",
+      "url": "https://www.brainscape.com/flashcards/geral-1-18260938/packs/22683027",
+      "ref_consulta": "turn279search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Jogar Quiz – Licínia Rossi",
+      "url": "https://liciniarossi.com.br/jogar-quiz/248/",
+      "ref_consulta": "turn279search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "DIR. PENAL Flashcards in Leandro de Almeida Nunes's PP-RJ Collection",
+      "url": "https://www.brainscape.com/flashcards/dir-penal-16419187/packs/22200360",
+      "ref_consulta": "turn279search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "id": "Q0297",
+    "enunciado": "O Direito Penal Econômico, em sentido estrito, é o conjunto de normas jurídico-penais que protegem a ordem socioeconômica.\nEsse ramo do Direito Penal visa à proteção da atividade econômica presente e desenvolvida na economia.\nOs crimes contra a ordem tributária e contra o sistema financeiro se amoldam nessa perspectiva.\nSobre eles é correto afirmar o seguinte:",
+    "comando": "Sobre eles é correto afirmar o seguinte:",
+    "alternativas": {
+      "A": "De acordo com a Lei 8137/90, o dia-multa será fixado pelo juiz em valor não inferior a 10 (dez)\nnem superior a 300 (trezentos) Bônus do Tesouro Nacional.",
+      "B": "não se aplica o princípio da insignificância aos crimes contra a ordem tributária, pois o bem\njurídico protegido é a higidez do Sistema Tributário Nacional.",
+      "C": "o crime contra a ordem tributária relacionado à conduta de falsificar ou alterar nota fiscal, fatura,\nduplicata, nota de venda, ou qualquer outro documento relativo à operação tributável, é classificado\ncomo crime formal, não exigindo a materialização do resultado para a sua consumação.",
+      "D": "induzir ou manter em erro sócio, investidor ou repartição pública competente, relativamente a\noperação ou situação financeira, sonegando-lhe informação ou prestando-a falsamente é crime com\npena de reclusão de 2 (dois) a 6 (seis) anos ou multa.",
+      "E": "extingue-se a punibilidade dos crimes definidos na Lei 8137/90 quando o agente promover o\npagamento do tributo, inclusive acessórios, antes do recebimento da denúncia."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0298",
+    "enunciado": "Os crimes contra as relações de consumo previstos na Lei n. 8.137/90 são punidos, apenas, na modalidade dolosa.",
+    "comando": "Analise a afirmativa sobre os crimes contra as relações de consumo previstos na Lei n. 8.137/90.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Teoria do Crime (Ilicitude)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0300",
+    "enunciado": "Àquele que oculta uma arma de fogo utilizada por terceiro para a prática anterior de um roubo, consignando-se não haver qualquer vínculo de parentesco entre ambos, pode-se atribuir o crime de ______. Assinale a alternativa que preencha corretamente a lacuna.",
+    "comando": "",
+    "alternativas": {
+      "A": "favorecimento pessoal",
+      "B": "favorecimento real",
+      "C": "coautoria do crime de roubo",
+      "D": "participação do crime de roubo"
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Crimes contra a administração pública, Favorecimento pessoal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0301",
+    "enunciado": "NÃO admite perdão judicial:",
+    "comando": "Complete a frase indicando os casos em que não se admite perdão judicial.",
+    "alternativas": {
+      "A": "a lesão corporal culposa causada na direção de veículo automotor.",
+      "B": "a utilização de meio de transporte sem recursos para efetuar o pagamento.",
+      "C": "a guarda doméstica de pássaro silvestre cuja espécie não é considerada ameaçada de extinção.",
+      "D": "a retorsão imediata à difamação, que consista em outra difamação."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Lesão Corporal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0304",
+    "enunciado": "Em matéria de competência dos Juizados Especiais Criminais, de acordo com a Jurisprudência do Supremo Tribunal Federal,",
+    "comando": "",
+    "alternativas": {
+      "A": "é absoluta a competência dos Juizados Especiais Criminais, razão pela qual não se admite o deslocamento da competência, por regras de conexão ou continência, para o Juízo Comum ou Tribunal do Júri, no concurso de infrações penais de menor potencial ofensivo e comum.",
+      "B": "não se admite a proposta de transação penal se ficar comprovado ter sido o agente beneficiado anteriormente, no prazo de oito anos, pela aplicação de pena restritiva ou multa.",
+      "C": "na ação penal de iniciativa do ofendido no Jecrim não poderá ser oferecida queixa oral, em qualquer hipótese.",
+      "D": "os institutos despenalizadores previstos na Lei nº 9.099/1995 constituem garantia individual do acusado e têm de ser assegurados, quando cabíveis, independente do juízo no qual tramitam os processos.",
+      "E": "o não oferecimento da representação pelo ofendido na audiência preliminar implica decadência do direito."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "assunto_origem_ausente"
+    ]
+  },
+  {
+    "id": "Q0305",
+    "enunciado": "A ação penal pública é de iniciativa exclusiva do Ministério Público e tem por objetivo dar concretude ao jus puniendi estatal. Acerca dessa modalidade de ação penal, assinale a alternativa correta.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O prazo para oferecimento da denúncia é de 5 (cinco)\ndias, caso o acusado esteja preso, e de 20 (vinte) dias\nse estiver em liberdade",
+      "B": "O Ministério Público poderá dispor da ação penal,\npodendo dela desistir sempre que achar adequado à\ndefesa da coletividade, independentemente do eventual\ncrime praticado pelo acusado",
+      "C": "Quando do oferecimento da denúncia é imprescindível\na qualificação do acusado",
+      "D": "O direito de representação somente poderá ser exercido\npessoalmente, vedada a sua realização por meio de\nprocurador",
+      "E": "Caberá ao Ministro da Justiça apresentar requisição\npara o prosseguimento de ação penal pública nos casos\nprevistos em lei em que se verifica o cometimento de\ncrimes em face do Presidente da República. A requisição\né ato administrativo irrevogável e não há prazo legal\npara a sua apresentação"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0306",
+    "enunciado": "Sobre o crime de associação criminosa é correto afirmar que",
+    "comando": "",
+    "alternativas": {
+      "A": "demanda a associação de 4 ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas com o\nobjetivo de praticar crimes.",
+      "B": "exige a demonstração do elemento subjetivo especial consistente no ajuste prévio entre os membros com a finalidade\nespecífica de cometer crimes indeterminados.",
+      "C": "tem caráter hediondo, a despeito de ter pena menor do que a associação para o tráfico, que não é equiparado ao\nhediondo.",
+      "D": "exige para sua configuração o concurso de agentes e a prática de infrações penais cujas penas máximas sejam superiores\na 4 (quatro) anos.",
+      "E": "admite a colaboração premiada com redução de até 1/3 da pena, desde que ao menos um agente com cargo político seja\ndelatado."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Crimes contra a paz pública",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0307",
+    "enunciado": "Determinado policial militar efetuou a prisão em flagrante de Luciano e o conduziu à delegacia de polícia. Lá, com o objetivo de fazer Luciano confessar a prática dos atos que ensejaram sua prisão, o policial responsável por seu interrogatório cobriu sua cabeça com um saco plástico e amarrou-o no seu pescoço, asfixiando-o. Como Luciano não confessou, o policial deixou-o trancado na sala de interrogatório durante várias horas, pendurado de cabeça para baixo, no escuro, período em que lhe dizia que, se ele não confessasse, seria morto. O delegado de polícia, ciente do que ocorria na sala de interrogatório, manteve-se inerte. Em depoimento posterior, Luciano afirmou que a conduta do policial lhe provocara intenso sofrimento físico e mental.\nConsiderando a situação hipotética acima e o disposto na Lei Federal n.º 9.455/1997, julgue o item subsequente.\nO delegado não pode ser considerado coautor ou partícipe da conduta do policial, pois o crime de tortura somente pode ser praticado de forma comissiva.",
+    "comando": "Julgue o item subsequente.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0308",
+    "enunciado": "Inquérito policial arquivado pelo Ministério Público por ausência de elementos suficientes de informação importa",
+    "comando": "",
+    "alternativas": {
+      "A": "coisa julgada material.",
+      "B": "ilegitimidade ad causam.",
+      "C": "ilegitimidade ad processum.",
+      "D": "ausência de justa causa processual em sentido estrito.",
+      "E": "prescrição da pretensão punitiva estatal."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial, Encerramento do Inquérito Policial",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0310",
+    "enunciado": "Sobre a aplicação da Lei Processual Penal, é correto afirmar que:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "no Brasil, adota-se integralmente o princípio da irretroatividade da lei processual penal, que impede que as inovações na norma processual penal sejam aplicadas de imediato para fatos praticados antes de sua entrada em vigor.",
+      "B": "ela admitirá interpretação extensiva e o suplemento de princípios gerais do direito, mas não a aplicação analógica.",
+      "C": "o processo penal reger-se-á, em todo o território brasileiro, pelo Código de Processo Penal, não havendo qualquer ressalva prevista neste diploma.",
+      "D": "as normas previstas no Código de Processo Penal de natureza híbrida, ou seja, com conteúdo de direito processual e de direito material, devem respeitar o princípio que veda a aplicação retroativa da lei penal, quando seu conteúdo for prejudicial ao réu.",
+      "E": "ela admitirá interpretação extensiva e aplicação analógica, mas não o suplemento dos princípios gerais do direito"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Lei Processual Penal no tempo e no espaço",
+    "alertas_preparacao": []
+  }
+]

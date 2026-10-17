@@ -1,0 +1,153 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0033",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5519",
+      "extras_ids": [],
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado delimita prisão preventiva e as alternativas discutem fundamentos, cabimento e revogação. O subtema específico 5519 representa diretamente a cobrança.",
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0034",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5477",
+      "extras_ids": [],
+      "confianca_modelo": 0.98,
+      "justificativa": "A questão pergunta explicitamente pelo cabimento do habeas corpus entre diferentes situações processuais. O instituto de impugnação, e não cada situação exemplificada, constitui o núcleo.",
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0037",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5132",
+      "extras_ids": [],
+      "confianca_modelo": 0.5,
+      "justificativa": "As alternativas misturam redução à condição análoga à escravidão, falso testemunho e falsidade documental, sem delimitação temática no enunciado. 5132 é hipótese apoiada nas duas primeiras alternativas, mas não representa todo o bloco.",
+      "temas_concorrentes_ids": [
+        "5081",
+        "5118"
+      ],
+      "alertas": [
+        "enunciado_generico_multitematico",
+        "tema_central_provisorio"
+      ]
+    },
+    {
+      "id": "Q0038",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5583",
+      "extras_ids": [],
+      "confianca_modelo": 0.8,
+      "justificativa": "O objeto são prerrogativas do ofendido, incluindo participação, recurso e proteção de dados. Sujeitos do Processo é a hipótese abrangente; Declaração do Ofendido 5549 é mais específico no nome, mas fica em provas e pode não cobrir todas as prerrogativas.",
+      "temas_concorrentes_ids": [
+        "5549"
+      ],
+      "alertas": [
+        "escopo_do_ofendido_como_sujeito_versus_meio_de_prova"
+      ]
+    },
+    {
+      "id": "Q0039",
+      "sugestao_decisao": "fora",
+      "tema_central_id": null,
+      "extras_ids": [],
+      "confianca_modelo": null,
+      "justificativa": "O núcleo é cartel/fixação artificial de preços como crime contra a ordem econômica. O catálogo não oferece tema ativo correspondente: Direito penal econômico 5078 está inativo, e economia popular, consumidor e sistema financeiro não são automaticamente equivalentes ao objeto.",
+      "temas_concorrentes_ids": [
+        "4687",
+        "4694",
+        "4689"
+      ],
+      "alertas": [
+        "lacuna_de_tema_ativo_para_ordem_economica",
+        "nao_usar_tema_inativo_5078",
+        "fora_sujeito_a_conferencia_da_lacuna"
+      ]
+    },
+    {
+      "id": "Q0040",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5562",
+      "extras_ids": [
+        "5515"
+      ],
+      "confianca_modelo": 0.92,
+      "justificativa": "O enunciado delimita apelação contra condenação no Júri e condições para efeito suspensivo. Apelação é tema central específico, e Efeito dos Recursos é adicional efetivamente cobrado. A condenação pelo Júri contextualiza o cabimento do efeito.",
+      "temas_concorrentes_ids": [
+        "5529"
+      ],
+      "alertas": [
+        "efeito_suspensivo_tambem_cobrado",
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0041",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5184",
+      "extras_ids": [],
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado e as alternativas discutem medidas de segurança, sistemas de aplicação e internação/desinternação. O tema ativo específico 5184 abrange o conjunto, apesar de referências a legislação de saúde mental.",
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0042",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5222",
+      "extras_ids": [],
+      "confianca_modelo": 0.98,
+      "justificativa": "A pergunta exige conceituar dolo direto e distingui-lo de outras modalidades subjetivas. Crime Doloso e Culposo é o subtema específico sob fato típico, com ramo compatível.",
+      "temas_concorrentes_ids": [
+        "5221"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0043",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5199",
+      "extras_ids": [],
+      "confianca_modelo": 0.8,
+      "justificativa": "As alternativas combinam fases da dosimetria, multa e regime inicial. Teoria da Pena é hipótese agregadora material, mas há sobreposição com Fixação da Pena e do Regime Penitenciário no ramo de sentença processual, exigindo delimitação.",
+      "temas_concorrentes_ids": [
+        "5576",
+        "5203",
+        "5204",
+        "5206",
+        "5201"
+      ],
+      "alertas": [
+        "sobreposicao_material_e_processual_na_fixacao_da_pena"
+      ]
+    },
+    {
+      "id": "Q0044",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5488",
+      "extras_ids": [],
+      "confianca_modelo": 0.93,
+      "justificativa": "O item delimita as consequências da citação pessoal válida e ausência do acusado: revelia e prosseguimento. A subtração de joias é contexto; o núcleo está na comunicação processual e seus efeitos, não no furto ou confissão ficta.",
+      "temas_concorrentes_ids": [
+        "5487",
+        "5583"
+      ],
+      "alertas": [
+        "narrativa_patrimonial_e_contexto",
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

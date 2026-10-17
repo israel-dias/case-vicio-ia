@@ -1,0 +1,144 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0194",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5089",
+      "confianca_modelo": 0.94,
+      "justificativa": "O caso exige tipificar subtração por funcionário e particular ciente da elementar funcional. Peculato é central e comunicabilidade da elementar é conteúdo adicional efetivamente necessário.",
+      "extras_ids": [
+        "5076"
+      ],
+      "temas_concorrentes_ids": [
+        "5159"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0196",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4388",
+      "confianca_modelo": 0.98,
+      "justificativa": "O enunciado delimita objetivos e proposições da teoria do etiquetamento. Teorias Criminológicas em Espécie corresponde ao modelo nomeado.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0197",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5498",
+      "confianca_modelo": 0.79,
+      "justificativa": "A assertiva pergunta por atribuição investigativa da Polícia Federal em fatos contra banco. Inquérito é hipótese, mas a distinção material/federal e o ramo de competência também são essenciais e o catálogo não separa atribuições policiais.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5482",
+        "5500"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0198",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5073",
+      "confianca_modelo": 0.95,
+      "justificativa": "O comando pede requisitos de autoria mediata em aparato organizado sob domínio do fato. O subtema de modalidades de autoria é compatível, sem confundir com crime de organização criminosa.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5072"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0199",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5218",
+      "confianca_modelo": 0.67,
+      "justificativa": "As opções misturam conduta, bem jurídico, elemento subjetivo, estado de necessidade e concurso. Fato Típico é hipótese predominante, mas não cobre a ilicitude e o concurso de todos os itens.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5228",
+        "5066",
+        "5171"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0200",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4705",
+      "confianca_modelo": 0.8,
+      "justificativa": "Todas as opções tratam da Lei de Organizações Criminosas, seus efeitos e investigação. O núcleo legal é claro, mas a preferência sobre o homônimo 6725 exige premissa de ramo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6725"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0201",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5103",
+      "confianca_modelo": 0.98,
+      "justificativa": "O caso e alternativas delimitam estupro de vulnerável e efeitos do consentimento/experiência anterior. O subtema específico representa a tipificação sexual, sem deslocar o núcleo para ação penal citada em distrator.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0202",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5224",
+      "confianca_modelo": 0.94,
+      "justificativa": "A narrativa destaca desconhecimento da idade e da condição de prostituição e as opções discutem efeitos desse desconhecimento sobre dolo/tipicidade. Erro de Tipo é o instituto central proposto; o delito sexual fornece o contexto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5109"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0203",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4702",
+      "confianca_modelo": 0.81,
+      "justificativa": "O item delimita indisponibilidade de bens de interpostas pessoas na Lei de Lavagem. O ramo legal é hipótese, mas o concorrente 6723 não oferece distinção suficiente para liberar o ID.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6723",
+        "5496"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0204",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5507",
+      "confianca_modelo": 0.98,
+      "justificativa": "O item define aplicação imediata e validade de atos pretéritos da lei processual. Lei processual no Tempo corresponde diretamente ao objeto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1435 @@
+[
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutojz-subst-tipo-1.pdf",
+    "ids_busca": [
+      "Q0003",
+      "Q0003",
+      "Q0003",
+      "Q0003"
+    ],
+    "chave": "6d99eef4e84199fa",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "0807f919b54484c7bf3a01ad1e83c6c3c7e831bcc7c150df0a5d3c1cb854ab02",
+    "bytes_pdf": 560295,
+    "nome_arquivo_texto_cache": "6d99eef4e84199fa_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/PC_RO_22/arquivos/732_PCRO_002_01.PDF",
+    "ids_busca": [
+      "Q0005"
+    ],
+    "chave": "dc61e93a9329b789",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "8a037ebd67576be8874504fa1a5708272e8299dc55eac94ee05191777d53c61f",
+    "bytes_pdf": 287231,
+    "nome_arquivo_texto_cache": "dc61e93a9329b789_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/promotor-de-justica-substitutocns001-tipo-3.pdf",
+    "ids_busca": [
+      "Q0006",
+      "Q0347",
+      "Q0006",
+      "Q0006",
+      "Q0347",
+      "Q0006",
+      "Q0347"
+    ],
+    "chave": "7d13204073b47134",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "fc276f457ab9cddfbf03549ee81bd69d72452d8885779d2b91e5d2bce978bb91",
+    "bytes_pdf": 1172309,
+    "nome_arquivo_texto_cache": "7d13204073b47134_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/defensor-publicocns100-tipo-1.pdf",
+    "ids_busca": [
+      "Q0007",
+      "Q0108",
+      "Q0132",
+      "Q0254",
+      "Q0007"
+    ],
+    "chave": "3517a23f82921fea",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "f42e646b3ddda8da67063541fda7a255c49a7dd41b29eb7836b0d6563bb99146",
+    "bytes_pdf": 652019,
+    "nome_arquivo_texto_cache": "3517a23f82921fea_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/PF_18/arquivos/MATRIZ_408_DGPPF001__PAG_8.PDF",
+    "ids_busca": [
+      "Q0011"
+    ],
+    "chave": "5c27de6d87b686e9",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "7095c473f11e1427a602d1d5156d58eb2844c58df31414fa9a8aeed30221cc43",
+    "bytes_pdf": 110011,
+    "nome_arquivo_texto_cache": "5c27de6d87b686e9_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistraturacns001-tipo-3_2.pdf",
+    "ids_busca": [
+      "Q0016",
+      "Q0016",
+      "Q0187"
+    ],
+    "chave": "9bca8a19b41fcec5",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "b352148dd29acd4fbf47ed8e3a1a4a56ad2e8a88a18a318e8933a16d3f54d5e6",
+    "bytes_pdf": 589886,
+    "nome_arquivo_texto_cache": "9bca8a19b41fcec5_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.mpmg.mp.br/data/files/F6/63/73/AB/6091A81025FB8488760849A8/MPMG%202023%20-%20Prova%20Objetiva.pdf",
+    "ids_busca": [
+      "Q0019"
+    ],
+    "chave": "bfbfd74e43f0dfbc",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "45330a0972b7edbaddfaaeec733146fe3d0ef415e4300b244a3f094f38025315",
+    "bytes_pdf": 487994,
+    "nome_arquivo_texto_cache": "bfbfd74e43f0dfbc_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.mpf.mp.br/am/estagie-conosco/estagiarios/1o-processo-seletivo-unificado-de-2025/RESPOSTAAOSRECURSOSPROVAOBJETIVAOK.pdf",
+    "ids_busca": [
+      "Q0022"
+    ],
+    "chave": "d31a9a017dfa035e",
+    "estado": "falha_ao_obter",
+    "erro": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.mpf.mp.br/o-mpf/unidades/pr-sp/estagio/recursos-prova-objetiva-resposta-examinadores-as.pdf",
+    "ids_busca": [
+      "Q0022"
+    ],
+    "chave": "7bde196070c973eb",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "8aefa388893fc7b29a9685e7538d41977885d2c9f032dcde3b160c7828eedc75",
+    "bytes_pdf": 1325386,
+    "nome_arquivo_texto_cache": "7bde196070c973eb_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.mpdft.mp.br/portal/pdf/concursos/membros/30concurso/ProvaObjetiva30.pdf",
+    "ids_busca": [
+      "Q0023",
+      "Q0269"
+    ],
+    "chave": "6e48bdbb6713a9c4",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "d34e3bf245c4629b38bdaeffbc94b9161079598ac6851ea3c708e767185a3ea5",
+    "bytes_pdf": 366637,
+    "nome_arquivo_texto_cache": "6e48bdbb6713a9c4_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.mpdft.mp.br/portal/pdf/Prova%201a%20Etapa.pdf",
+    "ids_busca": [
+      "Q0023",
+      "Q0269"
+    ],
+    "chave": "6232fd6773a8a5d1",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "d34e3bf245c4629b38bdaeffbc94b9161079598ac6851ea3c708e767185a3ea5",
+    "bytes_pdf": 366637,
+    "nome_arquivo_texto_cache": "6232fd6773a8a5d1_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistraturacns001-tipo-2_1.pdf",
+    "ids_busca": [
+      "Q0024",
+      "Q0024",
+      "Q0024",
+      "Q0024"
+    ],
+    "chave": "c7033c4d4874eeba",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "4b12610b5c150d1c6d9e5d07500a108f2f14c7c961fda54295e1a1faafb4c51c",
+    "bytes_pdf": 587561,
+    "nome_arquivo_texto_cache": "c7033c4d4874eeba_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/pc_es_22_delegado/arquivos/729_PC_ES_001_01.PDF",
+    "ids_busca": [
+      "Q0026",
+      "Q0234"
+    ],
+    "chave": "6e2aa230be64511e",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "cc066fe3757329aaffb0172b5a9ddc5fbd9b19b5053844b49749a4d95b76dd10",
+    "bytes_pdf": 415554,
+    "nome_arquivo_texto_cache": "6e2aa230be64511e_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tjba/TJBAHIA_Tecnico_Judiciario_-_Escrevente_-_Area_Judiciaria_%28TJUD-AJ%29_Tipo_3.pdf",
+    "ids_busca": [
+      "Q0027",
+      "Q0027",
+      "Q0027"
+    ],
+    "chave": "92c5448d01915364",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "3820482ab2057260ed995957114bfc5374ce2400027ee7cb2625bc80fc1fc5c5",
+    "bytes_pdf": 871655,
+    "nome_arquivo_texto_cache": "92c5448d01915364_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/pf_18/arquivos/MATRIZ_408_DGPPF001__PAG_8.PDF",
+    "ids_busca": [
+      "Q0031"
+    ],
+    "chave": "939d1b405fe5e558",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "7095c473f11e1427a602d1d5156d58eb2844c58df31414fa9a8aeed30221cc43",
+    "bytes_pdf": 110011,
+    "nome_arquivo_texto_cache": "939d1b405fe5e558_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/promotor-de-justica-substituto-cns100-tipo-1_0.pdf",
+    "ids_busca": [
+      "Q0034"
+    ],
+    "chave": "7898324849458d0d",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "7bd8afca7144436c2fbc6eeeddeccc7535d40e4341c44cef4904bf571b7361b5",
+    "bytes_pdf": 612869,
+    "nome_arquivo_texto_cache": "7898324849458d0d_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://portal.tjce.jus.br/uploads/2025/07/Prova-Tipo-1.pdf",
+    "ids_busca": [
+      "Q0036",
+      "Q0036"
+    ],
+    "chave": "09d04d8f252a1694",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "771614b1b4f1afb021de25a63736f482dbaba215f0ca9ba62826970b03106bac",
+    "bytes_pdf": 1302116,
+    "nome_arquivo_texto_cache": "09d04d8f252a1694_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substituto-cns001-tipo-3.pdf",
+    "ids_busca": [
+      "Q0036",
+      "Q0036"
+    ],
+    "chave": "6de58e580a62999b",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "28596ff8b6eb1ebe5b7371a9a733abff75b33f71532799a6a2152d8cafb0c8b2",
+    "bytes_pdf": 1302875,
+    "nome_arquivo_texto_cache": "6de58e580a62999b_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tjgo-2023-juiz-substitutojuizsubstituto-tipo-2.pdf",
+    "ids_busca": [
+      "Q0038",
+      "Q0038"
+    ],
+    "chave": "a9c31662ecb88010",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "b34d393295c09a2ee115fb0af7591d5c1ad4c843ee6356ef56580174812fc3fc",
+    "bytes_pdf": 1118057,
+    "nome_arquivo_texto_cache": "a9c31662ecb88010_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://docs.tjgo.jus.br/concursos/juizsubstituto/concurso58/Provas.pdf",
+    "ids_busca": [
+      "Q0038"
+    ],
+    "chave": "f39e628869d497ca",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "80a5d7c9df250ce318d60d45b2b2e946241e2e561a602f6191f83db31b1acbfd",
+    "bytes_pdf": 4393854,
+    "nome_arquivo_texto_cache": "f39e628869d497ca_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.tjrj.jus.br/documents/10136/1644050/cad-prova-2.pdf",
+    "ids_busca": [
+      "Q0046"
+    ],
+    "chave": "64c8c5cd28c499d3",
+    "estado": "falha_ao_obter",
+    "erro": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/delegado-de-policia-substitutocns101-tipo-4.pdf",
+    "ids_busca": [
+      "Q0047",
+      "Q0081",
+      "Q0081",
+      "Q0081",
+      "Q0081"
+    ],
+    "chave": "10b6c9782ac6f90e",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "ef9c394f50b23a1d778bf4de0886978a0ac2ca19428172ab20b923c610dc164d",
+    "bytes_pdf": 564944,
+    "nome_arquivo_texto_cache": "10b6c9782ac6f90e_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/defensoria_2021_classe_inicial_da_carreira_da_defensoria_publica_do_estado_do_rio_de_janeiro_ci-defens_tipo_3.pdf",
+    "ids_busca": [
+      "Q0048",
+      "Q0171",
+      "Q0210",
+      "Q0048",
+      "Q0171",
+      "Q0210",
+      "Q0171"
+    ],
+    "chave": "1968a700dbfb4189",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "96f636fbb93849da77eded9352da5e3dc445425c5bae217bfd259140439d4fcd",
+    "bytes_pdf": 846026,
+    "nome_arquivo_texto_cache": "1968a700dbfb4189_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/classe-inicial-da-carreira-da-defensoria-publica-do-estado-do-rio-de-janeirodef-rio-tipo-2.pdf",
+    "ids_busca": [
+      "Q0051",
+      "Q0284",
+      "Q0051",
+      "Q0284",
+      "Q0051",
+      "Q0284"
+    ],
+    "chave": "b6fdceaad089f776",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "46b8c2cb6b8be265046bdcb7aa8f843e5297b7067f8ed53b74718fa4efdef520",
+    "bytes_pdf": 1260461,
+    "nome_arquivo_texto_cache": "b6fdceaad089f776_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/trf1_17_servidor/arquivos/355_trf1_002_09_super.pdf",
+    "ids_busca": [
+      "Q0053"
+    ],
+    "chave": "64e979d9a14d27f6",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "c05df1f6cbf1209b06c113a691ec364ab8eab3a3596378c53abf7f44369b8012",
+    "bytes_pdf": 55295,
+    "nome_arquivo_texto_cache": "64e979d9a14d27f6_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tjsc-2023-juiz-substitutojuizsubstituto-tipo-4.pdf",
+    "ids_busca": [
+      "Q0054",
+      "Q0054"
+    ],
+    "chave": "e8febb9fdf91d2cd",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "38fc3ac16b9f08737a2b203e6a453fb85a736ba17b9c08f4e817c426b1fe3761",
+    "bytes_pdf": 1129737,
+    "nome_arquivo_texto_cache": "e8febb9fdf91d2cd_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.mpmg.mp.br/data/files/6D/B3/82/CB/41F8491041383A19760849A8/Espelho%20de%20Prova.pdf",
+    "ids_busca": [
+      "Q0054"
+    ],
+    "chave": "f806886ff412119f",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "f5bba44434338bc631e2d14c3ff90bb1072c3d59cce4a8c7d17244347ca5a41a",
+    "bytes_pdf": 268251,
+    "nome_arquivo_texto_cache": "f806886ff412119f_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz_de_direito_substitutojuizsubst_tipo_2_-_revisada.pdf",
+    "ids_busca": [
+      "Q0055",
+      "Q0055",
+      "Q0055"
+    ],
+    "chave": "0f48cf1497a358cf",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "146daadb4f896729c1949d366983244be23659ea224686df2099f9075631f092",
+    "bytes_pdf": 1124452,
+    "nome_arquivo_texto_cache": "0f48cf1497a358cf_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_sc_22_notarios/arquivos/719_TJSCPROVIMENTO_001_01.PDF",
+    "ids_busca": [
+      "Q0057"
+    ],
+    "chave": "2b95e17969aa59ae",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "14bce221385a8a74fe14ed0c76ce8745cde630a4ee29293e195a37ac38594fef",
+    "bytes_pdf": 649952,
+    "nome_arquivo_texto_cache": "2b95e17969aa59ae_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/delegado-objetivacns100-tipo-3.pdf",
+    "ids_busca": [
+      "Q0063",
+      "Q0063",
+      "Q0063"
+    ],
+    "chave": "a6b7e22770be6117",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "e5a88b84dcc5c17e84727de24e345c5995b76f0e3e9b61ebeaf5178ac432ec1d",
+    "bytes_pdf": 1213291,
+    "nome_arquivo_texto_cache": "a6b7e22770be6117_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/PGE_CE_21/arquivos/635_PGE_CE_001_01.PDF",
+    "ids_busca": [
+      "Q0064",
+      "Q0350"
+    ],
+    "chave": "23a388485bd9203d",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "014678d5b73357032a1499ef14f581cea7d7c3b35c120968dd8fb10e0fb777a9",
+    "bytes_pdf": 460880,
+    "nome_arquivo_texto_cache": "23a388485bd9203d_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistratura-cns001-tipo-1.pdf",
+    "ids_busca": [
+      "Q0070",
+      "Q0070"
+    ],
+    "chave": "9885301d404b3033",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "31a6228c7f2ec52358fffb1f6add267ed075ead17d5c3ad37a500d465d084aa4",
+    "bytes_pdf": 599159,
+    "nome_arquivo_texto_cache": "9885301d404b3033_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://ejef.tjmg.jus.br/wp-content/uploads/2021/07/prova_juiz.pdf",
+    "ids_busca": [
+      "Q0073"
+    ],
+    "chave": "ab76217dd1b1d121",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "bb2a2957cb53987485b3c7f227bd1df98e3b544d5ad7b56d2d5cca228793b615",
+    "bytes_pdf": 101009,
+    "nome_arquivo_texto_cache": "ab76217dd1b1d121_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/DPE_AL2009/arquivos/DPE_001_1.pdf",
+    "ids_busca": [
+      "Q0074"
+    ],
+    "chave": "063c3fa7a240f88d",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "df9fd267d0ae2061c695dc66469bd360f5a09707cfb3fd096162c3c4d1de50bf",
+    "bytes_pdf": 307043,
+    "nome_arquivo_texto_cache": "063c3fa7a240f88d_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/DPE_RO_12/arquivos/DPERO12_001_01.pdf",
+    "ids_busca": [
+      "Q0078"
+    ],
+    "chave": "cb7c6d49e26a9018",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "bd3bacc48a065b91f8d7f93a332bb2a61e5082586742e215a746740365a3ed96",
+    "bytes_pdf": 281485,
+    "nome_arquivo_texto_cache": "cb7c6d49e26a9018_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_ma_22_juiz/arquivos/694_tjma_001_01.pdf",
+    "ids_busca": [
+      "Q0079"
+    ],
+    "chave": "7e3cb662d1b626ee",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "c8f88a5c77c17c08eab7378f33382fdfb8d92b70364e2492046cb7c3427847f9",
+    "bytes_pdf": 669795,
+    "nome_arquivo_texto_cache": "7e3cb662d1b626ee_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/oficial-de-justicaof-jus-tipo-3.pdf",
+    "ids_busca": [
+      "Q0082"
+    ],
+    "chave": "6bd65110a8e685f7",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "e17885a6ba7211e2b6daefb9f4127e44c5aa7a6e4a911229d0094d9f4f323815",
+    "bytes_pdf": 461056,
+    "nome_arquivo_texto_cache": "6bd65110a8e685f7_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutotjse-jsub-tipo-2.pdf",
+    "ids_busca": [
+      "Q0097",
+      "Q0097",
+      "Q0355",
+      "Q0097",
+      "Q0097",
+      "Q0355"
+    ],
+    "chave": "1ee495883ecc767b",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "4b6566ff31fb5eea713ef364b7914e6ded5987fa508df21515d104922bccc858",
+    "bytes_pdf": 590561,
+    "nome_arquivo_texto_cache": "1ee495883ecc767b_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutojuizsubstituto-tipo-4.pdf",
+    "ids_busca": [
+      "Q0099",
+      "Q0148",
+      "Q0099",
+      "Q0148",
+      "Q0099",
+      "Q0148"
+    ],
+    "chave": "7492dab990856eea",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "8f084936183c26b68ed6e8b26a03738c219ffdf5325845d5150f23b6bc1af8e2",
+    "bytes_pdf": 1117955,
+    "nome_arquivo_texto_cache": "7492dab990856eea_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/pm_ro_22/arquivos/731_SESDEC_PM_RO_001_01.PDF",
+    "ids_busca": [
+      "Q0109"
+    ],
+    "chave": "c3805be7a985c143",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "86fc7f1e7914a33a08b723d0f7ea2c45e8b705c4984d7eaf47f3e679cbedd5b2",
+    "bytes_pdf": 649221,
+    "nome_arquivo_texto_cache": "c3805be7a985c143_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/PM_RO_22/arquivos/731_SESDEC_PM_RO_001_01.PDF",
+    "ids_busca": [
+      "Q0109"
+    ],
+    "chave": "377e413cbbecc9c1",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "86fc7f1e7914a33a08b723d0f7ea2c45e8b705c4984d7eaf47f3e679cbedd5b2",
+    "bytes_pdf": 649221,
+    "nome_arquivo_texto_cache": "377e413cbbecc9c1_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/auditor_fiscal_da_receita_estadual_-_tributacao_manha_-_tipo_4.pdf",
+    "ids_busca": [
+      "Q0113"
+    ],
+    "chave": "50ecf0ae922733bd",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "5b396e27b23d897b3d29da64be48c1b4f0dd34cb5254b2cb543d6ae56b7513e5",
+    "bytes_pdf": 1313447,
+    "nome_arquivo_texto_cache": "50ecf0ae922733bd_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/auditor_fiscal_da_receita_estadual_-_tecnologia_da_informacao_manha_-_tipo_3.pdf",
+    "ids_busca": [
+      "Q0113",
+      "Q0113"
+    ],
+    "chave": "8bbfc37675d2c423",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "0b2a2f0339ed64ebd84cc33e69b4440a383ea8905729ef5011ae04045630e14d",
+    "bytes_pdf": 1312466,
+    "nome_arquivo_texto_cache": "8bbfc37675d2c423_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/cabo-pmcnm001-tipo-4.pdf",
+    "ids_busca": [
+      "Q0116"
+    ],
+    "chave": "8e9dba1ee4f9d255",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "10a3099072dfe56b32b882f4746588969d80b7e25e451fe3765d4b985089aca4",
+    "bytes_pdf": 1240316,
+    "nome_arquivo_texto_cache": "8e9dba1ee4f9d255_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_sc_19_juiz/arquivos/MATRIZ_450_TJSC001_PAG_20.PDF",
+    "ids_busca": [
+      "Q0117"
+    ],
+    "chave": "b7976f697aecd5c0",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "26321fa0ede349d35febe397e61da6965d32bc60ca1207df33b974a610d08df9",
+    "bytes_pdf": 140878,
+    "nome_arquivo_texto_cache": "b7976f697aecd5c0_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/PGE_BA_13_PROCURADOR/arquivos/SAEBPGEBA14_001_01.pdf",
+    "ids_busca": [
+      "Q0120"
+    ],
+    "chave": "311c9707fcc1c557",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "c1c77323f8eec8bc31c2780b7270208e994cfb2f308463f379b804d942915d32",
+    "bytes_pdf": 1548998,
+    "nome_arquivo_texto_cache": "311c9707fcc1c557_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/TRF5JUIZ2009/arquivos/TRF5a_001_1.pdf",
+    "ids_busca": [
+      "Q0126"
+    ],
+    "chave": "0521dd1c2f88f65b",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "e01c8db3a0abfbcfffd2a3cc258c66850d4c9b03ce2f4018f8434544b0af2e57",
+    "bytes_pdf": 343820,
+    "nome_arquivo_texto_cache": "0521dd1c2f88f65b_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-judiciario-sem-especialidade-ns-a01-se-tipo-3.pdf",
+    "ids_busca": [
+      "Q0127",
+      "Q0127",
+      "Q0127"
+    ],
+    "chave": "bf1f9fbc2dd5a582",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "36996676576a51bc69aa3613709349b8429b5133dd1c728a53fa3fd7faee0752",
+    "bytes_pdf": 512758,
+    "nome_arquivo_texto_cache": "bf1f9fbc2dd5a582_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/promotor_de_justica_substitutopjs_tipo_3.pdf",
+    "ids_busca": [
+      "Q0129",
+      "Q0129",
+      "Q0129",
+      "Q0129"
+    ],
+    "chave": "26cbf55a7c95b9a1",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "207673fcb8ff5d81e7537d43ad1ecc6e584f8a97fd8662bf90dabfe3cfde42e0",
+    "bytes_pdf": 834921,
+    "nome_arquivo_texto_cache": "26cbf55a7c95b9a1_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substitutojuizsubstituto-tipo-4_0.pdf",
+    "ids_busca": [
+      "Q0130",
+      "Q0130",
+      "Q0130"
+    ],
+    "chave": "05fc02ed34e2377c",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "5ef01aea39b8135d0835fd080caf469e6e1a11ab3a390d4e28557ba4a7a7ca87",
+    "bytes_pdf": 577848,
+    "nome_arquivo_texto_cache": "05fc02ed34e2377c_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz_substituto_juz-sub_tipo_2.pdf",
+    "ids_busca": [
+      "Q0132"
+    ],
+    "chave": "0fb9d2b2bf901250",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "0486f444565fc5889b6743cd9d06d5d2c5fe8bd1ff3cba35172d8b4a6d98a236",
+    "bytes_pdf": 1270949,
+    "nome_arquivo_texto_cache": "0fb9d2b2bf901250_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://ejef.tjmg.jus.br/wp-content/uploads/2021/07/prova_multiplaescolha.pdf",
+    "ids_busca": [
+      "Q0135"
+    ],
+    "chave": "846df935fa166337",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "7d6617bf79b0139a210fee551d50765d095e3e7f4c87d95e10bdfde74d94fb01",
+    "bytes_pdf": 86454,
+    "nome_arquivo_texto_cache": "846df935fa166337_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/ns001_-_delegado_de_policia_-_4a_classe_prova_objetivans001_tipo_3.pdf",
+    "ids_busca": [
+      "Q0136",
+      "Q0136",
+      "Q0136"
+    ],
+    "chave": "67ff8c515b3fad47",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "a02cfafb1dab5b461c2050f101a7e5109bb240a2af3a3b625ea9e35f74cfe9da",
+    "bytes_pdf": 1268933,
+    "nome_arquivo_texto_cache": "67ff8c515b3fad47_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://portaltj.tjrj.jus.br/documents/10136/218965905/PROVA-v1.pdf",
+    "ids_busca": [
+      "Q0147"
+    ],
+    "chave": "dd4ca8d4c2492e8e",
+    "estado": "falha_ao_obter",
+    "erro": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://portaltj.tjrj.jus.br/documents/10136/218965905/PROVA-v2.pdf",
+    "ids_busca": [
+      "Q0147"
+    ],
+    "chave": "a205d8644387c598",
+    "estado": "falha_ao_obter",
+    "erro": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://www.tjrj.jus.br/documents/10136/218965905/PROVA-v3.pdf",
+    "ids_busca": [
+      "Q0147"
+    ],
+    "chave": "6f8042707413725e",
+    "estado": "falha_ao_obter",
+    "erro": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://portaltj.tjrj.jus.br/documents/10136/218965905/PROVA-v3.pdf",
+    "ids_busca": [
+      "Q0147"
+    ],
+    "chave": "9092979f97f79ba0",
+    "estado": "falha_ao_obter",
+    "erro": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://www.tjrj.jus.br/documents/10136/218965905/PROVA-v1.pdf",
+    "ids_busca": [
+      "Q0147"
+    ],
+    "chave": "a6ab52b4e8d796b5",
+    "estado": "falha_ao_obter",
+    "erro": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz_substitutoj-subs_tipo_2.pdf",
+    "ids_busca": [
+      "Q0149",
+      "Q0149",
+      "Q0149"
+    ],
+    "chave": "58c94d067e2ca9a1",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "fb21f02aad5921deeeb39c232ea8ba1ffcd1a384cecb586ae5d438467da1d2c8",
+    "bytes_pdf": 1165881,
+    "nome_arquivo_texto_cache": "58c94d067e2ca9a1_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/mpe_ac_22_promotor/arquivos/681_mpeac_001_01.pdf",
+    "ids_busca": [
+      "Q0164"
+    ],
+    "chave": "4aeb62d977188fb8",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "7c38e9ad07ed8816998c67d0adc6ddecbcec20e4884bc7ea8745b990c0f1df49",
+    "bytes_pdf": 336205,
+    "nome_arquivo_texto_cache": "4aeb62d977188fb8_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistraturacns001-tipo-1.pdf",
+    "ids_busca": [
+      "Q0170",
+      "Q0327",
+      "Q0348",
+      "Q0170",
+      "Q0327",
+      "Q0218"
+    ],
+    "chave": "a06625b99d72dc71",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "6c5db8d88cb99293189787361b1f7c07ef251961a9f7e7897b82411a17211fb2",
+    "bytes_pdf": 1206604,
+    "nome_arquivo_texto_cache": "a06625b99d72dc71_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/DPE_TO_12_DEFENSOR/arquivos/DPETO13_001_01.pdf",
+    "ids_busca": [
+      "Q0173"
+    ],
+    "chave": "cef8d916182a1dca",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "4b7af96dbb026f3e4bdcd79039609ed838fc0513b51289407b0eac4a17397e6a",
+    "bytes_pdf": 2152951,
+    "nome_arquivo_texto_cache": "cef8d916182a1dca_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_pa_19_juiz/arquivos/MATRIZ_510_TJPA001_PAG_17.PDF",
+    "ids_busca": [
+      "Q0185"
+    ],
+    "chave": "c30eb2de2fc4de3f",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "226c831b60f43762d4b875a048b70ce26156dc5340b84c826a91ab22a64d7775",
+    "bytes_pdf": 1134749,
+    "nome_arquivo_texto_cache": "c30eb2de2fc4de3f_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.tjmg.jus.br/data/files/12/34/3E/3D/690A56103CF52856A04E08A8/JUIZ%20DE%20DIREITO%20SUBSTITUTO%20-%20TIPO%2003%20AMARELA.pdf",
+    "ids_busca": [
+      "Q0190"
+    ],
+    "chave": "b7892eb33ff4e6ef",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "3c307df1d9599fbdd6d13fb381a3705618cf392357844665fe8ba0ff0562730b",
+    "bytes_pdf": 1217667,
+    "nome_arquivo_texto_cache": "b7892eb33ff4e6ef_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://ejef.tjmg.jus.br/wp-content/uploads/2021/07/prova_multipla_escolha.pdf",
+    "ids_busca": [
+      "Q0192"
+    ],
+    "chave": "c4e126967053ed77",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "350f6504342bc0ed7968ac62dc3f9b30d9e7ee128ee1ba6fbec08476c195d564",
+    "bytes_pdf": 208869,
+    "nome_arquivo_texto_cache": "c4e126967053ed77_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.mpdft.mp.br/portal/pdf/institucional/concursos/membros/29concurso/ProvaObjetiva29.pdf",
+    "ids_busca": [
+      "Q0199"
+    ],
+    "chave": "d625dd657aa9d708",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "2085d3c9dbf0ae93a76dc93f00899fe342e7a50c3bf0caaee49aa1e5ef2669ad",
+    "bytes_pdf": 434775,
+    "nome_arquivo_texto_cache": "d625dd657aa9d708_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/mp_ba_23_promotor/arquivos/853_MPBA_PROMOTOR_OBJ_001_01.PDF",
+    "ids_busca": [
+      "Q0200"
+    ],
+    "chave": "4aa1db40f55ac96c",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "1bb04fc96d997a770aceeec68793cfd1e6dce856e1369e55f066253d0d48601d",
+    "bytes_pdf": 665834,
+    "nome_arquivo_texto_cache": "4aa1db40f55ac96c_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/PF_25/arquivos/106_PF_001_01.pdf",
+    "ids_busca": [
+      "Q0203"
+    ],
+    "chave": "5d102b3c8c0870d4",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "f486b7d16c70981141660b3067c36ef96e5be23c9f00a2a8ef2922882981814d",
+    "bytes_pdf": 130642,
+    "nome_arquivo_texto_cache": "5d102b3c8c0870d4_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/DPE_SE_21/arquivos/664_DPESE_001_01.PDF",
+    "ids_busca": [
+      "Q0207"
+    ],
+    "chave": "d852cc252819be90",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "2915e30317204bd9dc44a6063b62faebfbad06477cd571cad68c616139a1c97d",
+    "bytes_pdf": 304750,
+    "nome_arquivo_texto_cache": "d852cc252819be90_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://sistemas.institutoverbena.ufg.br/2024/tj-ac/sistema/provas_gabaritos/prova/analista%20judiciario%20%20direito%20area%20judiciaria.pdf",
+    "ids_busca": [
+      "Q0215"
+    ],
+    "chave": "fe2599d03d9f322c",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "36e2d449dc3eedf3f04257daa4650d7841e64c85b88a2b90b1aaac9a934f451d",
+    "bytes_pdf": 832448,
+    "nome_arquivo_texto_cache": "fe2599d03d9f322c_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/pc_pb_21/arquivos/627_PCPB_001_01.PDF",
+    "ids_busca": [
+      "Q0216"
+    ],
+    "chave": "1ceb9680bdec78e5",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "18c9fa06962c008b4b8d2e86a84b97c3e78b212956dc17f3cd7d4f6a17b252e6",
+    "bytes_pdf": 522565,
+    "nome_arquivo_texto_cache": "1ceb9680bdec78e5_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/agu_22_procurador_fazenda/arquivos/805_AGU_PFN_001_01.PDF",
+    "ids_busca": [
+      "Q0220"
+    ],
+    "chave": "b598901aed9aee6c",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "c4b2b065c2bb1f185b25061e7b2db98390c11a4bdcd54890d75a2c8eb7bcd3cc",
+    "bytes_pdf": 698275,
+    "nome_arquivo_texto_cache": "b598901aed9aee6c_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/TRE_TO_17/arquivos/349_TRETO_001_01.pdf",
+    "ids_busca": [
+      "Q0221"
+    ],
+    "chave": "45049b05d3cbdcb1",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "73285b5e27b537aeee17c46125a85e904be024955bccb5e15cc62a61c029c313",
+    "bytes_pdf": 66925,
+    "nome_arquivo_texto_cache": "45049b05d3cbdcb1_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/DPU_17_DEFENSOR/arquivos/QUESTOES_PROVA_ORAL_MALOTE_5_30_01_GRUPO_4.PDF",
+    "ids_busca": [
+      "Q0223"
+    ],
+    "chave": "8dd4c69b3856b651",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "64d28c24730990fca78bdc5308b8f7376cfbfba9b3409307ff873f5f520aab3a",
+    "bytes_pdf": 110546,
+    "nome_arquivo_texto_cache": "8dd4c69b3856b651_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpr-2023-juiz-substitutojuizsubstituto-tipo-2.pdf",
+    "ids_busca": [
+      "Q0224",
+      "Q0224",
+      "Q0224"
+    ],
+    "chave": "46f56e98e5ec4a5d",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "a60a694c869f2be97ed26efda97c6eee7e1733d02208e2190c442a0e1f2542b7",
+    "bytes_pdf": 1126400,
+    "nome_arquivo_texto_cache": "46f56e98e5ec4a5d_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/TRF1JUIZ2009/arquivos/TRF109JUIZ_001_1.pdf",
+    "ids_busca": [
+      "Q0230"
+    ],
+    "chave": "9ebc236bd02e2445",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "9232e645abb6634bd553bd5eb536f5a552523f52797c4558810895bc9705bf9b",
+    "bytes_pdf": 344636,
+    "nome_arquivo_texto_cache": "9ebc236bd02e2445_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/PC_ES_22_DELEGADO/arquivos/729_PC_ES_001_01.PDF",
+    "ids_busca": [
+      "Q0234"
+    ],
+    "chave": "b9e579c684687fe9",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "cc066fe3757329aaffb0172b5a9ddc5fbd9b19b5053844b49749a4d95b76dd10",
+    "bytes_pdf": 415554,
+    "nome_arquivo_texto_cache": "b9e579c684687fe9_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.mpf.mp.br/pi/sala-de-imprensa/docs/resposta-aos-recursos-prova-objetiva/%40%40download/file/Resposta%20aos%20recursos%20prova%20objetiva.pdf",
+    "ids_busca": [
+      "Q0249"
+    ],
+    "chave": "0585954f683c9026",
+    "estado": "falha_ao_obter",
+    "erro": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_pr_16_juiz/arquivos/301_tjpr_001_01.pdf",
+    "ids_busca": [
+      "Q0252"
+    ],
+    "chave": "f8a0492df7576ae8",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "f1e69b3dcb06069ec0def73928ac93839db3a24ea16c716b91845c7bdbee4e00",
+    "bytes_pdf": 245980,
+    "nome_arquivo_texto_cache": "f8a0492df7576ae8_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/dp_df_19_defensor/arquivos/459_DPDF_001_00_MATRIZ_C_JUST.PDF",
+    "ids_busca": [
+      "Q0265"
+    ],
+    "chave": "a6f97d0e2f554f5a",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "a9e8726a40a9171992b5e8a36f398c24453cb424f09c48070ed3c2fb0cfb08b9",
+    "bytes_pdf": 316148,
+    "nome_arquivo_texto_cache": "a6f97d0e2f554f5a_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/tecnico-judiciario-area-judiciariatec-jud-tipo-3.pdf",
+    "ids_busca": [
+      "Q0270"
+    ],
+    "chave": "e5e15f717f60a558",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "76bb33d589c6c7c14767dec8931c7933ccb8dd8108eab5125b3a76fbd0f26622",
+    "bytes_pdf": 1004627,
+    "nome_arquivo_texto_cache": "e5e15f717f60a558_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/dpe_pi_21/arquivos/634_DPE_PI_001_01.PDF",
+    "ids_busca": [
+      "Q0272"
+    ],
+    "chave": "b951b6c7153b71a5",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "00fe576af33a75ba94e7df4c3a4fb603b8e7815946978e284ab1c4df98710cbd",
+    "bytes_pdf": 497985,
+    "nome_arquivo_texto_cache": "b951b6c7153b71a5_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/TJBA_JUIZ2012/arquivos/TJBA12_001_04.pdf",
+    "ids_busca": [
+      "Q0272"
+    ],
+    "chave": "d120fcbee5511748",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "f0b82ed7d394816c42051a41ef2e24873c192c168375eb42823ff82a8a061a56",
+    "bytes_pdf": 295466,
+    "nome_arquivo_texto_cache": "d120fcbee5511748_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/TJBA_JUIZ2012/arquivos/TJBA12_001_02.pdf",
+    "ids_busca": [
+      "Q0272"
+    ],
+    "chave": "e0fa6e4faaa9c041",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "5b59b0e892aae8744d318e100022c1ab72c5273a5ac01bccc4205fb23f14d17c",
+    "bytes_pdf": 294694,
+    "nome_arquivo_texto_cache": "e0fa6e4faaa9c041_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-leigojuz-leg-tipo-3_0.pdf",
+    "ids_busca": [
+      "Q0275",
+      "Q0275",
+      "Q0275"
+    ],
+    "chave": "cf4bc0d06bce9785",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "d7058abbaa5799c7f1c471b6ff553bdcdc3e979e3e1b696b393cf34d00b5f70f",
+    "bytes_pdf": 1101932,
+    "nome_arquivo_texto_cache": "cf4bc0d06bce9785_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.mpm.mp.br/wp-content/uploads/sites/5/2023/07/Gabarito-espelho-subjetivas-G1.pdf",
+    "ids_busca": [
+      "Q0287"
+    ],
+    "chave": "0d51860b73b4c6ce",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "e2fc8d736b076aa790ece71d3880a6b6576fabd391cd562f84fd54702420bf15",
+    "bytes_pdf": 168230,
+    "nome_arquivo_texto_cache": "0d51860b73b4c6ce_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substituto-j-sub-tipo-1.pdf",
+    "ids_busca": [
+      "Q0293",
+      "Q0293",
+      "Q0293"
+    ],
+    "chave": "9e9953e7b8201e61",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "092d910a4124f727e257cf770eb283e159f9ba67a732c7255ce859cc76666e67",
+    "bytes_pdf": 581205,
+    "nome_arquivo_texto_cache": "9e9953e7b8201e61_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://docs.tjgo.jus.br/concursos/juizsubstituto/concurso59/37_Juiz_Substituto_J-SUB_Tipo_2.pdf",
+    "ids_busca": [
+      "Q0293"
+    ],
+    "chave": "6aa9bbd73e85e13e",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "6981c7cc451d7f8635feea6c543ff9acd6d9466569698ba36605cc8a6a898a2c",
+    "bytes_pdf": 579894,
+    "nome_arquivo_texto_cache": "6aa9bbd73e85e13e_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/pjc_mt_17_delegado/arquivos/320_PJCMT_001_01.pdf",
+    "ids_busca": [
+      "Q0295"
+    ],
+    "chave": "7068ddc5d3d17134",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "c3498919067ebe9196868d0b37cc9ba2fb1e44a0066fb0e4f0c62ae110767307",
+    "bytes_pdf": 77215,
+    "nome_arquivo_texto_cache": "7068ddc5d3d17134_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.mpm.mp.br/wp-content/uploads/sites/5/2023/06/recurso-provas.pdf",
+    "ids_busca": [
+      "Q0302"
+    ],
+    "chave": "835c6a0570662010",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "7c813f73b3bd5d9c11957df2832145f43ca36e64cf8936090f26b8b227545701",
+    "bytes_pdf": 83639,
+    "nome_arquivo_texto_cache": "835c6a0570662010_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/tjdft_15_juiz_2/arquivos/caderno_de_prova_-_super_ampliada.pdf",
+    "ids_busca": [
+      "Q0303"
+    ],
+    "chave": "b58084c77f03733d",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "0cfb33ef902eff7947b8b7e3b816178986d010a5feae4c2f6f3e751843a4a9f1",
+    "bytes_pdf": 2106031,
+    "nome_arquivo_texto_cache": "b58084c77f03733d_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/TJDFT_15_JUIZ_2/arquivos/TJDFT_15_JUIZ_2_JUSTIF_DE_ALTERA____O_ANULA____O_MANUTEN____O_DE_GABARITOS.PDF",
+    "ids_busca": [
+      "Q0303"
+    ],
+    "chave": "d9cee487ad7117f4",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "bd00cc46e8cccf8ae42b1ea2b61f030601867c5a72e4648f8e275258964570bd",
+    "bytes_pdf": 502126,
+    "nome_arquivo_texto_cache": "d9cee487ad7117f4_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/juiz-substituto-cns001-tipo-1_0.pdf",
+    "ids_busca": [
+      "Q0304",
+      "Q0304",
+      "Q0318",
+      "Q0304",
+      "Q0318",
+      "Q0304"
+    ],
+    "chave": "ea2a41b1586a9e45",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "7239b33710aa338bc7357859de56624726844c0a94c0279fbcc78a4bc510f86e",
+    "bytes_pdf": 611990,
+    "nome_arquivo_texto_cache": "ea2a41b1586a9e45_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/PC_BA_13/arquivos/PCBA13_001_01.pdf",
+    "ids_busca": [
+      "Q0307"
+    ],
+    "chave": "6a84a52660ff3c36",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "2c3dd74d60dc72f0e0c18140feea55dc0627c9f1e44578df4dc382f3da2692df",
+    "bytes_pdf": 292287,
+    "nome_arquivo_texto_cache": "6a84a52660ff3c36_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/tj_rj_20_tecnico/arquivos/534_tjrj_001_01.pdf",
+    "ids_busca": [
+      "Q0311"
+    ],
+    "chave": "3ed2a590a6e5ae1a",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "2c50f3d1259c92e028d48e1424a7539c03fed4fcdf15af0c41cec329dcb7a409",
+    "bytes_pdf": 144760,
+    "nome_arquivo_texto_cache": "3ed2a590a6e5ae1a_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.tjdft.jus.br/informacoes/concursos/juiz-de-direito-substituto/concurso-realizado-em-2008-1/ProvaMultiplasEscolhas2008.pdf",
+    "ids_busca": [
+      "Q0320"
+    ],
+    "chave": "db098c29f0a538be",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "3b3caf69ca64785cc1564d9b83a5fa498a9e1d68b69833a5499bc0b19d912f9d",
+    "bytes_pdf": 168841,
+    "nome_arquivo_texto_cache": "db098c29f0a538be_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.trf3.jus.br/documentos/roco/XX_CONCURSO/prova_objetiva_XX_Concurso.pdf",
+    "ids_busca": [
+      "Q0321"
+    ],
+    "chave": "b6b0687bd173f48a",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "ee60309ea9528d8369863243c678608e80bba638aa35434940de2d65231b6537",
+    "bytes_pdf": 15115217,
+    "nome_arquivo_texto_cache": "b6b0687bd173f48a_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/TRF5_14_JUIZ/arquivos/131TRF515_001_01.PDF",
+    "ids_busca": [
+      "Q0323"
+    ],
+    "chave": "cbb1af7a3408a8ff",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "5775f38b13a9a4f0dd8970258d6172834135ac45a735fa54a160e61e6c4f3428",
+    "bytes_pdf": 160325,
+    "nome_arquivo_texto_cache": "cbb1af7a3408a8ff_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/pc_se_18_delegado/arquivos/conhecimentos_especficos_matriz.pdf",
+    "ids_busca": [
+      "Q0328"
+    ],
+    "chave": "3d421e5423d314ac",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "5fbb90097341f30f711b16c534b4b4a5a34870df46e450a89b3e90c3768a7b34",
+    "bytes_pdf": 463918,
+    "nome_arquivo_texto_cache": "3d421e5423d314ac_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/cnm001-oficial-de-promotoria-icnm001-tipo-1.pdf",
+    "ids_busca": [
+      "Q0332"
+    ],
+    "chave": "1f1ffa1aa4daf171",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "53df4a8ddfce4fdcafbc97b78fd6e6a1cadde8366cdb08632884e2d82edfd42d",
+    "bytes_pdf": 1339493,
+    "nome_arquivo_texto_cache": "1f1ffa1aa4daf171_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/_antigos/2006/TJRR2006/arquivos/TJRR_002_2.pdf",
+    "ids_busca": [
+      "Q0333"
+    ],
+    "chave": "978393232dc66372",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "91b78307c757eab3c11c65e32c7f240eb292a67eb7e1527dafee6331d1495295",
+    "bytes_pdf": 467534,
+    "nome_arquivo_texto_cache": "978393232dc66372_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.mpgo.mp.br/portal/arquivos/2019/12/02/19_11_13_60_Comunicado_22_2019_gabarito_preliminar_prova_preambular_concurso_promotor_2019_e_quest%C3%B5es_1.12.19.pdf",
+    "ids_busca": [
+      "Q0334"
+    ],
+    "chave": "f5acb9f8156eeb10",
+    "estado": "falha_ao_obter",
+    "erro": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/TRE_MT_15/arquivos/210TREMT_002_01.pdf",
+    "ids_busca": [
+      "Q0335"
+    ],
+    "chave": "32e87b13abf72405",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "c54daabe95a5580a1f657b75a6b7b38c36fa617e360e41940dec2889f5fb3ee7",
+    "bytes_pdf": 76276,
+    "nome_arquivo_texto_cache": "32e87b13abf72405_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_judiciaria_-_graduacao_em_direitocnsm001_tipo_4.pdf",
+    "ids_busca": [
+      "Q0336",
+      "Q0336",
+      "Q0336",
+      "Q0336"
+    ],
+    "chave": "b4faf80f2a2cf130",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "16621162b2d3ba7f801ee3b1decc5a5542d1168a3537fbb1b097df76029d09a3",
+    "bytes_pdf": 1559396,
+    "nome_arquivo_texto_cache": "b4faf80f2a2cf130_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_judiciaria_-_oficial_de_justica_avaliadorcnsm002_tipo_1.pdf",
+    "ids_busca": [
+      "Q0336"
+    ],
+    "chave": "4a6300325d926a74",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "777c3a55cf72548b758b4a3a2a80de543350926b2eed11dc01ea21e7abc6d7ef",
+    "bytes_pdf": 1558102,
+    "nome_arquivo_texto_cache": "4a6300325d926a74_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/pc_ro_22/arquivos/732_PCRO_003_01.PDF",
+    "ids_busca": [
+      "Q0338"
+    ],
+    "chave": "a2e4518d21b44287",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "d63cbe898a95d7ee5976ae7a7c068ff44a7e0dbc5a2147ce9a91d9af9468c253",
+    "bytes_pdf": 274109,
+    "nome_arquivo_texto_cache": "a2e4518d21b44287_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/cnm202_-_tecnico_judiciario_policial_judiciariocnm202_tipo_2.pdf",
+    "ids_busca": [
+      "Q0343",
+      "Q0343",
+      "Q0343",
+      "Q0343"
+    ],
+    "chave": "b3ec226a1a00728b",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "02309836948f42c4ef6fabfc511617f8c26560a5f74346223061cf23210a7ac3",
+    "bytes_pdf": 1359768,
+    "nome_arquivo_texto_cache": "b3ec226a1a00728b_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://conhecimento.fgv.br/sites/default/files/concursos/perito_criminal_engenheiro_florestalcnsm010_tipo_1.pdf",
+    "ids_busca": [
+      "Q0344"
+    ],
+    "chave": "fe5c319168907024",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "a0ae0765a4f0b93d90db5cbcb36f6b9b7289bba30dda509fd15233b73d3cd786",
+    "bytes_pdf": 1326130,
+    "nome_arquivo_texto_cache": "fe5c319168907024_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/trf3juiz2011/arquivos/TRF311_001_01.pdf",
+    "ids_busca": [
+      "Q0350"
+    ],
+    "chave": "f9bcf97782f600dd",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "59ea0bd52541a0bb8304276332aac9ba35026cc2e42119c36781bfaade64dc22",
+    "bytes_pdf": 264538,
+    "nome_arquivo_texto_cache": "f9bcf97782f600dd_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.trf1.jus.br/trf1/conteudo/files/Provaobjetiva01.pdf",
+    "ids_busca": [
+      "Q0350"
+    ],
+    "chave": "b8c20ea49b836172",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "40d23e65742abf26e4f91d7665487ac19236bd63076bd0ad5054f51f391939eb",
+    "bytes_pdf": 1233040,
+    "nome_arquivo_texto_cache": "b8c20ea49b836172_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/MP_AP_21_PROMOTOR/arquivos/MATRIZ.PDF",
+    "ids_busca": [
+      "Q0351"
+    ],
+    "chave": "ee1eeadab75172fa",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "a36c1158ce910dc04eb324abb597ceb1943ca6c297d92e54aa8e58ee3e1d05aa",
+    "bytes_pdf": 704787,
+    "nome_arquivo_texto_cache": "ee1eeadab75172fa_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.trf1.jus.br/sjpa/conteudo/files/PROVA_DIREITO.pdf",
+    "ids_busca": [
+      "Q0351"
+    ],
+    "chave": "55636b322c266067",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "f58a17726e4d9472842cd31a10149d347f9d9bf32be43e16de2b137248108192",
+    "bytes_pdf": 178331,
+    "nome_arquivo_texto_cache": "55636b322c266067_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://cdn.cebraspe.org.br/concursos/TJ_SC_19_JUIZ/arquivos/MATRIZ_450_TJSC001_PAG_20.PDF",
+    "ids_busca": [
+      "Q0352"
+    ],
+    "chave": "05acca1c58eaa7b0",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "26321fa0ede349d35febe397e61da6965d32bc60ca1207df33b974a610d08df9",
+    "bytes_pdf": 140878,
+    "nome_arquivo_texto_cache": "05acca1c58eaa7b0_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  },
+  {
+    "url": "https://www.mprs.mp.br/media/areas/concursos/arquivos/xlviii/prova_preambular_gabarito_definitivo.pdf",
+    "ids_busca": [
+      "Q0354"
+    ],
+    "chave": "2a04d1579ecb940e",
+    "estado": "texto_obtido_nao_gabarito_confirmado",
+    "pdf_sha256": "31889c44c0c5fb459f1d82b0aa9a1604c3abac21037d590a1a8df79c9750f7c7",
+    "bytes_pdf": 436289,
+    "nome_arquivo_texto_cache": "2a04d1579ecb940e_leitura.txt",
+    "cache_pdf_incluido_no_repositorio": false
+  }
+]

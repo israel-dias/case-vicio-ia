@@ -1,0 +1,105 @@
+{
+  "id": "Q0115",
+  "consulta_executada": "\"Paulo, executivo do mercado financeiro, após um dia estressante de trabalho, foi demitido. O mundo desabara sobre sua cabeça. Pegou\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Paulo, executivo do mercado financeiro, após um dia estressa...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/57aead65-ea",
+      "ref_consulta": "turn160search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Criminologia - Teorias Criminológicas: Escola de Chicago - explicação ecológica do crime, Estrutural-funcionalistas, Associação Diferencial, Anomia, Subcultura Delinquente, Crítica ou Radical, Etiquetamento ou “Labelling Approach”. para Concurso - Página 9 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-criminologia/teorias-criminologicas-escola-de-chicago-explicacao-ecologica-do-crime-estrutural-funcionalistas-associacao-diferencial-anomia-subcultura-delinquente-critica-ou-radical-etiquetamento-ou-labelling-approach/questoes?page=9",
+      "ref_consulta": "turn160search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Paulo, executivo do mercado financeiro, após um dia estre... - Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/criminologia-399456/1336477",
+      "ref_consulta": "turn160search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova Completa: Defensor Público (DPE-PR - FCC - 2012)",
+      "url": "https://www.magnaconcursos.com/questoes/concursos/dpe-pr-fcc-2012/defensor-publico",
+      "ref_consulta": "turn160search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: ESCOLAS CRIMINOLÓGICAS - DEFENSORIA PÚBLICA - Questões Resolvidas com Gabarito em PDF",
+      "url": "https://www.passeidireto.com/arquivo/191354370/escolas-criminologicas-defensoria-publica",
+      "ref_consulta": "turn160search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 36 - DPE-PR - Defensor Público - FCC (2012) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/dpe-pr-defensor-publico-2012-fcc/36",
+      "ref_consulta": "turn160search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "CP.MODELO",
+      "url": "https://www.verbojuridico.com.br/respostacerta/prova-dpepr-agosto-2012.pdf",
+      "ref_consulta": "turn160search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 1191975",
+      "url": "https://www.magnaconcursos.com/questoes/3b7ea273",
+      "ref_consulta": "turn160search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para FCC e Defensor Público | Qconcursos.com - Página 166",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=1&job_ids%5B%5D=175&page=166",
+      "ref_consulta": "turn160search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Curso Criminologia para Delegado PC-PR | PDF",
+      "url": "https://pt.slideshare.net/slideshow/criminologia-pcpr-delegado/232727987",
+      "ref_consulta": "turn160search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "NATACHA ALVES DE OLIVEIRA",
+      "url": "https://www.kufunda.net/publicdocs/4340-Criminologia-Nathalia-Alves-de-Oliveira-2020.pdf",
+      "ref_consulta": "turn160search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Escolas e Teorias Criminológicas - Página 7 | Gran Questões",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/criminologia-escolas-e-teorias-criminologicas-400817?pagina=7",
+      "ref_consulta": "turn160search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões DPE-PR 2012 para Defensor Público | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/fcc-2012-dpe-pr-defensor-publico/questoes?page=2",
+      "ref_consulta": "turn160search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: Criminologia Moderna - Material Claro e Objetivo em PDF para Estudo Rápido",
+      "url": "https://es.passeidireto.com/arquivo/147308343/criminologia-moderna",
+      "ref_consulta": "turn160search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "DIREITO PENAL – Rogério Sanches",
+      "url": "https://env1.cursopopulardefensoria.com.br/pluginfile.php/5288/mod_resource/content/1/Criminologia%20%E2%80%93%20aula%202.pdf",
+      "ref_consulta": "turn160search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Portanto, a teoria propõe a intervenção estatal a fim de garantir maiores oportunidades de formação instrucional e trabalho aos jovens de classe baixa.",
+      "url": "https://ayaeditora.com.br/livros/L292.pdf",
+      "ref_consulta": "turn160search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

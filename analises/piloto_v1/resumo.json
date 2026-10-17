@@ -1,0 +1,562 @@
+{
+  "fase": "piloto_exploratorio_de_desenvolvimento",
+  "questoes_analisadas": 20,
+  "sugestoes": {
+    "publicar": 7,
+    "revisar": 13,
+    "fora": 0
+  },
+  "fracao_candidatas_publicacao": 0.35,
+  "publicacoes_finais_definidas": false,
+  "precisao_medida": null,
+  "referencia_juridica_independente": "nao_disponivel",
+  "descricao_catalogo_ativo": {
+    "total": 375,
+    "ausente": 20,
+    "padrao_importacao": 335,
+    "outra_descricao": 20
+  },
+  "temas_centrais_distintos": 19,
+  "centrais_com_descricao_padrao": 19,
+  "origem_execucao": "chat_assistido",
+  "modelo_informado": "Assistente nesta conversa; identificador de modelo não confirmado",
+  "nota_operador": "Piloto exploratório assistido na conversa existente, com contexto prévio do case e leitura dos anexos em partes. Houve inspeção dirigida dos caminhos de temas. Não é execução isolada do prompt nem avaliação independente. Confiança autodeclarada não calibrada; sugestões não são decisões finais.",
+  "custo_api_executado_usd": 0,
+  "tokens_api_medidos": null,
+  "limites": [
+    "Sugestões não são classificações definitivas.",
+    "Confiança autodeclarada não é precisão medida nem probabilidade calibrada.",
+    "Revisão pelo mesmo assistente não constitui referência jurídica independente.",
+    "Piloto de desenvolvimento não estima sozinho o desempenho nas 359 questões.",
+    "Contagem por prefixo identifica um padrão textual de descrição, não sua verdade jurídica."
+  ],
+  "questoes": [
+    {
+      "id": "Q0017",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "5533",
+      "caminho_central": "Processo Penal > Procedimento Ordinário > Defesa Preliminar",
+      "confianca_autodeclarada": 0.6,
+      "justificativa_ia": "A questão cobra notificação e resposta antes do recebimento da acusação no procedimento relativo a funcionários públicos. Defesa Preliminar é a sugestão mais próxima, mas está sob Procedimento Ordinário, não sob o rito especial mencionado.",
+      "alertas_ia": [
+        "rito_especial_sem_categoria_explicitamente_correspondente",
+        "sugestao_exige_confirmacao_do_escopo"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [
+        {
+          "tema_id": "5531",
+          "caminho": "Processo Penal > Procedimento Ordinário > 2 Oferecimento, Rejeição e Recebimento da Peça Acusatória",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "5473",
+          "caminho": "Processo Penal > Ação Penal > Denúncia",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0029",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "4684",
+      "caminho_central": "Direito Penal - Legislação Especial > Abuso de Autoridade",
+      "confianca_autodeclarada": 0.75,
+      "justificativa_ia": "O enunciado identifica expressamente a Lei 13.869/2019 e pergunta por conduta de abuso de autoridade. Há outro tema ativo com o mesmo título em Penal, sem equivalência de ramo definida.",
+      "alertas_ia": [
+        "titulo_repetido_em_ramos_distintos",
+        "assunto_origem_medida_de_seguranca_nao_representa_nucleo"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [
+        "6716"
+      ],
+      "temas_concorrentes": [
+        {
+          "tema_id": "6716",
+          "caminho": "Penal > Abuso de Autoridade",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0035",
+      "sugestao_ia": "publicar",
+      "tema_central_id": "4706",
+      "caminho_central": "Direito Penal - Legislação Especial > Terrorismo",
+      "confianca_autodeclarada": 0.96,
+      "justificativa_ia": "O enunciado nomeia a Lei Antiterrorismo e as alternativas tratam de suas regras. Terrorismo é um tema ativo específico; o comando já está no enunciado.",
+      "alertas_ia": [
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "verificar_antes_de_publicar"
+    },
+    {
+      "id": "Q0036",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "4704",
+      "caminho_central": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "confianca_autodeclarada": 0.7,
+      "justificativa_ia": "A pergunta se concentra na audiência prevista no artigo 16 da Lei Maria da Penha. O enquadramento material é claro, mas há dois IDs de Lei Maria da Penha em ramos distintos e interface com ação penal.",
+      "alertas_ia": [
+        "titulo_repetido_em_ramos_distintos",
+        "metadados_de_origem_ausentes"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [
+        "6724"
+      ],
+      "temas_concorrentes": [
+        {
+          "tema_id": "6724",
+          "caminho": "Penal > Lei Maria da Penha",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "5471",
+          "caminho": "Processo Penal > Ação Penal > Ação Penal Pública Condicionada",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "5470",
+          "caminho": "Processo Penal > Ação Penal > Ação Penal Pública Incondicionada",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0058",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "4390",
+      "caminho_central": "Criminologia > Vitimologia > Processo de Vitimização",
+      "confianca_autodeclarada": 0.55,
+      "justificativa_ia": "A relação entre pobreza e sistema penal envolve seletividade da criminalização e da vitimização. Processo de Vitimização é uma sugestão apoiada na alternativa sobre seleção das vítimas, mas o enunciado é amplo e não permite fixar o núcleo com segurança.",
+      "alertas_ia": [
+        "conteudo_transversal",
+        "nucleo_depende_de_interpretacao_das_alternativas",
+        "origem_nao_e_gabarito"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [
+        {
+          "tema_id": "4378",
+          "caminho": "Criminologia > Processos de Criminalização e Cifras Criminais > Criminalização Primária e Secundária",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "4388",
+          "caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "4384",
+          "caminho": "Criminologia > Teorias Legitimidoras da Pena",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0059",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "4388",
+      "caminho_central": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "confianca_autodeclarada": 0.6,
+      "justificativa_ia": "O texto cobra uma concepção criminológica sobre cárcere, reinserção e relação entre preso e sociedade a partir de Alessandro Baratta. A árvore não nomeia explicitamente essa concepção; há dúvida entre teorias criminológicas e teorias da pena.",
+      "alertas_ia": [
+        "escopo_dos_temas_nao_distingue_a_concepcao_cobrada"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [
+        {
+          "tema_id": "4384",
+          "caminho": "Criminologia > Teorias Legitimidoras da Pena",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "4375",
+          "caminho": "Criminologia > Política Criminal > Correntes da Política Criminal",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0069",
+      "sugestao_ia": "publicar",
+      "tema_central_id": "5173",
+      "caminho_central": "Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal",
+      "confianca_autodeclarada": 0.96,
+      "justificativa_ia": "O enunciado pergunta explicitamente pela forma de interpretação da legislação penal diante de expressões abertas, e todas as opções são métodos interpretativos.",
+      "alertas_ia": [
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "verificar_antes_de_publicar"
+    },
+    {
+      "id": "Q0090",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "5532",
+      "caminho_central": "Processo Penal > Procedimento Ordinário > Classificação dos Procedimentos",
+      "confianca_autodeclarada": 0.45,
+      "justificativa_ia": "As alternativas comparam atos e regras de vários procedimentos: juizados, júri, rito ordinário e procedimento relativo a funcionário público. Classificação dos Procedimentos é uma sugestão agregadora, mas pertence ao ramo do procedimento ordinário.",
+      "alertas_ia": [
+        "enunciado_generico",
+        "multiplos_procedimentos",
+        "categoria_agregadora_com_escopo_incertamente_adequado"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [
+        {
+          "tema_id": "5539",
+          "caminho": "Processo Penal > Procedimento Sumaríssimo",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "5524",
+          "caminho": "Processo Penal > Procedimento do Tribunal do Júri",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "5531",
+          "caminho": "Processo Penal > Procedimento Ordinário > 2 Oferecimento, Rejeição e Recebimento da Peça Acusatória",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "5533",
+          "caminho": "Processo Penal > Procedimento Ordinário > Defesa Preliminar",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0106",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "5157",
+      "caminho_central": "Penal > Dos Crimes Contra o Patrimônio",
+      "confianca_autodeclarada": 0.75,
+      "justificativa_ia": "A pergunta trata do enquadramento do pendura em restaurante, com alternativas sobre fraude e outros crimes patrimoniais. O ramo patrimonial é a sugestão central; a árvore não explicita a fraude relativa a refeições e mantém categorias Parte 1 e Parte 2 sem limites definidos.",
+      "alertas_ia": [
+        "subtipo_nao_explicitado_na_arvore",
+        "sobreposicao_com_categorias_parte_1_e_2"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [
+        {
+          "tema_id": "5166",
+          "caminho": "Penal > Dos Crimes Contra o Patrimônio > Estelionato",
+          "mesmo_ramo_central": true
+        },
+        {
+          "tema_id": "6720",
+          "caminho": "Penal > Dos Crimes Contra o Patrimônio (Parte 1)",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "6721",
+          "caminho": "Penal > Dos Crimes contra o Patrimônio (Parte 2)",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0116",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "4708",
+      "caminho_central": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "confianca_autodeclarada": 0.7,
+      "justificativa_ia": "Enunciado e alternativas tratam da Lei 11.343/2006, incluindo tráfico, consumo e disposições penais. Tráfico de Drogas é o tema específico disponível, mas seu alcance é mais estreito que o conjunto da lei e há um homônimo em Penal.",
+      "alertas_ia": [
+        "titulo_repetido_em_ramos_distintos",
+        "escopo_lei_de_drogas_mais_amplo_que_titulo_trafico",
+        "assunto_origem_prescricao_nao_representa_nucleo"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [
+        "6728"
+      ],
+      "temas_concorrentes": [
+        {
+          "tema_id": "6728",
+          "caminho": "Penal > Tráfico de Drogas",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0164",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "4703",
+      "caminho_central": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+      "confianca_autodeclarada": 0.75,
+      "justificativa_ia": "O enunciado cita a LEP e cobra assistência ao preso e ao egresso. Existe Lei de Execução Penal tanto em Legislação Especial quanto em Processo Penal.",
+      "alertas_ia": [
+        "titulo_repetido_em_ramos_distintos",
+        "assunto_origem_teoria_da_pena_nao_define_ramo"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [
+        "6734"
+      ],
+      "temas_concorrentes": [
+        {
+          "tema_id": "6734",
+          "caminho": "Processo Penal > Lei de Execução Penal",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0171",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "4693",
+      "caminho_central": "Direito Penal - Legislação Especial > Crimes Hediondos",
+      "confianca_autodeclarada": 0.35,
+      "justificativa_ia": "A questão reúne alterações do Pacote Anticrime em pena, crimes hediondos, colaboração, perfis genéticos e ANPP. Crimes Hediondos é uma sugestão provisória apoiada em uma dessas alternativas; o enunciado não estabelece um único tópico central.",
+      "alertas_ia": [
+        "questao_multitematica",
+        "tema_central_provisorio",
+        "nao_classificar_apenas_por_assunto_de_origem"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [
+        {
+          "tema_id": "5502",
+          "caminho": "Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "5201",
+          "caminho": "Penal > Teoria da Pena > Penas Privativas de Liberdade",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "5557",
+          "caminho": "Processo Penal > Provas em Espécies > Colaboração Premiada",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "5187",
+          "caminho": "Penal > Prescrição > Contagem dos Prazos e Causas Suspensivas e Interruptivas da Prescrição",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0193",
+      "sugestao_ia": "publicar",
+      "tema_central_id": "5557",
+      "caminho_central": "Processo Penal > Provas em Espécies > Colaboração Premiada",
+      "confianca_autodeclarada": 0.9,
+      "justificativa_ia": "O enunciado identifica colaboração premiada e todas as alternativas tratam de acordo, benefícios e procedimento da colaboração. Há um subtema ativo com esse título específico.",
+      "alertas_ia": [
+        "origem_inquerito_policial_nao_define_nucleo",
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [
+        {
+          "tema_id": "4705",
+          "caminho": "Direito Penal - Legislação Especial > Organizações Criminosas",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "verificar_antes_de_publicar"
+    },
+    {
+      "id": "Q0195",
+      "sugestao_ia": "publicar",
+      "tema_central_id": "4373",
+      "caminho_central": "Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas",
+      "confianca_autodeclarada": 0.92,
+      "justificativa_ia": "A questão compara conceitos e modelos das escolas clássica, positivista e crítica, correspondendo ao subtema de escolas criminológicas.",
+      "alertas_ia": [
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "verificar_antes_de_publicar"
+    },
+    {
+      "id": "Q0218",
+      "sugestao_ia": "publicar",
+      "tema_central_id": "5518",
+      "caminho_central": "Processo Penal > Prisões em Espécie > Prisão em Flagrante",
+      "confianca_autodeclarada": 0.96,
+      "justificativa_ia": "As alternativas perguntam exclusivamente pelo tipo e pela legalidade da prisão em flagrante narrada. O documento falso contextualiza o fato, mas não é o núcleo cobrado.",
+      "alertas_ia": [
+        "disciplina_origem_constitucional_nao_representa_nucleo",
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "verificar_antes_de_publicar"
+    },
+    {
+      "id": "Q0277",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "4696",
+      "caminho_central": "Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes",
+      "confianca_autodeclarada": 0.7,
+      "justificativa_ia": "O enunciado e as alternativas tratam expressamente dos crimes contra pessoa idosa. Dois temas ativos representam esse conteúdo em Legislação Especial e Penal, apesar da diferença de grafia dos títulos.",
+      "alertas_ia": [
+        "sobreposicao_semantica_em_ramos_distintos",
+        "disciplina_origem_civil_nao_representa_nucleo"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [
+        {
+          "tema_id": "6722",
+          "caminho": "Penal > Estatuto do Idoso - Crimes",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0299",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "4388",
+      "caminho_central": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "confianca_autodeclarada": 0.7,
+      "justificativa_ia": "As alternativas comparam correntes criminológicas, incluindo labelling approach, positivismo e criminologia crítica. Teorias Criminológicas em Espécie é a sugestão, com sobreposição possível com escolas e teorias da pena.",
+      "alertas_ia": [
+        "enunciado_generico",
+        "nucleo_identificado_nas_alternativas",
+        "sobreposicao_entre_escolas_e_teorias"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [
+        {
+          "tema_id": "4373",
+          "caminho": "Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas",
+          "mesmo_ramo_central": false
+        },
+        {
+          "tema_id": "4384",
+          "caminho": "Criminologia > Teorias Legitimidoras da Pena",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    },
+    {
+      "id": "Q0302",
+      "sugestao_ia": "publicar",
+      "tema_central_id": "5224",
+      "caminho_central": "Penal > Teoria do Crime: Fato Típico > Erro de Tipo",
+      "confianca_autodeclarada": 0.94,
+      "justificativa_ia": "O caso enfatiza desconhecimento de uma circunstância fática e pergunta por exclusão do dolo, distinguindo erro de tipo de erro de proibição e outras excludentes.",
+      "alertas_ia": [
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [
+        {
+          "tema_id": "5214",
+          "caminho": "Penal > Teoria do Crime: Culpabilidade > Erro de Proibição",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "verificar_antes_de_publicar"
+    },
+    {
+      "id": "Q0303",
+      "sugestao_ia": "publicar",
+      "tema_central_id": "5180",
+      "caminho_central": "Penal > Lei Penal no Tempo e no Espaço",
+      "confianca_autodeclarada": 0.88,
+      "justificativa_ia": "A pergunta trata de aplicação da lei penal, com alternativas sobre tempo do crime, sentença estrangeira e extraterritorialidade. O tema pai cobre a combinação de aspectos temporais e espaciais.",
+      "alertas_ia": [
+        "assunto_origem_acao_penal_nao_representa_nucleo",
+        "tema_pai_escolhido_por_conteudo_transversal",
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [],
+      "temas_concorrentes": [
+        {
+          "tema_id": "5182",
+          "caminho": "Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço",
+          "mesmo_ramo_central": true
+        },
+        {
+          "tema_id": "5181",
+          "caminho": "Penal > Lei Penal no Tempo e no Espaço > Lei penal no Tempo",
+          "mesmo_ramo_central": true
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "verificar_antes_de_publicar"
+    },
+    {
+      "id": "Q0309",
+      "sugestao_ia": "revisar",
+      "tema_central_id": "4688",
+      "caminho_central": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "confianca_autodeclarada": 0.75,
+      "justificativa_ia": "O enunciado cita a Lei 9.605/1998 e cobra a pena de um ilícito ambiental. Há dois temas ativos de crimes contra o meio ambiente em ramos diferentes.",
+      "alertas_ia": [
+        "titulo_repetido_em_ramos_distintos",
+        "origem_ambiental_nao_implica_fora_do_catalogo"
+      ],
+      "tipo_descricao_central": "padrao_importacao",
+      "homonimos_em_outros_ramos": [
+        "6717"
+      ],
+      "temas_concorrentes": [
+        {
+          "tema_id": "6717",
+          "caminho": "Penal > Crimes contra o meio ambiente",
+          "mesmo_ramo_central": false
+        }
+      ],
+      "revisao_especialista": "nao_realizada",
+      "prioridade_de_inspecao": "revisar_ambiguidade"
+    }
+  ]
+}

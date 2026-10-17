@@ -1,0 +1,75 @@
+{
+  "id": "Q0106",
+  "consulta_executada": "\"Que delito praticam os estudantes de Direito com o chamado pendura, nas comemorações da instalação dos cursos jurídicos no País?\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Questões de Concurso para EJEF e TJ-MG | Qconcursos.com - Página 21",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=173&institute_ids%5B%5D=115&page=21",
+      "ref_consulta": "turn149search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para TJ-MG | Qconcursos.com - Página 211",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?institute_ids%5B%5D=115&page=211",
+      "ref_consulta": "turn149search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Direito Penal | Qconcursos.com - Página 4",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?ano_publicacao=&area=&assunto=&caderno_id=1438539&cargo=&compartilhamento_id=464502&discipline_ids%5B%5D=9&escolaridade=&esfera=&instituto=&modalidade=&nivel_dificuldade=&organizadora=&page=4&periodo_ate=&periodo_de=&possui_anotacoes=&possui_comentarios=&possui_comentarios_gerais=&possui_gabarito_comentado_texto_e_video=&prova=&q=7.716+7716&sem_anuladas=true&sem_anuladas_impressao=&sem_desatualizadas=true&sem_desatualizadas_impressao=&sem_dos_meus_cadernos=&todas=on",
+      "ref_consulta": "turn149search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "DO ESTA",
+      "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/18177/ejef-2007-tj-mg-juiz-prova.pdf",
+      "ref_consulta": "turn149search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova EJEF - 2007 - TJ-MG - Juiz",
+      "url": "https://soprovas.com/provas/ejef-2007-tj-mg-juiz",
+      "ref_consulta": "turn149search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões TJ-MG 2007 para Juiz | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/ejef-2007-tj-mg-juiz/questoes?discipline_ids%5B%5D=9",
+      "ref_consulta": "turn149search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Que delito praticam os estudantes de Direito com o chamado “pendura”, nas comemoraçôes da - BRA Concursos",
+      "url": "https://www.braconcursos.com.br/direito-penal/que-delito-praticam-os-estudantes-de-direito-com-o-chamado-8220pendura8221-nas-comemoracoes-da-insta/23614",
+      "ref_consulta": "turn149search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova de múltipla escolha - 23/07/2007 - Ejef",
+      "url": "https://ejef.tjmg.jus.br/prova-de-multipla-escolha-23072007/",
+      "ref_consulta": "turn149search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 31 - TJ-MG - Juiz de Direito - EJEF (2007) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tj-mg-juiz-de-direito-2007-ejef/31",
+      "ref_consulta": "turn149search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Juiz Estadual - TJ (MG) EJEF [2007] — Concurso Público | JurisWay",
+      "url": "https://jurisway.org.br/provas-concursos/424-juiz-estadual-tj-mg-ejef-2007",
+      "ref_consulta": "turn149search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "O agente municipal de trânsito, Miguel, observando o pátio ...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/8cf1cf4f-09",
+      "ref_consulta": "turn149search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

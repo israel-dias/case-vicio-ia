@@ -1,0 +1,87 @@
+{
+  "id": "Q0358",
+  "consulta_executada": "\"Julgue o próximo item, considerando a Lei de Acesso à Informação, o Marco Civil da Internet e os demais instrumentos\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Julgue o próximo item, considerando a Lei de Acesso à Inform...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/ed8ead13-14",
+      "ref_consulta": "turn394search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Julgue o próximo item, considerando a Lei de Acesso à Inform...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/ed888d53-14",
+      "ref_consulta": "turn394search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para CESPE / CEBRASPE | Qconcursos.com - Página 904",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?examining_board_ids%5B%5D=2&has_professor_commentaries=true&page=904&per_page=5",
+      "ref_consulta": "turn394search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Julgue o próximo item, considerando a Lei de Acesso à... - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questao-de-concurso/1080595",
+      "ref_consulta": "turn394search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Julgue o próximo item, considerando a Lei de Acesso à... - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questao-de-concurso/1080596",
+      "ref_consulta": "turn394search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 3 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=593&has_commentaries=true&page=3&subject_ids%5B%5D=27999&subject_ids%5B%5D=28000&subject_ids%5B%5D=28001&subject_ids%5B%5D=28002",
+      "ref_consulta": "turn394search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Microsoft Word - 042_EMBRAPA_ANALISTA_035_01.docx",
+      "url": "https://cdn.cebraspe.org.br/concursos/EMBRAPA_24/arquivos/042_EMBRAPA_ANALISTA_035_01.pdf",
+      "ref_consulta": "turn394search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para Analista (Superior) | Qconcursos.com - Página 260",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&job_ids%5B%5D=679&page=260",
+      "ref_consulta": "turn394search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "É tipificada como crime, de acordo com a Lei de delitos...",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/legislacao-federal-2932/3734158",
+      "ref_consulta": "turn394search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Julgue o próximo item, considerando a Lei de Acesso à... - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questao-de-concurso/1080597",
+      "ref_consulta": "turn394search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Lei nº 12.965 de 2014 - Marco Civil da Internet em Direito Digital | Qconcursos.com - Página 3",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=593&has_commentaries=true&page=3&subject_ids%5B%5D=27999",
+      "ref_consulta": "turn394search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova Completa: Analista - Gestão da Informação/Engenharia de Infraestrutura e TI (EMBRAPA - CESPE / CEBRASPE - 2025)",
+      "url": "https://www.magnaconcursos.com/questoes/concursos/embrapa-cespe-cebraspe-2025/analista-gestao-informacao-engenharia-infraestrutura-ti",
+      "ref_consulta": "turn394search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso de Legislação Federal - Página 11 - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questoes-de-concurso/materia/legislacao-federal/assunto/lei-no-12527-de-2011-lei-de-acesso-a-informacao-e-decreto-no-7724-de-2012?pag=11",
+      "ref_consulta": "turn394search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

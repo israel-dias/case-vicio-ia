@@ -1,0 +1,151 @@
+[
+  {
+    "id": "Q0215",
+    "enunciado": "Leia o caso a seguir. Um homem é réu primário e é condenado por crime cometido com violência à pessoa, fixando o juiz a pena-base no mínimo legal, que é de 6 (seis) anos de reclusão. Elaborado pelo(a) autor(a). O regime inicial de cumprimento da pena será o",
+    "comando": "",
+    "alternativas": {
+      "A": "semiaberto, proibida a fixação de regime inicial mais\ngravoso com base apenas na gravidade do delito.",
+      "B": "fechado, proibida a fixação de regime inicial mais gravoso\ncom base apenas na gravidade do delito.",
+      "C": "semiaberto, permitida a fixação de regime inicial mais\ngravoso com base apenas na gravidade do delito.",
+      "D": "fechado, permitida a fixação de regime inicial mais\ngravoso com base apenas na gravidade do delito."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Penas privativas de liberdade, Regimes penitenciários",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0216",
+    "enunciado": "Considerando o sistema de juizados especiais criminais, previsto na Lei n.° 9.099/1995, e a jurisprudência do STJ e STF sobre a matéria,",
+    "comando": "assinale a opção correta.",
+    "alternativas": {
+      "A": "Tratando-se de crime de ação penal privada ou pública\ncondicionada à representação, a realização de composição\ncivil dos danos entre autor e vítima gera a extinção da\npunibilidade.",
+      "B": "Admite-se transação penal para os crimes dolosos com pena\nmáxima inferior ou igual a 2 anos e para os delitos culposos,\nindependentemente da sanção aplicada.",
+      "C": "A sentença que homologa a transação penal faz coisa julgada\nmaterial, e o descumprimento do acordo deve ser resolvido\npor meio de execução na esfera cível.",
+      "D": "O procedimento de apuração de infrações de menor potencial\nofensivo não admite a realização de exames periciais, haja\nvista a necessidade de brevidade na conclusão do processo.",
+      "E": "A despeito da omissão legislativa, é permitida a realização de\ntransação penal para os crimes de ação penal privada, por se\ntratar de direito subjetivo do autor do fato."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0217",
+    "enunciado": "Para Michel Foucault, em Vigiar e punir, as razões de ser essenciais da reforma penal no século XVIII, também denominada Reforma Humanista do Direito penal, são constituir uma nova economia e uma nova tecnologia do poder de:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "recuperar.",
+      "B": "ressocializar.",
+      "C": "humanizar.",
+      "D": "punir.",
+      "E": "descriminalizar."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Legitimidoras da Pena",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0219",
+    "enunciado": "Considerando essa situação hipotética, julgue o item subsequente.\nNa situação descrita, está presente a hipótese de participação necessária imprópria.",
+    "comando": "Julgue o item subsequente.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Pessoas",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0220",
+    "enunciado": "De acordo com precedente firmado pelo STF em sede de controle concentrado de constitucionalidade, assinale a opção correta.",
+    "comando": "Assinale a opção correta.",
+    "alternativas": {
+      "A": "Em caso de discordância do arquivamento do inquérito\npolicial, somente a vítima ou seu representante legal pode\nsubmeter, a qualquer tempo, a matéria à revisão da instância\ncompetente do órgão ministerial.",
+      "B": "Em caso de discordância do arquivamento do inquérito\npolicial, somente a vítima ou seu representante legal pode\nsubmeter a matéria à revisão da instância competente do\nórgão ministerial, no prazo de trinta dias, contados do\nrecebimento da comunicação.",
+      "C": "Em caso de discordância do arquivamento do inquérito\npolicial, além da vítima e de seu representante legal, a\nautoridade judicial competente também poderá submeter a\nmatéria à revisão da instância competente do órgão\nministerial, caso verifique patente ilegalidade ou teratologia\nno ato do arquivamento.",
+      "D": "O STF julgou inconstitucional o dispositivo que autorizava,\nem caso de discordância do arquivamento do inquérito\npolicial, a submissão da matéria à revisão da instância\ncompetente do órgão ministerial, por entender que a decisão\nde arquivamento do inquérito policial é insuscetível de\nrevisão.",
+      "E": "Em caso de discordância do arquivamento do inquérito\npolicial, somente podem submeter a matéria à revisão da\ninstância competente do órgão ministerial a vítima ou seu\nrepresentante legal e o membro do órgão ministerial que\nhouver se manifestado contra o arquivamento do inquérito\npolicial."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0221",
+    "enunciado": "A respeito das penas e das medidas de segurança, assinale a opção correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "A atenuante da confissão espontânea é preponderante em\nrelação à reincidência, impossibilitando a compensação plena\nentre uma e outra na segunda fase da dosimetria.",
+      "B": "São espécies de penas privativas de liberdade a reclusão,\na detenção, a prisão simples e a prisão especial.",
+      "C": "São espécies de penas restritivas de direitos a prestação de\nserviços à comunidade, a interdição temporária de direitos e\na obrigação de reparar o dano causado pelo crime.",
+      "D": "São princípios constitucionais aplicáveis à pena a\npersonalidade ou responsabilidade pessoal, a legalidade,\na inderrogabilidade, a proporcionalidade, a individualização e\na humanização.",
+      "E": "A duração da medida de segurança é por tempo indeterminado,\ne o condenado só será liberado depois que perícia médica\natestar a cessação de sua periculosidade."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Diferenças entre reclusão e detenção, Sanções penais, Penas privativas de liberdade",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0222",
+    "enunciado": "Assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "O denominado direito penal do inimigo, que tem como expoente Günther Jakobs,\npode ser entendido como um direito penal de segunda velocidade, restringindo\ngarantias penais e processuais.",
+      "B": "A terceira velocidade do direito penal, ligada à ideia de aplicação de penas\nalternativas, encontra amparo no ordenamento penal brasileiro na Lei n.\n9.099/1995.",
+      "C": "A quarta velocidade do direito penal refere-se ao neopunitivismo, abrangendo\naquelas pessoas que violaram tratados e convenções internacionais de direitos\nhumanos, ostentando a condição de Chefes de Estado, devendo sofrer a incidência\nde normas internacionais.",
+      "D": "A teoria da primeira velocidade do direito penal, fundada no respeito às garantias\nindividuais, tinha a ideia de um direito penal de mínima intervenção e sanções não\nprivativas de liberdade.",
+      "E": "A ideia de velocidades do direito penal foi concebida e sistematizada pelo professor\nManuel Cancio Meliá."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0223",
+    "enunciado": "O ingresso de chip de aparelho celular em estabelecimento prisional configura",
+    "comando": "",
+    "alternativas": {
+      "A": "desobediência.",
+      "B": "favorecimento real.",
+      "C": "introdução de aparelho de comunicação, sem autorização\nlegal, em estabelecimento prisional.",
+      "D": "favorecimento pessoal.",
+      "E": "conduta atípica."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Tipicidade",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0224",
+    "enunciado": "Em ação penal na qual se imputa ao réu a prática do crime de roubo, na modalidade tentada, constam de sua Folha de Antecedentes Criminais as seguintes anotações, devidamente esclarecidas por certidões cartorárias:\n1. condenação transitada em julgado, por crime de ameaça, à pena de multa, cumprida 3 anos e 8 meses antes da prática do crime objeto do processo\n2. condenação transitada em julgado, por contravenção penal de exercício ilegal de profissão ou atividade, à pena de prestação pecuniária, cumprida 2 anos e 9 meses antes da prática do crime objeto do processo.",
+    "comando": "À vista das citadas anotações, é correto afirmar que:",
+    "alternativas": {
+      "A": "ambas as anotações geram reincidência, sendo possível a\nconcessão de suspensão condicional da pena privativa de\nliberdade aplicada, caso esta não supere os 2 anos e sejam\nfavoráveis ao réu as circunstâncias judiciais;",
+      "B": "ambas as anotações geram reincidência, não sendo possível a\nconcessão de suspensão condicional da pena privativa de\nliberdade aplicada, mesmo que esta não supere os 2 anos e\nsejam favoráveis ao réu as circunstâncias judiciais;",
+      "C": "somente a anotação número 1 gera reincidência, sendo\npossível a concessão de suspensão condicional da pena\nprivativa de liberdade aplicada, caso esta não supere os\n2 anos e sejam favoráveis ao réu as circunstâncias judiciais;",
+      "D": "somente a anotação número 1 gera reincidência, não sendo\npossível a concessão de suspensão condicional da pena\nprivativa de liberdade aplicada, mesmo que esta não supere\nos 2 anos e sejam favoráveis ao réu as circunstâncias judiciais;",
+      "E": "nenhuma das anotações gera reincidência, sendo possível a\nconcessão de suspensão condicional da pena privativa de\nliberdade aplicada, caso esta não supere os 2 anos e sejam\nfavoráveis ao réu as circunstâncias judiciais."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0225",
+    "enunciado": "A partir das disposições legais e da jurisprudência dos tribunais superiores acerca de temas relacionados à execução penal, julgue o item a seguir.\nPedro foi denunciado pela prática de latrocínio e, embora tenha alegado em seu interrogatório que estava a negócios em outra cidade no dia e na hora do fato descrito na denúncia, ele foi condenado. A defesa interpôs recurso de apelação ao tribunal de justiça, com fundamento na insuficiência probatória, porém a corte estadual manteve na íntegra a condenação. O STJ, sem fazer qualquer incursão no mérito, não conheceu do recurso especial defensivo, com fundamento no enunciado da sua Súmula n.º\n7. Após o trânsito em julgado da condenação, a defesa produziu, em juízo, prova nova que comprovava cabalmente o álibi de Pedro. Nessa situação, é do STJ a competência para processamento e julgamento da ação de revisão criminal com vistas à absolvição de Pedro, pois, de acordo com a Constituição Federal de 1988, cabem àquela corte as revisões criminais de seus próprios julgados.",
+    "comando": "Julgue o item a seguir.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  }
+]

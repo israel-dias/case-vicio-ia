@@ -1,0 +1,153 @@
+[
+  {
+    "id": "Q0276",
+    "enunciado": "Sobre as provas no processo penal, é correto:",
+    "comando": "",
+    "alternativas": {
+      "A": "O interrogatório do réu é ato único, não podendo ser renovado pelo magistrado de ofício ou a pedido das partes.",
+      "B": "A confissão informal realizada perante os agentes da lei é suficiente a ensejar o desfecho condenatório.",
+      "C": "A acareação é admitida entre acusado e vítima, mas é vedada entre corréus, diante da não obrigação destes em dizer a\nverdade.",
+      "D": "O juiz negará a realização do exame de corpo de delito requerida pela parte quando não for necessária ao esclarecimento\nda verdade.",
+      "E": "A busca pessoal não dependerá de mandado quando a medida for determinada no curso de busca e apreensão domiciliar."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0278",
+    "enunciado": "Com base na legislação penal extravagante, julgue o item seguinte. Nos crimes em que a pena mínima cominada for igual ou inferior a dois anos, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo por até quatro anos, se o acusado não for condenado por outro crime e estiverem presentes os demais requisitos da suspensão condicional da pena.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento Ordinário e Sumário (Parte 02)",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0279",
+    "enunciado": "Um indivíduo de dezenove anos de idade, livre, consciente e capaz, dirigiu-se a uma joalheria com a intenção de praticar furto. Na loja, passou-se por cliente e pediu a uma vendedora para ver algumas peças. Enquanto via as joias, aproveitando-se de um descuido da vendedora, o indivíduo colocou um colar de ouro em seu bolso e, em seguida, saiu da loja, sem nada ter comprado. Trinta minutos depois, ele retornou à loja e devolveu a joia, incentivado por sua mãe. Apesar disso, o gerente, representando a joalheria, decidiu registrar boletim de ocorrência sobre o fato em uma delegacia de polícia, e o homem foi indiciado por furto simples. Após o término do inquérito policial, o Ministério Público denunciou o acusado por furto simples. A denúncia foi recebida pelo juízo competente quatro anos e seis meses depois da prática do delito, com a determinação da citação do acusado. Nesse caso, é possível o reconhecimento de",
+    "comando": "",
+    "alternativas": {
+      "A": "arrependimento eficaz.",
+      "B": "desistência voluntária.",
+      "C": "prescrição da pretensão punitiva.",
+      "D": "tentativa de furto.",
+      "E": "crime oco."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Causas de extinção da punibilidade, Crimes contra o patrimônio, Desistência voluntária e arrependimento eficaz ",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0280",
+    "enunciado": "Em data de 20 de dezembro de 2016, Astolfo pratica, em tese, crime contra a honra de Lucíolo, afirmando que este, na condição de funcionário público, subtraiu valores do departamento de obras públicas do município de Giramundo.\nConsidere a data de hoje (28.05.2017) e que Lucíolo teve ciência da suposta ofensa em 29 de dezembro de 2016.\nAponte a alternativa incorreta:",
+    "comando": "Aponte a alternativa incorreta.",
+    "alternativas": {
+      "A": "Cabe oferecimento de representação de Lucíolo ao Ministério Público.",
+      "B": "Cabe oferecimento de queixa em juízo por Lucíolo, representado por advogado, atribuindo-se a\neste poderes especiais.",
+      "C": "Deflagrada a ação penal, é sempre cabível a proposição de incidente de exceção da verdade por\nAstolfo, com o intuito de provar a subtração atribuída a Lucíolo, isso na fase da defesa escrita.",
+      "D": "Sem Lucíolo manifestar de forma clara que pretende responsabilizar criminalmente Astolfo, o\ndelegado não poderá deflagrar a investigação da suposta infração contra a honra.",
+      "E": "Oferecida a queixa em juízo, poderá o Ministério Público aditá-la."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Comunicação dos atos processuais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0281",
+    "enunciado": "Dadas as assertivas abaixo, assinalar a alternativa correta.\nI. Pode o juiz autorizar escutas telefônicas em caso de delitos apenados com detenção ou reclusão, nos crimes em que a lei taxativamente as admita.\nII. A quebra do sigilo bancário ou fiscal não exclui a proteção constitucional ao segredo, então a cargo dos operadores do processo, sob pena de responsabilização administrativa e criminal.\nIII. Admite-se o sigilo dos autos frente ao investigado e seu advogado, mesmo ante ordem de prisão ou de apreensão de bens, no interesse predominante das investigações.\nIV. O Ministério Público pode determinar a devassa de correspondências, quando relacionadas ao crime investigado.",
+    "comando": "Assinalar a alternativa correta.",
+    "alternativas": {
+      "A": "Está correta apenas a assertiva I.",
+      "B": "Está correta apenas a assertiva II.",
+      "C": "Estão corretas apenas as assertivas III e IV.",
+      "D": "Estão incorretas todas as assertivas."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Sistemas e Princípios Processuais Penais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0282",
+    "enunciado": "Assinale a alternativa correta:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Nos termos do § 1º do art. 19 da Lei n.º 11.340/06, as medidas protetivas de urgência poderão ser concedidas de imediato, observada a prévia manifestação do representante do Ministério Público.",
+      "B": "O ato de comercializar emblemas que utilizem a cruz suástica ou gamada, ainda que sem a finalidade de divulgação do nazismo, constitui o crime previsto no art. 20, § 1º, da Lei n.º 7.716/89.",
+      "C": "Ceder, gratuitamente, arma de fogo, acessório ou munição, de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar, não tipifica a conduta penal de que trata o art. 14 do Estatuto do Desarmamento.",
+      "D": "O art. 28 da Lei n.º 10.826/03 veda, em qualquer hipótese, ao menor de 25 anos, a aquisição de arma de fogo.",
+      "E": "Constatada a prática de violência doméstica e familiar contra a mulher, segundo as disposições expressas na Lei n.º 11.340/06, o juiz poderá aplicar, de imediato, ao agressor, em conjunto ou separadamente, entre as medidas protetivas de urgência, a de restrição ou suspensão de visitas aos dependentes menores, nesta hipótese ouvida a equipe de atendimento multidisciplinar ou serviço similar."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0283",
+    "enunciado": "Antonio acabou de sofrer hipoteca, determinada por juiz criminal, de imóvel que recebeu de seu pai. Nesse caso,",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "se houver sentença condenatória transitada em julgado, o próprio juiz criminal determinará a avaliação e a venda do bem em leilão público.",
+      "B": "os embargos são o recurso cabível contra a decretação da hipoteca.",
+      "C": "a medida é cabível, ainda que Antonio seja terceiro, não investigado.",
+      "D": "o imóvel, de origem lícita, não poderia ter sido hipotecado.",
+      "E": "Antonio poderia ter oferecido caução em dinheiro para que o juiz deixasse de mandar proceder à inscrição da hipoteca legal."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0284",
+    "enunciado": "No dia 2 de fevereiro de 2022, por volta das 21h, Bernardo, sargento da Marinha, ao se aproximar com seu veículo automotor da porta da garagem de entrada de seu condomínio localizado no bairro do Mutondo, em São Gonçalo, avistou um homem se aproximando rapidamente e mexendo no interior de uma mochila. Bernardo, acreditando ser um assalto, saca sua arma de fogo e, de dentro do próprio carro, efetua disparo, atingindo o alvo pretendido. No entanto, Bernardo acabou disparando e atingindo seu vizinho, Thiago, que retornava do trabalho. Bernardo, percebendo que ele estava imobilizado no chão, em razão de ter sido alvejado, imediatamente o conduz para o hospital mais próximo. No entanto, inobstante a prestação imediata de socorro, Thiago falece. Nesse caminho, funcionários do hospital acionam a Polícia Militar, que prende Bernardo em flagrante, conduzindo-o para a Delegacia de Polícia para as formalidades legais. Em razão dos fatos narrados, após audiência de custódia, o flagrante é convertido em preventiva, e o Ministério Público apresenta exordial acusatória perante o juízo do Tribunal do Júri, classificando o fato no delito de homicídio. Na fase instrutória da judicium accusationis foram apresentadas as filmagens das câmeras de segurança do condomínio que gravaram as imagens dos fatos, indicando o exato momento em que Thiago efetivamente se aproxima do condomínio manuseando sua mochila e o instante em que é atingido pelo disparo que partiu do interior do veículo automotor de Bernardo. Em seu interrogatório, Bernardo alegou que, ao observar a aproximação de um homem manuseando algo dentro de uma mochila, pelo adiantar da hora, atirou antes mesmo de sair do carro, pois acreditou que seria vítima de latrocínio, temendo, inclusive, por sua própria vida. Finda a primeira fase do júri, após manifestação do Ministério Público pela pronúncia nos moldes da denúncia, os autos vão para a defesa técnica se manifestar.\nConsiderando a narrativa fática e a legislação penal vigente, é correto sustentar na defesa de Bernardo, em sede de alegações finais, que ele agiu em legítima defesa:",
+    "comando": "Considerando a narrativa fática e a legislação penal vigente, é correto sustentar na defesa de Bernardo, em sede de alegações finais, que ele agiu em legítima defesa.",
+    "alternativas": {
+      "A": "real, devendo ser, dessa forma, excluída em seu favor a\nilicitude, motivo pelo qual a defesa de Bernardo deverá pedir\nsua absolvição sumária com arrimo no Art. 415, inciso III, do\nCódigo de Processo Penal;",
+      "B": "putativa, devendo ser, dessa forma, observada a teoria\nlimitada da culpabilidade, consoante dispõe a exposição de\nmotivos da Parte Geral do Código Penal (item 17). No caso\nexposto, temos um erro que recaiu sobre a existência da\ncausa de justificação, o que conduz a observância do\ndenominado erro de proibição indireto inevitável, restando\nafastada a culpabilidade, motivo pelo qual a defesa de\nBernardo deverá pedir sua absolvição sumária;",
+      "C": "putativa, devendo ser, dessa forma, observada a teoria\nextremada da culpabilidade, consoante dispõe a exposição de\nmotivos da Parte Geral do Código Penal (item 17). No caso\nexposto, temos um erro que recaiu sobre a existência da\ncausa de justificação, o que conduz à observância do\ndenominado erro de proibição direto inescusável, restando\nafastada a culpabilidade, motivo pelo qual a defesa de\nBernardo deverá pedir sua absolvição sumária;",
+      "D": "putativa, devendo ser, dessa forma, observada a teoria\nlimitada da culpabilidade, consoante dispõe a exposição de\nmotivos da Parte Geral do Código Penal (item 17). No caso\nexposto, temos um erro que recaiu sobre pressuposto fático,\no que conduz à observância do denominado erro de tipo\neclético escusável, restando afastada a tipicidade, motivo\npelo qual a defesa de Bernardo deverá pedir sua absolvição\nsumária;",
+      "E": "putativa, devendo ser, dessa forma, observada a teoria\nlimitada da culpabilidade, consoante dispõe a exposição de\nmotivos da Parte Geral do Código Penal (item 17). No caso\nexposto, temos um erro que recaiu sobre os limites da causa\nde justificação, o que conduz à observância do denominado\nerro de proibição indireto invencível, restando afastada a\nculpabilidade, motivo pelo qual a defesa de Bernardo deverá\npedir sua absolvição sumária."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0285",
+    "enunciado": "Constitui uma das características do direito penal do inimigo",
+    "comando": "Complete a frase com a característica correta do direito penal do inimigo.",
+    "alternativas": {
+      "A": "a legislação diferenciada.",
+      "B": "a punição a partir de atos executórios.",
+      "C": "a não utilização de medidas de segurança.",
+      "D": "a observância das garantias processuais penais.",
+      "E": "o abrandamento das penas na antecipação da tutela penal."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria Geral do Delito",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0286",
+    "enunciado": "No cálculo da pena:",
+    "comando": "No cálculo da pena:",
+    "alternativas": {
+      "A": "A redução pela menoridade do acusado deve incidir após o acréscimo pelo crime continuado.",
+      "B": "O aumento pelo concurso formal deve preceder a diminuição pela confissão espontânea.",
+      "C": "O acréscimo pela má antecedência do acusado deve incidir antes da redução pela tentativa.",
+      "D": "O aumento pela reincidência deve ser posterior à redução pela participação de menor importância."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  }
+]

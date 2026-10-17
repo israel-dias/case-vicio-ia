@@ -1,0 +1,170 @@
+{
+  "data": "2026-10-16",
+  "alcance": "Fundamentos pontuais lidos, não validação especializada de todas as respostas; os demais fundamentos indicados nos pareceres não viram confirmações automáticas.",
+  "por_id": {
+    "Q0037": [
+      "CP:297, §3º, II"
+    ],
+    "Q0052": [
+      "LEP:126,127"
+    ],
+    "Q0122": [
+      "LEP:126,127"
+    ],
+    "Q0154": [
+      "Lei 9.029/1995:2"
+    ],
+    "Q0187": [
+      "CP:33, §4º"
+    ],
+    "Q0245": [
+      "Lei 11.101/2005:182"
+    ],
+    "Q0261": [
+      "Lei 9.609/1998:6"
+    ],
+    "Q0262": [
+      "LEP:183"
+    ],
+    "Q0300": [
+      "CP:348,349"
+    ],
+    "Q0322": [
+      "Lei 13.869/2019:12,39",
+      "Lei 9.099/1995:61,82"
+    ],
+    "Q0345": [
+      "STJ:Tema1215"
+    ],
+    "Q0359": [
+      "Lei 15.163/2025:3",
+      "Lei 10.741/2003:94 atual"
+    ],
+    "Q0003": [
+      "CPP:593,I;67,III"
+    ],
+    "Q0022": [
+      "CP:312,§2º"
+    ],
+    "Q0028": [
+      "CPP:409,421"
+    ],
+    "Q0090": [
+      "CPP:409"
+    ],
+    "Q0174": [
+      "CP:154-A atual"
+    ],
+    "Q0298": [
+      "Lei 8.137/1990:7,parágrafo único"
+    ],
+    "Q0339": [
+      "CPP:421,§§1º e2º"
+    ],
+    "Q0350": [
+      "Lei 9.613/1998:1,§5º"
+    ],
+    "Q0097": [
+      "Lei 12.850/2013:1,2; consulta ao Planalto em 16/10/2026 registrada em docs/REVISAO_Q0097.md"
+    ],
+    "Q0010": [
+      "Lei9.605/1998: 10,25,§5º,48 (núcleo ambiental),53,61; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0071": [
+      "Lei9.605/1998: 10,25,§5º,48 (núcleo ambiental),53,61; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0156": [
+      "Lei9.605/1998: 10,25,§5º,48 (núcleo ambiental),53,61; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0309": [
+      "Lei9.605/1998: 10,25,§5º,48 (núcleo ambiental),53,61; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0344": [
+      "Lei9.605/1998: 10,25,§5º,48 (núcleo ambiental),53,61; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0026": [
+      "Lei11.340/2006: 5,7,9,14-A,19,22,IV; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0063": [
+      "Lei11.340/2006: 5,7,9,14-A,19,22,IV; alcance em fontes/reavaliacao_57.json",
+      "CPP: 282,400; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0084": [
+      "Lei11.340/2006: 5,7,9,14-A,19,22,IV; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0101": [
+      "Lei11.340/2006: 5,7,9,14-A,19,22,IV; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0136": [
+      "Lei11.340/2006: 5,7,9,14-A,19,22,IV; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0254": [
+      "Lei11.340/2006: 5,7,9,14-A,19,22,IV; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0282": [
+      "Lei11.340/2006: 5,7,9,14-A,19,22,IV; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0289": [
+      "Lei11.340/2006: 5,7,9,14-A,19,22,IV; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0029": [
+      "Lei13.869/2019: 1,3,15,parágrafo único,II; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0337": [
+      "Lei13.869/2019: 1,3,15,parágrafo único,II; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0109": [
+      "Lei11.343/2006: 33,§3º,50,§§1ºa5º,55; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0213": [
+      "Lei11.343/2006: 33,§3º,50,§§1ºa5º,55; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0267": [
+      "Lei11.343/2006: 33,§3º,50,§§1ºa5º,55; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0112": [
+      "Lei12.850/2013: 1,2; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0200": [
+      "Lei12.850/2013: 1,2; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0164": [
+      "Lei7.210/1984: 25; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0011": [
+      "Lei9.613/1998: 2,III; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0083": [
+      "CódigoPenal: 13,20,21; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0159": [
+      "CódigoPenal: 13,20,21; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0256": [
+      "CódigoPenal: 13,20,21; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0353": [
+      "CPP: 282,400; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0197": [
+      "ConstituiçãoFederal: 144,§1º; alcance em fontes/reavaliacao_57.json"
+    ],
+    "Q0277": [
+      "EstatutoPessoaIdosa: 106; alcance em fontes/reavaliacao_57.json"
+    ]
+  },
+  "jurisprudencia": [
+    {
+      "id": "STJ:Tema1215",
+      "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_final=1215&cod_tema_inicial=1215&novaConsulta=true&tipo_pesquisa=T",
+      "estado": "tese_oficial_lida",
+      "aplicacao_assistida": "Q0345: apenas relação de autoridade do professor, sem outra base para duplicar agravante e majorante."
+    },
+    {
+      "id": "STJ:Tema1249",
+      "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_final=1249&cod_tema_inicial=1249&novaConsulta=true&tipo_pesquisa=T",
+      "estado": "localizado_em_pesquisa_abertura_falhou",
+      "nota": "Não registrar leitura integral do acórdão."
+    }
+  ]
+}

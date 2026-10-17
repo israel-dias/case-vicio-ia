@@ -1,0 +1,69 @@
+{
+  "id": "Q0018",
+  "consulta_executada": "\"Marque C para certo e E para errado na assertiva abaixo. São considerados casos de exclusão de competência dos Juizados\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Marque “C” para certo e “E” para errado na assertiva abaixo....",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/ab943768-f8",
+      "ref_consulta": "turn60search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Procedimento comum sumaríssimo - Lei nº 9.099 de 1995 - Lei dos Juizados Especiais Criminais - JECRIM para Concurso - Página 20 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/procedimento-comum-sumarissimo-lei-n-9-099-de-1995-lei-dos-juizados-especiais-criminais-jecrim/questoes?page=20",
+      "ref_consulta": "turn60search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões TJ-MS 2016 para Juiz Leigo | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/provas/tj-ms-2016-tj-ms-juiz-leigo/questoes",
+      "ref_consulta": "turn60search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Procedimento comum sumaríssimo - Lei nº 9.099 de 1995 - Lei dos Juizados Especiais Criminais - JECRIM para Concurso - Página 12 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/procedimento-comum-sumarissimo-lei-n-9-099-de-1995-lei-dos-juizados-especiais-criminais-jecrim/questoes?has_professor_commentaries=true&page=12",
+      "ref_consulta": "turn60search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Procedimento Penal para Concurso - Página 40 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/procedimento-penal/questoes?has_professor_commentaries=true&page=40",
+      "ref_consulta": "turn60search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal - Procedimento Penal para Concurso - Página 41 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/procedimento-penal/questoes?has_professor_commentaries=true&page=41",
+      "ref_consulta": "turn60search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Direito Processual Penal para TJ-MS | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&examining_board_ids%5B%5D=1457&has_professor_commentaries=true",
+      "ref_consulta": "turn60search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para TJ-MS | Qconcursos.com - Página 83",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?institute_ids%5B%5D=114&page=83",
+      "ref_consulta": "turn60search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Grátis: SIMULADO2 Legislação Penal e Processual Penal Especial para Analista Judiciário (TRF 3) 2023 - Questões Resolvidas com Gabarito em PDF",
+      "url": "https://www.passeidireto.com/arquivo/126387166/simulado-2-legislacao-penal-e-processual-penal-especial-para-analista-judiciario",
+      "ref_consulta": "turn60search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Processo Civil | PDF",
+      "url": "https://www.scribd.com/document/679573529/Processo-Civil",
+      "ref_consulta": "turn60search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

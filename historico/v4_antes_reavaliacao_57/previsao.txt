@@ -1,0 +1,10 @@
+precisao_prevista: 0.96
+precisao_intervalo: 0.85-0.99
+cobertura_prevista: 0.827298050
+cobertura_intervalo: 0.827298050-0.827298050
+
+Cobertura fixa desta entrega: 297/359; os limites iguais indicam a contagem conhecida.
+A previsão de 96% é julgamento subjetivo após o reexame dos 359 IDs; não é medição nem confiança calibrada. Mantém o mesmo ponto da v3 por avaliação qualitativa, sem alegar reestimação estatística. A faixa 85%-99% representa cenários subjetivos de sensibilidade e admite descumprir a meta; não é intervalo de confiança.
+O suporte qualitativo é o filtro por conhecimento da resolução, comparação do caminho completo, extras só para conteúdos exigidos e abstenção por integridade/ramo não resolvido. A existência de 2 gabaritos definitivos e 1 preliminar confirmados não fornece rótulos dos temas nem valida as demais respostas assistidas.
+Não utilizamos média das confianças, concordância com o mesmo assistente, quantidade de buscas ou aprovação de testes como precisão jurídica. Não há fundamento quantitativo independente para garantir 95%; é necessária referência de especialista para medir e calibrar. A maior cobertura não comprova maior precisão.
+Os valores do CSV são julgamentos não calibrados sobre o tema central. Em fora, zero é convenção de ausência de tema, não probabilidade de acerto da exclusão. Custos reais de API de classificação: US$0; tokens internos não medidos.

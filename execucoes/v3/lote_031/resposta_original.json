@@ -1,0 +1,154 @@
+{
+  "classificacoes": [
+    {
+      "id": "Q0321",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5071",
+      "confianca_modelo": 0.76,
+      "justificativa": "As três primeiras opções comparam autoria e requisitos/teoria do concurso de pessoas, mas a última trata de hediondez da associação para tráfico. O pai é hipótese predominante em enunciado genérico, sem núcleo inequívoco para todo o bloco.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5073",
+        "4708",
+        "4693"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0322",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5561",
+      "confianca_modelo": 0.97,
+      "justificativa": "O comando pede recurso e prazo contra rejeição da denúncia. RESE é o objeto recursal; abuso de autoridade descreve o crime da ação, sem definir o tópico de estudo.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0323",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5590",
+      "confianca_modelo": 0.69,
+      "justificativa": "O bloco genérico combina prova emprestada, interrogatório, não autoincriminação, antecipação e colaboração. Teoria Geral das Provas é hipótese, mas as espécies ocupam ramo próprio e não há instituto dominante.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5593",
+        "5547",
+        "5595",
+        "5557"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0324",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5199",
+      "confianca_modelo": 0.7,
+      "justificativa": "As assertivas combinam prisão simples, efeitos acessórios, medida de segurança e trabalho do preso. Teoria da Pena é hipótese agregadora parcial, com segurança e execução em ramos distintos.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5184",
+        "5209",
+        "6734",
+        "4686"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0325",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5466",
+      "confianca_modelo": 0.62,
+      "justificativa": "O bloco mistura benefícios ambientais, denúncia, litispendência e representação na Lei Maria da Penha. Ação Penal é hipótese predominante, sem cobertura de todos os institutos nem um filho único.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5473",
+        "5494",
+        "4704",
+        "4688"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0326",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "4708",
+      "confianca_modelo": 0.78,
+      "justificativa": "O objeto é identificar crimes diversos na Lei de Drogas, incluindo prescrição culposa e uso compartilhado. Tráfico é hipótese de escopo mais estreito, com concorrente 6728 e ausência de tema geral explicitado da lei.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "6728"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    },
+    {
+      "id": "Q0327",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "5203",
+      "confianca_modelo": 0.98,
+      "justificativa": "O comando delimita segunda fase da dosimetria, confissão e reincidência, com análise dos antecedentes para compensação. Agravantes e Atenuantes é específico.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0328",
+      "sugestao_decisao": "publicar",
+      "tema_central_id": "4382",
+      "confianca_modelo": 0.96,
+      "justificativa": "O item compara funções de criminologia e política criminal na transformação de conhecimento empírico em normas. Métodos e funções da Criminologia é o subtema correspondente.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "4374"
+      ],
+      "alertas": [
+        "candidata_sujeita_a_auditoria"
+      ]
+    },
+    {
+      "id": "Q0329",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5557",
+      "confianca_modelo": 0.79,
+      "justificativa": "O comando se concentra nos benefícios de colaboração do jogador, mas a narrativa é de crime esportivo sem tema próprio e as opções contrapõem delação, testemunho e confissão. Colaboração Premiada é hipótese que exige confirmar alcance da lei/instituto.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5548",
+        "4705"
+      ],
+      "alertas": [
+        "contexto_esportivo_sem_tema_especifico"
+      ]
+    },
+    {
+      "id": "Q0330",
+      "sugestao_decisao": "revisar",
+      "tema_central_id": "5498",
+      "confianca_modelo": 0.73,
+      "justificativa": "O bloco genérico de Pacote Anticrime combina arquivamento e estrutura acusatória/defesa na investigação. Inquérito é hipótese agregadora, concorrendo com Sistema Processual e Sujeitos sem núcleo único.",
+      "extras_ids": [],
+      "temas_concorrentes_ids": [
+        "5501",
+        "5581",
+        "5583"
+      ],
+      "alertas": [
+        "encaminhamento_assistido_sem_gabarito"
+      ]
+    }
+  ]
+}

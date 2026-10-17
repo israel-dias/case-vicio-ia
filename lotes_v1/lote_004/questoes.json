@@ -1,0 +1,159 @@
+[
+  {
+    "id": "Q0031",
+    "enunciado": "Julgue o item a seguir, relativos a modelos teóricos da criminologia.\nDe acordo com a teoria da anomia, o crime se origina da impossibilidade social do indivíduo de atingir suas metas pessoais, o que o faz negar a norma imposta e criar suas próprias regras, conforme o seu próprio interesse.",
+    "comando": "Julgue o item a seguir.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0032",
+    "enunciado": "Quando, no curso da investigação, houver motivo para duvidar da integridade mental do investigado, a autoridade policial devera",
+    "comando": "Indique o procedimento correto que a autoridade policial deve adotar nessas circunstâncias.",
+    "alternativas": {
+      "A": "concluir a investigação e, no relatório, informar tal circunstância, que será apreciada pelo Ministério Publico e pelo Magistrado.",
+      "B": "Requisitar de ofício, exame de sanidade mental junto ao Instituto Médico Legal.",
+      "C": "representar á autoridade judiciária para que o investigado seja submetido a exame médico-legal.",
+      "D": "oficiar ao Ministério Público, noticiando o fato e representando pela realização de exame para verificar a sanidade do investigado.",
+      "E": "poderá nomear mais de um perito para a realização do exame mental, em virtude de sua complexidade."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0033",
+    "enunciado": "A prisão preventiva",
+    "comando": "Explique o que é a prisão preventiva.",
+    "alternativas": {
+      "A": "pode ser decretada como garantia da ordem pública, mas não da econômica.",
+      "B": "é obrigatória no caso de réu citado por edital e que não constituiu defensor, nos termos do art. 366 do Código de Processo Penal.",
+      "C": "não admite revogação por excesso de prazo para o término da instrução, medida cabível apenas para o relaxamento de flagrante.",
+      "D": "não é cabível se houver apresentação espontânea do acusado à autoridade.",
+      "E": "pode recair sobre acusado primário e de bons antecedentes."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento Ordinário e Sumário (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0034",
+    "enunciado": "A situação em que o habeas corpus é medida de impugnação cabível é",
+    "comando": "Complete a frase sobre a situação em que o habeas corpus é medida de impugnação cabível.",
+    "alternativas": {
+      "A": "para trancar processo em curso por infração penal em que a pena pecuniária seja a única cominada.",
+      "B": "para que o advogado consiga ter acesso aos autos de inquérito policial.",
+      "C": "contra a decisão que inadmite assistente de acusação.",
+      "D": "para se pedir o desentranhamento de prova ilícita dos autos de inquérito policial ou de ação penal.",
+      "E": "para se obter restituição de coisas apreendidas."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0035",
+    "enunciado": "Nos termos da Lei no 13.260/2016 (Lei Antiterrorismo), assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "Os crimes previstos na referida Lei são praticados contra o interesse da União, cabendo à Polícia Federal a investigação criminal, em sede de inquérito policial.",
+      "B": "Aquele que for flagrado constituindo uma organização terrorista, não cometerá um crime, estando sujeito a responsabilização por realizar atos preparatórios do terrorismo.",
+      "C": "O terrorismo consistirá sempre na prática por mais de um indivíduo de atos criminosos por razões de xenofobia, discriminação ou preconceito de raça, cor, etnia e religião, quando cometidos com a finalidade de provocar terror social ou generalizado.",
+      "D": "São atos de terrorismo incendiar, depredar, saquear, destruir ou explodir meios de transporte ou qualquer bem público ou privado.",
+      "E": "São atos de terrorismo incendiar, interferir, sabotar ou danificar sistemas de informática ou bancos de dados, quando cometidos com a finalidade de provocar terror social ou generalizado."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "assunto_origem_ausente"
+    ]
+  },
+  {
+    "id": "Q0036",
+    "enunciado": "Em uma Vara de Violência Doméstica e Familiar contra a Mulher, o Juiz de Direito recebeu os autos de inquérito policial concluído, no qual se apurou a prática de crime de lesão corporal leve (Art. 129, §9º, do Código Penal) supostamente cometido por Tício contra sua companheira, Ana. Ela comparecera à Delegacia, ocasião em que narrou os fatos, solicitou medidas protetivas de urgência e manifestou expressamente o desejo de representar criminalmente contra Tício. O Ministério Público ofereceu denúncia contra Tício pela prática do referido crime. Não há, em nenhuma peça dos autos, qualquer manifestação posterior de Ana indicando desejo de retratar-se da representação oferecida na fase policial. O Magistrado, antes de decidir sobre o recebimento da denúncia, resolve analisar a necessidade de designar a audiência prevista no Art. 16 da Lei nº 11.340/2006 (Lei Maria da Penha). Considerando a situação hipotética e o entendimento consolidado pelo Superior Tribunal de Justiça, assinale a opção que apresenta a decisão correta do Magistrado.",
+    "comando": "",
+    "alternativas": {
+      "A": "Designar, de ofício, a audiência prevista no Art. 16 da Lei Maria da Penha, por ser ato processual obrigatório em crimes de lesão corporal leve no âmbito doméstico, visando confirmar a representação da vítima antes do recebimento da denúncia.",
+      "B": "Intimar o Ministério Público para que requeira a designação da audiência do Art. 16, pois, embora necessária para confirmar a representação, sua designação não pode ocorrer de ofício pelo Juiz, dependendo de provocação ministerial.",
+      "C": "Intimar pessoalmente a vítima Ana para que compareça em cartório e ratifique sua representação ou manifeste eventual desejo de retratação, condicionando o recebimento da denúncia a essa nova manifestação.",
+      "D": "Prosseguir com a análise dos requisitos para o recebimento da denúncia oferecida, sem designar a audiência do Art. 16, uma vez que esta só é necessária caso a vítima manifeste previamente o desejo de se retratar, o que não ocorreu nos autos.",
+      "E": "Determinar o arquivamento do inquérito policial, pois a ausência de manifestação expressa da vítima sobre o desejo de retratação impede a designação da audiência do art. 16, tornando inviável o prosseguimento da ação penal por falta de condição de procedibilidade."
+    },
+    "disciplina_origem": "",
+    "assunto_origem": "",
+    "alertas_preparacao": [
+      "comando_ausente",
+      "disciplina_origem_ausente",
+      "assunto_origem_ausente"
+    ]
+  },
+  {
+    "id": "Q0037",
+    "enunciado": "Assinale a alternativa INCORRETA:",
+    "comando": "",
+    "alternativas": {
+      "A": "O artigo 149 do Código Penal tipifica, na seção dos crimes contra a liberdade pessoal,\na conduta de reduzir alguém à condição análoga à de escravo, incluindo o exercício do\ntrabalho forçado, em condições degradantes, em jornada exaustiva ou com restrição, por\nqualquer meio, da locomoção, em razão de dívida contraída com o empregador ou\npreposto.",
+      "B": "A pena relativa ao crime de redução a condição análoga à de escravo é aumentada se\no crime é cometido contra criança ou adolescente.",
+      "C": "O crime de falso testemunho ou falsa perícia é crime próprio cometido por\ntestemunha, intérprete, contador ou perito em processo judicial, administrativo, inquérito\npolicial ou juízo arbitral.",
+      "D": "Comete falsificação de documento particular, previsto no artigo 298 do Código Penal,\naquele que insere ou faz inserir declaração falsa ou diversa da que deveria ter sido escrita\nna CTPS do empregado ou em documento que deva produzir efeito perante a Previdência\nSocial."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Crimes contra a administração pública",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0038",
+    "enunciado": "No que diz respeito ao ofendido e às suas prerrogativas no processo penal brasileiro, é correto afirmar que poderá:",
+    "comando": "Complete a afirmação sobre as prerrogativas do ofendido no processo penal brasileiro.",
+    "alternativas": {
+      "A": "interpor recurso de apelação, ainda que não habilitado como\nassistente, quando o Ministério Público tiver recorrido de\ntodo o conteúdo impugnável da sentença;",
+      "B": "o juiz determinar o segredo de justiça em relação a dados e\ndepoimentos constantes dos autos a respeito do ofendido\npara evitar sua exposição aos meios de comunicação;",
+      "C": "se habilitar como assistente de acusação, no curso da\ninvestigação criminal, com a anuência prévia do Ministério\nPúblico;",
+      "D": "requerer ao juiz a prisão temporária do investigado caso este\nameace a sua integridade física durante a investigação\ncriminal;",
+      "E": "requisitar a instauração de inquérito policial e a realização de\ndiligências investigatórias que deverão ser realizadas pela\nautoridade policial."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0039",
+    "enunciado": "Suponha que todos os revendedores de gás liquefeito de petróleo (GLP) ajustem artificialmente preço final de venda do produto em determinada localidade. A esse respeito, é correto afirmar que",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "o ajuste é comum e em nada influencia na concorrência entre as empresas.",
+      "B": "há, em princípio, um ilícito penal a ser apurado que se subsumi ao crime contra o consumidor.",
+      "C": "o fato descrito encarta-se como crime contra a ordem econômica.",
+      "D": "a relação de consumo é afetada pela conduta descrita; portanto, há contravenção praticada contra a economia popular.",
+      "E": "a investigação a respeito do caso ficará a cargo da Polícia Federal, em virtude de que a União possui o monopólio de distribuição do GLP no Brasil."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0040",
+    "enunciado": "Assinale a alternativa que traz duas características do recurso de apelação contra sentença condenatória do Tribunal do Júri que, cumuladas, podem levar à atribuição de efeito suspensivo ao referido recurso.",
+    "comando": "",
+    "alternativas": {
+      "A": "Crime cometido sem violência ou grave ameaça e\nprimariedade do apelante.",
+      "B": "Votação não unânime quanto a quesito essencial e\nexcesso de prazo para formação da culpa.",
+      "C": "Pleitear reforma de sentença superior a 20 anos e\nlevantar questão substancial, que pode resultar em\nanulação da sentença.",
+      "D": "Interposição por acusado primário e levantar questão\nsubstancial, que pode resultar em redução da pena\npara patamar inferior a 15 (quinze) anos de reclusão.",
+      "E": "Não ter propósito meramente protelatório e levantar\nquestão substancial, que pode resultar em absolvição."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Recursos Criminais",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  }
+]

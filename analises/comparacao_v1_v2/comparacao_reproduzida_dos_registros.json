@@ -1,0 +1,495 @@
+{
+  "questoes": 20,
+  "sugestoes_v1": {
+    "publicar": 7,
+    "revisar": 13,
+    "fora": 0
+  },
+  "sugestoes_v2": {
+    "publicar": 10,
+    "revisar": 10,
+    "fora": 0
+  },
+  "mudancas_sugestao": 5,
+  "mudancas_tema_central": 5,
+  "precisao_medida": null,
+  "modelo_informado_v1": "Assistente nesta conversa; identificador de modelo não confirmado",
+  "modelo_informado_v2": "ChatGPT; identificador do modelo não registrado",
+  "nota_v1": "Piloto exploratório assistido na conversa existente, com contexto prévio do case e leitura dos anexos em partes. Houve inspeção dirigida dos caminhos de temas. Não é execução isolada do prompt nem avaliação independente. Confiança autodeclarada não calibrada; sugestões não são decisões finais.",
+  "nota_v2": "Importação nesta cópia, a partir do JSON v2 recebido do candidato. O candidato informou conversa nova sem v1; isso não é verificável pelos bytes. Registro local não é o original de sua máquina. Confiança não calibrada.",
+  "limites": [
+    "Concordância entre rodadas não equivale a acerto.",
+    "Mudança de classificação não comprova melhoria.",
+    "Contexto anterior, configuração e modelo podem diferir.",
+    "O piloto é de desenvolvimento; não é referência jurídica independente."
+  ],
+  "comparacoes": [
+    {
+      "id": "Q0017",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "publicar",
+      "tema_v1": "5533",
+      "tema_v2": "5533",
+      "caminho_v1": "Processo Penal > Procedimento Ordinário > Defesa Preliminar",
+      "caminho_v2": "Processo Penal > Procedimento Ordinário > Defesa Preliminar",
+      "mudou_sugestao": true,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "A questão cobra notificação e resposta antes do recebimento da acusação no procedimento relativo a funcionários públicos. Defesa Preliminar é a sugestão mais próxima, mas está sob Procedimento Ordinário, não sob o rito especial mencionado.",
+      "justificativa_v2": "O núcleo é a defesa preliminar no procedimento dos crimes de responsabilidade de funcionários públicos. As alternativas discutem notificação do acusado, resposta escrita anterior ao recebimento da denúncia e consequências da falta de notificação. O tema Defesa Preliminar é o enquadramento ativo mais específico, embora o rito mencionado seja especial.",
+      "alertas_v1": [
+        "rito_especial_sem_categoria_explicitamente_correspondente",
+        "sugestao_exige_confirmacao_do_escopo"
+      ],
+      "alertas_v2": [
+        "assunto_origem_indica_acao_penal_mas_conteudo_trata_de_defesa_preliminar_em_procedimento_especial",
+        "tema_especifico_esta_sob_procedimento_ordinario"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0029",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "revisar",
+      "tema_v1": "4684",
+      "tema_v2": "4684",
+      "caminho_v1": "Direito Penal - Legislação Especial > Abuso de Autoridade",
+      "caminho_v2": "Direito Penal - Legislação Especial > Abuso de Autoridade",
+      "mudou_sugestao": false,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "O enunciado identifica expressamente a Lei 13.869/2019 e pergunta por conduta de abuso de autoridade. Há outro tema ativo com o mesmo título em Penal, sem equivalência de ramo definida.",
+      "justificativa_v2": "O núcleo são os crimes previstos na Lei nº 13.869/2019. As alternativas descrevem condutas de agentes públicos envolvendo presos, interrogatório, assistência por advogado e ingresso em imóvel. Há dois temas ativos de Abuso de Autoridade em ramos diferentes, sem critério fornecido para desempate.",
+      "alertas_v1": [
+        "titulo_repetido_em_ramos_distintos",
+        "assunto_origem_medida_de_seguranca_nao_representa_nucleo"
+      ],
+      "alertas_v2": [
+        "assunto_origem_incompativel_medida_de_seguranca",
+        "duplicidade_de_tema_entre_disciplinas",
+        "necessaria_definicao_do_ramo_preferencial"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0035",
+      "sugestao_v1": "publicar",
+      "sugestao_v2": "publicar",
+      "tema_v1": "4706",
+      "tema_v2": "4706",
+      "caminho_v1": "Direito Penal - Legislação Especial > Terrorismo",
+      "caminho_v2": "Direito Penal - Legislação Especial > Terrorismo",
+      "mudou_sugestao": false,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "O enunciado nomeia a Lei Antiterrorismo e as alternativas tratam de suas regras. Terrorismo é um tema ativo específico; o comando já está no enunciado.",
+      "justificativa_v2": "O núcleo é a Lei Antiterrorismo nº 13.260/2016. As alternativas abordam atos de terrorismo, organização terrorista, elementos de caracterização e investigação criminal. Terrorismo é tema ativo específico e inequívoco.",
+      "alertas_v1": [
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "alertas_v2": [
+        "assunto_origem_ausente"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0036",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "revisar",
+      "tema_v1": "4704",
+      "tema_v2": "4704",
+      "caminho_v1": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "caminho_v2": "Direito Penal - Legislação Especial > Lei Maria da Penha",
+      "mudou_sugestao": false,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "A pergunta se concentra na audiência prevista no artigo 16 da Lei Maria da Penha. O enquadramento material é claro, mas há dois IDs de Lei Maria da Penha em ramos distintos e interface com ação penal.",
+      "justificativa_v2": "O núcleo é a aplicação do art. 16 da Lei Maria da Penha, especialmente a necessidade de audiência de retratação e o prosseguimento da ação penal em situação de violência doméstica. O enunciado menciona lesão corporal leve contra companheira e representação da vítima. Os dois ramos possuem tema específico equivalente em título, mas não há regra para escolher o ID.",
+      "alertas_v1": [
+        "titulo_repetido_em_ramos_distintos",
+        "metadados_de_origem_ausentes"
+      ],
+      "alertas_v2": [
+        "disciplina_e_assunto_origem_ausentes",
+        "duplicidade_de_lei_maria_da_penha_entre_ramos",
+        "necessaria_definicao_do_ramo_preferencial"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0058",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "revisar",
+      "tema_v1": "4390",
+      "tema_v2": "4377",
+      "caminho_v1": "Criminologia > Vitimologia > Processo de Vitimização",
+      "caminho_v2": "Criminologia > Processos de Criminalização e Cifras Criminais",
+      "mudou_sugestao": false,
+      "mudou_tema_central": true,
+      "temas_no_mesmo_ramo": false,
+      "justificativa_v1": "A relação entre pobreza e sistema penal envolve seletividade da criminalização e da vitimização. Processo de Vitimização é uma sugestão apoiada na alternativa sobre seleção das vítimas, mas o enunciado é amplo e não permite fixar o núcleo com segurança.",
+      "justificativa_v2": "O núcleo provável é a seletividade do sistema penal em sua relação com a pobreza. As alternativas abordam criminalização, vitimização seletiva, encarceramento e garantismo. Processos de Criminalização e Cifras Criminais é a melhor hipótese, mas a abordagem também admite enquadramento sociológico ou de política criminal. A vitimização aparece como conteúdo adicional efetivamente discutido.",
+      "alertas_v1": [
+        "conteudo_transversal",
+        "nucleo_depende_de_interpretacao_das_alternativas",
+        "origem_nao_e_gabarito"
+      ],
+      "alertas_v2": [
+        "assunto_origem_teorias_legitimidoras_da_pena_nao_representa_claramente_o_nucleo",
+        "alternativas_abordam_diferentes_perspectivas_criminologicas",
+        "nucleo_tematico_exige_revisao"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0059",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "revisar",
+      "tema_v1": "4388",
+      "tema_v2": "4384",
+      "caminho_v1": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "caminho_v2": "Criminologia > Teorias Legitimidoras da Pena",
+      "mudou_sugestao": false,
+      "mudou_tema_central": true,
+      "temas_no_mesmo_ramo": false,
+      "justificativa_v1": "O texto cobra uma concepção criminológica sobre cárcere, reinserção e relação entre preso e sociedade a partir de Alessandro Baratta. A árvore não nomeia explicitamente essa concepção; há dúvida entre teorias criminológicas e teorias da pena.",
+      "justificativa_v2": "O núcleo é a crítica de Alessandro Baratta à prisão e à reinserção social do condenado. As alternativas contrapõem adaptação do preso, exclusão social e reprodução das relações de dominação no cárcere. Teorias Legitimidoras da Pena é uma hipótese relacionada à finalidade ressocializadora, mas a perspectiva criminológica crítica também aproxima o conteúdo de Política Criminal.",
+      "alertas_v1": [
+        "escopo_dos_temas_nao_distingue_a_concepcao_cobrada"
+      ],
+      "alertas_v2": [
+        "ausencia_de_subtema_especifico_sobre_ressocializacao_e_critica_ao_carcere",
+        "enquadramento_entre_teoria_da_pena_e_politica_criminal_exige_revisao"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0069",
+      "sugestao_v1": "publicar",
+      "sugestao_v2": "publicar",
+      "tema_v1": "5173",
+      "tema_v2": "5173",
+      "caminho_v1": "Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal",
+      "caminho_v2": "Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal",
+      "mudou_sugestao": false,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "O enunciado pergunta explicitamente pela forma de interpretação da legislação penal diante de expressões abertas, e todas as opções são métodos interpretativos.",
+      "justificativa_v2": "O núcleo é a interpretação da norma penal, especificamente a técnica interpretativa aplicável a expressões genéricas após hipóteses exemplificativas. O enunciado cita 'qualquer outro meio', 'qualquer outra vantagem' e expressões semelhantes. O tema ativo Interpretação da Norma Penal corresponde diretamente ao conteúdo.",
+      "alertas_v1": [
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "alertas_v2": [
+        "comando_ausente_mas_instrucao_consta_no_enunciado"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0090",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "revisar",
+      "tema_v1": "5532",
+      "tema_v2": "5530",
+      "caminho_v1": "Processo Penal > Procedimento Ordinário > Classificação dos Procedimentos",
+      "caminho_v2": "Processo Penal > Procedimento Ordinário",
+      "mudou_sugestao": false,
+      "mudou_tema_central": true,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "As alternativas comparam atos e regras de vários procedimentos: juizados, júri, rito ordinário e procedimento relativo a funcionário público. Classificação dos Procedimentos é uma sugestão agregadora, mas pertence ao ramo do procedimento ordinário.",
+      "justificativa_v2": "O enunciado solicita apenas a identificação de uma alternativa correta, sem delimitar matéria. As alternativas tratam de institutos dos juizados especiais, suspensão do processo, resposta à acusação, rejeição da denúncia e procedimento de crimes funcionais. Procedimento Ordinário é a hipótese central pela presença de regras de resposta à acusação e admissibilidade da peça acusatória, mas o conjunto não sustenta um único subtema inequívoco.",
+      "alertas_v1": [
+        "enunciado_generico",
+        "multiplos_procedimentos",
+        "categoria_agregadora_com_escopo_incertamente_adequado"
+      ],
+      "alertas_v2": [
+        "enunciado_generico_com_alternativas_de_assuntos_distintos",
+        "assunto_origem_acao_penal_parte_01_nao_delimita_conteudo",
+        "necessaria_revisao_do_nucleo_cobrado"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0106",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "publicar",
+      "tema_v1": "5157",
+      "tema_v2": "5157",
+      "caminho_v1": "Penal > Dos Crimes Contra o Patrimônio",
+      "caminho_v2": "Penal > Dos Crimes Contra o Patrimônio",
+      "mudou_sugestao": true,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "A pergunta trata do enquadramento do pendura em restaurante, com alternativas sobre fraude e outros crimes patrimoniais. O ramo patrimonial é a sugestão central; a árvore não explicita a fraude relativa a refeições e mantém categorias Parte 1 e Parte 2 sem limites definidos.",
+      "justificativa_v2": "O núcleo é a tipificação penal da conduta conhecida como 'pendura', relacionada ao consumo de refeições em restaurante sem pagamento. A questão exige distinguir infração patrimonial específica de dano, estelionato e atipicidade. O tema substantivo Crimes Contra o Patrimônio é adequado porque não há subtema ativo específico para a fraude em refeição.",
+      "alertas_v1": [
+        "subtipo_nao_explicitado_na_arvore",
+        "sobreposicao_com_categorias_parte_1_e_2"
+      ],
+      "alertas_v2": [
+        "catalogo_sem_subtema_especifico_para_fraude_em_refeicao",
+        "tema_central_utiliza_pai_substantivo"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0116",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "revisar",
+      "tema_v1": "4708",
+      "tema_v2": "4708",
+      "caminho_v1": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "caminho_v2": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "mudou_sugestao": false,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "Enunciado e alternativas tratam da Lei 11.343/2006, incluindo tráfico, consumo e disposições penais. Tráfico de Drogas é o tema específico disponível, mas seu alcance é mais estreito que o conjunto da lei e há um homônimo em Penal.",
+      "justificativa_v2": "O núcleo é a disciplina penal da Lei nº 11.343/2006. As alternativas tratam de tráfico, porte para consumo próprio, colaboração com grupo dedicado ao tráfico, normas penais em branco e condução de veículo após consumo de drogas. O tema Tráfico de Drogas é o enquadramento ativo mais próximo, mas o conteúdo abrange diferentes dispositivos da Lei de Drogas e existem dois IDs em ramos distintos.",
+      "alertas_v1": [
+        "titulo_repetido_em_ramos_distintos",
+        "escopo_lei_de_drogas_mais_amplo_que_titulo_trafico",
+        "assunto_origem_prescricao_nao_representa_nucleo"
+      ],
+      "alertas_v2": [
+        "assunto_origem_prescricao_incompativel_com_conteudo",
+        "duplicidade_de_trafico_de_drogas_entre_ramos",
+        "titulo_do_tema_e_mais_estreito_que_o_conjunto_de_dispositivos_cobrados",
+        "necessaria_definicao_do_ramo_preferencial"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0164",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "publicar",
+      "tema_v1": "4703",
+      "tema_v2": "4703",
+      "caminho_v1": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+      "caminho_v2": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+      "mudou_sugestao": true,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "O enunciado cita a LEP e cobra assistência ao preso e ao egresso. Existe Lei de Execução Penal tanto em Legislação Especial quanto em Processo Penal.",
+      "justificativa_v2": "O núcleo são as disposições da Lei de Execução Penal relativas à assistência ao preso, ao internado e ao egresso. As alternativas abordam alojamento, alimentação, saúde, educação, assistência material e definição de egresso. Lei de Execução Penal é o tema ativo específico que abrange diretamente todo o conjunto.",
+      "alertas_v1": [
+        "titulo_repetido_em_ramos_distintos",
+        "assunto_origem_teoria_da_pena_nao_define_ramo"
+      ],
+      "alertas_v2": [
+        "assunto_origem_teoria_da_pena_parte_02_diverge_do_objeto_principal"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0171",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "revisar",
+      "tema_v1": "4693",
+      "tema_v2": "5185",
+      "caminho_v1": "Direito Penal - Legislação Especial > Crimes Hediondos",
+      "caminho_v2": "Penal > Prescrição",
+      "mudou_sugestao": false,
+      "mudou_tema_central": true,
+      "temas_no_mesmo_ramo": false,
+      "justificativa_v1": "A questão reúne alterações do Pacote Anticrime em pena, crimes hediondos, colaboração, perfis genéticos e ANPP. Crimes Hediondos é uma sugestão provisória apoiada em uma dessas alternativas; o enunciado não estabelece um único tópico central.",
+      "justificativa_v2": "O núcleo não é inequívoco: a questão aborda alterações legislativas do Pacote Anticrime em matérias diferentes. As alternativas tratam de limite de cumprimento da pena, crimes hediondos, colaboração premiada, identificação genética e acordo de não persecução penal. Prescrição é uma hipótese pela referência às causas interruptivas, mas não representa satisfatoriamente todo o conjunto.",
+      "alertas_v1": [
+        "questao_multitematica",
+        "tema_central_provisorio",
+        "nao_classificar_apenas_por_assunto_de_origem"
+      ],
+      "alertas_v2": [
+        "enunciado_generico_sobre_pacote_anticrime",
+        "alternativas_de_multiplos_ramos_sem_nucleo_dominante",
+        "assunto_origem_acao_penal_parte_02_nao_justifica_classificacao",
+        "tema_central_apenas_hipotese_provisoria"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0193",
+      "sugestao_v1": "publicar",
+      "sugestao_v2": "publicar",
+      "tema_v1": "5557",
+      "tema_v2": "5557",
+      "caminho_v1": "Processo Penal > Provas em Espécies > Colaboração Premiada",
+      "caminho_v2": "Processo Penal > Provas em Espécies > Colaboração Premiada",
+      "mudou_sugestao": false,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "O enunciado identifica colaboração premiada e todas as alternativas tratam de acordo, benefícios e procedimento da colaboração. Há um subtema ativo com esse título específico.",
+      "justificativa_v2": "O núcleo é a colaboração premiada. As alternativas abordam negociação, utilização de informações, benefícios ao colaborador, perdão judicial, redução de pena e suspensão de prazos. O tema ativo Processo Penal > Provas em Espécies > Colaboração Premiada corresponde especificamente ao conhecimento exigido.",
+      "alertas_v1": [
+        "origem_inquerito_policial_nao_define_nucleo",
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "alertas_v2": [
+        "assunto_origem_inquerito_policial_e_menos_especifico_que_o_tema_identificado"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0195",
+      "sugestao_v1": "publicar",
+      "sugestao_v2": "publicar",
+      "tema_v1": "4373",
+      "tema_v2": "4373",
+      "caminho_v1": "Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas",
+      "caminho_v2": "Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas",
+      "mudou_sugestao": false,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "A questão compara conceitos e modelos das escolas clássica, positivista e crítica, correspondendo ao subtema de escolas criminológicas.",
+      "justificativa_v2": "O núcleo é a comparação entre escolas e correntes do pensamento criminológico, especialmente suas concepções de crime, criminoso, pena e sociedade. As alternativas mencionam Escola Clássica, Escola Positivista, criminologia crítica e modelos de integração e conflito. Escolas Crimonológicas é o tema específico mais adequado.",
+      "alertas_v1": [
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "alertas_v2": [
+        "questao_comparativa_entre_escolas_e_correntes_criminologicas"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0218",
+      "sugestao_v1": "publicar",
+      "sugestao_v2": "publicar",
+      "tema_v1": "5518",
+      "tema_v2": "5518",
+      "caminho_v1": "Processo Penal > Prisões em Espécie > Prisão em Flagrante",
+      "caminho_v2": "Processo Penal > Prisões em Espécie > Prisão em Flagrante",
+      "mudou_sugestao": false,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "As alternativas perguntam exclusivamente pelo tipo e pela legalidade da prisão em flagrante narrada. O documento falso contextualiza o fato, mas não é o núcleo cobrado.",
+      "justificativa_v2": "O núcleo é a classificação e legalidade da prisão em flagrante. A narrativa descreve suspeita de fraude documental, comunicação à polícia pelo gerente e prisão no retorno do agente. As alternativas diferenciam flagrante provocado, preparado, esperado, diferido e ação controlada. Prisão em Flagrante é tema ativo específico.",
+      "alertas_v1": [
+        "disciplina_origem_constitucional_nao_representa_nucleo",
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "alertas_v2": [
+        "disciplina_origem_direito_constitucional_diverge_do_enquadramento_processual_penal",
+        "assunto_origem_ausente"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0277",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "revisar",
+      "tema_v1": "4696",
+      "tema_v2": "4696",
+      "caminho_v1": "Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes",
+      "caminho_v2": "Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes",
+      "mudou_sugestao": false,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "O enunciado e as alternativas tratam expressamente dos crimes contra pessoa idosa. Dois temas ativos representam esse conteúdo em Legislação Especial e Penal, apesar da diferença de grafia dos títulos.",
+      "justificativa_v2": "O núcleo é a identificação de condutas tipificadas como crimes contra pessoas idosas. As alternativas mencionam procuração patrimonial, menosprezo, omissão de assistência, abandono hospitalar e retenção de cartão de benefício. Existem dois temas ativos de crimes do Estatuto do Idoso em ramos distintos, sem critério para escolha definitiva.",
+      "alertas_v1": [
+        "sobreposicao_semantica_em_ramos_distintos",
+        "disciplina_origem_civil_nao_representa_nucleo"
+      ],
+      "alertas_v2": [
+        "disciplina_origem_direito_civil_legislacao_especial_fora_do_catalogo",
+        "comando_consta_no_enunciado",
+        "duplicidade_de_estatuto_do_idoso_crimes_entre_ramos",
+        "necessaria_definicao_do_ramo_preferencial"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0299",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "publicar",
+      "tema_v1": "4388",
+      "tema_v2": "4388",
+      "caminho_v1": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "caminho_v2": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "mudou_sugestao": true,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "As alternativas comparam correntes criminológicas, incluindo labelling approach, positivismo e criminologia crítica. Teorias Criminológicas em Espécie é a sugestão, com sobreposição possível com escolas e teorias da pena.",
+      "justificativa_v2": "O núcleo identificável é a compreensão das teorias criminológicas, em especial a teoria do etiquetamento ou labelling approach e sua análise da reação social ao delito. Embora as alternativas mencionem escolas criminológicas, teoria retributiva e finalismo, a referência aos mecanismos de reação social sustenta o enquadramento em Teorias Criminológicas em Espécie.",
+      "alertas_v1": [
+        "enunciado_generico",
+        "nucleo_identificado_nas_alternativas",
+        "sobreposicao_entre_escolas_e_teorias"
+      ],
+      "alertas_v2": [
+        "assunto_origem_teorias_legitimidoras_da_pena_nao_corresponde_ao_nucleo_identificado",
+        "enunciado_generico_mas_ha_teoria_criminologica_identificavel"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0302",
+      "sugestao_v1": "publicar",
+      "sugestao_v2": "publicar",
+      "tema_v1": "5224",
+      "tema_v2": "5224",
+      "caminho_v1": "Penal > Teoria do Crime: Fato Típico > Erro de Tipo",
+      "caminho_v2": "Penal > Teoria do Crime: Fato Típico > Erro de Tipo",
+      "mudou_sugestao": false,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "O caso enfatiza desconhecimento de uma circunstância fática e pergunta por exclusão do dolo, distinguindo erro de tipo de erro de proibição e outras excludentes.",
+      "justificativa_v2": "O núcleo é o erro de tipo na teoria do fato típico. A narrativa descreve um agente que lança uma faca sem perceber a presença de pessoa escondida, exigindo análise do desconhecimento de circunstância fática e de seus efeitos sobre o dolo. O tema Erro de Tipo corresponde diretamente ao conteúdo.",
+      "alertas_v1": [
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "alertas_v2": [
+        "comando_ausente_mas_pergunta_consta_no_enunciado"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0303",
+      "sugestao_v1": "publicar",
+      "sugestao_v2": "revisar",
+      "tema_v1": "5180",
+      "tema_v2": "5182",
+      "caminho_v1": "Penal > Lei Penal no Tempo e no Espaço",
+      "caminho_v2": "Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço",
+      "mudou_sugestao": true,
+      "mudou_tema_central": true,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "A pergunta trata de aplicação da lei penal, com alternativas sobre tempo do crime, sentença estrangeira e extraterritorialidade. O tema pai cobre a combinação de aspectos temporais e espaciais.",
+      "justificativa_v2": "O núcleo provável é a aplicação da lei penal no espaço, especialmente extraterritorialidade, territorialidade e crimes praticados a bordo de embarcações ou aeronaves. Entretanto, as alternativas também discutem tempo do crime, homologação de sentença estrangeira e contagem de frações de dia. Lei Penal no Espaço é a melhor hipótese, mas a diversidade do conteúdo recomenda revisão.",
+      "alertas_v1": [
+        "assunto_origem_acao_penal_nao_representa_nucleo",
+        "tema_pai_escolhido_por_conteudo_transversal",
+        "sugestao_preliminar_sujeita_a_auditoria"
+      ],
+      "alertas_v2": [
+        "assunto_origem_acao_penal_incompativel",
+        "alternativas_abordam_tempo_espaco_e_efeitos_da_lei_penal",
+        "revisar_nucleo_dominante_antes_de_publicar"
+      ],
+      "resultado_juridico_confirmado": null
+    },
+    {
+      "id": "Q0309",
+      "sugestao_v1": "revisar",
+      "sugestao_v2": "revisar",
+      "tema_v1": "4688",
+      "tema_v2": "4688",
+      "caminho_v1": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "caminho_v2": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente",
+      "mudou_sugestao": false,
+      "mudou_tema_central": false,
+      "temas_no_mesmo_ramo": true,
+      "justificativa_v1": "O enunciado cita a Lei 9.605/1998 e cobra a pena de um ilícito ambiental. Há dois temas ativos de crimes contra o meio ambiente em ramos diferentes.",
+      "justificativa_v2": "O núcleo é a sanção penal prevista para disseminação de doença, praga ou espécies capazes de causar danos ambientais, conforme o art. 61 da Lei nº 9.605/1998. O enquadramento material em Crimes contra o meio ambiente é inequívoco, mas existem dois IDs ativos com o mesmo título em ramos diferentes.",
+      "alertas_v1": [
+        "titulo_repetido_em_ramos_distintos",
+        "origem_ambiental_nao_implica_fora_do_catalogo"
+      ],
+      "alertas_v2": [
+        "disciplina_origem_direito_ambiental_fora_do_catalogo",
+        "duplicidade_de_crimes_contra_o_meio_ambiente_entre_ramos",
+        "necessaria_definicao_do_ramo_preferencial"
+      ],
+      "resultado_juridico_confirmado": null
+    }
+  ]
+}

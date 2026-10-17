@@ -1,0 +1,93 @@
+{
+  "id": "Q0208",
+  "consulta_executada": "\"Lucas foi denunciado por infringir o art. 121, § 2.º, inciso II (homicídio qualificado por motivo fútil), do CP, por\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Lucas foi denunciado por infringir o art. 121, § 2.º, inciso II (homic...",
+      "url": "https://gabarite.com.br/questoes-de-concursos/458844-questao",
+      "ref_consulta": "turn242search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Lucas foi o autor de homicídio e Carlos figurou como partíci...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/c020a83c-78",
+      "ref_consulta": "turn242search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Considera-se que o crime foi praticado em Pacajus, onde ocor...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/c1cefd44-78",
+      "ref_consulta": "turn242search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "TJCE_CARGO_15_CAD_Q.pdf",
+      "url": "https://jcconcursos.uol.com.br/media/uploads/provas/provas/2009/719.pdf",
+      "ref_consulta": "turn242search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Nessa situação, configurou-se a legítima defesa de terceiro ...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/c0f65f47-78",
+      "ref_consulta": "turn242search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso para TJ-CE | Qconcursos.com - Página 107",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?institute_ids%5B%5D=32&page=107&per_page=5",
+      "ref_consulta": "turn242search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal para Concurso - Página 1023 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/questoes?page=1023",
+      "ref_consulta": "turn242search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Processual Penal para Concurso - Página 693 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/questoes?page=693",
+      "ref_consulta": "turn242search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "untitled",
+      "url": "https://cdn.cebraspe.org.br/concursos/_antigos/2008/TJCE2008/arquivos/TJCE_CARGO_01_CAD_A.pdf",
+      "ref_consulta": "turn242search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 70 do Concurso Tribunal de Justiça do Estado do Ceará (TJ-CE) - Oficial de Justiça - CESPE/CEBRASPE (2008) - Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/40fa8d688809a0f7",
+      "ref_consulta": "turn242search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Direito Penal | Qconcursos.com - Página 873",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_professor_commentaries=true&page=873",
+      "ref_consulta": "turn242search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 69 - TJ-CE - Oficial de Justiça - CESPE/CEBRASPE (2008) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tribunal-de-justica-do-estado-do-ceara-tj-ce-oficial-de-justica-cespe-2008/69",
+      "ref_consulta": "turn242search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas sobre Concurso de Pessoas em Direito Penal | Qconcursos.com - Página 22",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&page=22&subject_ids%5B%5D=128",
+      "ref_consulta": "turn242search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso de Direito Processual Penal - Página 10 - Estude Grátis",
+      "url": "https://www.estudegratis.com.br/questoes-de-concurso/materia/direito-processual-penal/assunto/prisao-e-liberdade-provisoria/tipo/certo-errado?pag=10",
+      "ref_consulta": "turn242search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

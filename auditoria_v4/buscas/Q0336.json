@@ -1,0 +1,111 @@
+{
+  "id": "Q0336",
+  "consulta_executada": "\"Em 05 de junho de 2022, Mariana entrou em um restaurante estilo self-service e apoiou sua bolsa em uma cadeira.\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Em 05 de junho de 2022, Mariana entrou em um restaurante...",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-406223/2624239",
+      "ref_consulta": "turn371search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "TRT 16ª REGIÃO – MARANHÃO                                                                 FGV",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_judiciaria_-_graduacao_em_direitocnsm001_tipo_4.pdf",
+      "ref_consulta": "turn371search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "TRT 16ª REGIÃO – MARANHÃO                                                                 FGV",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_judiciaria_-_oficial_de_justica_avaliadorcnsm002_tipo_1.pdf",
+      "ref_consulta": "turn371search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Em 05 de junho de 2022, Mariana entrou em um restaurante es...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/2978ba35-71",
+      "ref_consulta": "turn371search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "TRT 16ª REGIÃO – MARANHÃO                                                                 FGV",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_judiciaria_-_graduacao_em_direitocnsm001_tipo_3.pdf",
+      "ref_consulta": "turn371search14",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Em 05 de junho de 2022, Mariana entrou em um restaurante es...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/ceb215ca-6d",
+      "ref_consulta": "turn371search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova Completa: Analista Judiciário - Oficial de Justiça/Avaliador Federal (TRT-16 - FGV - 2022)",
+      "url": "https://www.magnaconcursos.com/questoes/concursos/trt-16-fgv-2022/analista-judiciario-oficial-justica-avaliador-federal",
+      "ref_consulta": "turn371search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova Completa: Analista Judiciário - Área Judiciária (TRT-16 - FGV - 2022)",
+      "url": "https://www.magnaconcursos.com/questoes/concursos/trt-16-fgv-2022/analista-judiciario-area-judiciaria",
+      "ref_consulta": "turn371search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 2340413",
+      "url": "https://www.magnaconcursos.com/questoes/1b2ec71b",
+      "ref_consulta": "turn371search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra o patrimônio para Concurso - Página 25 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-o-patrimonio/questoes?page=25",
+      "ref_consulta": "turn371search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Furto para Concurso - Página 6 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/furto/questoes?has_professor_commentaries=true&page=6",
+      "ref_consulta": "turn371search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos - Página 9 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&examining_board_ids%5B%5D=1&examining_board_ids%5B%5D=152&examining_board_ids%5B%5D=63&page=9&subject_ids%5B%5D=17325",
+      "ref_consulta": "turn371search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Furto em Direito Penal | Qconcursos.com - Página 7",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&page=7&subject_ids%5B%5D=17326",
+      "ref_consulta": "turn371search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 78 - TRT - Analista Judiciário - FGV (2022) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tribunal-regional-do-trabalho-analista-judiciario-area-judiciaria-fgv-2022/78",
+      "ref_consulta": "turn371search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "| JUSTIÇA DO TRABALHO TRIBUNAL REGIONAL DO TRABALHO 16ª REGIÃO (MA) None | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | JUSTIÇA DO TRABALHO TRIBUNAL REGIONAL DO TRABALHO 16ª REGIÃO (MA) | | | | | | | | | JUSTIÇA DO TRABALHO TRIBUNAL REGIONAL DO TRABALHO 16ª REGIÃO (MA) | | MANHÃ | | | | | |",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_judiciaria_-_graduacao_em_direitocnsm001_tipo_2.pdf",
+      "ref_consulta": "turn371search15",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "TRT 16ª REGIÃO – MARANHÃO                                                                 FGV",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista_judiciario_area_judiciaria_-_graduacao_em_direitocnsm001_tipo_1.pdf",
+      "ref_consulta": "turn371search16",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 72 - TRT - Analista Judiciário - FGV (2022) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/tribunal-regional-do-trabalho-analista-judiciario-oficial-de-justica-avaliador-fgv-2022/72",
+      "ref_consulta": "turn371search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

@@ -1,0 +1,93 @@
+{
+  "id": "Q0070",
+  "consulta_executada": "\"Carlos Alberto foi preso preventivamente em 1º de fevereiro de 2024, pela suposta prática do crime de tráfico de drogas\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Questões de Direito Processual Penal - Cumprimento de Pena no Processo Penal para Concurso | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-processual-penal/cumprimento-de-pena-no-processo-penal/questoes",
+      "ref_consulta": "turn130search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Carlos Alberto foi preso preventivamente em 1º de fevereiro ...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/d73d751c-64",
+      "ref_consulta": "turn130search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "ESCOLA NACIONAL DE FORMAÇÃO E",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistratura-cns001-tipo-1.pdf",
+      "ref_consulta": "turn130search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão comentada ENAM 2026 FGV – Magistratura – Questão 80: Cômputo da prisão provisória para fins de comutação de pena",
+      "url": "https://direitodesenhado.app/questoes-comentadas/direito-penal/enam-2026-fgv-magistratura-questao-80-computo-da-prisao-provisoria-para-fins-de-comutacao-1a6db232-839a-44ad-951c-c0cf0a1ba64d",
+      "ref_consulta": "turn130search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Provas - Questões de Concursos | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?administrative_level_ids%5B%5D=4&discipline_ids%5B%5D=10&has_professor_commentaries=true",
+      "ref_consulta": "turn130search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova Completa: Exame Nacional da Magistratura (ENAM - FGV - 2026)",
+      "url": "https://www.magnaconcursos.com/questoes/concursos/enam-fgv-2026/exame-nacional-magistratura",
+      "ref_consulta": "turn130search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "ESCOLA NACIONAL DE FORMAÇÃO E",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/magistratura-cns001-tipo-4.pdf",
+      "ref_consulta": "turn130search13",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Prova Completa: Exame Nacional da Magistratura (ENAM - FGV - 2026)",
+      "url": "https://magnaconcursos.com/questoes/concursos/enam-fgv-2026/exame-nacional-magistratura",
+      "ref_consulta": "turn130search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Como foi o último ENAM? Veja questões cobradas na prova",
+      "url": "https://cj.estrategia.com/portal/como-foi-ultimo-enam-veja-questoes-prova/",
+      "ref_consulta": "turn130search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Direito Processual Penal | Qconcursos.com - Página 11",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=10&has_commentaries=true&page=11",
+      "ref_consulta": "turn130search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Magistratura Cns001 Tipo 1 | PDF | Emenda Constitucional | Magistrado",
+      "url": "https://pt.scribd.com/document/1052611544/Magistratura-Cns001-Tipo-1",
+      "ref_consulta": "turn130search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Penas Privativas de Liberdade",
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concursos/direito-penal-penas-privativas-de-liberdade-406285",
+      "ref_consulta": "turn130search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "ENAM 2026.1 - Prova Comentada | PDF | Magistrado | Emenda Constitucional",
+      "url": "https://pt.scribd.com/document/1057190714/ENAM-2026-1-Prova-Comentada",
+      "ref_consulta": "turn130search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Magistratura Cns001 Tipo 4 | PDF | Constituição | Emenda Constitucional",
+      "url": "https://pt.scribd.com/document/1052611082/Magistratura-Cns001-Tipo-4",
+      "ref_consulta": "turn130search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

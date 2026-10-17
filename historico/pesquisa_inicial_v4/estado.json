@@ -1,0 +1,14 @@
+{
+  "data": "2026-10-16",
+  "estado": "EM_ANDAMENTO_NAO_E_ENTREGA_FINAL",
+  "buscas_iniciais": 359,
+  "repeticoes_apos_erro_servico": 4,
+  "rascunhos_individuais_nao_confirmados": 90,
+  "analises_fundamentadas_documentadas": [
+    "Q0171"
+  ],
+  "correcoes_integradas_ao_csv": 0,
+  "publicacao_csv_original_sha256": "866da167f0f607d19894a789b62b9807e825ade3570fbcc182c8d195e5be5ba4",
+  "precisao_medida": null,
+  "fonte_primaria_versus_gabarito_tematizado": "Gabarito da prova não valida sozinho o tema do catálogo."
+}

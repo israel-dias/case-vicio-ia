@@ -1,0 +1,151 @@
+[
+  {
+    "id": "Q0231",
+    "enunciado": "Aquele que pratica conduta descrita no tipo penal do delito de tráfico de drogas, mas em erro sobre elemento constitutivo do tipo, ou seja, em hipótese de erro de tipo essencial poderá",
+    "comando": "",
+    "alternativas": {
+      "A": "alegar atipicidade da conduta.",
+      "B": "responder pela modalidade culposa do delito.",
+      "C": "ser isento de pena.",
+      "D": "ter a pena diminuída com base em causa especial de diminuição de pena.",
+      "E": "alegar excludente de ilicitude da conduta."
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Tipicidade, Erro do tipo essencial",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0232",
+    "enunciado": "Sobre os crimes contra a Administração da Justiça, previstos no Código Penal, assinale a alternativa correta.",
+    "comando": "",
+    "alternativas": {
+      "A": "Dar causa a ação de improbidade administrativa, imputando a alguém ato improbo de que sabe inocente, valendo-se de nome suposto, em tese, caracteriza o crime de denunciação caluniosa.",
+      "B": "O crime de exercício arbitrário das próprias razões, previsto no artigo 345, do CP, somente se procede mediante queixa.",
+      "C": "Oferecer dinheiro a testemunha para fazer afirmação falsa em depoimento, em tese, caracteriza o crime de coação no curso do processo, previsto no artigo 344, do CP.",
+      "D": "O crime de exploração de prestígio (art. 357, do CP) é próprio, podendo ser praticado apenas pelos sujeitos previstos no tipo penal.",
+      "E": "O crime de favorecimento pessoal caracteriza-se pelo auxílio prestado a autor de crime, a fim de que ele escape da ação das autoridades públicas, desde que o crime praticado seja punido com reclusão."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Crimes contra a administração pública, Denunciação caluniosa",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0233",
+    "enunciado": "Sobre a desistência voluntária e o arrependimento eficaz, assinale a alternativa correta:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "o agente que, voluntariamente, impede que o resultado do crime se produza não responde pelos seus atos, porque incide na hipótese de desistência voluntária;",
+      "B": "o agente que, voluntariamente, desiste de prosseguir na execução do crime, não responde pelos atos praticados, desde que tais atos não configurem, isoladamente, crime ou contravenção penal, sendo o caso de desistência voluntária;",
+      "C": "o agente que, voluntariamente, repare o dano ou restitua a coisa ao proprietário, até o recebimento da denúncia, não responde pelos seus atos, estando configurada a hipótese de arrependimento eficaz;",
+      "D": "considera-se arrependimento eficaz quando o agente, iniciada a execução do crime, por ineficácia absoluta do meio, não consegue consumá-lo, não respondendo pelos atos praticados;",
+      "E": "é caso de desistência voluntária quando o agente, por absoluta impropriedade do objeto, impede que o resultado se produza, só responde pelos atos já praticados."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Iter Criminis",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0234",
+    "enunciado": "A interdisciplinaridade é intrínseca à natureza da criminologia.\nDessa forma, a ciência que se afasta do estudo da criminologia é a",
+    "comando": "Complete a frase sobre a ciência que se afasta do estudo da criminologia.",
+    "alternativas": {
+      "A": "biologia.",
+      "B": "hermenêutica dogmática.",
+      "C": "psicologia.",
+      "D": "estatística.",
+      "E": "sociologia."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Conceitos Gerais de Criminologia",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0235",
+    "enunciado": "Caberá recurso, no sentido estrito, da decisão que concluir pela competência do juízo.\nNeste caso, o recurso, que poderá ser interposto no prazo de 5 (cinco) dias, não terá efeito suspensivo.",
+    "comando": "Neste caso, o recurso, que poderá ser interposto no prazo de 5 (cinco) dias, não terá efeito suspensivo.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Competência (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0236",
+    "enunciado": "Analise as assertivas abaixo.\nI. A apresentação pelo acusado da prática de furto, no curso do processo, de prévio contrato de compra e venda que o identifique como o comprador da res furtiva, impõe ao magistrado a suspensão do processo criminal e o encaminhamento das partes ao juízo cível, por tratar-se de questão prejudicial de natureza heterogênea.\nII. Nos termos da lei processual penal, a restituição de bens apreendidos constitui ato privativo do juiz criminal competente, não podendo ser concedida pela autoridade policial, em razão da existência de efeitos extrapenais da sentença condenatia.\nIII. Segundo o entendimento pacífico do Supremo Tribunal Federal, não podem subsistir condenações penais fundadas unicamente em prova produzida na fase do inquérito policial, sob pena de grave afronta às garantias constitucionais do contraditório e da ampla defesa.\nIV. O acusado, embora preso, tem o direito de comparecer, de assistir e de presenciar, sob pena de nulidade absoluta, os atos processuais, notadamente aqueles que se produzem na fase de instrução do processo penal.",
+    "comando": "Está correto APENAS o que se afirma em:",
+    "alternativas": {
+      "A": "I; III e IV.",
+      "B": "I e II.",
+      "C": "III e IV.",
+      "D": "II e III.",
+      "E": "I; II e IV."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0237",
+    "enunciado": "Qual a diferença entre desistência voluntária e arrependimento eficaz?",
+    "comando": "Responda qual é a diferença entre desistência voluntária e arrependimento eficaz.",
+    "alternativas": {
+      "A": "Na desistência voluntária o que ocorre é a desistência no prosseguimento dos atos executórios do crime, feita de modo voluntário, respondendo o agente somente pelo que praticou. No arrependimento eficaz a desistência ocorre entre o término dos atos executórios e a consumação. O agente, neste caso, já fez tudo o que podia para atingir o resultado, mas resolve interferir para evitar a sua concretização.",
+      "B": "Entre a desistência voluntária e o arrependimento eficaz, em verdade, não há nenhuma diferença, porquanto em ambas as situações o que se busca é impedir o resultado.",
+      "C": "A diferença entre a desistência voluntária e o arrependimento eficaz está em que, na primeira, o agente é impedido de consumar o delito, já no arrependimento eficaz a consumação não ocorre porque o próprio agente a impede.",
+      "D": "A diferença entre a desistência voluntária e o arrependimento eficaz reside no fato de que, na desistência voluntária, o agente não chega a iniciar a execução do delito. Já no arrependimento eficaz a execução iniciada é interrompida, impedindo-se a consumação do delito.",
+      "E": "A diferença entre a desistência voluntária e o arrependimento eficaz está em que, na primeira, a execução do delito é interrompida por circunstâncias alheias ao domínio do agente. Já no arrependimento eficaz o delito não se consuma em razão da impropriedade dos meios de execução."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Iter Criminis",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0238",
+    "enunciado": "Será exigido o reforço da fiança quando for inovada a classificação do delito, nos termos do Código de Processo Penal.",
+    "comando": "Indique quando será exigido o reforço da fiança conforme o Código de Processo Penal.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0239",
+    "enunciado": "Analise a opção CORRETA.",
+    "comando": "",
+    "alternativas": {
+      "A": "São circunstâncias que sempre atenuam a pena, ser o agente menor de 21 (vinte e um) anos ou maior de 70 (setenta) anos, na data do fato.",
+      "B": "A pena poderá ser ainda atenuada em razão de circunstância relevante, anterior ou posterior ao crime, desde que prevista expressamente em lei.",
+      "C": "Quando, por acidente ou erro no uso dos meios de execução, o agente, ao invés de atingir a pessoa que pretendia ofender, atinge pessoa diversa, responde como se tivesse praticado o crime contra aquela. No caso de ser também atingida a pessoa que o agente pretendia ofender, aplica-se a regra do concurso material, descrita no artigo 69 do Estatuto Repressivo.",
+      "D": "No que se refere a suspensão condicional da pena, artigo 77, e parágrafos, do Código Penal, pode-se dizer que o legislador criou dois tipos de suspensão, quais sejam, a simples, consistente na aplicação das condições de prestação de serviços à comunidade ou limitação de final de semana (artigo 78, § 1º, CP); e a especial, consistente na aplicação das condições de proibição de frequentar determinados lugares; proibição de ausentar-se da comarca na qual reside, sem autorização do Juiz; comparecimento pessoal e obrigatório a Juízo, mensalmente, para informar e justificar suas atividades (artigo 78, § 2º, CP)."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Punibilidade",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0240",
+    "enunciado": "Pedro, que estava indiciado por crime de roubo, teve sua prisão decretada pelo juiz da comarca de Miracema-RJ em 08 de agosto de 2011, uma segunda-feira, sendo preso provisoriamente no mesmo dia, enquanto ainda estava sendo investigado.\nTerminado o inquérito, o delegado, no último dia do prazo determinado em lei, fez logo cedo a remessa a juízo.\nO juiz, no mesmo dia em que recebeu os autos, tendo-se em conta que era um dia útil, deu vista pessoal ao promotor.\nConsiderando-se o prazo legal que o promotor tem para oferecer a denúncia e que esse prazo venceria em um dia útil, o trâmite do inquérito, o prazo utilizado pelo delegado, o recebimento e a vista do inquérito pelo promotor e a denúncia contra Pedro, somando-se todos esses atos e prazos, desde a prisão, teria que ser oferecida em:",
+    "comando": "Considerando o prazo legal para o promotor oferecer a denúncia, calcule o prazo total desde a prisão até a oferta da denúncia contra Pedro.",
+    "alternativas": {
+      "A": "15\\tdias;",
+      "B": "10\\tdias;",
+      "C": "12\\tdias;",
+      "D": "14\\tdias;\\t",
+      "E": "07 dias"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  }
+]

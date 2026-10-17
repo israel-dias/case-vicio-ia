@@ -1,0 +1,137 @@
+[
+  {
+    "id": "Q0101",
+    "enunciado": "De acordo com a Lei Maria da Penha, a ação de divórcio ou dissolução de união estável de mulher vítima de violência doméstica e familiar",
+    "comando": "Complete a frase ou responda sobre a ação de divórcio ou dissolução de união estável segundo a Lei Maria da Penha.",
+    "alternativas": {
+      "A": "deverá ser ajuizada perante o Juizado de Violência Doméstica e Familiar, uma vez que não pode haver opção da ofendida\npor se tratar de competência em razão da pessoa.",
+      "B": "poderá ser ajuizada perante o Juizado de Violência Doméstica e Familiar contra a Mulher, excluindo-se a pretensão relacionada à partilha de bens.",
+      "C": "poderá ser ajuizada perante a Vara de Família, somente nos casos em que não houver Juizado de Violência Doméstica e\nFamiliar contra a Mulher instalado na Comarca de residência da mulher.",
+      "D": "poderá ser ajuizada perante o Juizado de Violência Doméstica e Familiar contra a Mulher, inclusive em relação à pretensão relacionada à partilha de bens.",
+      "E": "deverá ser ajuizada perante a Vara de Família, uma vez que o Juizado de Violência Doméstica e Familiar contra a Mulher\nestá restrito às medidas protetivas de urgência."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Comunicação dos atos processuais",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0102",
+    "enunciado": "Sobre a sentença e os seus efeitos, é correto afirmar:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A sentença condenatória, como gera o efeito de tornar certa a reparação do dano, deve, provisoriamente, fixar o valor do prejuízo causado pelo crime, para futura execução civil.",
+      "B": "A sentença que absolve por insuficiência de prova faz coisa julgada no cível, impedindo a propositura de ação civil para reparação do dano causado pelo crime.",
+      "C": "A sentença que absolve e aplica medida de segurança é denominada de \"sentença absolutória imprópria\".",
+      "D": "Um dos efeitos da condenação é a perda em favor da unidade federativa perante a qual o processo teve andamento do produto do crime.",
+      "E": "A perda de função pública, como efeito da condenação, pode ser aplicada em qualquer crime cuja pena privativa de liberdade seja superior a dois anos."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0103",
+    "enunciado": "A respeito da revisão criminal, julgue os próximos itens.\nA revisão criminal, que é um dos aspectos diferenciadores do mero direito à defesa e do direito à ampla defesa, este caracterizador do direito processual penal, tem por finalidade o reexame do processo já alcançado pela coisa julgada, de forma a possibilitar ao condenado a absolvição, a melhora de sua situação jurídica ou a anulação do processo.",
+    "comando": "Julgue os próximos itens sobre a revisão criminal.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0104",
+    "enunciado": "No que se refere à legislação processual e à jurisprudência pátrias, julgue o item subsequente.\nO fato de o inquérito policial ser instaurado por promotor de justiça não impede que o delegado dê prosseguimento ao procedimento e seja eventualmente apontado como autoridade coatora na hipótese de impetração de habeas corpus.",
+    "comando": "",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0105",
+    "enunciado": "Um homem branco, de 29 anos de idade, e um homem negro, de 21 anos de idade, foram presos por terem pichado, juntos, um prédio. Na posse deles, foram encontradas as tintas usadas no ato, além de um cigarro de maconha. O indivíduo branco assinou termo circunstanciado e foi liberado, enquanto o outro homem foi mantido preso.\nConsiderando essa situação hipotética e as perspectivas da criminologia, julgue o item a seguir.\nA criminologia cultural analisa a pichação como ato de contracultura e de representação social de populações periféricas, resgatando e atualizando os estudos sobre o paradigma do etiquetamento social.",
+    "comando": "Julgue o item a seguir.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0106",
+    "enunciado": "Que delito praticam os estudantes de Direito com o chamado “pendura”, nas comemorações da instalação dos cursos jurídicos no País?",
+    "comando": "Responda qual é o delito praticado pelos estudantes de Direito com o chamado “pendura” nas comemorações da instalação dos cursos jurídicos no País.",
+    "alternativas": {
+      "A": "Nenhum crime foi praticado, por se tratar de fato atípico.",
+      "B": "Crime de dano qualificado, por motivo egoístico.",
+      "C": "Delito de fraude, consistente em tomar refeições em restaurante, sem dispor de recursos para pagar as despesas.",
+      "D": "Estelionato privilegiado, devido ao pequeno valor do prejuízo causado à vítima."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Crimes contra o patrimônio",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0107",
+    "enunciado": "À luz das disposições legais de direito penal e da jurisprudência correlata, julgue o próximo item.",
+    "comando": "A conduta do agente que, para não se incriminar, atribui a si a identidade de outrem, perante o delegado, é típica e configura o crime de falsa identidade.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Penal",
+    "assunto_origem": "Outras falsidades, Crimes contra a fé pública",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0108",
+    "enunciado": "Durante a realização de audiência de instrução e julgamento, em que se apurava a prática, por Caio, do crime de roubo simples, a defesa técnica do acusado requereu o reconhecimento da prescrição da pretensão punitiva estatal, em observância aos prazos prescricionais estipulados em lei.\nContudo, o Juízo indeferiu o pedido e, finda a instrução, determinou que as partes apresentassem memoriais. Irresignada, a Defensora Pública Maria pretende recorrer do provimento jurisdicional prolatado.\nNesse cenário, considerando as disposições do Código de Processo Penal, Maria, na qualidade de Defensora Pública, deverá interpor um(a)",
+    "comando": "Indique qual recurso Maria deverá interpor.",
+    "alternativas": {
+      "A": "recurso em sentido estrito, fazendo jus ao efeito suspensivo\npor força de lei.",
+      "B": "recurso inominado, fazendo jus ao efeito suspensivo por força\nde lei.",
+      "C": "recurso em sentido estrito, sem efeito suspensivo por força de\nlei.",
+      "D": "recurso inominado, sem efeito suspensivo por força de lei.",
+      "E": "apelação, sem efeito suspensivo por força de lei."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Procedimento Ordinário e Sumário (Parte 02)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0109",
+    "enunciado": "Aquele que oferece droga, eventualmente e sem objetivo de lucro, a pessoa de seu relacionamento, para juntos a consumirem, está sujeito à pena de",
+    "comando": "Complete a frase com a pena aplicável.",
+    "alternativas": {
+      "A": "medida educativa de comparecimento a programa e curso educativo e prestação de serviços à comunidade, apenas.",
+      "B": "advertência sobre os efeitos das drogas e prestação de serviços à comunidade, apenas.",
+      "C": "reclusão, de 5 (cinco) a 15 (quinze) anos, e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) diasmulta.",
+      "D": "detenção, de 6 (seis) meses a 1 (um) ano, e pagamento de 700 (setecentos) a 1.500 (mil e quinhentos) dias-multa, sem prejuízo das sanções previstas no artigo 28 da Lei n.º 11.343/06."
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Prescrição",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0110",
+    "enunciado": "Sobre a competência em matéria processual penal é correto afirmar que:",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "compete ao juizo da infãncia e da juventude, em razão do principio da proteção integral, o processamento e julgamento de réu, maior de 18 (dezoito) anos, que pratique crime de estupro de vulnerável (art. 217-A, do Código Penal).",
+      "B": "no crime de peculato-desvio, compete ao foro do local para o qual foram destinados os recursos desviados, e não ao foro do local onde efetivamente ocorreu o desvio de recursos públicos, o processamento e julgamento da respectiva ação penal.",
+      "C": "tanto pelo Supremo Tribunal Federal, como também pelo Superior Tribunal de Justiça, constitui jurisprudência sumulada que o foro competente para o processo e o julgamento dos crimes de estelionato, sob a modalidade da emissão dolosa de cheque sem provisão de fundos, é o do local onde o agente aufere a vantagem indevida.",
+      "D": "nos processos por crime contra a honra, em que for querelante pessoa detentora de foro especial por prerrogativa de função, quando oposta e admitida a exceção da verdade, será esta última julgada pelo julzo especial, que teria competencia para julgar a suposta vítima do crime contra honra (querelante)."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Competência (Parte 02)",
+    "alertas_preparacao": []
+  }
+]

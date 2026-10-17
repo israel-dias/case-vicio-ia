@@ -1,0 +1,154 @@
+[
+  {
+    "id": "Q0141",
+    "enunciado": "O efeito criminógeno da grande cidade, valendo-se dos conceitos de desorganização e contágio inerentes aos modernos núcleos urbanos, é explicado pela",
+    "comando": "Complete a frase explicando o efeito criminógeno da grande cidade.",
+    "alternativas": {
+      "A": "Teoria do Criminoso Nato.",
+      "B": "Teoria da Associação Diferencial",
+      "C": "Teoria da Anomia.",
+      "D": "Teoria do Labelling Aproach.",
+      "E": "Teoria Ecológica."
+    },
+    "disciplina_origem": "Criminologia",
+    "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0142",
+    "enunciado": "Assinale a alternativa que corresponde a uma operação isenta do Imposto sobre a Transmissão \"Causa Mortis\" e Doação de quaisquer bens ou direitos (ITCD):",
+    "comando": "Assinale a alternativa que corresponde a uma operação isenta do Imposto sobre a Transmissão \"Causa Mortis\" e Doação de quaisquer bens ou direitos (ITCD).",
+    "alternativas": {
+      "A": "Aquisição, por transmissão \"Causa Mortis\",\nde imóvel destinado exclusivamente à\nmorada do cônjuge supérstite, herdeiros ou\nlegatários, desde que o \"de cujus\", o\ncônjuge supérstite, o herdeiro e o legatário\npossuam outro imóvel.",
+      "B": "Aquisição, por transmissão \"Causa Mortis\",\nde imóvel rural com área não superior a\nvinte e cinco hectares, de cuja exploração\ndo solo dependa o sustento da família dos\nherdeiros ou do cônjuge supérstite e que\ntenha cabido por partilha, desde que outro\nnão possua.",
+      "C": "Doação de imóvel rural, com área não\nsuperior a vinte e cinco hectares, com\nobjetivo de implantar o Programa de\nReforma Agrária instituído pelo Governo.",
+      "D": "Doação ou transmissão \"Causa Mortis\" de\naparelhos, móveis e utensílios de uso\ndoméstico, joias e itens de vestuário.",
+      "E": "Doação de imóvel a associações caritativas\nou entidades religiosas domiciliadas no\nEstado do Pará que apliquem o produto de\nseus trabalhos no Estado e atendam às\ncondições dispostas em regulamento."
+    },
+    "disciplina_origem": "Direito Tributário",
+    "assunto_origem": "Impostos Estaduais",
+    "alertas_preparacao": [
+      "disciplina_origem_fora_catalogo"
+    ]
+  },
+  {
+    "id": "Q0143",
+    "enunciado": "No que diz respeito à norma processual penal, aos sistemas processuais penais e à investigação criminal, julgue o item subsequente.\nNo ordenamento jurídico brasileiro, em regra, a lei processual penal será aplicada com fulcro no princípio do tempus delicti.",
+    "comando": "Julgue o item subsequente.",
+    "alternativas": {
+      "C": "Certo",
+      "E": "Errado"
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Lei Processual Penal no tempo e no espaço",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0144",
+    "enunciado": "Segundo o Código de Processo Penal, quando a sentença do juiz-presidente no Tribunal do Júri for contrária à Lei expressa ou à decisão dos jurados, caberá:",
+    "comando": "",
+    "alternativas": {
+      "A": "Apelação.",
+      "B": "Habeas corpus.",
+      "C": "Revisão criminal.",
+      "D": "Recurso em sentido estrito."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Recursos Criminais, Apelação no Processo Penal",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0145",
+    "enunciado": "Considerando as alterações provocadas pela Lei nº 12.683, de 09 de julho de 2012, no tocante aos crimes de lavagem de capitais e, ainda, aos crimes contra a ordem tributária, analise as assertivas e identifique com V as verdadeiras e com F as falsas.\n( ) A ocultação ou dissimulação de bens de posse ilícita, tais como drogas ou armas, ainda que produtos de determinada infração, não constitui crime de lavagem de capitais, porque os autores podem ser punidos pelos crimes de forma distinta e autônoma.\n( ) O crime de lavagem de capitais é tipificado quando há demonstração de que os bens, direitos ou valores objeto de ocultação ou dissimulação são produtos, diretos ou indiretos, de infração penal.\n( ) Se a infração penal antecedente for um crime contra a ordem tributária, o objeto material da lavagem de capitais será o total do valor que gere a obrigação tributária.\n( ) Não se pode confundir o crime de favorecimento real com o crime de lavagem de capitais, uma vez que o primeiro (favorecimento real) não pode ser praticado pelo autor ou partícipe da infração antecedente, vez que o próprio tipo penal se caracteriza pelo auxílio destinado a tornar seguro o proveito do crime, fora dos casos de coautoria ou de receptação.\n( ) Toda e qualquer infração penal poderá caracterizar-se como antecedente da lavagem de capitais, a exemplo dos chamados crimes de responsabilidade (infrações político-administrativas) e, ainda, bens, direitos ou valores oriundos de improbidade administrativa.\nA alternativa que contém a sequência correta, de cima para baixo, é",
+    "comando": "Identifique a sequência correta de V e F para as assertivas apresentadas, de cima para baixo.",
+    "alternativas": {
+      "A": "V F V F V",
+      "B": "V F V V F",
+      "C": "V V F V F",
+      "D": "F V F V F",
+      "E": "F F V F V"
+    },
+    "disciplina_origem": "Direito Penal - Legislação Especial",
+    "assunto_origem": "Concurso de Crimes",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0146",
+    "enunciado": "A Constituição Federal de 1988, no artigo 5°, inciso LVI, prevê expressamente a inadmissibilidade da utilização no processo de provas obtidas por meios ilícitos.\nDe acordo com as teorias adotadas pelo legislador brasileiro e recente entendimento jurisprudencial, descarta-se a ilicitude da prova na seguinte situação.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Juca está sendo acusado de crime, porém\nalega que é inocente e tudo não passa de um\nplano vingativo elaborado por seu desafeto\npolítico. No intuito de provar sua inocência, Juca contrata investigador particular, o qual\ninstala sistema de captação de imagem e\nsom clandestinamente no escritório do\nseu desafeto. Por meio das imagens e som\ngravados, Juca consegue extrair conversa que\nprova indubitavelmente não ser ele autor do\ncrime denunciado e faz a juntada nos autos do\nprocesso judicial.",
+      "B": "Um grupo de policiais civis estava executando\noperação contra o tráfico na cidade de Campo\nGrande-MS, quando suspeitou que Arnolgildo\nestaria filmando toda ação policial. Por esse\nmotivo, Arnolgildo foi então abordado pelos\npoliciais civis, os quais, sem a existência de\nmandado judicial, efetuaram uma busca na sua\nresidência e localizaram 9 gramas de crack e\n0,4 gramas de cocaína. Arnolgildo foi preso em\nflagrante pela acusação de tráfico de drogas.",
+      "C": "Autorizada interceptação telefônica em face\nde Diná Sabino de acordo com os ditames legais, ao término, é extraída prova da prática\nde delito por esta. No entanto, as conversas de\ncunho probatório são aquelas que haviam sido\nrealizadas entre Diná Sabino e seu advogado,\nquando a primeira confessa a prática de crimes\ne requer orientação de como proceder para\nser inocentada.",
+      "D": "Ao cumprir mandado de busca e apreensão\nem investigação de crime de homicídio,\nos policiais acessam os computadores da\nresidência do investigado e levantam diversos\ndados que demonstram a coautoria do vizinho. Dessa forma, os policiais estendem informalmente o mandado judicial e cumprem\na diligência, também, na residência do vizinho,\nem observância ao princípio da celeridade\nprocessual.",
+      "E": "Chegou ao conhecimento da autoridade\npolicial que determinado caminhão estava\ntransportando alta quantidade de drogas.\nEm cumprimento de mandado judicial, foram\nrealizadas busca e apreensão do veículo,\nconfirmando-se o fato. No decorrer do processo\njudicial, constatou-se que o crime havia sido\ndescoberto no 16° dia do início de interceptação\ntelefônica, deferida judicialmente pelo prazo\ninicial de 30 dias. Verificou-se, ainda, que houve\npedido de prorrogação após um dia do término\ndo prazo inicial."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Ação Penal (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0147",
+    "enunciado": "Sobre a investigação preliminar e os meios de obtenção de provas e/ou elementos de convicção cabíveis em sede processual penal, assinale a alternativa correta, de acordo com a lei.",
+    "comando": "Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A denúncia anônima, por si só, não pode autorizar a\nabertura de inquérito policial ou a tomada de medidas cautelares invasivas.",
+      "B": "A captação ambiental feita por um dos interlocutores,\nsem o prévio conhecimento da autoridade policial ou\ndo Ministério Público, poderá ser utilizada em matéria de defesa e de acusação, independentemente da\nintegridade da gravação.",
+      "C": "Tratando-se da investigação de infrações de menor\npotencial ofensivo, o cabimento da proposta de transação penal não impede que a acusação opte pelo\nacordo de não persecução penal.",
+      "D": "O inquérito policial é instrumento indispensável para\na dedução da ação penal, sendo a investigação prerrogativa exclusiva da polícia judiciária.",
+      "E": "As declarações do delator, ainda que desprovidas\nde comprovação ou de outros elementos confirmatórios, poderão justificar a tomada de medidas reais ou\npessoais, mas não a dedução de ação penal."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0148",
+    "enunciado": "Ao proferir uma sentença condenatória em uma ação penal, o juiz vislumbra que o réu confessou em juízo a autoria do delito e que constam em sua folha de antecedentes criminais duas anotações, assinalando condenações anteriores definitivas à prática do crime objeto do processo, cujas penas foram cumpridas um e quatro anos antes, respectivamente, do cometimento do crime em julgamento.\nDiante da situação narrada, deverá o magistrado.",
+    "comando": "Indique a conduta correta que o magistrado deve adotar diante da situação apresentada.",
+    "alternativas": {
+      "A": "atenuar a pena-base, na segunda fase da dosimetria da pena, fazendo prevalecer a atenuante da confissão espontânea sobre a agravante da reincidência;",
+      "B": "manter a pena-base, na segunda fase da dosimetria da pena, compensando integralmente a agravante da reincidência com a atenuante da confissão espontânea;",
+      "C": "agravar a pena-base, na segunda fase da dosimetria da pena. fazendo prevalecer a agravante da reincidência sobre a atenuante da confissão espontânea;",
+      "D": "agravar a pena-base, na segunda fase da dosimetria da pena. fazendo prevalecer a agravante da reincidência e compensando a atenuante da confissão espontânea com uma das anotações criminais geradora de reincidência;",
+      "E": "fixar a pena-base acima do mínimo legal cominado ao crime, reconhecendo os maus antecedentes, e, na fase seguinte da dosimetria, manter a pena, compensando integralmente a agravante da reincidência com a atenuante da confissão espontânea."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Teoria da Pena (Parte 01)",
+    "alertas_preparacao": []
+  },
+  {
+    "id": "Q0149",
+    "enunciado": "Relativamente ao inquérito policial e às diligências neste levadas a efeito, é correto afirmar que:",
+    "comando": "",
+    "alternativas": {
+      "A": "na busca domiciliar fundada em ordem judicial, quando\nencontrada a arma objeto do crime de roubo, a não\nespecificação no mandado judicial para a busca pessoal\nimpedirá a realização desta;",
+      "B": "o delegado de polícia, apurando crime de extorsão mediante\nsequestro, necessita de prévia autorização judicial para\nrequisitar, de quaisquer órgãos do poder público, dados e\ninformações cadastrais dos suspeitos;",
+      "C": "após representação do delegado de polícia, nos crimes\nrelacionados ao tráfico de pessoas, sobre a disponibilização\ndos meios técnicos que permitam a localização da vítima, se\nnão houver manifestação judicial no prazo de doze horas,\npoderá aquele proceder às requisições, comunicando-se\nimediatamente ao juiz;",
+      "D": "nos crimes relacionados ao tráfico de pessoas, o delegado de\npolícia poderá requisitar, independentemente de autorização\njudicial, às empresas prestadoras de serviço de\ntelecomunicações que disponibilizem imediatamente os\nmeios técnicos adequados que permitam a localização dos\nsuspeitos;",
+      "E": "dar-se-á prioridade à realização de exame de corpo de delito,\nna fase do inquérito policial, quando se tratar de crime que\nenvolva criança ou adolescente, idoso, pessoa com\ndeficiência, indígena ou gestante."
+    },
+    "disciplina_origem": "Processo Penal",
+    "assunto_origem": "Inquérito Policial",
+    "alertas_preparacao": [
+      "comando_ausente"
+    ]
+  },
+  {
+    "id": "Q0150",
+    "enunciado": "Considerando o entendimento sumulado dos Tribunais Superiores, analise as assertivas abaixo e assinale a alternativa:\nI - A majorante do tráfico transnacional de drogas (art. 40, inciso I, da Lei n. 11.343/2006) configura-se com a prova da destinação internacional das drogas, ainda que não consumada a transposição de fronteiras.\nII - Para a incidência da majorante prevista no art. 40, inciso V, da Lei n. 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.\nIII - É cabível a aplicação retroativa da Lei n. 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei n. 6.368/1976, sendo vedada a combinação de leis.\nIV - A causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006 tem natureza objetiva, devendo haver portanto comprovação de mercancia a menos de duzentos metros da respectiva entidade de ensino.",
+    "comando": "Analise as assertivas e assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Todas as alternativas estão corretas.",
+      "B": "Apenas a alternativa I está correta.",
+      "C": "Apenas a alternativa II está incorreta.",
+      "D": "Apenas a alternativa III está correta.",
+      "E": "Apenas a alternativa IV está incorreta."
+    },
+    "disciplina_origem": "Direito Penal",
+    "assunto_origem": "Legislação Penal Especial",
+    "alertas_preparacao": []
+  }
+]

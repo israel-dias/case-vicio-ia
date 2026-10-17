@@ -1,0 +1,38 @@
+{
+  "nome": "piloto_verificacao_v2",
+  "finalidade": "reclassificacao_exploratoria_de_desenvolvimento",
+  "ids": [
+    "Q0017",
+    "Q0029",
+    "Q0035",
+    "Q0036",
+    "Q0058",
+    "Q0059",
+    "Q0069",
+    "Q0090",
+    "Q0106",
+    "Q0116",
+    "Q0164",
+    "Q0171",
+    "Q0193",
+    "Q0195",
+    "Q0218",
+    "Q0277",
+    "Q0299",
+    "Q0302",
+    "Q0303",
+    "Q0309"
+  ],
+  "sha256_prompt": "1ee36ee76877fa3588dc91e4b31dbfeebce925446c806737ac1c7fd3d68a19c7",
+  "sha256_questoes": "e291fac91c67cec5384ac0d8a9ac14fc44e39af1f9c174acb44f6cc99084f9c4",
+  "sha256_temas": "bcb2c9d6357708d11ef0a08ed8946210bc4210e5d2412f462db58f0242431084",
+  "sha256_preparacao": "d631cb4843a2946f7caedbf1d237dfc4c2e5fbc9611a1ececf51111f4ed0dcf5",
+  "versao_prompt": "v2",
+  "sha256_prompt_v1": "d86590dc03175f8aee7aa34878a597b7d4f55c6e1c8a5aa3f643e936f765b4bf",
+  "mudancas": [
+    "Critérios explícitos sobre homônimos, categorias por partes e questões multitemáticas.",
+    "Inclusão de títulos e de 20 descrições diferentes do padrão de importação.",
+    "Mesmas questões, IDs, catálogo ativo e formato interno de resposta."
+  ],
+  "limite": "Reclassificação exploratória, não gabarito nem amostra de avaliação independente."
+}

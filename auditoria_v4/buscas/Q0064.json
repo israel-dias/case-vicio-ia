@@ -1,0 +1,87 @@
+{
+  "id": "Q0064",
+  "consulta_executada": "\"Francisco contratou empregada doméstica, porém, durante a relação de emprego, por três meses, realizou o desconto da contribuição previdenciária sem,\" prova gabarito",
+  "motor": "busca_web_2",
+  "erro_de_servico": false,
+  "fontes_localizadoras": [
+    {
+      "titulo": "Francisco contratou empregada doméstica, porém, durante ...",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/4d4d155b-80",
+      "ref_consulta": "turn128search0",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Microsoft Word - 635_PGE_CE_001_01.docx",
+      "url": "https://cdn.cebraspe.org.br/concursos/PGE_CE_21/arquivos/635_PGE_CE_001_01.PDF",
+      "ref_consulta": "turn128search12",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão 45 - PGE-CE - Procurador do Estado - CESPE/CEBRASPE (2021) | Questões de Direito",
+      "url": "https://www.questoesdedireito.com.br/questoes/ver/procuradoria-geral-do-estado-do-ceara-pge-ce-procurador-do-estado-cespe-cebraspe-2021/45",
+      "ref_consulta": "turn128search1",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Previdenciário para Concursos | PDF | Bem-estar social | Pensão alimentícia",
+      "url": "https://pt.scribd.com/document/656244587/000-e-Book-Completo",
+      "ref_consulta": "turn128search2",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Crimes Previdenciários e suas Tipificações | PDF | Apropriação indébita | Crimes",
+      "url": "https://pt.scribd.com/document/965699175/Aula-23",
+      "ref_consulta": "turn128search3",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas por alunos sobre Crimes contra o patrimônio em Direito Penal | Qconcursos.com - Página 30",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&has_commentaries=true&page=30&subject_ids%5B%5D=17325",
+      "ref_consulta": "turn128search4",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questão Francisco contratou empregada doméstica, porém, durante a relação de emprego, por três meses, realizou o desc...",
+      "url": "https://cj.estrategia.com/public/questoes/Francisco-contratou532313e37b/",
+      "ref_consulta": "turn128search5",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra o patrimônio para Concurso - Página 31 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-o-patrimonio/questoes?page=31",
+      "ref_consulta": "turn128search6",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para Procurador do Estado | Qconcursos.com - Página 70",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&job_ids%5B%5D=8834&page=70",
+      "ref_consulta": "turn128search7",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso sobre Crimes contra o patrimônio em Direito Penal para CESPE / CEBRASPE | Qconcursos.com - Página 5",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=9&examining_board_ids%5B%5D=2&page=5&subject_ids%5B%5D=17325",
+      "ref_consulta": "turn128search8",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "OFICINA DE IDEIAS: CRIMES CONTRA A PREVIDÊCIA SOCIAL - JÁ CAIU EM PROVA",
+      "url": "https://oficinadeideias54.blogspot.com/2026/02/blog-post_99.html?m=1",
+      "ref_consulta": "turn128search9",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Direito Penal - Crimes contra o patrimônio para Concurso - Página 31 | Qconcursos.com",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-direito-penal/crimes-contra-o-patrimonio/questoes?hsa_acc=7825794674&hsa_ad=&hsa_cam=20208959665&hsa_grp=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=x&hsa_tgt=&hsa_ver=3&page=31",
+      "ref_consulta": "turn128search10",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    },
+    {
+      "titulo": "Questões de Concurso Comentadas para Procurador do Estado | Qconcursos.com - Página 68",
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?has_professor_commentaries=true&job_ids%5B%5D=8834&page=68",
+      "ref_consulta": "turn128search11",
+      "estado": "pista_nao_confirmacao_de_gabarito"
+    }
+  ],
+  "gabarito_confirmado_por_esta_busca": false
+}

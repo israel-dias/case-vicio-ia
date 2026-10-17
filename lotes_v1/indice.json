@@ -1,0 +1,29 @@
+{
+  "lotes_completos": 36,
+  "questoes": 359,
+  "piloto": 20,
+  "seed": 42,
+  "ids_piloto": [
+    "Q0017",
+    "Q0029",
+    "Q0035",
+    "Q0036",
+    "Q0058",
+    "Q0059",
+    "Q0069",
+    "Q0090",
+    "Q0106",
+    "Q0116",
+    "Q0164",
+    "Q0171",
+    "Q0193",
+    "Q0195",
+    "Q0218",
+    "Q0277",
+    "Q0299",
+    "Q0302",
+    "Q0303",
+    "Q0309"
+  ],
+  "aviso": "O piloto também está nos lotes completos. Não é amostra independente para avaliar regras ajustadas nele. Ainda não há resultados de IA."
+}
