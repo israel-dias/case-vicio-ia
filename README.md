@@ -171,7 +171,9 @@ O prompt de referência não é a transcrição integral das conversas. A audito
 
 **Python e biblioteca padrão** reduziram o preparo do ambiente e permitiram verificações sem dependências adicionais. **ChatGPT pela assinatura existente** apoiou a interpretação e a reavaliação. O escopo foi concentrado na classificação, nos registros de decisão e na entrega exigida pelo case.
 
-Identificadores exatos dos modelos não foram confirmados. O piloto incluiu esta conversa e uma conversa separada do candidato. Custo executado de **API de classificação: US$ 0**; assinatura existente não rateada e tokens internos não medidos. O tempo total não foi instrumentado, e tempos de importação não são latências de inferência.
+Identificadores exatos dos modelos não foram confirmados. O piloto incluiu esta conversa e uma conversa separada do candidato. Custo executado de **API de classificação: US$ 0**; assinatura existente não rateada e tokens internos não medidos. Os tempos de importação não são latências de inferência.
+
+**Tempo de dedicação estimado:** aproximadamente **20–25 horas**, entre 13 e 17/10/2026, considerando cerca de cinco horas diárias de trabalho. **Quase metade desse esforço concentrou-se na auditoria do processo e na reavaliação assistida das classificações:** revisão crítica dos critérios, análise do conhecimento necessário à resolução, avaliação de temas centrais e extras, consulta dirigida de fontes e documentação das alterações. As demais atividades abrangeram implementação, testes, relatório e visor de auditoria. Essa distribuição é uma estimativa retrospectiva pessoal, sem cronometragem individual por etapa.
 
 Para consultar o cenário de produção de 50 mil questões por semana:
 
@@ -197,7 +199,7 @@ Para alterar uma decisão, registre a justificativa em `auditoria_v4/decisoes`, 
 
 ```bash
 python auditoria_v4/scripts/gerar_auditoria.py
-python finalizar_case.py --saida entrega_reproduzida_nova
+python finalizar_case.py --saida entrega_reproduzida_nova 
 ```
 
 O gerador formata as anotações salvas; não faz inferência. Compare a nova saída antes de substituir a entrega da raiz. Atualizar hashes registra uma versão, sem validar seu mérito jurídico.
