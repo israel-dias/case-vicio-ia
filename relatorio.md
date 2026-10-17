@@ -1,7 +1,8 @@
 # Classificação de tópicos — Vício / Método VDE
 
-16/10/2026. Protótipo e reexame assistidos pelo ChatGPT; sem validação jurídica
-independente. O julgamento do candidato incluiu questionar e corrigir o critério.
+Classificações de 16/10/2026; relatório atualizado em 17/10/2026. Protótipo e
+reexame assistidos pelo ChatGPT; sem validação jurídica independente. Minha
+participação incluiu questionar e corrigir os critérios da classificação.
 
 ## 1. Método, experimentos e resultado
 
@@ -19,33 +20,34 @@ v2, 10/10. Houve cinco mudanças de decisão e cinco de tema. Contexto, instruç
 possivelmente modelo diferiram: isso foi desenvolvimento, não avaliação independente.
 A v3 consolidou 229 publicações, 126 revisões e 4 exclusões.
 
-Israel identificou que diversidade de assuntos nas alternativas não basta para
-negar um núcleo. O prompt já pedia lê-las; houve também aplicação insuficiente do
-critério pelo assistente, sem investigar adequadamente a resolução. Reexaminei
-os 359 itens, incluindo publicados e excluídos, pelo conhecimento necessário à
-resposta. O protocolo e cada parecer estão em `auditoria_v4`.
+Ao conferir os resultados, identifiquei que a diversidade de assuntos nas
+alternativas não basta para negar um núcleo. O prompt já pedia lê-las; houve também aplicação insuficiente do
+critério pelo assistente, sem investigar adequadamente a resolução. Solicitei
+um reexame assistido dos 359 itens, incluindo publicados e excluídos, pelo
+conhecimento necessário à resposta. O protocolo e os pareceres produzidos estão
+em `auditoria_v4`.
 
 Foram 103 revisões liberadas, 3 publicações retidas e 1 revisão excluída. Mudaram
 79 centrais e 64 conjuntos de extras; refinamento no mesmo ramo não é erro anterior
 comprovado. Maior cobertura também não demonstra maior precisão.
 
-Após a Q0097, Israel pediu aplicar o critério às 57 revisões restantes. A releitura
-liberou mais 32 e manteve 25 por pendências específicas. A escolha entre homônimos
+Após a Q0097, solicitei aplicar o critério às 57 revisões restantes. A releitura
+assistida liberou mais 32 e manteve 25 por pendências específicas. A escolha entre homônimos
 passou a ser premissa explícita, sem equivalência automática; conteúdos complementares
 podem ser central e extra. O registro de todas as 57 decisões preserva o estágio anterior.
 
 ## 2. Critérios e evidência
 
-Leio texto completo, comando e alternativas; separo cenário de cobrança e formulo
-a resolução ou uma pendência explícita. A resposta correta orienta o núcleo, mas
+O protocolo exige ler texto completo, comando e alternativas, separar cenário de
+cobrança e formular uma resolução ou uma pendência explícita. A resposta correta orienta o núcleo, mas
 não substitui o conjunto nem escolhe sozinha o ID. Em assertivas independentes,
 também importam os conhecimentos para rejeitar as falsas. Extras só representam
 conteúdos efetivamente cobrados, sem colecionar palavras de distratores.
 
-Comparo título, caminho e status. Um pai substantivo pode cobrir filhos realmente
+A análise compara título, caminho e status. Um pai substantivo pode cobrir filhos realmente
 exigidos; raiz e genérico sem escopo não escondem dúvida. Irmãos não são equivalentes.
-Homônimos em ramos diferentes exigem análise própria. Publico enquadramentos
-sustentados; reviso dúvidas concretas de ramo, conteúdo ou integridade; fora exige
+Homônimos em ramos diferentes exigem análise própria. Publicação exige enquadramento
+sustentado; revisão exige dúvida concreta de ramo, conteúdo ou integridade; fora exige
 ausência de tema ativo compatível. Dificuldade não é inferida da diversidade temática.
 
 Houve busca inicial para cada ID; isso não confirma respostas. A evidência registra
@@ -60,7 +62,7 @@ B: hediondez. Passou de revisar para publicar no 4693; definitivo não acessíve
 Na Q0322, arts. 12/39 da Lei 13.869 e 61/82 da Lei 9.099 sustentam apelação em dez
 dias no Jecrim, corrigindo o RESE assumido anteriormente. A letra é resolução
 assistida, não gabarito oficial confirmado. Q0097 e Q0355 têm E no definitivo FGV/TJSE.
-Após discussão com Israel, Q0097 foi liberada no 4705, com 5067 extra: a homonímia
+Após reavaliar o critério, decidi publicar Q0097 no 4705, com 5067 extra: a homonímia
 isolada não obriga revisão. Q0355 mantém pendência concreta sobre Tráfico/uso.
 
 ## 3. Diagnóstico e previsão
@@ -105,7 +107,14 @@ segunda passagem em 10%, GPT-5.4, 5.000/600: mais US$0,00215/item do fluxo. Tota
 **US$0,00575/item ou US$287,50/semana**, sem busca, embeddings, infraestrutura,
 repetições e professores. São hipóteses de produção, não modelos ou consumo
 identificados deste chat. API de classificação executada: **US$0**; assinatura não
-rateada; tokens e tempo total não medidos. Horário de importação não é latência.
+rateada; tokens e latência de inferência não medidos. Horário de importação não
+é latência de inferência.
+
+A dedicação humana foi estimada em **20–25 horas**, entre 13 e 17/10/2026,
+considerando cerca de cinco horas diárias. Quase metade do esforço concentrou-se
+na auditoria do processo e na reavaliação assistida das classificações: revisão
+dos critérios, análise de central e extras, consulta dirigida de fontes e registro
+das alterações. É estimativa retrospectiva pessoal, sem cronometragem por etapa.
 
 Se a taxa de revisão deste recorte se repetisse, seriam aproximadamente 3.482
 itens/semana: a um minuto por item, 58,0 horas humanas. É cenário, não previsão
@@ -132,7 +141,7 @@ historicamente superada devem ser corrigidos/versionados, preservando sua origem
 
 Peço conferência das pendências e uma amostra aleatória independente das publicadas.
 Isso permitirá estimar precisão, detectar erros correlacionados e ajustar a política.
-A intervenção de Israel melhorou o critério de auditoria; não equivale a revisão
+Minha revisão crítica aprimorou o critério de auditoria; não equivale a revisão
 jurídica especializada das 359 questões nem comprova 95% ou 100% de acerto.
 
 Fontes: anexos e orientação de Carla; URLs específicas em
