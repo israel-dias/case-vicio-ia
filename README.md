@@ -21,6 +21,8 @@ A previsão entregue é **96%**, com cenários subjetivos de **85%–99%**. Não
 
 Entrega: [publicacao.csv](publicacao.csv), [previsao.txt](previsao.txt) e [relatorio.md](relatorio.md).
 
+**Visor de auditoria:** [arquivo HTML](visor/index.html) · [como abrir e consultar](visor/LEIA-ME.md). A interface apresenta questões, pareceres, comparação com a v3 e evidências.
+
 ## As principais decisões do projeto
 
 | Decisão | Critério e motivo |
@@ -127,9 +129,22 @@ cmp previsao.txt entrega_reproduzida/previsao.txt
 
 Use um **diretório de saída novo** a cada exportação. Os comandos `cmp` não exibem saída quando os arquivos são idênticos. A ativação acima é para Linux/macOS.
 
-O importador verifica os 34 lotes v3; zero novas importações é esperado quando as execuções salvas já existem. O exportador valida dados, respostas e histórico, aplica a auditoria e gera `publicacao.csv`, `previsao.txt`, `resumo_entrega.json` e `intervencoes_registradas.json`. A suíte atual contém **28 testes**, voltados às regras técnicas e à reprodução.
+O importador verifica os 34 lotes v3; zero novas importações é esperado quando as execuções salvas já existem. O exportador valida dados, respostas e histórico, aplica a auditoria e gera `publicacao.csv`, `previsao.txt`, `resumo_entrega.json` e `intervencoes_registradas.json`. A suíte atual contém **32 testes**, voltados às regras técnicas, à reprodução e à fidelidade do visor.
 
 **Essa execução reproduz a consolidação das decisões salvas.** A interpretação semântica foi produzida em interações com o ChatGPT e registrada por questão. O protótipo não executa nova inferência, não contém modelo treinado e não classifica autonomamente dados novos. Uma nova conversa pode produzir respostas diferentes.
+
+## Consultar o visor de auditoria
+
+Na raiz do projeto:
+
+```bash
+python gerar_visor.py
+xdg-open visor/index.html
+```
+
+Também é possível abrir o HTML com dois cliques. Ele contém dados, estilos e scripts e funciona sem servidor ou chave de API. Os links para fontes exigem internet. No GitHub, baixe o HTML para abrir a interface no navegador.
+
+O visor oferece busca por ID e conteúdo; filtros por decisão, ramo, tema, evidência e mudança; leitura das alternativas; central e extras; comparação com a v3; fontes e exportação do recorte. Os exemplos da lateral ajudam a demonstrar os critérios. Antes de gerar, o script confere se a entrega da raiz corresponde à auditoria. A interface consulta os registros salvos, sem modificar decisões ou executar inferência. Veja [visor/LEIA-ME.md](visor/LEIA-ME.md).
 
 ## Organização e rastreabilidade
 
@@ -140,6 +155,7 @@ O importador verifica os 34 lotes v3; zero novas importações é esperado quand
 | [relatorio.md](relatorio.md) | Método, diagnóstico, proposta de produção e memo para o professor |
 | [dados/originais](dados/originais) | Arquivos recebidos, preservados como fonte |
 | [vicio_ia](vicio_ia) e [tests](tests) | Preparação, validação, importação e testes |
+| [visor](visor) e [gerar_visor.py](gerar_visor.py) | Consulta das questões, pareceres, histórico e evidências em HTML local |
 | [lotes_v3](lotes_v3) e [respostas_v3](respostas_v3) | Lotes, prompts e respostas salvas; v1/v2 também preservadas |
 | [auditoria_v4/decisoes](auditoria_v4/decisoes) | Anotações explícitas das decisões semânticas |
 | [reexame_359.json](auditoria_v4/reexame_359.json) | Registro estruturado usado pelo exportador |

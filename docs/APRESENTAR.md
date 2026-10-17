@@ -86,9 +86,30 @@ humana. Agentes só se houver benefício avaliado. O custo de API no protótipo 
 US$0, com assinatura existente, sem tokens medidos. A simulação de produção é
 separada e parametrizada; não apresentar estimativa de tokens como consumo real.
 
-## Próxima etapa da entrega
+## Demonstração com o visor de auditoria
 
-Conferir esta versão, especialmente os exemplos e os limites. O projeto não foi
-publicado nem enviado. A raiz contém os artefatos para criar o repositório público
-solicitado. Preparação para entrevista e publicação são etapas distintas da
-classificação; preservar o registro da intervenção do candidato.
+Abra `visor/index.html` no navegador. O arquivo é gerado com `python gerar_visor.py`,
+usando a entrega salva, e permite ler cada questão, comparar a v3 com a entrega atual
+e consultar justificativas e evidências. Veja `visor/LEIA-ME.md`.
+
+Roteiro de aproximadamente quatro minutos:
+
+1. Apresentar o problema e distinguir cobertura de precisão. Mostrar 329/25/5,
+   cobertura de 91,6435% e a precisão temática ainda não medida.
+2. Abrir Q0171 pela lateral: explicar a intervenção sobre o conhecimento da
+   resolução e a confirmação apenas preliminar da resposta B.
+3. Abrir Q0097 e Antes e depois: justificar 4705 como central e 5067 como
+   extra, sem declarar equivalência entre ramos homônimos.
+4. Abrir Q0355 e Evidências: demonstrar que E definitivo não elimina a dúvida
+   sobre o escopo Tráfico/uso pessoal.
+5. Filtrar as 25 revisões e mostrar o parecer e a exportação do recorte.
+   Encerrar explicando o que falta medir e o desenho para produção.
+
+## Situação da entrega
+
+O candidato publicou o repositório em
+https://github.com/israel-dias/case-vicio-ia, conforme o push confirmado em
+17/10/2026. A atualização com o visor deve ser enviada ao mesmo repositório.
+O envio do link à recrutadora é uma etapa separada e ainda não foi confirmado.
+O tempo total não foi instrumentado; uma estimativa de horas só deve ser
+acrescentada pelo candidato, identificada como aproximada.

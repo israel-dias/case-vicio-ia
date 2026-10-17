@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Visor de auditoria do case Vício IA: questões, enquadramentos, justificativas e evidências.">
+  <title>Visor de auditoria · Case Vício IA</title>
+  <style><!-- VICIO_ESTILOS --></style>
+</head>
+<body>
+  <a class="skip" href="#conteudo">Ir para as questões</a>
+  <svg class="sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="2"/><rect x="14" y="3" width="7" height="7" rx="2"/><rect x="3" y="14" width="7" height="7" rx="2"/><rect x="14" y="14" width="7" height="7" rx="2"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 5C8 2 3 4 3 4v15s5-2 9 1c4-3 9-1 9-1V4s-5-2-9 1Zm0 0v15"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+    <symbol id="i-archive" viewBox="0 0 24 24"><path d="M4 8h16v12H4zM3 3h18v5H3zM9 12h6"/></symbol>
+    <symbol id="i-change" viewBox="0 0 24 24"><path d="M3 7h16m-4-4 4 4-4 4M21 17H5m4-4-4 4 4 4"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3v12m-4-4 4 4 4-4M4 16v5h16v-5"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M6 18 18 6M6 6h12v12"/></symbol>
+    <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6m0-10v1"/></symbol>
+    <symbol id="i-chevron" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"/></symbol>
+  </svg>
+  <div class="shell">
+    <aside class="sidebar" aria-label="Navegação da auditoria">
+      <div class="brand"><span class="brand-mark" aria-hidden="true">v</span><div><strong>vício<span class="brand-dot">.</span></strong><span>MÉTODO VDE · CASE IA</span></div></div>
+      <div class="nav-label">EXPLORAR A ENTREGA</div>
+      <nav class="scope-nav" aria-label="Recortes de questões">
+        <button type="button" data-scope="" class="scope active"><svg><use href="#i-grid"/></svg><span>Todas as questões</span><span class="nav-count" id="nav-total">—</span></button>
+        <button type="button" data-scope="publicar" class="scope"><svg><use href="#i-check"/></svg><span>Publicar</span><span class="nav-count" id="nav-publicar">—</span></button>
+        <button type="button" data-scope="revisar" class="scope"><svg><use href="#i-clock"/></svg><span>Fila de revisão</span><span class="nav-count" id="nav-revisar">—</span></button>
+        <button type="button" data-scope="fora" class="scope"><svg><use href="#i-archive"/></svg><span>Fora do recorte</span><span class="nav-count" id="nav-fora">—</span></button>
+        <button type="button" data-scope="alteradas" class="scope"><svg><use href="#i-change"/></svg><span>Decisões alteradas</span><span class="nav-count" id="nav-alteradas">—</span></button>
+      </nav>
+      <div class="examples-nav">
+        <div class="nav-label">ENTENDA OS CRITÉRIOS</div>
+        <button type="button" data-example="Q0171"><span>Q0171</span>Núcleo da resolução<svg><use href="#i-chevron"/></svg></button>
+        <button type="button" data-example="Q0353"><span>Q0353</span>Contexto e cobrança<svg><use href="#i-chevron"/></svg></button>
+        <button type="button" data-example="Q0337"><span>Q0337</span>Assertivas e extras<svg><use href="#i-chevron"/></svg></button>
+        <button type="button" data-example="Q0097"><span>Q0097</span>Temas homônimos<svg><use href="#i-chevron"/></svg></button>
+        <button type="button" data-example="Q0355"><span>Q0355</span>Revisão por escopo<svg><use href="#i-chevron"/></svg></button>
+        <button type="button" data-example="Q0298"><span>Q0298</span>Limite do catálogo<svg><use href="#i-chevron"/></svg></button>
+      </div>
+      <div class="sidebar-footer"><span class="snapshot-dot"></span><div><strong>Reexame assistido v4</strong><span>Classificações de 16 out. 2026</span><span>Consulta aos registros salvos</span></div></div>
+    </aside>
+    <main class="workspace" id="conteudo">
+      <header class="page-header">
+        <div><p class="eyebrow">CASE TÉCNICO / CLASSIFICAÇÃO JURÍDICA</p><h1>Auditoria, questão por questão<span>.</span></h1><p class="intro">Consulte o conteúdo, entenda o enquadramento e acompanhe o que mudou.</p></div>
+        <div class="header-actions"><button class="button quiet" id="help-open" type="button"><svg><use href="#i-info"/></svg>Como ler</button><a class="button quiet" id="repo-link" href="https://github.com/israel-dias/case-vicio-ia" target="_blank" rel="noopener noreferrer">Repositório<svg><use href="#i-arrow"/></svg></a></div>
+      </header>
+      <section aria-label="Resumo de toda a entrega" class="summary">
+        <button type="button" class="metric publicar" data-scope="publicar"><span class="metric-label"><span class="dot"></span>PUBLICAR<svg><use href="#i-arrow"/></svg></span><strong id="metric-publicar">—</strong><span>Enquadramentos sustentados</span></button>
+        <button type="button" class="metric revisar" data-scope="revisar"><span class="metric-label"><span class="dot"></span>REVISAR<svg><use href="#i-arrow"/></svg></span><strong id="metric-revisar">—</strong><span>Pendências para o especialista</span></button>
+        <button type="button" class="metric fora" data-scope="fora"><span class="metric-label"><span class="dot"></span>FORA DO RECORTE<svg><use href="#i-arrow"/></svg></span><strong id="metric-fora">—</strong><span>Sem tema ativo compatível</span></button>
+        <div class="metric coverage"><span class="metric-label">COBERTURA DE PUBLICAÇÃO</span><strong id="metric-cobertura">—</strong><span id="coverage-caption">Fração publicada nesta entrega</span><div class="coverage-track" id="coverage-track" aria-hidden="true"></div></div>
+      </section>
+      <div class="precision-note"><svg aria-hidden="true"><use href="#i-info"/></svg><p><strong>Precisão temática não medida.</strong> A previsão de <span id="forecast">96%</span> é subjetiva. Cobertura e aprovação dos testes não comprovam acerto jurídico.</p><button type="button" id="limits-open">Entender os limites <span aria-hidden="true">↗</span></button></div>
+      <section class="filters" aria-label="Filtros de questões">
+        <div class="search-field"><svg aria-hidden="true"><use href="#i-search"/></svg><label class="sr-only" for="search">Buscar por ID, conteúdo ou tema</label><input id="search" type="search" placeholder="Buscar por ID, conteúdo ou tema…" autocomplete="off"><kbd aria-hidden="true">/</kbd></div>
+        <div class="filter-select"><label for="decision">Decisão</label><select id="decision"><option value="">Todas as decisões</option value="publicar">Publicar</option><option value="revisar">Revisar</option><option value="fora">Fora do recorte</option></select></div>
+        <div class="filter-select"><label for="discipline">Ramo do enquadramento</label><select id="discipline"><option value="">Todos os ramos</option></select></div>
+        <div class="filter-select theme-filter"><label for="theme">Tema central ou extra</label><select id="theme"><option value="">Todos os temas utilizados</option></select></div>
+        <div class="filter-select"><label for="evidence">Evidência da resposta</label><select id="evidence"><option value="">Todos os estados</option><option value="gabarito_oficial_definitivo">Gabarito oficial definitivo</option><option value="gabarito_oficial_preliminar">Gabarito oficial preliminar</option><option value="resposta_assistida_sem_gabarito_oficial_confirmado">Resposta assistida</option><option value="resposta_nao_confirmada">Resposta não confirmada</option></select></div>
+        <div class="filter-select"><label for="change">Comparação com a v3</label><select id="change"><option value="">Todos os registros</option><option value="decisao">Decisão alterada</option><option value="central">Tema central alterado</option><option value="extras">Extras alterados</option><option value="qualquer">Algum desses campos alterado</option></select></div>
+        <button type="button" class="clear-button" id="clear">Limpar filtros</button>
+      </section>
+      <div class="results-heading"><div><h2>Questões da entrega</h2><p id="result-count" aria-live="polite">Carregando os registros…</p></div><button type="button" class="button export" id="export-csv"><svg><use href="#i-download"/></svg>Baixar recorte CSV</button></div>
+      <div class="inspection-grid">
+        <section class="question-list-panel" aria-label="Lista de resultados">
+          <div class="list-header"><span>SELECIONE UMA QUESTÃO</span><label class="sr-only" for="sort">Ordenar resultados</label><select id="sort"><option value="id">Por ID</option><option value="decisao">Revisões primeiro</option></select></div>
+          <div class="question-list" id="question-list"></div>
+        </section>
+        <article class="detail-panel" id="detail-panel" aria-label="Detalhes da questão selecionada"></article>
+      </div>
+      <footer class="page-footer"><span>Visor de consulta · Case Vício IA · Israel Dias</span><span id="snapshot-info"></span></footer>
+      <noscript><div class="fatal">Ative o JavaScript do navegador para consultar as questões deste arquivo.</div></noscript>
+    </main>
+  </div>
+  <dialog id="help-dialog" aria-labelledby="help-title">
+    <div class="dialog-header"><div><p class="eyebrow">GUIA DA AUDITORIA</p><h2 id="help-title">Como interpretar os registros</h2></div><button type="button" class="icon-button" id="help-close" aria-label="Fechar guia"><svg><use href="#i-close"/></svg></button></div>
+    <div class="dialog-body">
+      <p><strong>O conteúdo necessário à resolução orienta o tema.</strong> O enunciado pode trazer contexto, e alternativas podem citar assuntos que não constituem o núcleo. Em assertivas, também importa o conhecimento para rejeitar as falsas.</p>
+      <dl class="help-definitions"><div><dt>Publicar</dt><dd>Conteúdo e caminho do catálogo considerados suficientemente sustentados.</dd></div><div><dt>Revisar</dt><dd>Há uma pendência concreta de enquadramento, conteúdo, integridade ou contexto.</dd></div><div><dt>Fora do recorte</dt><dd>Nenhum tema ativo foi considerado compatível. A questão continua preservada nos dados originais.</dd></div></dl>
+      <h3>Cobertura não é precisão</h3><p>A cobertura é a fração destinada à publicação. A precisão exigiria comparar os temas publicados com uma referência independente. A previsão de 96%, com cenários de 85% a 99%, é subjetiva, sem garantia de atingir a meta de 95%.</p>
+      <h3>Gabarito de prova não é rótulo temático</h3><p>Uma resposta oficial confirma a letra aceita pela banca, mas não determina o ID escolhido pelos especialistas da plataforma. Respostas assistidas e não confirmadas têm identificação própria.</p>
+      <h3>Confiança e histórico</h3><p>A confiança é um julgamento não calibrado sobre o tema central. Em fora, zero é convenção de ausência de tema. A comparação usa a consolidação v3 como ponto inicial; refinamentos e mudanças de decisão não provam aumento de precisão.</p>
+      <h3>O que este visor permite</h3><p>Pesquisar, filtrar, consultar o parecer e baixar um recorte. As decisões exibidas vêm da entrega salva. O visor não faz nova classificação nem altera o CSV oficial.</p>
+      <details class="hashes"><summary>Identificar os arquivos usados neste visor</summary><div id="source-hashes"></div></details>
+    </div>
+  </dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <script type="application/json" id="base-auditoria"><!-- VICIO_DADOS --></script>
+  <script><!-- VICIO_FILTROS --></script>
+  <script><!-- VICIO_APP --></script>
+</body>
+</html>
