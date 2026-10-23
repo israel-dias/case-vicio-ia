@@ -1,0 +1,45 @@
+{
+  "etapa": "calibracao_seletiva_v1",
+  "metodo_preservado": "escopos_separados_media3",
+  "desenvolvimento": {
+    "questoes": 60,
+    "acertos_top1": 40
+  },
+  "calibracao": {
+    "questoes": 20,
+    "acertos_top1": 14,
+    "publicar": 3,
+    "revisar": 17,
+    "fora": 0,
+    "acertos_publicadas": 3,
+    "precisao_publicadas_empirica": 1.0,
+    "cobertura": 0.15,
+    "confianca_suavizada_grupo_publicar": 0.8,
+    "intervalo_95_descritivo_publicadas": [
+      0.29240177382128674,
+      1.0
+    ]
+  },
+  "politica_ativa": true,
+  "limiar_margem_relativa": 0.6070580985325005,
+  "limiares_candidatos_do_desenvolvimento": 13,
+  "teste_reservado": {
+    "questoes": 20,
+    "previsoes_geradas": false
+  },
+  "questoes_sem_rotulo": {
+    "questoes": 559,
+    "previsoes_geradas": false
+  },
+  "tempo_execucao_segundos": 0.28,
+  "observacoes": [
+    "Método de classificação fixo; limiar selecionado nos 20 itens de calibração.",
+    "Meta de 95% é empírica nos subconjuntos selecionados; não é garantia estatística.",
+    "Intervalo da calibração é descritivo após seleção; não é avaliação independente.",
+    "Confiança é estimativa de acerto com suavização Beta(1,1), não similaridade e não 100%.",
+    "Não se marca fora automaticamente; possíveis ausências da taxonomia seguem para revisão.",
+    "Os 100 rótulos foram vistos anteriormente na conversa; as reservas não são teste externo cego.",
+    "Os 300 itens recentes não têm rótulos disponíveis; sua qualidade ainda não foi medida.",
+    "O próximo passo é avaliar uma vez o teste reservado, sem alterar esta política depois de ver o resultado."
+  ]
+}

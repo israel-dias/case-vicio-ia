@@ -1,0 +1,560 @@
+id,decisao,tema_central_id,extras_ids,confianca,motivo
+Q0001,revisar,5524,,0.6419610554723805,Controle anterior preservado; rota de comando não aplicada.
+Q0004,publicar,5480,,0.7793737670290874,
+Q0006,publicar,5157,,0.9259259259259259,
+Q0007,publicar,5466,,0.9889483780235351,
+Q0008,publicar,5087,,0.748741899062944,
+Q0009,publicar,5157,,0.951644139879796,
+Q0010,publicar,6717,,0.8902043717024439,
+Q0011,revisar,6723,,0.5248532009548169,Controle anterior preservado; rota de comando não aplicada.
+Q0013,publicar,5498,,0.7790773007311406,
+Q0014,publicar,5476,,0.9259259259259259,
+Q0015,publicar,5498,,0.9259259259259259,
+Q0016,publicar,5517,,0.7892039390701203,
+Q0019,publicar,5466,,0.9259259259259259,
+Q0020,revisar,5199,,0.5101735512178694,Controle anterior preservado; rota de comando não aplicada.
+Q0021,publicar,5498,,0.9259259259259259,
+Q0022,publicar,5087,,0.9461864790401187,
+Q0024,publicar,4385,,0.9259259259259259,
+Q0025,publicar,5087,,0.9259259259259259,
+Q0026,publicar,6724,,0.9821658142318508,
+Q0027,publicar,5087,,0.8736896367331364,
+Q0029,revisar,6716,,0.31984402254083916,homonimo_sem_escopo_resolvido
+Q0030,publicar,5134,,0.9278493896807628,
+Q0032,revisar,5498,,0.7142776083764037,Controle anterior preservado; rota de comando não aplicada.
+Q0033,publicar,5517,,0.9259259259259259,
+Q0036,publicar,6724,,0.9856279016343114,
+Q0037,publicar,5128,,0.8955778941748873,
+Q0038,publicar,5498,,0.8497230569194556,
+Q0042,revisar,5218,,0.7003810853689633,Controle anterior preservado; rota de comando não aplicada.
+Q0044,revisar,5466,,0.43222898700380863,Controle anterior preservado; rota de comando não aplicada.
+Q0045,publicar,5087,,0.9259259259259259,
+Q0046,publicar,5509,,0.9259259259259259,
+Q0047,revisar,5466,,0.7055902277253889,Controle anterior preservado; rota de comando não aplicada.
+Q0048,revisar,5191,,0.6156245306255744,abaixo_do_limiar_calibrado
+Q0050,publicar,4708,,0.9316148649010481,
+Q0051,revisar,5466,,0.6513714275866205,Controle anterior preservado; rota de comando não aplicada.
+Q0053,publicar,5560,,0.8413687378441566,
+Q0054,revisar,5077,,0.6780673592709705,Controle anterior preservado; rota de comando não aplicada.
+Q0055,publicar,5530,,0.9259259259259259,
+Q0056,publicar,5066,,0.874082297014569,
+Q0059,revisar,4703,,0.45756692385866854,Controle anterior preservado; rota de comando não aplicada.
+Q0062,revisar,5466,,0.4477353944775061,Controle anterior preservado; rota de comando não aplicada.
+Q0063,publicar,5498,,0.9259259259259259,
+Q0064,revisar,5185,,0.5138680102948013,Controle anterior preservado; rota de comando não aplicada.
+Q0065,publicar,5157,,0.9259259259259259,
+Q0069,publicar,5170,,0.9769351492179409,
+Q0070,revisar,5517,,0.6046487413360048,Controle anterior preservado; rota de comando não aplicada.
+Q0071,revisar,5199,,0.5416533232762668,Controle anterior preservado; rota de comando não aplicada.
+Q0072,publicar,5498,,0.7212366506393896,
+Q0073,publicar,5087,,0.9723669938211763,
+Q0074,revisar,5199,,0.686303957475511,Controle anterior preservado; rota de comando não aplicada.
+Q0075,publicar,5191,,0.9259259259259259,
+Q0076,publicar,4380,,0.7966090616497224,
+Q0078,publicar,4697,,0.9789479622881726,
+Q0081,publicar,4371,,0.8969896790472309,
+Q0082,publicar,5466,,0.9259259259259259,
+Q0083,publicar,5149,,0.9373678938469134,
+Q0084,publicar,6724,,0.9728283560923094,
+Q0085,publicar,5087,,0.9259259259259259,
+Q0088,publicar,4389,,0.9259259259259259,
+Q0089,publicar,5218,,0.9259259259259259,
+Q0092,publicar,5509,,0.826491061348909,
+Q0093,publicar,5138,,0.81052820122737,
+Q0094,publicar,5524,,0.9259259259259259,
+Q0095,publicar,5077,,0.8668699302585212,
+Q0096,publicar,5480,,0.9259259259259259,
+Q0097,publicar,6728,,0.8191856273054235,
+Q0098,publicar,5543,,0.9259259259259259,
+Q0100,revisar,5102,,0.6433862980355992,Controle anterior preservado; rota de comando não aplicada.
+Q0101,publicar,6724,,0.9969452144336157,
+Q0102,publicar,5572,,0.780876849725811,
+Q0104,revisar,5498,,0.5689024306864306,Controle anterior preservado; rota de comando não aplicada.
+Q0105,revisar,4380,,0.5425930365310303,Controle anterior preservado; rota de comando não aplicada.
+Q0107,publicar,5116,,0.790541186680123,
+Q0108,publicar,5560,,0.8135066326327482,
+Q0109,publicar,5199,,0.7579281941056785,
+Q0112,publicar,6725,,0.9923576671707076,
+Q0113,revisar,5498,,0.5849491988850564,Controle anterior preservado; rota de comando não aplicada.
+Q0114,revisar,5077,,0.655225188493971,Controle anterior preservado; rota de comando não aplicada.
+Q0116,revisar,4708,,0.5389845948303165,Controle anterior preservado; rota de comando não aplicada.
+Q0118,publicar,5517,,0.7219970051530253,
+Q0119,revisar,5530,,0.5659768098659644,Controle anterior preservado; rota de comando não aplicada.
+Q0120,revisar,6735,,0.5356738522124821,Controle anterior preservado; rota de comando não aplicada.
+Q0121,publicar,5466,,0.8323705238433144,
+Q0122,revisar,4703,,0.8108343389793868,Controle anterior preservado; rota de comando não aplicada.
+Q0123,publicar,5517,,0.8598451945339137,
+Q0125,revisar,6734,,0.37099447180507045,Controle anterior preservado; rota de comando não aplicada.
+Q0126,revisar,5116,,0.4288038945807942,Controle anterior preservado; rota de comando não aplicada.
+Q0127,publicar,6728,,0.9491094812267968,
+Q0128,publicar,5184,,0.9259259259259259,
+Q0129,publicar,5530,,0.7741929191066678,
+Q0130,publicar,5199,,0.9057468226149605,
+Q0131,publicar,5071,,0.9259259259259259,
+Q0132,revisar,5543,,0.38851336892725324,Controle anterior preservado; rota de comando não aplicada.
+Q0133,revisar,5524,,0.5346078188478612,Controle anterior preservado; rota de comando não aplicada.
+Q0135,publicar,5157,,0.9259259259259259,
+Q0136,revisar,6724,,0.5898754475035443,Controle anterior preservado; rota de comando não aplicada.
+Q0140,publicar,5157,,0.9259259259259259,
+Q0141,publicar,4385,,0.9465423377623513,
+Q0142,revisar,5157,,0.5081191521875363,Controle anterior preservado; rota de comando não aplicada.
+Q0143,publicar,5580,,0.7247012683264265,
+Q0145,publicar,5157,,0.9259259259259259,
+Q0146,publicar,5228,,0.9259259259259259,
+Q0148,publicar,5199,,0.9967476944688164,
+Q0149,publicar,5498,,0.9259259259259259,
+Q0151,publicar,5517,,0.706544109604399,
+Q0152,revisar,5466,,0.5917476629356521,abaixo_do_limiar_calibrado
+Q0153,revisar,5218,,0.6436983419938465,Controle anterior preservado; rota de comando não aplicada.
+Q0154,publicar,5134,,0.7610142425151966,
+Q0155,revisar,5584,,0.4716395570086093,Controle anterior preservado; rota de comando não aplicada.
+Q0156,publicar,5199,,0.7193856423642376,
+Q0157,publicar,5517,,0.7956335772429304,
+Q0158,publicar,4707,,0.9259259259259259,
+Q0159,publicar,5087,,0.9259259259259259,
+Q0161,publicar,5517,,0.9915252610736103,
+Q0162,revisar,4380,,0.5889489437627158,Controle anterior preservado; rota de comando não aplicada.
+Q0163,revisar,6728,,0.44715196444458327,Controle anterior preservado; rota de comando não aplicada.
+Q0164,revisar,6734,,0.5228567311304473,Controle anterior preservado; rota de comando não aplicada.
+Q0165,publicar,5498,,0.9259259259259259,
+Q0166,revisar,6734,,0.6648552444782955,Controle anterior preservado; rota de comando não aplicada.
+Q0168,revisar,5087,,0.28454778082898335,Controle anterior preservado; rota de comando não aplicada.
+Q0170,revisar,5185,,0.5510636824647893,Controle anterior preservado; rota de comando não aplicada.
+Q0171,revisar,5199,,0.5344962466450924,Controle anterior preservado; rota de comando não aplicada.
+Q0172,revisar,5185,,0.5113621987162111,Controle anterior preservado; rota de comando não aplicada.
+Q0173,publicar,4703,,0.9845886182110187,
+Q0174,revisar,5466,,0.5997965100793365,Controle anterior preservado; rota de comando não aplicada.
+Q0175,publicar,5087,,0.9790655916548427,
+Q0176,publicar,5079,,0.9437191733780557,
+Q0177,publicar,5543,,0.8588133311132908,
+Q0178,publicar,5079,,0.7129706923328297,
+Q0180,publicar,5498,,0.9259259259259259,
+Q0181,publicar,4695,,0.8640229252329288,
+Q0182,publicar,5138,,0.779473740726315,
+Q0183,revisar,5185,,0.5421867298592846,Controle anterior preservado; rota de comando não aplicada.
+Q0184,publicar,5517,,0.9259259259259259,
+Q0185,publicar,4703,,0.7383925245468971,
+Q0187,revisar,5199,,0.6039737099206695,Controle anterior preservado; rota de comando não aplicada.
+Q0189,revisar,5063,,0.562722733278946,Controle anterior preservado; rota de comando não aplicada.
+Q0190,publicar,4701,,0.9955933681631168,
+Q0192,publicar,5087,,0.792632621741565,
+Q0193,publicar,5543,,0.9259259259259259,
+Q0195,publicar,4371,,0.8848145700114284,
+Q0196,publicar,4385,,0.7630648721816066,
+Q0197,publicar,5498,,0.9259259259259259,
+Q0198,publicar,5071,,0.7747872858579794,
+Q0199,revisar,5228,,0.5831665798134344,Controle anterior preservado; rota de comando não aplicada.
+Q0200,publicar,4705,,0.9872882994866917,
+Q0203,publicar,6723,,0.8950468359767162,
+Q0204,publicar,5505,,0.8907536806630945,
+Q0205,publicar,5560,,0.8419448208741003,
+Q0206,publicar,5583,,0.9610302994886467,
+Q0207,publicar,5199,,0.7135705322037859,
+Q0209,revisar,5498,,0.6849909581292785,Controle anterior preservado; rota de comando não aplicada.
+Q0210,publicar,4697,,0.9259259259259259,
+Q0211,revisar,5138,,0.28598035803973426,Controle anterior preservado; rota de comando não aplicada.
+Q0212,revisar,4700,,0.46611057946722523,Controle anterior preservado; rota de comando não aplicada.
+Q0213,publicar,5466,,0.9259259259259259,
+Q0214,publicar,5490,,0.7636333894541091,
+Q0217,revisar,4687,,0.4706149135041799,Controle anterior preservado; rota de comando não aplicada.
+Q0218,publicar,5517,,0.9924560850445037,
+Q0219,publicar,5071,,0.9259259259259259,
+Q0220,publicar,5498,,0.9453417591250041,
+Q0222,revisar,5170,,0.42347404133518624,Controle anterior preservado; rota de comando não aplicada.
+Q0223,publicar,5079,,0.7878523272115932,
+Q0224,publicar,5199,,0.8664739253337702,
+Q0225,publicar,5476,,0.7060278515666594,
+Q0227,publicar,5102,,0.8972729690641165,
+Q0228,publicar,5199,,0.9259259259259259,
+Q0229,revisar,5517,,0.7230515614732735,Controle anterior preservado; rota de comando não aplicada.
+Q0232,publicar,5079,,0.9314544343284897,
+Q0233,publicar,5175,,0.9885825249730564,
+Q0234,revisar,4380,,0.2447770973340047,Controle anterior preservado; rota de comando não aplicada.
+Q0235,publicar,5480,,0.9259259259259259,
+Q0236,revisar,5498,,0.527849252976438,Controle anterior preservado; rota de comando não aplicada.
+Q0237,publicar,5175,,0.9988272154687695,
+Q0238,revisar,4367,,0.46473671632887226,Controle anterior preservado; rota de comando não aplicada.
+Q0239,publicar,5199,,0.8819831233509448,
+Q0241,publicar,5218,,0.9259259259259259,
+Q0242,publicar,5560,,0.7789748663876536,
+Q0243,publicar,5175,,0.9278466492408238,
+Q0247,publicar,5498,,0.9703035504071117,
+Q0248,publicar,5087,,0.9259259259259259,
+Q0250,revisar,5199,,0.7121038683151467,Controle anterior preservado; rota de comando não aplicada.
+Q0254,publicar,4704,,0.9572075849240959,
+Q0255,publicar,5211,,0.7122687541078875,
+Q0256,publicar,5218,,0.9166556465384637,
+Q0257,publicar,5218,,0.9259259259259259,
+Q0258,publicar,5543,,0.9259259259259259,
+Q0260,publicar,4374,,0.9259259259259259,
+Q0261,revisar,5466,,0.6049547175627206,Controle anterior preservado; rota de comando não aplicada.
+Q0262,revisar,6734,,0.38331116104543483,Controle anterior preservado; rota de comando não aplicada.
+Q0263,revisar,5583,,0.7173637221960901,Controle anterior preservado; rota de comando não aplicada.
+Q0264,publicar,5102,,0.9259259259259259,
+Q0266,publicar,5524,,0.7152930975072868,
+Q0267,publicar,5498,,0.9259259259259259,
+Q0268,publicar,5120,,0.8314989436440601,
+Q0269,revisar,5505,,0.594309909468303,Controle anterior preservado; rota de comando não aplicada.
+Q0270,publicar,5087,,0.9695375521180781,
+Q0271,revisar,5512,,0.5694469762199902,Controle anterior preservado; rota de comando não aplicada.
+Q0272,revisar,6734,,0.7598925321943488,Controle anterior preservado; rota de comando não aplicada.
+Q0273,publicar,5087,,0.7225337690210212,
+Q0278,publicar,5199,,0.773490180448256,
+Q0280,publicar,5120,,0.7105732399317494,
+Q0281,revisar,5543,,0.4126827537249807,Controle anterior preservado; rota de comando não aplicada.
+Q0282,publicar,6724,,0.9473245770041595,
+Q0283,revisar,5476,,0.5087468218749785,Controle anterior preservado; rota de comando não aplicada.
+Q0284,publicar,5524,,0.7381473891564482,
+Q0285,publicar,4374,,0.9259259259259259,
+Q0287,publicar,5228,,0.9259259259259259,
+Q0288,publicar,5466,,0.9200526118884995,
+Q0289,publicar,6724,,0.9997104777218158,
+Q0292,publicar,4374,,0.9259259259259259,
+Q0293,publicar,5185,,0.9123720175332728,
+Q0294,publicar,5211,,0.9259259259259259,
+Q0295,publicar,5487,,0.78617543464639,
+Q0296,revisar,5063,,0.6655435519873361,Controle anterior preservado; rota de comando não aplicada.
+Q0297,publicar,4689,,0.8553868254960901,
+Q0298,publicar,4694,,0.8180971684244766,
+Q0299,revisar,4368,,0.5639479776144614,Controle anterior preservado; rota de comando não aplicada.
+Q0300,publicar,5157,,0.9259259259259259,
+Q0301,publicar,5191,,0.9259259259259259,
+Q0302,publicar,5211,,0.9417960109815978,
+Q0305,publicar,5466,,0.9308772542118293,
+Q0306,revisar,4708,,0.3765088629433415,Controle anterior preservado; rota de comando não aplicada.
+Q0307,revisar,4707,,0.6212358458605978,Controle anterior preservado; rota de comando não aplicada.
+Q0309,publicar,5199,,0.7711980787328757,
+Q0310,publicar,5505,,0.992168460417017,
+Q0312,revisar,4384,,0.42377485980391244,Controle anterior preservado; rota de comando não aplicada.
+Q0317,publicar,5191,,0.9259259259259259,
+Q0318,publicar,5175,,0.8834488725684746,
+Q0321,publicar,6728,,0.7693887978352814,
+Q0322,publicar,5560,,0.9734074231339613,
+Q0326,publicar,6728,,0.8638072901601613,
+Q0327,publicar,5199,,0.984152667342818,
+Q0328,publicar,4374,,0.9259259259259259,
+Q0329,publicar,5218,,0.7117631454310293,
+Q0330,publicar,5498,,0.9368416993444125,
+Q0331,publicar,5476,,0.9916218453645458,
+Q0332,publicar,5539,,0.851673608115096,
+Q0333,revisar,5175,,0.6590640713686732,Controle anterior preservado; rota de comando não aplicada.
+Q0334,publicar,4380,,0.8647413593148553,
+Q0335,revisar,5218,,0.6410054346253238,Controle anterior preservado; rota de comando não aplicada.
+Q0337,publicar,6716,,0.8595278437087462,
+Q0340,publicar,5071,,0.9259259259259259,
+Q0342,publicar,5543,,0.9259259259259259,
+Q0343,revisar,5191,,0.677885746952407,Controle anterior preservado; rota de comando não aplicada.
+Q0344,revisar,6717,,0.36379611205267404,Controle anterior preservado; rota de comando não aplicada.
+Q0346,revisar,5466,,0.4529756017002051,Controle anterior preservado; rota de comando não aplicada.
+Q0347,publicar,5199,,0.929545042573486,
+Q0348,publicar,5087,,0.9259259259259259,
+Q0349,revisar,4703,,0.28827736991165526,Controle anterior preservado; rota de comando não aplicada.
+Q0350,publicar,4702,,0.8317062230616638,
+Q0351,publicar,5116,,0.9930655916043476,
+Q0352,revisar,5560,,0.43491079551264356,Controle anterior preservado; rota de comando não aplicada.
+Q0353,revisar,5466,,0.3698231674160798,abaixo_do_limiar_calibrado
+Q0354,publicar,5218,,0.7504992628233835,
+Q0355,revisar,6728,,0.6191081448374646,Controle anterior preservado; rota de comando não aplicada.
+Q0357,publicar,5157,,0.8918141533299406,
+Q0358,revisar,5184,,0.3631292587193691,Controle anterior preservado; rota de comando não aplicada.
+Q0359,revisar,4694,,0.5568549222062741,Controle anterior preservado; rota de comando não aplicada.
+Q0360,publicar,4389,,0.778409184796948,
+Q0361,publicar,5211,,0.9305738577429309,
+Q0362,publicar,5543,,0.9259259259259259,
+Q0363,publicar,5087,,0.9207794656125188,
+Q0364,revisar,5211,,0.5446079597912804,Controle anterior preservado; rota de comando não aplicada.
+Q0365,publicar,5191,,0.9259259259259259,
+Q0366,publicar,5543,,0.9259259259259259,
+Q0367,publicar,5530,,0.7216608677284327,
+Q0368,revisar,5498,,0.6317298536802473,Controle anterior preservado; rota de comando não aplicada.
+Q0369,revisar,6723,,0.3652150773977966,Controle anterior preservado; rota de comando não aplicada.
+Q0370,publicar,5517,,0.9259259259259259,
+Q0371,revisar,5063,,0.5417285365604934,Controle anterior preservado; rota de comando não aplicada.
+Q0372,publicar,5543,,0.983668177042528,
+Q0373,publicar,5180,,0.9259259259259259,
+Q0374,publicar,5147,,0.9077193125898425,
+Q0375,publicar,5218,,0.9259259259259259,
+Q0376,revisar,5218,,0.6360059118370359,Controle anterior preservado; rota de comando não aplicada.
+Q0377,publicar,5476,,0.9259259259259259,
+Q0378,publicar,5116,,0.9205288915647813,
+Q0379,publicar,6724,,0.9791766243543099,
+Q0380,revisar,5572,,0.48819810804374014,Controle anterior preservado; rota de comando não aplicada.
+Q0381,publicar,5498,,0.9259259259259259,
+Q0382,revisar,5191,,0.47357665106462177,Controle anterior preservado; rota de comando não aplicada.
+Q0383,revisar,4702,,0.4589154587812371,Controle anterior preservado; rota de comando não aplicada.
+Q0384,publicar,5560,,0.9737882684810797,
+Q0385,publicar,5543,,0.9259259259259259,
+Q0386,revisar,4687,,0.3368127065229197,Controle anterior preservado; rota de comando não aplicada.
+Q0387,publicar,5590,,0.8578036466703116,
+Q0388,publicar,5530,,0.7060393006499671,
+Q0389,publicar,5218,,0.9378772376600595,
+Q0390,revisar,4385,,0.40135000688189165,Controle anterior preservado; rota de comando não aplicada.
+Q0391,publicar,5466,,0.8210156800726636,
+Q0392,publicar,5199,,0.9259259259259259,
+Q0393,publicar,5157,,0.9259259259259259,
+Q0394,publicar,5480,,0.9259259259259259,
+Q0395,publicar,5539,,0.7714702863302049,
+Q0396,publicar,5087,,0.9259259259259259,
+Q0397,revisar,5466,,0.3454340456376426,Controle anterior preservado; rota de comando não aplicada.
+Q0398,publicar,5175,,0.766993837973199,
+Q0399,publicar,5087,,0.9259259259259259,
+Q0400,revisar,5218,,0.5854780932799888,Controle anterior preservado; rota de comando não aplicada.
+Q0401,publicar,5199,,0.789836459185779,
+Q0402,publicar,4684,,0.8793624983117408,
+Q0403,publicar,5180,,0.7502057321092123,
+Q0404,publicar,5116,,0.9259259259259259,
+Q0405,publicar,5524,,0.9259259259259259,
+Q0406,publicar,5087,,0.9609478196722151,
+Q0407,publicar,5572,,0.8399905406929725,
+Q0408,publicar,5490,,0.8996658037405075,
+Q0409,publicar,5211,,0.9259259259259259,
+Q0410,publicar,5211,,0.9259259259259259,
+Q0411,publicar,5087,,0.8081022921896122,
+Q0412,publicar,5087,,0.9071203402578858,
+Q0413,publicar,5087,,0.9171776765071553,
+Q0414,publicar,4695,,0.822544410820126,
+Q0415,publicar,4695,,0.7741305276626091,
+Q0416,revisar,5199,,0.3333191647881492,Controle anterior preservado; rota de comando não aplicada.
+Q0417,revisar,5185,,0.607284475116023,Controle anterior preservado; rota de comando não aplicada.
+Q0418,publicar,4704,,0.9635139972087745,
+Q0419,publicar,4385,,0.9504000606605056,
+Q0420,publicar,6724,,0.9631075391818475,
+Q0421,publicar,5466,,0.9532283065711101,
+Q0422,publicar,5087,,0.8897206290663423,
+Q0423,publicar,4695,,0.7840108132342641,
+Q0424,revisar,5466,,0.5805638496546971,Controle anterior preservado; rota de comando não aplicada.
+Q0425,publicar,5572,,0.7871752842170215,
+Q0426,publicar,5466,,0.9259259259259259,
+Q0427,revisar,5466,,0.7184655635167497,Controle anterior preservado; rota de comando não aplicada.
+Q0428,publicar,5466,,0.9352574628807224,
+Q0429,publicar,5149,,0.9304966363891551,
+Q0430,publicar,6724,,0.9993603071389192,
+Q0431,publicar,5466,,0.7248000409873722,
+Q0432,publicar,5466,,0.8520801713189861,
+Q0433,publicar,5071,,0.9259259259259259,
+Q0434,publicar,5498,,0.9259259259259259,
+Q0435,revisar,4689,,0.315545622046239,Controle anterior preservado; rota de comando não aplicada.
+Q0436,publicar,6724,,0.9901249425006773,
+Q0437,revisar,5180,,0.2514763278368809,Controle anterior preservado; rota de comando não aplicada.
+Q0438,revisar,5087,,0.44870804313904344,Controle anterior preservado; rota de comando não aplicada.
+Q0439,publicar,5087,,0.7225956973242978,
+Q0440,publicar,5498,,0.8899396894294015,
+Q0441,publicar,5157,,0.9259259259259259,
+Q0442,publicar,5466,,0.9321670038425033,
+Q0443,publicar,5211,,0.8055499110690904,
+Q0444,publicar,5543,,0.9259259259259259,
+Q0445,publicar,6725,,0.8671101398694081,
+Q0446,revisar,5517,,0.6766686844865658,Controle anterior preservado; rota de comando não aplicada.
+Q0447,publicar,5185,,0.9259259259259259,
+Q0448,publicar,5157,,0.9259259259259259,
+Q0449,publicar,5228,,0.88628608896151,
+Q0450,publicar,5560,,0.9259259259259259,
+Q0451,publicar,5498,,0.9259259259259259,
+Q0452,publicar,5498,,0.7195857517469756,
+Q0453,publicar,6724,,0.9677934019181351,
+Q0454,publicar,5180,,0.9259259259259259,
+Q0455,revisar,5530,,0.5449101646294388,Controle anterior preservado; rota de comando não aplicada.
+Q0456,revisar,5180,,0.5700658059263625,Controle anterior preservado; rota de comando não aplicada.
+Q0457,publicar,5476,,0.9259259259259259,
+Q0458,publicar,5218,,0.8518215509305731,
+Q0459,publicar,4695,,0.9223104228161596,
+Q0460,publicar,5144,,0.9259259259259259,
+Q0461,revisar,5560,,0.6896401093565357,Controle anterior preservado; rota de comando não aplicada.
+Q0462,publicar,5149,,0.9259259259259259,
+Q0463,publicar,5087,,0.9581005835944563,
+Q0464,publicar,4689,,0.9259259259259259,
+Q0465,revisar,5498,,0.5971865761135509,Controle anterior preservado; rota de comando não aplicada.
+Q0466,revisar,5218,,0.5668566941109094,Controle anterior preservado; rota de comando não aplicada.
+Q0467,revisar,5185,,0.5428606257338536,Controle anterior preservado; rota de comando não aplicada.
+Q0468,publicar,5184,,0.9259259259259259,
+Q0469,publicar,4374,,0.9259259259259259,
+Q0470,publicar,6734,,0.9827398805443338,
+Q0471,revisar,5191,,0.4978108735505584,Controle anterior preservado; rota de comando não aplicada.
+Q0472,publicar,5116,,0.9488233453116917,
+Q0473,publicar,5498,,0.9259259259259259,
+Q0474,revisar,4689,,0.5196741457961204,Controle anterior preservado; rota de comando não aplicada.
+Q0475,publicar,5218,,0.9259259259259259,
+Q0476,revisar,5524,,0.5866394034173859,Controle anterior preservado; rota de comando não aplicada.
+Q0477,publicar,5466,,0.9194864709366062,
+Q0478,publicar,5480,,0.9259259259259259,
+Q0479,revisar,5079,,0.6500825546653651,Controle anterior preservado; rota de comando não aplicada.
+Q0480,publicar,5199,,0.7965803140214508,
+Q0481,publicar,5218,,0.9259259259259259,
+Q0482,publicar,5505,,0.8571731432269295,
+Q0483,publicar,5157,,0.9259259259259259,
+Q0484,revisar,6723,,0.7580215286902564,Controle anterior preservado; rota de comando não aplicada.
+Q0485,publicar,5180,,0.7653734214664131,
+Q0486,revisar,5560,,0.4718383987644283,Controle anterior preservado; rota de comando não aplicada.
+Q0487,publicar,5157,,0.9259259259259259,
+Q0488,publicar,5087,,0.9259259259259259,
+Q0489,revisar,5185,,0.6292208742755847,Controle anterior preservado; rota de comando não aplicada.
+Q0490,publicar,5211,,0.9259259259259259,
+Q0491,publicar,5157,,0.9259259259259259,
+Q0492,publicar,5157,,0.9259259259259259,
+Q0493,publicar,5466,,0.8870076950725625,
+Q0494,revisar,5498,,0.4339294615081308,Controle anterior preservado; rota de comando não aplicada.
+Q0495,publicar,5498,,0.9259259259259259,
+Q0496,revisar,5191,,0.6315276199435333,Controle anterior preservado; rota de comando não aplicada.
+Q0497,publicar,5560,,0.9653610227803271,
+Q0498,publicar,4704,,0.7018803092506075,
+Q0499,revisar,5218,,0.6228512843060031,Controle anterior preservado; rota de comando não aplicada.
+Q0500,publicar,4695,,0.9981576137604288,
+Q0501,publicar,6724,,0.9806046589513542,
+Q0502,publicar,5087,,0.8979085224843644,
+Q0503,publicar,4377,,0.8101438404702388,
+Q0504,revisar,5218,,0.4035488268738269,Controle anterior preservado; rota de comando não aplicada.
+Q0505,publicar,5087,,0.9259259259259259,
+Q0506,publicar,5180,,0.7240939048538418,
+Q0507,publicar,5218,,0.8542975186157412,
+Q0508,publicar,4700,,0.8676397563056667,
+Q0509,publicar,5498,,0.9259259259259259,
+Q0510,revisar,6735,,0.6976336838628424,Controle anterior preservado; rota de comando não aplicada.
+Q0511,revisar,5063,,0.5336830136620103,Controle anterior preservado; rota de comando não aplicada.
+Q0512,publicar,5480,,0.9259259259259259,
+Q0513,revisar,4688,,0.6303213679905053,Controle anterior preservado; rota de comando não aplicada.
+Q0514,publicar,5071,,0.9259259259259259,
+Q0515,publicar,6724,,0.9871826719640464,
+Q0516,publicar,4689,,0.7092870687293371,
+Q0517,publicar,5466,,0.9800501747568023,
+Q0518,publicar,5087,,0.9754096938304422,
+Q0519,publicar,5498,,0.7882132146477955,
+Q0520,publicar,4694,,0.7357285762542025,
+Q0521,revisar,4384,,0.5423302972031363,Controle anterior preservado; rota de comando não aplicada.
+Q0522,publicar,5157,,0.9259259259259259,
+Q0523,publicar,5498,,0.805921278608465,
+Q0524,publicar,5185,,0.7448140148173992,
+Q0525,publicar,5199,,0.754374626429588,
+Q0526,revisar,4385,,0.3724382584261797,Controle anterior preservado; rota de comando não aplicada.
+Q0527,publicar,5199,,0.7224756951474245,
+Q0528,revisar,5180,,0.2130288759689173,Controle anterior preservado; rota de comando não aplicada.
+Q0529,revisar,5087,,0.6552974671492667,Controle anterior preservado; rota de comando não aplicada.
+Q0530,publicar,5543,,0.8172932706774603,
+Q0531,publicar,5466,,0.7784223569987551,
+Q0532,publicar,5157,,0.7177011113238592,
+Q0533,publicar,5134,,0.8752816444411421,
+Q0534,publicar,4377,,0.8453724987591661,
+Q0535,publicar,4704,,0.9506494454462688,
+Q0536,publicar,5543,,0.9259259259259259,
+Q0537,publicar,5149,,0.9259259259259259,
+Q0538,publicar,5228,,0.7956780860608614,
+Q0539,publicar,5157,,0.8767824972319914,
+Q0540,revisar,5218,,0.6775442384078236,Controle anterior preservado; rota de comando não aplicada.
+Q0541,publicar,5087,,0.8242549461471707,
+Q0542,publicar,5517,,0.9259259259259259,
+Q0543,revisar,5560,,0.36591023309396004,Controle anterior preservado; rota de comando não aplicada.
+Q0544,publicar,5149,,0.9259259259259259,
+Q0545,revisar,4374,,0.4442197735531242,Controle anterior preservado; rota de comando não aplicada.
+Q0546,publicar,5087,,0.8461150531218701,
+Q0547,publicar,4689,,0.8880716743157521,
+Q0548,publicar,5560,,0.7063874774793131,
+Q0549,revisar,4703,,0.29502163575241963,Controle anterior preservado; rota de comando não aplicada.
+Q0550,publicar,5157,,0.9259259259259259,
+Q0551,publicar,5466,,0.8076002698985261,
+Q0552,publicar,5509,,0.8473510512983545,
+Q0553,revisar,5530,,0.5572644599215515,Controle anterior preservado; rota de comando não aplicada.
+Q0554,publicar,5476,,0.9259259259259259,
+Q0555,publicar,5199,,0.9259259259259259,
+Q0556,publicar,4385,,0.9259259259259259,
+Q0557,publicar,5498,,0.8528252315347697,
+Q0558,publicar,5580,,0.9681601332213225,
+Q0559,publicar,5087,,0.9832166857123606,
+Q0560,publicar,4697,,0.798196512503231,
+Q0561,publicar,5116,,0.9259259259259259,
+Q0562,publicar,5087,,0.8108741140574078,
+Q0563,publicar,4385,,0.7751605454113073,
+Q0564,publicar,4385,,0.8901034115872186,
+Q0565,revisar,5498,,0.47528376742481965,Controle anterior preservado; rota de comando não aplicada.
+Q0566,publicar,5087,,0.9058810634461287,
+Q0567,revisar,5199,,0.5838175965338243,Controle anterior preservado; rota de comando não aplicada.
+Q0568,publicar,5180,,0.7472128643244994,
+Q0569,revisar,4377,,0.37638143896063014,Controle anterior preservado; rota de comando não aplicada.
+Q0570,publicar,5476,,0.9259259259259259,
+Q0571,revisar,5480,,0.7056705655295941,Controle anterior preservado; rota de comando não aplicada.
+Q0572,publicar,4697,,0.772770788683684,
+Q0573,publicar,5157,,0.9259259259259259,
+Q0574,publicar,5157,,0.7353424673241382,
+Q0575,revisar,6723,,0.5165356649170494,Controle anterior preservado; rota de comando não aplicada.
+Q0576,revisar,5087,,0.6180273546920091,Controle anterior preservado; rota de comando não aplicada.
+Q0577,publicar,6724,,0.9705393982811681,
+Q0578,publicar,6723,,0.9074587074714351,
+Q0579,publicar,5543,,0.7117302101155658,
+Q0580,revisar,4690,,0.5057501730215956,Controle anterior preservado; rota de comando não aplicada.
+Q0581,revisar,5466,,0.48641119488282974,Controle anterior preservado; rota de comando não aplicada.
+Q0582,publicar,5157,,0.9259259259259259,
+Q0583,publicar,5185,,0.9259259259259259,
+Q0584,publicar,5185,,0.7320296701660568,
+Q0585,publicar,5175,,0.7331028298684031,
+Q0586,publicar,5517,,0.7484759122195316,
+Q0587,publicar,5185,,0.9259259259259259,
+Q0588,publicar,4385,,0.9342875569082317,
+Q0589,publicar,5087,,0.9259259259259259,
+Q0590,publicar,5228,,0.925150533836461,
+Q0591,publicar,5560,,0.9373522114283891,
+Q0592,publicar,5087,,0.7626142951499152,
+Q0593,publicar,5157,,0.9516465111587534,
+Q0594,revisar,5530,,0.5911731868765452,Controle anterior preservado; rota de comando não aplicada.
+Q0595,publicar,5498,,0.9259259259259259,
+Q0596,revisar,5180,,0.4858274858090557,Controle anterior preservado; rota de comando não aplicada.
+Q0597,revisar,5584,,0.6478905905775634,Controle anterior preservado; rota de comando não aplicada.
+Q0598,revisar,4380,,0.6224891543955948,Controle anterior preservado; rota de comando não aplicada.
+Q0599,revisar,5102,,0.5338514333582294,Controle anterior preservado; rota de comando não aplicada.
+Q0600,publicar,5191,,0.9259259259259259,
+Q0601,publicar,5539,,0.7907509894169106,
+Q0602,revisar,5466,,0.740103140194195,Controle anterior preservado; rota de comando não aplicada.
+Q0603,publicar,5087,,0.9426591536617034,
+Q0604,publicar,5087,,0.9259259259259259,
+Q0605,revisar,5530,,0.34781048647675017,Controle anterior preservado; rota de comando não aplicada.
+Q0606,publicar,5149,,0.9259259259259259,
+Q0607,revisar,4368,,0.5676338037554994,Controle anterior preservado; rota de comando não aplicada.
+Q0608,publicar,5180,,0.9259259259259259,
+Q0609,publicar,5199,,0.7027663764309713,
+Q0610,publicar,4700,,0.989474405193249,
+Q0611,publicar,5116,,0.9685113993638353,
+Q0612,publicar,5466,,0.962506740030294,
+Q0613,revisar,4689,,0.5849782342551001,Controle anterior preservado; rota de comando não aplicada.
+Q0614,revisar,5087,,0.5071763420672973,Controle anterior preservado; rota de comando não aplicada.
+Q0615,publicar,5191,,0.7612265418083135,
+Q0616,revisar,5191,,0.48812691047221873,Controle anterior preservado; rota de comando não aplicada.
+Q0617,publicar,5498,,0.8181191617130286,
+Q0618,publicar,5218,,0.9172342021083539,
+Q0619,revisar,5530,,0.6561414351066912,Controle anterior preservado; rota de comando não aplicada.
+Q0620,publicar,5147,,0.9259259259259259,
+Q0621,revisar,5543,,0.7348047809848577,Controle anterior preservado; rota de comando não aplicada.
+Q0622,publicar,5180,,0.743639605667804,
+Q0623,publicar,5543,,0.8988605725245041,
+Q0624,publicar,6724,,0.9840716336430911,
+Q0625,publicar,5087,,0.9730894041682792,
+Q0626,revisar,5087,,0.45391884864728554,Controle anterior preservado; rota de comando não aplicada.
+Q0627,publicar,5125,,0.9259259259259259,
+Q0628,revisar,5498,,0.36753834925173534,Controle anterior preservado; rota de comando não aplicada.
+Q0629,revisar,4371,,0.687237511595581,Controle anterior preservado; rota de comando não aplicada.
+Q0630,publicar,5079,,0.9908281865806984,
+Q0631,publicar,5087,,0.8449901775220166,
+Q0632,publicar,5087,,0.9955027806511074,
+Q0633,publicar,5157,,0.8294471954320686,
+Q0634,publicar,5487,,0.7735580263908173,
+Q0635,revisar,4691,,0.409016105112744,Controle anterior preservado; rota de comando não aplicada.
+Q0636,revisar,4695,,0.653132153342611,Controle anterior preservado; rota de comando não aplicada.
+Q0637,publicar,5087,,0.9607276610677163,
+Q0638,publicar,5087,,0.7153902867723746,
+Q0639,publicar,4707,,0.9259259259259259,
+Q0640,publicar,5218,,0.9259259259259259,
+Q0641,publicar,5087,,0.975874713864657,
+Q0642,publicar,6724,,0.998158693466597,
+Q0643,revisar,4703,,0.35458126007939095,Controle anterior preservado; rota de comando não aplicada.
+Q0644,publicar,5157,,0.9259259259259259,
+Q0645,revisar,5218,,0.4974921528239077,Controle anterior preservado; rota de comando não aplicada.
+Q0646,publicar,4374,,0.9259259259259259,
+Q0647,publicar,5487,,0.739536527087521,
+Q0648,publicar,5498,,0.9259259259259259,
+Q0649,publicar,5199,,0.8201325965640804,
+Q0650,revisar,5199,,0.4126382064586254,Controle anterior preservado; rota de comando não aplicada.
+Q0651,publicar,6724,,0.9974330210324646,
+Q0652,publicar,5087,,0.9259259259259259,
+Q0653,revisar,4704,,0.4601415661256091,Controle anterior preservado; rota de comando não aplicada.
+Q0654,revisar,5583,,0.5202639343781672,Controle anterior preservado; rota de comando não aplicada.
+Q0655,revisar,4380,,0.5158177745739312,Controle anterior preservado; rota de comando não aplicada.
+Q0656,publicar,6724,,0.9809284751649612,
+Q0657,publicar,6716,,0.8630030759918393,
+Q0658,revisar,4380,,0.5732728528908989,Controle anterior preservado; rota de comando não aplicada.
+Q0659,publicar,6723,,0.8756991107091081,

@@ -1,0 +1,35 @@
+{
+  "codigo_sha256": {
+    "auditoria_confianca_v4/experimento.py": "a96f48ae211bcc26d350113855598c617a00ba1b688ebfda5222c931b69d7208",
+    "avaliar_mescla_v7.py": "bb24ae4a2ece67c387dab630538cb8e846ad932b19fe0889a5e8f0ea65c840d4",
+    "avaliar_ranking_vocabulario_v8.py": "5649a5235fe710189faab7f690b8205b064d9b44c1196404c1c6fe150df40f98",
+    "compatibilidade_v2/features.py": "50222d35b96196b75a8c3c207562610f73ee4d88d7e6c7b9086d7c1553bd80f0",
+    "melhorias_v3/aprendizado.py": "01ec94966f0c99cf440c566527e2cc4c7d5360f61a14393011011c099a53ecc1",
+    "melhorias_v3/representacao.py": "248a2ea484dd393cbd6434a082061eb3a16948618781c2a038b5ff064b4043e2",
+    "mescla_marcadores_v7/experimento.py": "f0e2215271dde7d99f33a7160aeb0d8ad0144f131286a9f4487cbc69d527bb27",
+    "mescla_marcadores_v7/texto.py": "66f1da46b94fd6c8ac34b1a6faac1a7aca9f280d5be75736a038616ff6919fb8",
+    "vocabulario_v8/dicionario.json": "15070f242a6e9f1430dfe0d62cbbf40a56689ca10219f14d3c74cb3cdbcda49d",
+    "vocabulario_v8/experimento.py": "968ecc84a304e5c558bc428ab77e5dd5f825fb028c98b7f11c12a61dcc5913b0",
+    "vocabulario_v8/ranking.py": "7a93c8a6bd208b67200cf27e0f0841ced38dfc9b4c3bf3501eb389671e50de4f",
+    "vocabulario_v8/texto.py": "e4216441bd916dbb464acef82348526c9424eb3a425a989280bc4c2a265312b2"
+  },
+  "dados_sha256": {
+    "folha_verdade.csv": "c1412ce8d336ae248a2f0e46d8e34cbc07dd33c78af9ce6bbe1337c516ee8e3b",
+    "questoes.jsonl": "318f1fea970633a4d84eb5a4dd071b2ae76ad3e49288a073ab381f61a09da3f3",
+    "temas.csv": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc"
+  },
+  "entrega_preservada_sha256": {
+    "previsao.txt": "052ba667402f327bfef61a9b4c34b98f10b50382e6a39e26f740cfe439eefb03",
+    "publicacao.csv": "05921ae3cff5ee7336c08620530c4516825f3f7c69969a8cca3384cd65a70686"
+  },
+  "folds_sha256": "499d8bc518d58325a78b21242c4e0c87f044ec18968067d699d95e8df4dcbeaa",
+  "hipotese": "Vocabulário modifica somente a recuperação de candidatos. Compatibilidade mantém os 41 atributos v7; nova calibração e corte.",
+  "meta_empirica_interna": 0.95,
+  "minimo_interno": 10,
+  "modelos_v7_sha256": "d5c6b907116cba8a16ca5bc2d8a307e0fe0618df1451130953555d1e109ebe53",
+  "motivacao": "Ablação posterior ao experimento vocabulario_v8_001; resultados prévios conhecidos.",
+  "novo_teste_externo": false,
+  "novos_rotulos_559": false,
+  "peso_vocabulario_ranking": 0.25,
+  "promove_entrega": false
+}

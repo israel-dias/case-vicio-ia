@@ -1,0 +1,21 @@
+test_assertiva_final_ce_preserva_negacao_e_nao_resolve_gabarito (test_cobranca.TestCobranca.test_assertiva_final_ce_preserva_negacao_e_nao_resolve_gabarito) ... ok
+test_citacoes_convergentes_com_ato_diferem_de_lei_isolada (test_cobranca.TestCobranca.test_citacoes_convergentes_com_ato_diferem_de_lei_isolada) ... ok
+test_comando_generico_nao_descarta_enunciado_e_alternativas (test_cobranca.TestCobranca.test_comando_generico_nao_descarta_enunciado_e_alternativas) ... ok
+test_comando_informativo_sem_identificador_nao_perde_informacao (test_cobranca.TestCobranca.test_comando_informativo_sem_identificador_nao_perde_informacao) ... ok
+test_efeito_condenacao_tem_prioridade_no_comando (test_cobranca.TestCobranca.test_efeito_condenacao_tem_prioridade_no_comando) ... ok
+test_final_do_enunciado_recupera_cobranca_sem_comando (test_cobranca.TestCobranca.test_final_do_enunciado_recupera_cobranca_sem_comando) ... ok
+test_id_e_origem_nao_mudam_a_leitura (test_cobranca.TestCobranca.test_id_e_origem_nao_mudam_a_leitura) ... ok
+test_identificador_contextual_nao_implica_publicacao (test_cobranca.TestCobranca.test_identificador_contextual_nao_implica_publicacao) ... ok
+test_nao_usa_limite_de_caracteres_para_comando_generico (test_cobranca.TestCobranca.test_nao_usa_limite_de_caracteres_para_comando_generico) ... ok
+test_novo_identificador_nao_inventa_piso_de_confianca (test_cobranca.TestCobranca.test_novo_identificador_nao_inventa_piso_de_confianca) ... ok
+test_penal_isolado_nao_e_identificador_especifico (test_cobranca.TestCobranca.test_penal_isolado_nao_e_identificador_especifico) ... ok
+test_proposicoes_numeradas_e_vf_nao_sao_reduzidas_ao_final (test_cobranca.TestCobranca.test_proposicoes_numeradas_e_vf_nao_sao_reduzidas_ao_final) ... ok
+test_publicacao_anterior_nao_e_protegida_de_conflito (test_cobranca.TestCobranca.test_publicacao_anterior_nao_e_protegida_de_conflito) ... ok
+test_regua_nao_e_relaxada_para_irmaos_ou_homonimos (test_cobranca.TestCobranca.test_regua_nao_e_relaxada_para_irmaos_ou_homonimos) ... ok
+test_retomada_recupera_objeto_do_enunciado (test_cobranca.TestCobranca.test_retomada_recupera_objeto_do_enunciado) ... ok
+test_veto_de_crime_apenas_contextual (test_cobranca.TestCobranca.test_veto_de_crime_apenas_contextual) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.738s
+
+OK

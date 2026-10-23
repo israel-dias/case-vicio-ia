@@ -1,0 +1,98 @@
+{
+  "comando_extraido_v18_001": {
+    "previsao": {
+      "id": "Q0274",
+      "tema_central_id": "5191",
+      "sinal": "5.240930688389372",
+      "elegivel": "True",
+      "homonimo_nao_resolvido": "False",
+      "motivos_bloqueio": "",
+      "empate_comparador": "False",
+      "identificador_forte_cmd": "True",
+      "origem_identificador": "identificador_textual",
+      "narrativa_excluida": "True",
+      "primeiro_recuperado": "5191",
+      "top5_ids": "5191;5180;5066;5505;5175",
+      "top5_recuperacao_ids": "5191;5180;5066;5505;5175",
+      "candidatos_ids": "4366;4367;5066;5175;5180;5191;5505",
+      "variante": "comando_estrito",
+      "confianca": "0.684377480231147",
+      "decisao": "revisar",
+      "motivo": "abaixo_do_limiar_calibrado",
+      "correto": "0",
+      "fora_oficial": "0",
+      "fold": "1",
+      "avaliacao": "comando_estrito"
+    },
+    "politica_do_fold": {
+      "ativa": true,
+      "limiar": 0.7677435070922518,
+      "suporte_interno": 24,
+      "acertos_internos": 23
+    }
+  },
+  "comando_integral_v18_001": {
+    "previsao": {
+      "id": "Q0274",
+      "tema_central_id": "5191",
+      "sinal": "4.623995258033218",
+      "elegivel": "True",
+      "homonimo_nao_resolvido": "False",
+      "motivos_bloqueio": "",
+      "empate_comparador": "False",
+      "identificador_forte_cmd": "False",
+      "origem_identificador": "expressao_comum_sem_relacao_confirmada",
+      "narrativa_excluida": "False",
+      "primeiro_recuperado": "5191",
+      "top5_ids": "5191;5157;5175;6721;6720",
+      "top5_recuperacao_ids": "5191;5157;5175;6721;6720",
+      "candidatos_ids": "5157;5175;5191;6720;6721",
+      "variante": "comando_estrito",
+      "confianca": "0.6819850947889964",
+      "decisao": "revisar",
+      "motivo": "abaixo_do_limiar_calibrado",
+      "correto": "0",
+      "fora_oficial": "0",
+      "fold": "1",
+      "avaliacao": "comando_estrito"
+    },
+    "politica_do_fold": {
+      "ativa": true,
+      "limiar": 0.770147283018871,
+      "suporte_interno": 23,
+      "acertos_internos": 22
+    }
+  },
+  "conceitos_v18_001": {
+    "previsao": {
+      "id": "Q0274",
+      "tema_central_id": "5175",
+      "sinal": "6.865566921031884",
+      "elegivel": "True",
+      "homonimo_nao_resolvido": "False",
+      "motivos_bloqueio": "",
+      "empate_comparador": "False",
+      "identificador_forte_cmd": "True",
+      "origem_identificador": "identificador_composto_com_flexao",
+      "narrativa_excluida": "True",
+      "primeiro_recuperado": "5175",
+      "top5_ids": "5175;5191;5157;5111;4691",
+      "top5_recuperacao_ids": "5175;5191;5157;5111;4691",
+      "candidatos_ids": "4366;4367;4691;5111;5157;5175;5191",
+      "variante": "comando_estrito",
+      "confianca": "0.7291500407460785",
+      "decisao": "revisar",
+      "motivo": "abaixo_do_limiar_calibrado",
+      "correto": "1",
+      "fora_oficial": "0",
+      "fold": "1",
+      "avaliacao": "comando_estrito"
+    },
+    "politica_do_fold": {
+      "ativa": true,
+      "limiar": 0.770147283018871,
+      "suporte_interno": 23,
+      "acertos_internos": 22
+    }
+  }
+}

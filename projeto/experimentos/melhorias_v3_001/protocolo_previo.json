@@ -1,0 +1,88 @@
+{
+  "arquivos_sha256": {
+    "compatibilidade_v2/features.py": "50222d35b96196b75a8c3c207562610f73ee4d88d7e6c7b9086d7c1553bd80f0",
+    "compatibilidade_v2/runtime.py": "a160423f871646998a113027df20b9bc65565185b143fc69f9cc11addefaa2a2",
+    "experimentos/folha_v2_escopos_001/auditoria_folds.json": "32092777420262999f98bc7ce6e9cf282113a487ed8be6678bf87ddf8360390d",
+    "melhorias_v3/aprendizado.py": "01ec94966f0c99cf440c566527e2cc4c7d5360f61a14393011011c099a53ecc1",
+    "melhorias_v3/dados/referencias_normativas_v1.json": "6a368d34d0e121872d21957edcbc50238a5709650fb1d5eb0f2c8c1b4cbfd8be",
+    "melhorias_v3/experimento.py": "659759ef86639487821ba111f2e3a8c0f7322bea94b0b2b241837ccbbb32267a",
+    "melhorias_v3/representacao.py": "248a2ea484dd393cbd6434a082061eb3a16948618781c2a038b5ff064b4043e2"
+  },
+  "atributos": [
+    "media3_completo",
+    "max_completo",
+    "palavra_completo",
+    "char_completo",
+    "palavra_enunciado",
+    "char_enunciado",
+    "palavra_comando",
+    "char_comando",
+    "palavra_alternativas",
+    "char_alternativas",
+    "palavra_alt_max",
+    "palavra_alt_media",
+    "palavra_assunto_origem",
+    "apoio_enunciado_e_alternativas",
+    "origem_compativel",
+    "origem_reconhecida",
+    "lei_literal",
+    "artigo_literal",
+    "certo_errado",
+    "assertivas_numeradas",
+    "numero_alternativas",
+    "cobertura_vocabulario",
+    "escopo_texto",
+    "escopo_enunciado",
+    "escopo_comando",
+    "escopo_alternativas",
+    "escopo_alternativa_max",
+    "escopo_alternativa_media",
+    "titulo_enunciado",
+    "norma_enunciado",
+    "norma_alternativas",
+    "artigo_enunciado",
+    "artigo_alternativas",
+    "citacao_sem_correspondencia",
+    "ha_norma_explicita",
+    "ha_artigo_vinculado",
+    "evidencia_escopo_enunciado_alt",
+    "posicao_busca",
+    "diferenca_melhor_busca"
+  ],
+  "dados_sha256": {
+    "folha_verdade.csv": "c1412ce8d336ae248a2f0e46d8e34cbc07dd33c78af9ce6bbe1337c516ee8e3b",
+    "questoes.jsonl": "318f1fea970633a4d84eb5a4dd071b2ae76ad3e49288a073ab381f61a09da3f3",
+    "temas.csv": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc"
+  },
+  "dependencias": {
+    "numpy": "2.3.5",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.17.0",
+    "threadpoolctl": "3.6.0"
+  },
+  "exposicao": "Desenvolvimento: os 100 rótulos e exemplos avaliados já foram discutidos. Não é novo teste cego.",
+  "folds_externos": 5,
+  "folds_internos": 4,
+  "hipoteses": [
+    "Mapa documental de normas e artigos associado aos escopos.",
+    "Atributos textuais adicionais normalizados por campo.",
+    "Treino de candidatos próximos com positivos oficiais e negativos próximos."
+  ],
+  "ids_como_atributo": false,
+  "llm_na_decisao": false,
+  "mesmos_folds_v2": true,
+  "metas": {
+    "minimo_publicacoes_internas": 10,
+    "precisao_empirica_interna": 0.95
+  },
+  "metodos": [
+    "controle_v2",
+    "referencias_fixa",
+    "candidatos_proximos",
+    "ranking_hibrido",
+    "selecionado_internamente"
+  ],
+  "modelo": "Regressão logística C=1, liblinear; calibração logística monotônica sobre escore linear.",
+  "rotulos_sem_rotulo_usados": 0,
+  "versao": "melhorias_v3_1"
+}

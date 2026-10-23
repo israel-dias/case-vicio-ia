@@ -1,0 +1,49 @@
+{
+  "original": {
+    "questoes": 100,
+    "acertos_top1": 70,
+    "corrigidas": [],
+    "acertos_perdidos": []
+  },
+  "ce_sem_alternativas": {
+    "questoes": 100,
+    "acertos_top1": 70,
+    "corrigidas": [],
+    "acertos_perdidos": []
+  },
+  "somente_comando_identificado": {
+    "questoes": 100,
+    "acertos_top1": 72,
+    "corrigidas": [
+      "Q0034",
+      "Q0313",
+      "Q0319"
+    ],
+    "acertos_perdidos": [
+      "Q0275"
+    ]
+  },
+  "somente_itens_selecionados": {
+    "questoes": 100,
+    "acertos_top1": 70,
+    "corrigidas": [],
+    "acertos_perdidos": []
+  },
+  "roteamento_literal_completo": {
+    "questoes": 100,
+    "acertos_top1": 67,
+    "corrigidas": [
+      "Q0034",
+      "Q0313",
+      "Q0319"
+    ],
+    "acertos_perdidos": [
+      "Q0003",
+      "Q0201",
+      "Q0216",
+      "Q0230",
+      "Q0275",
+      "Q0290"
+    ]
+  }
+}

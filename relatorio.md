@@ -1,150 +1,105 @@
-# Classificação de tópicos — Vício / Método VDE
+# Classificação de tópicos jurídicos
 
-Classificações de 16/10/2026; relatório atualizado em 17/10/2026. Protótipo e
-reexame assistidos pelo ChatGPT; sem validação jurídica independente. Minha
-participação incluiu questionar e corrigir os critérios da classificação.
+**Israel Dias | Case Vício - etapa complementar | Versão V24**
 
-## 1. Método, experimentos e resultado
+Sistema próprio de busca, regras e modelos clássicos. A decisão é regenerada pelo texto, sem modelo de linguagem, encoder, rede ou acesso à folha-verdade durante a inferência. Não utiliza gabaritos para resolver as questões avaliadas.
 
-O objetivo é publicar no ramo correto com precisão mínima de 95%, maximizando
-cobertura. A proposta atual contém **329 publicar, 25 revisar e 5 fora** em 359 IDs:
-cobertura **91,6435%**. Precisão real não medida; a meta permanece não comprovada.
+## Resultado e interpretação
 
-Usei Python para preparar, validar e consolidar; a interpretação foi assistida
-pela assinatura existente do ChatGPT. Respostas, prompts de referência e ajustes
-ficam registrados. Não há inferência autônoma por API. Reproduzir a consolidação
-salva não reproduz necessariamente uma nova resposta do serviço.
+Conjunto | Publicar | Revisar | Fora
+659 questões | 454 | 205 | 0
+559 avaliadas | 387 | 172 | 0
+300 recentes | 214 | 86 | 0
 
-O piloto de vinte itens teve duas rodadas: v1 sugeriu 7 publicações/13 revisões;
-v2, 10/10. Houve cinco mudanças de decisão e cinco de tema. Contexto, instruções e
-possivelmente modelo diferiram: isso foi desenvolvimento, não avaliação independente.
-A v3 consolidou 229 publicações, 126 revisões e 4 exclusões.
+**Cobertura nas 559: 69.23%.** Nas referências, a composição publicou 54 e acertou 54; o controle anterior tinha 50 corretas em 52 publicadas. **A precisão real das 559 é desconhecida.** As referências foram expostas e reutilizadas: esse resultado não comprova generalização nem mínimo populacional de 95%.
 
-Ao conferir os resultados, identifiquei que a diversidade de assuntos nas
-alternativas não basta para negar um núcleo. O prompt já pedia lê-las; houve também aplicação insuficiente do
-critério pelo assistente, sem investigar adequadamente a resolução. Solicitei
-um reexame assistido dos 359 itens, incluindo publicados e excluídos, pelo
-conhecimento necessário à resposta. O protocolo e os pareceres produzidos estão
-em `auditoria_v4`.
+## Arquitetura e regra de decisão
 
-Foram 103 revisões liberadas, 3 publicações retidas e 1 revisão excluída. Mudaram
-79 centrais e 64 conjuntos de extras; refinamento no mesmo ramo não é erro anterior
-comprovado. Maior cobertura também não demonstra maior precisão.
+1. Validar JSONL/árvore e converter HTML em texto, preservando negação, proposições e alternativas. IDs identificam registros; não escolhem temas. Metadados de origem podem estar errados; a recuperação nova não os usa, mas rotas legadas preservadas ainda têm influência histórica de origem, documentada no código.
 
-Após a Q0097, solicitei aplicar o critério às 57 revisões restantes. A releitura
-assistida liberou mais 32 e manteve 25 por pendências específicas. A escolha entre homônimos
-passou a ser premissa explícita, sem equivalência automática; conteúdos complementares
-podem ser central e extra. O registro de todas as 57 decisões preserva o estágio anterior.
+2. Recuperar famílias por títulos, escopos preparados, palavras, caracteres e BM25. Escolher um nó utilizável do ramo; não tratar irmãos ou títulos homônimos como equivalentes. Os escopos enriquecidos são propostas, sem homologação jurídica independente.
 
-## 2. Critérios e evidência
+3. Priorizar comando específico ou cobrança final identificada. Comando genérico deixa de competir; comando informativo sem identificador permanece como apoio. Retomadas recuperam seu objeto no enunciado. Citações só dão prioridade junto de ato compatível; proposições I/II e V/F são preservadas.
 
-O protocolo exige ler texto completo, comando e alternativas, separar cenário de
-cobrança e formular uma resolução ou uma pendência explícita. A resposta correta orienta o núcleo, mas
-não substitui o conjunto nem escolhe sozinha o ID. Em assertivas independentes,
-também importam os conhecimentos para rejeitar as falsas. Extras só representam
-conteúdos efetivamente cobrados, sem colecionar palavras de distratores.
+4. Aplicar comparador clássico, estimativa de confiança e corte empírico selecionado no desenvolvimento. Identificador não impõe confiança mínima. Revalidar publicações antigas diante de conflito explícito; vetar crime mencionado apenas como contexto sem apoio na cobrança. Incertezas vão à revisão. Não excluir por similaridade baixa.
 
-A análise compara título, caminho e status. Um pai substantivo pode cobrir filhos realmente
-exigidos; raiz e genérico sem escopo não escondem dúvida. Irmãos não são equivalentes.
-Homônimos em ramos diferentes exigem análise própria. Publicação exige enquadramento
-sustentado; revisão exige dúvida concreta de ramo, conteúdo ou integridade; fora exige
-ausência de tema ativo compatível. Dificuldade não é inferida da diversidade temática.
 
-Houve busca inicial para cada ID; isso não confirma respostas. A evidência registra
-**2 gabaritos definitivos**, **1 preliminar**, **326 respostas assistidas sem gabarito
-oficial confirmado** e **30 respostas não confirmadas**. Tema pode ser inequívoco
-sem letra confirmada; dúvida que muda o enquadramento permanece em revisão.
-Fontes legais foram consultadas pontualmente; os fundamentos indicados não são
-apresentados como todos verificados. O mesmo assistente não é avaliador independente.
+---
 
-Na Q0171, prova FGV/DPE-RJ 2021, tipo 2, questão 40, e preliminar oficial sustentam
-B: hediondez. Passou de revisar para publicar no 4693; definitivo não acessível.
-Na Q0322, arts. 12/39 da Lei 13.869 e 61/82 da Lei 9.099 sustentam apelação em dez
-dias no Jecrim, corrigindo o RESE assumido anteriormente. A letra é resolução
-assistida, não gabarito oficial confirmado. Q0097 e Q0355 têm E no definitivo FGV/TJSE.
-Após reavaliar o critério, decidi publicar Q0097 no 4705, com 5067 extra: a homonímia
-isolada não obriga revisão. Q0355 mantém pendência concreta sobre Tráfico/uso.
+# Experimentos e uso dos 100 rótulos
 
-## 3. Diagnóstico e previsão
+## O caminho e os becos sem saída
 
-São 377 temas, 375 ativos. Preservam-se originais, HTML normalizado sem reescrever
-conteúdo, negações e alternativas, com hashes e validação da árvore. Há 94 comandos
-vazios, oito grupos de títulos repetidos, vinte descrições ausentes e 335 descrições
-de importação que pouco delimitam escopo. Não copio metadados de origem como verdade.
+O baseline lexical começou com 28/60 sugestões aceitas. Separação de campos, morfologia, contexto e escopos foram comparados; algumas mudanças reduziram acerto. Preservar publicações elevou a cobertura, mas também perpetuou erros: a classificação de maior cobertura anterior publicava Q0215 em Sentença Penal e Q0252 em Crimes Contra o Patrimônio, embora a primeira tivesse outro ramo oficial e a segunda fosse fora.
 
-Problemas concretos: Q0219 sem cenário; Q0319 com lista desconectada das opções;
-Q0023/Q0331 com possíveis múltiplas incorreções; Q0359 com regra do Estatuto da
-Pessoa Idosa afetada pela Lei 15.163/2025. Esses casos precisam de contexto/fonte,
-sem atualização silenciosa. As exclusões são cartel sem tema ativo, prescrição de
-PAD, ITCD, crimes esportivos e consumo da Lei 8.137: não equiparei este último ao
-nó explicitamente limitado a crimes previstos no CDC.
+Tentativas semânticas, reordenação de candidatos, proteção de ramo e novos estimadores de confiança foram registradas. E5 foi preparado e versionado, mas o comparador semântico e a confiança direta não superaram a composição anterior. Mais atributos, palavras ou um menor corte não foram presumidos melhores. A V24 usa lógica contextual e modelos clássicos, sem depender de E5 na decisão.
 
-A previsão permanece **96%**, cenário subjetivo **85%–99%**. É julgamento qualitativo
-após o reexame, não reestimação estatística. Considera filtro de núcleo/caminho e
-abstenção nas pendências, mas não tem referência quantitativa independente. A faixa
-admite descumprir a meta e não é intervalo de confiança. Confianças não calibradas,
-concordância do assistente, buscas e testes não medem precisão.
+A revisão mais recente testa cobrança final com apoio específico, lei como exemplo versus objeto cobrado, retomadas e citação convergente com ato. Q0274 foi recuperada por tentativa/consumação; Q0028 pelo contexto do procedimento e citações; Q0313 pela expressão efeito da condenação. Q0215 teve o tema corrigido e permaneceu em revisão; Q0252 deixou de ser publicada. Nenhuma regra contém IDs de questões.
 
-Para medir, pediria rótulos a professor em amostra aleatória das publicadas, sem
-mostrar sugestões, e separadamente nos casos difíceis. Uma amostra usada para
-ajustar a política não vira teste independente. Registrar adjudicação, erros por
-ramo e calibração em avaliação posterior. Código reproduz formato e proveniência,
-não assegura verdade jurídica nem generalização a novos dados.
+Na comparação das referências, a composição acrescentou cinco publicações corretas e suspendeu três anteriores: duas erradas e uma correta. Esse custo de revisão adicional foi mantido explícito; não se selecionaram exceções por ID para tornar a amostra perfeita.
 
-## 4. Produção — 50 mil questões semanais
+## Treino, calibração e seleção
 
-Importação teria fila, validação, hash/deduplicação, contexto preservado e taxonomia
-versionada. Embeddings recuperariam candidatos e exemplos; não decidiriam
- equivalência. Com rótulos revisados suficientes, compararia classificador menor e
-LLM em conjunto temporal separado. O LLM receberia questão, candidatos e escopos.
-Um orquestrador determinístico encaminharia conflitos e conteúdo incompleto ao
-professor. Agentes de pesquisa só entrariam com ganho demonstrado em avaliação.
-Não treinaria usando respostas do próprio modelo como verdade.
+Os 100 rótulos foram divididos nos mesmos cinco folds externos e quatro internos. A nova rota foi ajustada sem o rótulo do fold avaliado; a calibração usou previsões internas fora do ajuste e o corte buscou maior suporte com precisão empírica de 95% e pelo menos dez publicações. Duplicatas são verificadas por conteúdo. A composição usa previsões OOF de controles históricos: é desenvolvimento adaptativo, não uma validação aninhada integral de toda a cadeia histórica.
 
-Cenário ilustrativo salvo em `docs/CUSTOS_PRODUCAO.json`, preços consultados em
-15/10/2026: 3.000 tokens de entrada/300 de saída no GPT-5.4 mini: US$0,0036/item;
-segunda passagem em 10%, GPT-5.4, 5.000/600: mais US$0,00215/item do fluxo. Total
-**US$0,00575/item ou US$287,50/semana**, sem busca, embeddings, infraestrutura,
-repetições e professores. São hipóteses de produção, não modelos ou consumo
-identificados deste chat. API de classificação executada: **US$0**; assinatura não
-rateada; tokens e latência de inferência não medidos. Horário de importação não
-é latência de inferência.
+A composição selecionada teve 78/100 sugestões aceitas e 54/54 publicações corretas nas referências. A escolha e os parâmetros foram registrados antes da aplicação V24 às 559. A régua usada é a oficial: central, extras e ancestrais/descendentes; não se aceitam irmãos por semelhança de nomes.
 
-A dedicação humana foi estimada em **20–25 horas**, entre 13 e 17/10/2026,
-considerando cerca de cinco horas diárias. Quase metade do esforço concentrou-se
-na auditoria do processo e na reavaliação assistida das classificações: revisão
-dos critérios, análise de central e extras, consulta dirigida de fontes e registro
-das alterações. É estimativa retrospectiva pessoal, sem cronometragem por etapa.
+## Previsão, confiança e cobertura
 
-Se a taxa de revisão deste recorte se repetisse, seriam aproximadamente 3.482
-itens/semana: a um minuto por item, 58,0 horas humanas. É cenário, não previsão
-validada. Mediria precisão amostral por ramo, cobertura, tempo de revisão, exclusões
-incorretas, drift e reportes de alunos. Erros confirmados realimentariam catálogo e
-avaliação versionada; manteria auditoria das publicadas e rollback de política.
+A previsão global de precisão é 98.21%, pela suavização Beta(1,1) da frequência de acerto das publicadas no desenvolvimento: (acertos+1)/(publicadas+2). É uma estimativa exploratória e não a média das confianças individuais. A faixa de sensibilidade une intervalos binomiais descritivos da composição atual e do controle, considerando a seleção adaptativa; não é um intervalo de confiança válido para as 559.
 
-## 5. Memo ao professor — uma página
+A confiança individual vem da rota estatística que decidiu o caso; em rotas antigas por identificador, representa um grupo, não verificação jurídica individual. A cobertura é a fração exata publicada neste lote e seu intervalo cobre arredondamento. As 100 referências não entram no denominador das 559. Não se ajustaram as probabilidades manualmente para declarar cumprimento da meta.
 
-A questão pode mencionar uma lei apenas como cenário. Precisamos identificar o
-conhecimento que permite resolvê-la. Nas questões de assertivas, mais de um assunto
-pode ser necessário, inclusive para rejeitar proposições falsas. Os extras devem
-representar esses conhecimentos, sem associar o aluno a todo assunto mencionado.
 
-A proposta contém 329 publicações, 25 revisões com pendências específicas e 5 casos
-sem tema ativo compatível. A consulta a gabarito ajuda, mas não certifica o ID da
-plataforma. Precisamos confirmar ramos homônimos, limites dos módulos Tráfico/uso
-e procedimento especial e a abrangência de títulos vinculados a um diploma.
+---
 
-Recomendo exemplos de inclusão/exclusão por tema, definição das “Partes” e revisão
-do posicionamento de Defesa Preliminar. Não proponho fundir homônimos sem examinar
-sua função pedagógica. Itens com cenário ausente, possível concatenação ou regra
-historicamente superada devem ser corrigidos/versionados, preservando sua origem.
+# Diagnóstico e desenho para produção
 
-Peço conferência das pendências e uma amostra aleatória independente das publicadas.
-Isso permitirá estimar precisão, detectar erros correlacionados e ajustar a política.
-Minha revisão crítica aprimorou o critério de auditoria; não equivale a revisão
-jurídica especializada das 359 questões nem comprova 95% ou 100% de acerto.
+## O que continua difícil
 
-Fontes: anexos e orientação de Carla; URLs específicas em
-`auditoria_v4/fontes/gabaritos_confirmados.json`, `conferencias_dirigidas.json` e
-`normas_consultadas.json`; registro de preços em `docs/CUSTOS_PRODUCAO.json`.
-As fontes sustentam fundamentos pontuais, não os rótulos internos dos especialistas.
+Há 109 famílias ativas; 64 não têm exemplo central/extra nas 100 referências e 18 das representadas têm só um exemplo. No controle contextual, 17 de 18 erros com tema já tinham um ramo aceito no top5: faltava escolher melhor entre candidatos. Homônimos em disciplinas diferentes, escopos sem descrição efetiva, narrativas com crime contextual e perguntas com alternativas heterogêneas desafiam a classificação.
+
+Oito referências são fora mesmo com títulos próximos no catálogo. Sem a razão da exclusão, não se aprende uma regra segura de fora. Não se pressupõe erro da equipe nem se inventa equivalência entre ramos. Uma questão curta pode ser inequívoca; não usamos limite de caracteres nem tamanho para elevar confiança. Um gabarito de alternativa não certificaria um ID temático.
+
+## Fluxo semanal de 50 mil questões
+
+Importação valida campos e duplicações, mantém bruto e hash, normaliza conteúdo e registra versão do catálogo. Recuperação lexical/hierárquica seleciona candidatos; regras contextualizadas e comparador clássico estimam compatibilidade. Um corte calibrado em dados recentes separa publicar/revisar, e fora exige evidência de ausência de escopo. A geração de embeddings pode ser uma preparação opcional separada, somente se demonstrar ganho; não é requisito para esta política.
+
+A fila mostra sugestão, candidatos e razão da incerteza, agrupando dúvidas recorrentes de escopo. O professor corrige tema/fora e registra justificativa; o rótulo vira dado versionado, com autoria e data. Reportes de alunos entram como sinais de investigação, não como rótulos automáticos. Uma amostra aleatória das publicadas é revisada para evitar medir apenas os casos difíceis reportados.
+
+Monitorar precisão e cobertura por disciplina, erro de ramo, taxa de fora, confiança versus frequência de acerto e tempo do professor. Uma amostra nova rotulada, mantida fora dos ajustes, compara a versão candidata à vigente. Retreino mensal inicial, ou antes se houver mudança relevante do catálogo/distribuição e rótulos suficientes; promoção exige avaliação e rollback disponível. Volume de correções isoladamente não dispara publicação de modelo novo.
+
+## Custo, modelos e limites operacionais
+
+Modelos de linguagem/assistente apoiaram desenvolvimento e propostas versionadas de vocabulário; identificador exato das conversas históricas não foi registrado. O protótipo usa TF-IDF/BM25 e regressão logística serializada. Custo executado de API de classificação: US$ 0. Assinatura existente não rateada e tokens de conversa não medidos. Não há API ou LLM na inferência V24.
+
+Inferência observada: 9.1 min para 659 itens neste ambiente. Cenário linear, com máquina a US$ 0,10/h (hipótese, não cotação): US$ 1.15/50 mil, ou US$ 0.000023/questão, excluindo armazenamento e revisão. Se a cobertura observada se repetisse e cada revisão levasse 30 s, seriam cerca de 128 h de professor/semana. Agrupar dúvidas de escopo e aprender com correções é essencial. Essas projeções não são SLA; as recentes ainda não têm qualidade rotulada medida.
+
+
+---
+
+# Memo para o professor
+
+**Assunto: organizar os temas e concentrar a revisão nas dúvidas relevantes**
+
+O sistema procura colocar cada questão no assunto efetivamente exigido do aluno. Identifica quando uma lei ou crime aparece só para contextualizar, observa a pergunta ao final do texto e usa o comando quando ele delimita um assunto específico. Ainda há situações em que os nomes disponíveis não esclarecem qual caminho a plataforma espera.
+
+## O que encontrei
+
+Existem temas com o mesmo nome em disciplinas diferentes, como Lei de Execução Penal. Também há questões com vários institutos nas alternativas ou proposições. O sistema pode reconhecer o conteúdo geral e ainda escolher um caminho diferente do esperado. Alguns exemplos foram marcados como fora apesar de parecerem próximos de títulos existentes; falta saber o limite que motivou essa decisão.
+
+## O que recomendo ajustar nos temas
+
+Para cada tema, uma descrição curta deve dizer o que inclui, o que exclui e como se diferencia dos nomes próximos. Títulos homônimos precisam de um exemplo positivo e um contraexemplo, aprovados pela equipe. Os oito exemplos fora merecem uma justificativa do recorte. Manter os IDs estáveis e registrar mudanças permite atualizar o sistema sem perder o histórico.
+
+## Do que preciso da sua participação
+
+1. Esclarecer grupos de escopos ambíguos, em vez de resolver repetidamente a mesma dúvida em questões isoladas.
+2. Corrigir uma amostra nova e variada, incluindo questões recentes, para medir a qualidade fora dos exemplos já utilizados.
+3. Na revisão cotidiana, registrar tema central, extras realmente cobrados ou motivo de fora, com uma frase de justificativa quando houver conflito.
+
+## Como isso reduz sua carga
+
+Uma correção bem registrada alimenta o treino e pode resolver uma classe de casos semelhantes. A fila deve priorizar conflitos relevantes e conteúdo sem enquadramento, com as informações necessárias para decidir. Uma pequena amostra das publicadas serve para medir os erros que não aparecem espontaneamente na fila.
+
+Nesta entrega, 387 das 559 questões foram propostas para publicação e 172 para revisão. Os resultados de desenvolvimento melhoraram, mas não permitem garantir que todas as publicadas estejam certas. Sua validação independente de uma nova amostra é o próximo passo para confirmar a precisão e ampliar a publicação com segurança.

@@ -1,0 +1,12 @@
+{
+  "questoes": 559,
+  "publicar": 394,
+  "revisar": 165,
+  "fora": 0,
+  "base_v15_publicadas": 392,
+  "precisao_real": null,
+  "rotulos_lidos": false,
+  "retreino": false,
+  "chamadas_llm": 0,
+  "promove_entrega": false
+}

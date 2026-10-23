@@ -1,0 +1,47 @@
+{
+  "versao": "teste_politica_fixa_v1",
+  "sha256_politica": "643c009b078827043e3974dceb3e7323994951d8c2f6cb28cb0227586292b440",
+  "sha256_metodo": "bc7ecead2dec543bec2395daac5d99fad3df6ff18651b5ad96807fe6ec9499bb",
+  "sha256_codigo": {
+    "avaliar_teste_etapa2.py": "c12d946a9daedcc000942c633cddc26adab846440a64edd263c6b14fade3fb71",
+    "calibrar_etapa2.py": "5ad0add669ca56d85fc188c964d5363139a6a4362384a988a43edfc8066bbb56",
+    "experimento_escopos.py": "e82a9c926c03263ca43a8d7f41e2c3edfe06a388e818870fe90412d378d824dc",
+    "gerar_escopos.py": "ac0d1fd87f9fd245f00606d467ca1c6c7b4f55bb4ec30356b97c1c3f4cafaa18",
+    "experimento_campos.py": "679654abfac800d60b75e8031c969456c9032e36de5aa1a96562c793915c93c4"
+  },
+  "sha256_entradas": {
+    "questoes.jsonl": "318f1fea970633a4d84eb5a4dd071b2ae76ad3e49288a073ab381f61a09da3f3",
+    "temas.csv": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc",
+    "folha_verdade.csv": "c1412ce8d336ae248a2f0e46d8e34cbc07dd33c78af9ce6bbe1337c516ee8e3b"
+  },
+  "ids_com_previsoes": [
+    "Q0002",
+    "Q0017",
+    "Q0058",
+    "Q0090",
+    "Q0188",
+    "Q0191",
+    "Q0216",
+    "Q0226",
+    "Q0230",
+    "Q0240",
+    "Q0253",
+    "Q0265",
+    "Q0274",
+    "Q0304",
+    "Q0315",
+    "Q0319",
+    "Q0325",
+    "Q0336",
+    "Q0339",
+    "Q0356"
+  ],
+  "sem_rotulos_sem_previsoes": true,
+  "sem_ajuste_pelo_teste": true,
+  "sha256_artefatos": {
+    "LEITURA.md": "fcecedd790f4fc121ef41069a43c9c2e55fef8c584dcfa79d7406202c67d5ae1",
+    "congelamento_antes_teste.json": "c6ec38540722a320926d9ab4a7e253a3c825b5cce96db668842cb0662e73da0f",
+    "resumo.json": "01905d528785beab1f20143513f08f57a7714a6122375daa325cbfa7493a67da",
+    "teste.csv": "b9f050e03e4e4ed1d593a4bad316dc564a7624e4f7902d6b4f9d9c499d2a0a73"
+  }
+}

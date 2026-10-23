@@ -1,0 +1,103 @@
+{
+  "variantes": {
+    "contexto_sem_prioridade": {
+      "foco": false,
+      "fusao": false
+    },
+    "foco_contextual": {
+      "foco": true,
+      "fusao": false
+    },
+    "fusao_contextual": {
+      "foco": true,
+      "fusao": true
+    }
+  },
+  "atributos": [
+    "efetivo_palavra",
+    "efetivo_caracteres",
+    "efetivo_escopo",
+    "efetivo_titulo",
+    "efetivo_identificador",
+    "efetivo_norma",
+    "efetivo_artigo",
+    "en_palavra",
+    "en_escopo",
+    "cmd_palavra",
+    "cmd_caracteres",
+    "cmd_escopo",
+    "cmd_titulo",
+    "cmd_identificador",
+    "cmd_norma",
+    "cmd_artigo",
+    "alt_palavra_media",
+    "alt_escopo_media",
+    "alt_escopo_max",
+    "itens_escopo_media",
+    "itens_escopo_max",
+    "itens_escopo_top2",
+    "voto_itens",
+    "desconhecimento_erro",
+    "condicao_vitima_erro",
+    "vantagem_lexical",
+    "vantagem_relativa"
+  ],
+  "meta_empirica_interna": 0.95,
+  "suporte_minimo": 10,
+  "cortes": [
+    "calibrado",
+    "70"
+  ],
+  "corte70": 0.7,
+  "politicas": [
+    "substituir",
+    "preservar_v11"
+  ],
+  "ramos_homonimos_equivalentes": false,
+  "regras": "Não isola a lei do contexto; conserva todos os itens e introduções informativas, inclusive curtas. Só omite cabeçalho genérico. Explique com retomada consulta o enunciado; alternativas C/E e combinatórias não geram temas. Sem regra por ID, primeiro item ou votação como decisão definitiva.",
+  "recuperacao": {
+    "prioridade_cabecalho": {
+      "cabecalho": 0.45,
+      "conjunto": 0.35,
+      "media_escopo_itens": 0.2
+    },
+    "comando_tematico": {
+      "comando": 0.55,
+      "conjunto": 0.45
+    },
+    "comando_retomada": {
+      "enunciado": 0.65,
+      "conjunto": 0.35
+    },
+    "fusao": {
+      "legado_v8": 0.7,
+      "foco_v15": 0.3
+    },
+    "pesos_sao_probabilidades": false,
+    "pesos_aprendidos_nos_rotulos": false
+  },
+  "atributos_e_ranking": "Mesmos 27 atributos V14; todas as variantes novas compartilham a representação e ajuste. Só muda o ranking fixo. Fusão inclui a preparação histórica V8. Escores de recuperação não são confiança.",
+  "rodada": 1,
+  "fora": "Não cria regra automática de exclusão. Rótulos fora contam como negativos de compatibilidade no treino, não justificam exclusões por palavra.",
+  "avaliacao": "Mesmos 5 folds externos e 4 internos. Não mistura rótulos externos no ajuste, calibração e corte do fold.",
+  "exposicao": "100 rótulos e vários erros já vistos e reutilizados; não é teste externo cego.",
+  "escolha_pelo_volume559": false,
+  "promove_entrega": false,
+  "codigo_sha256": {
+    "testar_roteamento_v15.py": "984d291df371327cccbd74bcd1ac04be6adac0d2a4d10a688a08218c49a66e6c",
+    "roteamento_v15/texto.py": "868012330857bdaf26d18d44046155c3d7c1680737b3975f3cb7b1339a3e3612",
+    "roteamento_v15/modelo.py": "1e2482f04b20c9c75e1c7630a9833e753b6c5a58a2e38b5cab3e87fe77f031ed",
+    "classificar_roteamento_v15.py": "6fb7f12a2afd2744765369922abe4f4edbc8fdd5218b5b723158c900924f21af",
+    "congelar_roteamento_v15.py": "5fe2e156ba81a900706a987328fd54f2674101f3f03a06d4d7e8074819250d8c"
+  },
+  "dados_sha256": {
+    "questoes.jsonl": "318f1fea970633a4d84eb5a4dd071b2ae76ad3e49288a073ab381f61a09da3f3",
+    "temas.csv": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc",
+    "folha_verdade.csv": "c1412ce8d336ae248a2f0e46d8e34cbc07dd33c78af9ce6bbe1337c516ee8e3b"
+  },
+  "preservados_sha256": {
+    "publicacao.csv": "05921ae3cff5ee7336c08620530c4516825f3f7c69969a8cca3384cd65a70686",
+    "previsao.txt": "052ba667402f327bfef61a9b4c34b98f10b50382e6a39e26f740cfe439eefb03",
+    "experimentos/palavra_v12_001/resumo.json": "fe032404ed446292b2e78e1809fe77d6db2a5f257ca553fd7d45a91a34aa7ced"
+  }
+}

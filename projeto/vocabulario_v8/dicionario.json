@@ -1,0 +1,192 @@
+{
+  "versao": "vocabulario_tematico_v8_1",
+  "origem": "Vocabulário proposto pelo assistente a partir dos títulos/escopos e expressões discutidas, como preparação de dados autorizada pelo case. Não são rótulos nem respostas de questões avaliadas.",
+  "uso": "Evidência textual por campo, sem publicação automática. Alvos resolvidos pelos títulos ativos do catálogo; IDs homônimos permanecem separados.",
+  "grupos": [
+    {
+      "nome": "inquerito",
+      "titulos": [
+        "Inquérito Policial"
+      ],
+      "padroes": [
+        "\\binquerito policial\\b",
+        "\\binvestigacao (?:criminal|preliminar)\\b",
+        "\\bdelegado de policia\\b",
+        "\\bindiciamento\\b"
+      ]
+    },
+    {
+      "nome": "arquivamento",
+      "titulos": [
+        "Conclusão e Arquivamento do Inquérito Policial"
+      ],
+      "padroes": [
+        "\\binquerito(?: policial)? (?:foi )?arquivad[oa]s?\\b",
+        "\\barquivamento do inquerito\\b"
+      ]
+    },
+    {
+      "nome": "prescricao",
+      "titulos": [
+        "Prescrição"
+      ],
+      "padroes": [
+        "\\bprescricao\\b",
+        "\\bprazos? prescriciona(?:l|is)\\b",
+        "\\bprescricao da pretensao (?:punitiva|executoria)\\b"
+      ]
+    },
+    {
+      "nome": "execucao_penal",
+      "titulos": [
+        "Lei de Execução Penal"
+      ],
+      "padroes": [
+        "\\blei de execucao penal\\b",
+        "\\bexecucao (?:criminal|penal|da pena)\\b",
+        "\\bprogressao (?:de|do) regime\\b",
+        "\\bfaltas? graves?\\b",
+        "\\bremicao(?: de pena)?\\b",
+        "\\bdias remidos\\b",
+        "\\btrabalho (?:prisional|do preso)\\b"
+      ]
+    },
+    {
+      "nome": "livramento",
+      "titulos": [
+        "Livramento Condicional"
+      ],
+      "padroes": [
+        "\\blivramento condicional\\b"
+      ]
+    },
+    {
+      "nome": "apelacao",
+      "titulos": [
+        "Apelação"
+      ],
+      "padroes": [
+        "\\bapelacao\\b",
+        "\\brecurso de apelacao\\b"
+      ]
+    },
+    {
+      "nome": "habeas_corpus",
+      "titulos": [
+        "Habeas Corpus"
+      ],
+      "padroes": [
+        "\\bhabeas corpus\\b",
+        "\\bliberdade de (?:locomocao|ir e vir)\\b",
+        "\\bcoacao ilegal\\b"
+      ]
+    },
+    {
+      "nome": "revisao_criminal",
+      "titulos": [
+        "Revisão Criminal"
+      ],
+      "padroes": [
+        "\\brevisao criminal\\b",
+        "\\breexame do processo ja alcancado pela coisa julgada\\b"
+      ]
+    },
+    {
+      "nome": "juri",
+      "titulos": [
+        "Procedimento do Tribunal do Júri"
+      ],
+      "padroes": [
+        "\\btribunal do juri\\b",
+        "\\bjuiz presidente\\b",
+        "\\bdesaforamento\\b",
+        "\\bimpronuncia\\b",
+        "\\bpronuncia\\b"
+      ]
+    },
+    {
+      "nome": "erro_tipo",
+      "titulos": [
+        "Erro de Tipo"
+      ],
+      "padroes": [
+        "\\berro de tipo(?: essencial)?\\b",
+        "\\berro sobre elemento constitutivo do tipo\\b",
+        "\\bfalsa percepcao sobre elementar\\b"
+      ]
+    },
+    {
+      "nome": "erro_proibicao",
+      "titulos": [
+        "Erro de Proibição"
+      ],
+      "padroes": [
+        "\\berro de proibicao\\b",
+        "\\bdesconhecimento da ilicitude\\b"
+      ]
+    },
+    {
+      "nome": "interceptacao",
+      "titulos": [
+        "Interceptação Telefônica",
+        "Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos"
+      ],
+      "padroes": [
+        "\\binterceptac(?:ao|oes) (?:das? comunicacoes )?telefonicas?\\b",
+        "\\blei (?:n ?o? )?9 ?296(?: (?:de )?(?:1996|96))?\\b"
+      ]
+    },
+    {
+      "nome": "juizados",
+      "titulos": [
+        "Juizado Especial Criminal",
+        "Competência dos Juizados Especiais Criminais",
+        "Recursos no Âmbito dos Juizados Especiais"
+      ],
+      "padroes": [
+        "\\bjuizados? (?:especial|especiais) (?:criminal|criminais)\\b",
+        "\\bjecrim\\b",
+        "\\blei (?:n ?o? )?9 ?099(?: (?:de )?(?:1995|95))?\\b",
+        "\\btransacao penal\\b",
+        "\\bsuspensao condicional do processo\\b"
+      ]
+    },
+    {
+      "nome": "concussao",
+      "titulos": [
+        "Concussão e Excesso de Exação"
+      ],
+      "padroes": [
+        "\\bconcussao\\b",
+        "\\bexcesso de exacao\\b",
+        "\\bexig(?:ir|e|iu) (?:dinheiro|vantagem indevida)\\b",
+        "\\bexigencia de vantagem indevida\\b"
+      ]
+    },
+    {
+      "nome": "corrupcao_passiva",
+      "titulos": [
+        "Corrupção Passiva"
+      ],
+      "padroes": [
+        "\\bcorrupcao passiva\\b",
+        "\\bsolicitar ou receber\\b",
+        "\\baceitar promessa\\b",
+        "\\baceitacao de promessa de vantagem indevida\\b"
+      ]
+    },
+    {
+      "nome": "teorias_criminologicas",
+      "titulos": [
+        "Teorias Sociológicas Explicativas da Criminalidade",
+        "Teorias Criminológicas em Espécie"
+      ],
+      "padroes": [
+        "\\bteoria da anomia\\b",
+        "\\bassociacao diferencial\\b",
+        "\\blabeling approach\\b",
+        "\\bescola de chicago\\b"
+      ]
+    }
+  ]
+}

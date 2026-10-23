@@ -1,0 +1,13 @@
+{
+  "versao": "atributos_v11_1",
+  "codigo_sha256": {
+    "experimento_atributos_v11/modelo.py": "8945d6daea8be19fff50c654a37f55dd9208f6da0bef6f4889931f06037b7017",
+    "classificar_atributos_v11.py": "fa01df45e3494197060f103bac554c5407f52ee3d63348a98e15924e1d37a141",
+    "experimento_relacoes_v9/regras.py": "1a260c927ee753c569d3948851d16a5b351d0677ec588f949d15180954230923"
+  },
+  "artefatos_sha256": {
+    "modelos_finais.json": "c9e83565962bc85aa520ee08ceb30781f6f4b409bdb1ecd5dda3dfceea944452",
+    "estatistica_identificador.json": "f25e527e49bb47556866c620f40ad46901fae6a04b0261c9385d2a3cd3971da8"
+  },
+  "promove_entrega": false
+}

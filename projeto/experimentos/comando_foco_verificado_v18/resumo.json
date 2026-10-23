@@ -1,0 +1,17 @@
+{
+  "questoes": 559,
+  "publicar": 216,
+  "revisar": 343,
+  "fora": 0,
+  "cobertura": 0.38640429338103754,
+  "precisao_real_alvo": null,
+  "motivos_revisao": {
+    "abaixo_do_limiar_calibrado": 274,
+    "homonimo_sem_escopo_resolvido": 69
+  },
+  "variante": "controle_fusao",
+  "rotulos_lidos": false,
+  "treino_supervisionado": false,
+  "chamadas_llm": 0,
+  "promove_entrega": false
+}

@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+tmp/
+verificacao_reproducao_v2/
+entrega_reproduzida*/

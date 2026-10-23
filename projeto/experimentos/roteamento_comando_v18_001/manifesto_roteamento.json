@@ -1,0 +1,11 @@
+{
+  "versao": "roteamento_comando_v18_1",
+  "projeto_sha256": {
+    "contexto_v18/roteamento.py": "80e789ee5ed71d52a6e95fe8fd40aadd3db60769901a353189bca281b4016fd7",
+    "rotear_comando_v18.py": "4cdace9df3e9f71b6358d95ac802559a519a5ac7badc74100c760526da228b84"
+  },
+  "escolha_sha256": "5472dfc3366822cb09e7429335b1aaebe89d048824b7676b8adc90ca5a700533",
+  "manifesto_v18_sha256": "2d9363678da19ab5c82fffa25a3536e9db9ed2d7aa217ad142d320179a82665f",
+  "manifesto_v16_sha256": "d927313464804120afbaed664c711053c4acc5af1a4d9f6bc5cf2d669b1f5465",
+  "promove_entrega": false
+}

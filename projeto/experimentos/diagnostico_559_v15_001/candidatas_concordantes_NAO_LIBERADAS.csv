@@ -1,0 +1,8 @@
+id,grupo,decisao,tema_central_id,tema_caminho,confianca,motivo,publicacao_preservada_v11,tema_foco_v15,confianca_foco_v15,elegivel_foco_v15,homonimo_nao_resolvido_foco_v15,decisao_fusao_calibrada,tema_fusao_calibrada,confianca_fusao_calibrada,concordancia_exata_foco_fusao,candidata_para_investigar
+Q0047,antigas_259,revisar,5466,Processo Penal > Ação Penal,0.6981630577846546,confianca_abaixo_de_70,False,5466,0.6981630577846546,True,False,publicar,5466,0.781569658267815,True,True
+Q0074,antigas_259,revisar,5199,Penal > Teoria da Pena,0.6866065688416852,confianca_abaixo_de_70,False,5199,0.6866065688416852,True,False,publicar,5199,0.7728918391722548,True,True
+Q0229,antigas_259,revisar,5517,Processo Penal > Prisões em Espécie,0.6763595465478116,confianca_abaixo_de_70,False,5517,0.6763595465478116,True,False,publicar,5517,0.7651461621027016,True,True
+Q0250,antigas_259,revisar,5199,Penal > Teoria da Pena,0.6902956401090202,confianca_abaixo_de_70,False,5199,0.6902956401090202,True,False,publicar,5199,0.7756685140837438,True,True
+Q0271,antigas_259,revisar,5560,Processo Penal > Recursos em Espécies,0.6799419778337401,confianca_abaixo_de_70,False,5560,0.6799419778337401,True,False,publicar,5560,0.7678596875490228,True,True
+Q0596,recentes_300,revisar,5180,Penal > Lei Penal no Tempo e no Espaço,0.6728563689013671,confianca_abaixo_de_70,False,5180,0.6728563689013671,True,False,publicar,5180,0.7624867726751922,True,True
+Q0629,recentes_300,revisar,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,0.6747246532386822,confianca_abaixo_de_70,False,4371,0.6747246532386822,True,False,publicar,4371,0.7639057848535917,True,True

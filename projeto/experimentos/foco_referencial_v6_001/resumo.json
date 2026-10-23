@@ -1,0 +1,76 @@
+{
+  "comparacao_100": {
+    "controle_v5": {
+      "acertos_publicadas": 24,
+      "acertos_top1": 66,
+      "avaliadas": 100,
+      "brier": 0.16713439264088387,
+      "cobertura": 0.25,
+      "erros_publicadas": 1,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": true,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 0.96,
+      "publicar": 25,
+      "revisar": 75
+    },
+    "foco_exclusivo": {
+      "acertos_publicadas": 16,
+      "acertos_top1": 61,
+      "avaliadas": 100,
+      "brier": 0.16253266518542367,
+      "cobertura": 0.16,
+      "erros_publicadas": 0,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": true,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 1.0,
+      "publicar": 16,
+      "revisar": 84
+    },
+    "foco_ponderado": {
+      "acertos_publicadas": 20,
+      "acertos_top1": 66,
+      "avaliadas": 100,
+      "brier": 0.16389013764769703,
+      "cobertura": 0.2,
+      "erros_publicadas": 0,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": true,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 1.0,
+      "publicar": 20,
+      "revisar": 80
+    }
+  },
+  "entrega_v5_preservada": true,
+  "liberacao_absoluta": {
+    "corretas": 11,
+    "publicadas": 21
+  },
+  "marcadores_100": 21,
+  "segundos": 21.655800804000023,
+  "simulacao_559": {
+    "foco_exclusivo": {
+      "com_marcador": 155,
+      "mudancas_tema": 97,
+      "precisao_real": null,
+      "promovida_para_entrega": false,
+      "publicar": 163,
+      "revisar": 396,
+      "revisar_v5_para_publicar": 3
+    },
+    "foco_ponderado": {
+      "com_marcador": 155,
+      "mudancas_tema": 36,
+      "precisao_real": null,
+      "promovida_para_entrega": false,
+      "publicar": 180,
+      "revisar": 379,
+      "revisar_v5_para_publicar": 2
+    }
+  }
+}

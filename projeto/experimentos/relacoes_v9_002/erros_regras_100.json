@@ -1,0 +1,638 @@
+[
+  {
+    "id": "Q0252",
+    "variante": "titulos_diretos",
+    "fold": "5",
+    "tema_central_id": "5157",
+    "decisao": "publicar",
+    "confianca": 0.9523809523809523,
+    "acionou_regra": true,
+    "motivo_regra": "identificador_unico",
+    "correto": 0,
+    "fora_oficial": 1,
+    "tema_controle": "5199",
+    "decisao_controle": "revisar",
+    "suporte_confianca": 19,
+    "central_oficial": "",
+    "extras_oficiais": "",
+    "questao": {
+      "id": "Q0252",
+      "enunciado_html": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inicial semiaberto e, ainda, ao pagamento de cinquenta dias-multa, fixado o valor de um vinte avos do salário mínimo vigente.<br><br>Nessa situação hipotética, conforme o CPP,",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": " <span>caso o presidente da República conceda a João graça parcial,\\no benefício não poderá ser recusado.</span> ",
+        "B": " <span>o juiz poderá, a requerimento do réu, demonstradas as\\ncircunstâncias que o justifiquem, permitir que o pagamento da\\npena de multa se faça em parcelas mensais.</span> ",
+        "C": " <span>João terá direito ao livramento condicional, preenchidos os\\nrequisitos, e somente este ou o seu advogado poderá requerê-lo\\nao juízo da execução penal, tendo em vista a natureza\\npersonalíssima da pena.</span> ",
+        "D": " <span>o requisito temporal do livramento condicional será reduzido\\npela metade, em razão de João contar com mais de setenta anos\\nde idade na data do fato.</span> "
+      },
+      "disciplina_origem": "Processo Penal",
+      "assunto_origem": "Ação Penal (Parte 02)"
+    },
+    "rastro": {
+      "rota": {
+        "modo": "enunciado_preservado",
+        "peso_textual_enunciado": 1,
+        "motivo": "conteudo_informativo",
+        "cabecalho_removido": "",
+        "enunciado_original": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inicial semiaberto e, ainda, ao pagamento de cinquenta dias-multa, fixado o valor de um vinte avos do salário mínimo vigente. Nessa situação hipotética, conforme o CPP,",
+        "enunciado_efetivo": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inicial semiaberto e, ainda, ao pagamento de cinquenta dias-multa, fixado o valor de um vinte avos do salário mínimo vigente. Nessa situação hipotética, conforme o CPP,",
+        "comando_efetivo": "Assinale a alternativa correta.",
+        "alternativas_suficientes": true,
+        "conteudo_insuficiente": false,
+        "familias_literais_no_enunciado": [
+          "5157",
+          "5199"
+        ]
+      },
+      "hits_enunciado": [
+        {
+          "expressao": "estelionato",
+          "familia": "5157",
+          "tema": "5166",
+          "fonte": "titulo"
+        }
+      ],
+      "referencias": [],
+      "referencia_preferida": null,
+      "candidatos_iniciais": [
+        "5157"
+      ],
+      "candidatos_relacoes": [
+        "5157"
+      ],
+      "alternativas_tematicas": true,
+      "candidatos_por_alternativa": [
+        [],
+        [
+          "5199"
+        ],
+        [
+          "4703",
+          "5199",
+          "6734"
+        ],
+        [
+          "5199"
+        ]
+      ],
+      "variantes": {
+        "titulos_diretos": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        },
+        "relacoes_diretas": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        },
+        "relacoes_alternativas": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Q0005",
+    "variante": "relacoes_diretas",
+    "fold": "5",
+    "tema_central_id": "5157",
+    "decisao": "publicar",
+    "confianca": 0.9523809523809523,
+    "acionou_regra": true,
+    "motivo_regra": "identificador_unico",
+    "correto": 0,
+    "fora_oficial": 0,
+    "tema_controle": "5199",
+    "decisao_controle": "revisar",
+    "suporte_confianca": 19,
+    "central_oficial": "5199",
+    "extras_oficiais": "",
+    "questao": {
+      "id": "Q0005",
+      "enunciado_html": "Carlos foi denunciado pelo crime de furto qualificado,<br><br>praticado em 15/5/2022. Após a tramitação regular do processo,<br><br>o juiz fixou a pena base no mínimo legal, tendo em seguida<br><br>agravado em 1/6 a pena em face da reincidência, sob o<br><br>fundamento de que o réu possuía uma condenação anterior<br><br>transitada em julgado, e impôs o regime fechado para início de<br><br>cumprimento de pena. Na condenação anterior, Carlos havia<br><br>recebido o livramento condicional em 27/4/2015, cumprindo-o<br><br>sem revogações até 27/4/2019, e a decisão que declarou extinta a<br><br>pena foi proferida em 29/6/2020.<br><br>Considerando-se a situação hipotética apresentada, bem como a<br><br>pena e o regime fixados pelo juiz, é correto afirmar que, em<br><br>relação ao crime de furto qualificado praticado em 15/5/2022,<br><br>Carlos é",
+      "comando": "complete a frase com a alternativa correta.",
+      "alternativas": {
+        "A": " reincidente, e o regime inicial cabível é o fechado, visto que o\\nperíodo depurador referente à condenação anterior começou a\\ncorrer em 27/4/2019. ",
+        "B": " reincidente, e o regime inicial cabível é o fechado, visto que o\\nperíodo depurador referente à condenação anterior começou a\\ncorrer em 29/6/2020. ",
+        "C": " primário, e o regime inicial cabível é o semiaberto, visto que\\no período depurador se iniciou em 27/4/2015 e a pena é\\nsuperior a quatro anos.  ",
+        "D": " primário, e o regime cabível é o aberto, visto que o período\\ndepurador foi cumprido sem revogação e a pena é inferior a\\nquatro anos.   ",
+        "E": " reincidente, e o regime cabível é o semiaberto, visto que,\\ndada a pena aplicada, incide no caso a súmula n.º 269 do STJ. "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Fixação do regime inicial da pena privativa de liberdade"
+    },
+    "rastro": {
+      "rota": {
+        "modo": "enunciado_preservado",
+        "peso_textual_enunciado": 1,
+        "motivo": "conteudo_informativo",
+        "cabecalho_removido": "",
+        "enunciado_original": "Carlos foi denunciado pelo crime de furto qualificado, praticado em 15/5/2022. Após a tramitação regular do processo, o juiz fixou a pena base no mínimo legal, tendo em seguida agravado em 1/6 a pena em face da reincidência, sob o fundamento de que o réu possuía uma condenação anterior transitada em julgado, e impôs o regime fechado para início de cumprimento de pena. Na condenação anterior, Carlos havia recebido o livramento condicional em 27/4/2015, cumprindo-o sem revogações até 27/4/2019, e a decisão que declarou extinta a pena foi proferida em 29/6/2020. Considerando-se a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é",
+        "enunciado_efetivo": "Carlos foi denunciado pelo crime de furto qualificado, praticado em 15/5/2022. Após a tramitação regular do processo, o juiz fixou a pena base no mínimo legal, tendo em seguida agravado em 1/6 a pena em face da reincidência, sob o fundamento de que o réu possuía uma condenação anterior transitada em julgado, e impôs o regime fechado para início de cumprimento de pena. Na condenação anterior, Carlos havia recebido o livramento condicional em 27/4/2015, cumprindo-o sem revogações até 27/4/2019, e a decisão que declarou extinta a pena foi proferida em 29/6/2020. Considerando-se a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é",
+        "comando_efetivo": "complete a frase com a alternativa correta.",
+        "alternativas_suficientes": true,
+        "conteudo_insuficiente": false,
+        "familias_literais_no_enunciado": [
+          "5199"
+        ]
+      },
+      "hits_enunciado": [
+        {
+          "expressao": "furto",
+          "familia": "5157",
+          "tema": "5159",
+          "fonte": "titulo"
+        },
+        {
+          "expressao": "furto",
+          "familia": "5157",
+          "tema": "5159",
+          "fonte": "titulo"
+        },
+        {
+          "expressao": "livramento condicional",
+          "familia": "5199",
+          "tema": "5208",
+          "fonte": "titulo"
+        },
+        {
+          "expressao": "livramento condicional",
+          "familia": "5199",
+          "tema": "",
+          "fonte": "vocabulario_v8"
+        }
+      ],
+      "referencias": [
+        {
+          "marcador": "em relacao ao",
+          "trecho": "crime de furto qualificado praticado em 15/5/2022",
+          "familias": [
+            "5157"
+          ],
+          "hits": [
+            {
+              "expressao": "furto",
+              "familia": "5157",
+              "tema": "5159",
+              "fonte": "titulo"
+            }
+          ]
+        }
+      ],
+      "referencia_preferida": {
+        "marcador": "em relacao ao",
+        "trecho": "crime de furto qualificado praticado em 15/5/2022",
+        "familias": [
+          "5157"
+        ],
+        "hits": [
+          {
+            "expressao": "furto",
+            "familia": "5157",
+            "tema": "5159",
+            "fonte": "titulo"
+          }
+        ]
+      },
+      "candidatos_iniciais": [
+        "5157",
+        "5199"
+      ],
+      "candidatos_relacoes": [
+        "5157"
+      ],
+      "alternativas_tematicas": true,
+      "candidatos_por_alternativa": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "variantes": {
+        "titulos_diretos": {
+          "tema_regra": null,
+          "acionou": false,
+          "motivo": "ambiguidade",
+          "candidatos": [
+            "5157",
+            "5199"
+          ],
+          "margem": null,
+          "comparacao": []
+        },
+        "relacoes_diretas": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        },
+        "relacoes_alternativas": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Q0252",
+    "variante": "relacoes_diretas",
+    "fold": "5",
+    "tema_central_id": "5157",
+    "decisao": "publicar",
+    "confianca": 0.9523809523809523,
+    "acionou_regra": true,
+    "motivo_regra": "identificador_unico",
+    "correto": 0,
+    "fora_oficial": 1,
+    "tema_controle": "5199",
+    "decisao_controle": "revisar",
+    "suporte_confianca": 19,
+    "central_oficial": "",
+    "extras_oficiais": "",
+    "questao": {
+      "id": "Q0252",
+      "enunciado_html": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inicial semiaberto e, ainda, ao pagamento de cinquenta dias-multa, fixado o valor de um vinte avos do salário mínimo vigente.<br><br>Nessa situação hipotética, conforme o CPP,",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": " <span>caso o presidente da República conceda a João graça parcial,\\no benefício não poderá ser recusado.</span> ",
+        "B": " <span>o juiz poderá, a requerimento do réu, demonstradas as\\ncircunstâncias que o justifiquem, permitir que o pagamento da\\npena de multa se faça em parcelas mensais.</span> ",
+        "C": " <span>João terá direito ao livramento condicional, preenchidos os\\nrequisitos, e somente este ou o seu advogado poderá requerê-lo\\nao juízo da execução penal, tendo em vista a natureza\\npersonalíssima da pena.</span> ",
+        "D": " <span>o requisito temporal do livramento condicional será reduzido\\npela metade, em razão de João contar com mais de setenta anos\\nde idade na data do fato.</span> "
+      },
+      "disciplina_origem": "Processo Penal",
+      "assunto_origem": "Ação Penal (Parte 02)"
+    },
+    "rastro": {
+      "rota": {
+        "modo": "enunciado_preservado",
+        "peso_textual_enunciado": 1,
+        "motivo": "conteudo_informativo",
+        "cabecalho_removido": "",
+        "enunciado_original": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inicial semiaberto e, ainda, ao pagamento de cinquenta dias-multa, fixado o valor de um vinte avos do salário mínimo vigente. Nessa situação hipotética, conforme o CPP,",
+        "enunciado_efetivo": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inicial semiaberto e, ainda, ao pagamento de cinquenta dias-multa, fixado o valor de um vinte avos do salário mínimo vigente. Nessa situação hipotética, conforme o CPP,",
+        "comando_efetivo": "Assinale a alternativa correta.",
+        "alternativas_suficientes": true,
+        "conteudo_insuficiente": false,
+        "familias_literais_no_enunciado": [
+          "5157",
+          "5199"
+        ]
+      },
+      "hits_enunciado": [
+        {
+          "expressao": "estelionato",
+          "familia": "5157",
+          "tema": "5166",
+          "fonte": "titulo"
+        }
+      ],
+      "referencias": [],
+      "referencia_preferida": null,
+      "candidatos_iniciais": [
+        "5157"
+      ],
+      "candidatos_relacoes": [
+        "5157"
+      ],
+      "alternativas_tematicas": true,
+      "candidatos_por_alternativa": [
+        [],
+        [
+          "5199"
+        ],
+        [
+          "4703",
+          "5199",
+          "6734"
+        ],
+        [
+          "5199"
+        ]
+      ],
+      "variantes": {
+        "titulos_diretos": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        },
+        "relacoes_diretas": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        },
+        "relacoes_alternativas": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Q0005",
+    "variante": "relacoes_alternativas",
+    "fold": "5",
+    "tema_central_id": "5157",
+    "decisao": "publicar",
+    "confianca": 0.9523809523809523,
+    "acionou_regra": true,
+    "motivo_regra": "identificador_unico",
+    "correto": 0,
+    "fora_oficial": 0,
+    "tema_controle": "5199",
+    "decisao_controle": "revisar",
+    "suporte_confianca": 19,
+    "central_oficial": "5199",
+    "extras_oficiais": "",
+    "questao": {
+      "id": "Q0005",
+      "enunciado_html": "Carlos foi denunciado pelo crime de furto qualificado,<br><br>praticado em 15/5/2022. Após a tramitação regular do processo,<br><br>o juiz fixou a pena base no mínimo legal, tendo em seguida<br><br>agravado em 1/6 a pena em face da reincidência, sob o<br><br>fundamento de que o réu possuía uma condenação anterior<br><br>transitada em julgado, e impôs o regime fechado para início de<br><br>cumprimento de pena. Na condenação anterior, Carlos havia<br><br>recebido o livramento condicional em 27/4/2015, cumprindo-o<br><br>sem revogações até 27/4/2019, e a decisão que declarou extinta a<br><br>pena foi proferida em 29/6/2020.<br><br>Considerando-se a situação hipotética apresentada, bem como a<br><br>pena e o regime fixados pelo juiz, é correto afirmar que, em<br><br>relação ao crime de furto qualificado praticado em 15/5/2022,<br><br>Carlos é",
+      "comando": "complete a frase com a alternativa correta.",
+      "alternativas": {
+        "A": " reincidente, e o regime inicial cabível é o fechado, visto que o\\nperíodo depurador referente à condenação anterior começou a\\ncorrer em 27/4/2019. ",
+        "B": " reincidente, e o regime inicial cabível é o fechado, visto que o\\nperíodo depurador referente à condenação anterior começou a\\ncorrer em 29/6/2020. ",
+        "C": " primário, e o regime inicial cabível é o semiaberto, visto que\\no período depurador se iniciou em 27/4/2015 e a pena é\\nsuperior a quatro anos.  ",
+        "D": " primário, e o regime cabível é o aberto, visto que o período\\ndepurador foi cumprido sem revogação e a pena é inferior a\\nquatro anos.   ",
+        "E": " reincidente, e o regime cabível é o semiaberto, visto que,\\ndada a pena aplicada, incide no caso a súmula n.º 269 do STJ. "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Fixação do regime inicial da pena privativa de liberdade"
+    },
+    "rastro": {
+      "rota": {
+        "modo": "enunciado_preservado",
+        "peso_textual_enunciado": 1,
+        "motivo": "conteudo_informativo",
+        "cabecalho_removido": "",
+        "enunciado_original": "Carlos foi denunciado pelo crime de furto qualificado, praticado em 15/5/2022. Após a tramitação regular do processo, o juiz fixou a pena base no mínimo legal, tendo em seguida agravado em 1/6 a pena em face da reincidência, sob o fundamento de que o réu possuía uma condenação anterior transitada em julgado, e impôs o regime fechado para início de cumprimento de pena. Na condenação anterior, Carlos havia recebido o livramento condicional em 27/4/2015, cumprindo-o sem revogações até 27/4/2019, e a decisão que declarou extinta a pena foi proferida em 29/6/2020. Considerando-se a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é",
+        "enunciado_efetivo": "Carlos foi denunciado pelo crime de furto qualificado, praticado em 15/5/2022. Após a tramitação regular do processo, o juiz fixou a pena base no mínimo legal, tendo em seguida agravado em 1/6 a pena em face da reincidência, sob o fundamento de que o réu possuía uma condenação anterior transitada em julgado, e impôs o regime fechado para início de cumprimento de pena. Na condenação anterior, Carlos havia recebido o livramento condicional em 27/4/2015, cumprindo-o sem revogações até 27/4/2019, e a decisão que declarou extinta a pena foi proferida em 29/6/2020. Considerando-se a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é",
+        "comando_efetivo": "complete a frase com a alternativa correta.",
+        "alternativas_suficientes": true,
+        "conteudo_insuficiente": false,
+        "familias_literais_no_enunciado": [
+          "5199"
+        ]
+      },
+      "hits_enunciado": [
+        {
+          "expressao": "furto",
+          "familia": "5157",
+          "tema": "5159",
+          "fonte": "titulo"
+        },
+        {
+          "expressao": "furto",
+          "familia": "5157",
+          "tema": "5159",
+          "fonte": "titulo"
+        },
+        {
+          "expressao": "livramento condicional",
+          "familia": "5199",
+          "tema": "5208",
+          "fonte": "titulo"
+        },
+        {
+          "expressao": "livramento condicional",
+          "familia": "5199",
+          "tema": "",
+          "fonte": "vocabulario_v8"
+        }
+      ],
+      "referencias": [
+        {
+          "marcador": "em relacao ao",
+          "trecho": "crime de furto qualificado praticado em 15/5/2022",
+          "familias": [
+            "5157"
+          ],
+          "hits": [
+            {
+              "expressao": "furto",
+              "familia": "5157",
+              "tema": "5159",
+              "fonte": "titulo"
+            }
+          ]
+        }
+      ],
+      "referencia_preferida": {
+        "marcador": "em relacao ao",
+        "trecho": "crime de furto qualificado praticado em 15/5/2022",
+        "familias": [
+          "5157"
+        ],
+        "hits": [
+          {
+            "expressao": "furto",
+            "familia": "5157",
+            "tema": "5159",
+            "fonte": "titulo"
+          }
+        ]
+      },
+      "candidatos_iniciais": [
+        "5157",
+        "5199"
+      ],
+      "candidatos_relacoes": [
+        "5157"
+      ],
+      "alternativas_tematicas": true,
+      "candidatos_por_alternativa": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "variantes": {
+        "titulos_diretos": {
+          "tema_regra": null,
+          "acionou": false,
+          "motivo": "ambiguidade",
+          "candidatos": [
+            "5157",
+            "5199"
+          ],
+          "margem": null,
+          "comparacao": []
+        },
+        "relacoes_diretas": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        },
+        "relacoes_alternativas": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        }
+      }
+    }
+  },
+  {
+    "id": "Q0252",
+    "variante": "relacoes_alternativas",
+    "fold": "5",
+    "tema_central_id": "5157",
+    "decisao": "publicar",
+    "confianca": 0.9523809523809523,
+    "acionou_regra": true,
+    "motivo_regra": "identificador_unico",
+    "correto": 0,
+    "fora_oficial": 1,
+    "tema_controle": "5199",
+    "decisao_controle": "revisar",
+    "suporte_confianca": 19,
+    "central_oficial": "",
+    "extras_oficiais": "",
+    "questao": {
+      "id": "Q0252",
+      "enunciado_html": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inicial semiaberto e, ainda, ao pagamento de cinquenta dias-multa, fixado o valor de um vinte avos do salário mínimo vigente.<br><br>Nessa situação hipotética, conforme o CPP,",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": " <span>caso o presidente da República conceda a João graça parcial,\\no benefício não poderá ser recusado.</span> ",
+        "B": " <span>o juiz poderá, a requerimento do réu, demonstradas as\\ncircunstâncias que o justifiquem, permitir que o pagamento da\\npena de multa se faça em parcelas mensais.</span> ",
+        "C": " <span>João terá direito ao livramento condicional, preenchidos os\\nrequisitos, e somente este ou o seu advogado poderá requerê-lo\\nao juízo da execução penal, tendo em vista a natureza\\npersonalíssima da pena.</span> ",
+        "D": " <span>o requisito temporal do livramento condicional será reduzido\\npela metade, em razão de João contar com mais de setenta anos\\nde idade na data do fato.</span> "
+      },
+      "disciplina_origem": "Processo Penal",
+      "assunto_origem": "Ação Penal (Parte 02)"
+    },
+    "rastro": {
+      "rota": {
+        "modo": "enunciado_preservado",
+        "peso_textual_enunciado": 1,
+        "motivo": "conteudo_informativo",
+        "cabecalho_removido": "",
+        "enunciado_original": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inicial semiaberto e, ainda, ao pagamento de cinquenta dias-multa, fixado o valor de um vinte avos do salário mínimo vigente. Nessa situação hipotética, conforme o CPP,",
+        "enunciado_efetivo": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inicial semiaberto e, ainda, ao pagamento de cinquenta dias-multa, fixado o valor de um vinte avos do salário mínimo vigente. Nessa situação hipotética, conforme o CPP,",
+        "comando_efetivo": "Assinale a alternativa correta.",
+        "alternativas_suficientes": true,
+        "conteudo_insuficiente": false,
+        "familias_literais_no_enunciado": [
+          "5157",
+          "5199"
+        ]
+      },
+      "hits_enunciado": [
+        {
+          "expressao": "estelionato",
+          "familia": "5157",
+          "tema": "5166",
+          "fonte": "titulo"
+        }
+      ],
+      "referencias": [],
+      "referencia_preferida": null,
+      "candidatos_iniciais": [
+        "5157"
+      ],
+      "candidatos_relacoes": [
+        "5157"
+      ],
+      "alternativas_tematicas": true,
+      "candidatos_por_alternativa": [
+        [],
+        [
+          "5199"
+        ],
+        [
+          "4703",
+          "5199",
+          "6734"
+        ],
+        [
+          "5199"
+        ]
+      ],
+      "variantes": {
+        "titulos_diretos": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        },
+        "relacoes_diretas": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        },
+        "relacoes_alternativas": {
+          "tema_regra": "5157",
+          "acionou": true,
+          "motivo": "identificador_unico",
+          "candidatos": [
+            "5157"
+          ],
+          "margem": null,
+          "comparacao": []
+        }
+      }
+    }
+  }
+]

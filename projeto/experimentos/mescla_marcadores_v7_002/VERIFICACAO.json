@@ -1,0 +1,11 @@
+{
+  "testes": 25,
+  "resultado": "OK",
+  "reproducao": {
+    "total": 659,
+    "comparadas_com_simulacao": 559,
+    "temas_decisoes_confianças_conferem": true
+  },
+  "entrega_anterior_preservada": true,
+  "precisao_juridica_verificada": false
+}

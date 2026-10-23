@@ -1,0 +1,21 @@
+{
+  "versao": "roteamento_comando_v18_1",
+  "politicas": [
+    "comando_prioritario",
+    "suplemento_revisoes"
+  ],
+  "adaptativo": true,
+  "cronologia": "Depois de observar a referência e as saídas individuais V18 nas 559; escolha da composição somente nas 100 antes de calcular sua união no alvo.",
+  "comando_prioritario": "Nova regra em todos os casos acionados; controle anterior nos demais.",
+  "suplemento_revisoes": "Mantém publicadas antigas; aplica nova regra só às revisões com identificador forte. Não é aplicação universal da regra estrita.",
+  "publicacao": "Depende da política calibrada da rota, nunca só do gatilho.",
+  "escolha": "Precisão empírica >=95%, suporte >=10; maior publicação na referência. Sem ajustar temas, pesos ou cortes por ID.",
+  "precisao_real_alvo": null,
+  "calibracao_global_da_composicao": false,
+  "promove_entrega": false,
+  "codigo_sha256": {
+    "contexto_v18/roteamento.py": "80e789ee5ed71d52a6e95fe8fd40aadd3db60769901a353189bca281b4016fd7",
+    "rotear_comando_v18.py": "4cdace9df3e9f71b6358d95ac802559a519a5ac7badc74100c760526da228b84",
+    "testar_roteamento_comando_v18.py": "65ce35950f8cd73dd2d8341fdce6df89a8bae9f1786420bf1205582a5f283e9b"
+  }
+}

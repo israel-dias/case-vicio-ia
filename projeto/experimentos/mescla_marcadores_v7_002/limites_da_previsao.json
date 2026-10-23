@@ -1,0 +1,16 @@
+{
+  "diagnostico": {
+    "mescla_condicional": {
+      "cobertura": 0.516994633273703,
+      "media_confiancas_publicadas": 0.8684116810664223,
+      "limiar": 0.6795163390736602
+    },
+    "roteamento_sem_foco": {
+      "cobertura": 0.40608228980322003,
+      "media_confiancas_publicadas": 0.9031140431369973,
+      "limiar": 0.7681439906000237
+    }
+  },
+  "precisao_real_559": null,
+  "uso": "Médias das probabilidades do modelo, sem confirmação jurídica e sem nova previsão oficial de entrega."
+}

@@ -1,0 +1,6 @@
+{
+  "mesmos_csvs_e_resumo": true,
+  "tema_e_confianca_preservados": true,
+  "retreino": false,
+  "recalibracao": false
+}

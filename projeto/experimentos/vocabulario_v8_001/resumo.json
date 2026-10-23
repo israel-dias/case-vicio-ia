@@ -1,0 +1,85 @@
+{
+  "comparacao_100": {
+    "controle_v7": {
+      "acertos_publicadas": 16,
+      "acertos_top1": 67,
+      "avaliadas": 100,
+      "brier": 0.16770530300709335,
+      "cobertura": 0.16,
+      "erros_publicadas": 0,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": true,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 1.0,
+      "publicar": 16,
+      "revisar": 84
+    },
+    "vocabulario_fixo": {
+      "acertos_publicadas": 13,
+      "acertos_top1": 67,
+      "avaliadas": 100,
+      "brier": 0.1720285715280953,
+      "cobertura": 0.13,
+      "erros_publicadas": 0,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": true,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 1.0,
+      "publicar": 13,
+      "revisar": 87
+    },
+    "vocabulario_reordena": {
+      "acertos_publicadas": 14,
+      "acertos_top1": 70,
+      "avaliadas": 100,
+      "brier": 0.1705778974487807,
+      "cobertura": 0.14,
+      "erros_publicadas": 0,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": true,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 1.0,
+      "publicar": 14,
+      "revisar": 86
+    }
+  },
+  "entrega_alterada": false,
+  "grupos_vocabulario": 16,
+  "padroes_vocabulario": 53,
+  "precisao_559_medida": false,
+  "questoes_com_vocabulario": 241,
+  "segundos": 33.64360411200005,
+  "simulacoes_559": {
+    "vocabulario_fixo": {
+      "cobertura": 0.23613595706618962,
+      "fora": 0,
+      "limiar": 0.8623258806127017,
+      "media_confiancas_publicadas": 0.9298417593387791,
+      "mudancas_tema": 0,
+      "precisao_real": null,
+      "promovida_para_entrega": false,
+      "publicar": 132,
+      "publicar_para_revisar": 159,
+      "recentes_300_publicadas": 69,
+      "revisar": 427,
+      "revisar_para_publicar": 2
+    },
+    "vocabulario_reordena": {
+      "cobertura": 0.23613595706618962,
+      "fora": 0,
+      "limiar": 0.8741347531291076,
+      "media_confiancas_publicadas": 0.9368452694992988,
+      "mudancas_tema": 29,
+      "precisao_real": null,
+      "promovida_para_entrega": false,
+      "publicar": 132,
+      "publicar_para_revisar": 161,
+      "recentes_300_publicadas": 68,
+      "revisar": 427,
+      "revisar_para_publicar": 4
+    }
+  }
+}

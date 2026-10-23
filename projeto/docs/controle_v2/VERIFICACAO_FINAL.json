@@ -1,0 +1,31 @@
+{
+  "testes": {
+    "suite_principal": 104,
+    "suite_experimento": 19,
+    "total": 123,
+    "resultado": "OK"
+  },
+  "regeneracao_csv_sem_rotulos_sem_rede_sem_treino": "OK",
+  "reproducao_exata_csv_e_previsao": "OK",
+  "pdf_paginas": 4,
+  "memo_na_pagina": 4,
+  "pdf_conferido_visualmente": true,
+  "precisao_real_559": null,
+  "precisao_prevista": 0.9034042108552631,
+  "meta_95_demonstrada": false,
+  "resumo_avaliacao_559": {
+    "cobertura": 0.27191413237924866,
+    "decisoes": {
+      "fora": 0,
+      "publicar": 152,
+      "revisar": 407
+    },
+    "questoes": 559
+  },
+  "arquivos_raiz_sha256": {
+    "publicacao.csv": "c26e88c9dfe0217c547defafcd6848ed30e5bb0235f51a3d6e2f4e8cf0a7eecb",
+    "previsao.txt": "6a9ce36b3e9c0f2ed3ed0198cfa820892c57bb31727f3ff86167e572f3ffb412",
+    "relatorio.md": "a25522d51dc5e1293564e7352cb6fd9306f3ea1438d857ff15e59897f0f69cd5",
+    "relatorio.pdf": "4e1ebf9f34354a6fe7da1810e78edc193c2557e2470ecdabfc8949b1e32d4ebe"
+  }
+}

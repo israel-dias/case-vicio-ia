@@ -1,0 +1,109 @@
+"""Novos usos da evidência lexical; ranking e dados originais preservados."""
+from collections import Counter
+from compatibilidade_v2 import features as f
+from melhorias_v3 import aprendizado as a
+from experimento_atributos_v11 import modelo as v11
+from mescla_marcadores_v7.texto import rotear, alternativas_tematicas
+
+BASE = [n for n in v11.ATRIBUTOS if n not in v11.REMOCOES['sem_apoio_duplo']]
+GRUPOS = {
+    'relativa': ['palavra_vantagem_concorrente','palavra_vantagem_relativa'],
+    'foco': ['palavra_foco_catalogo','palavra_foco_menos_completo'],
+    'alternativas': ['palavra_enunciado_sem_alt_tematicas','palavra_alt_tematicas'],
+}
+# Fixados antes da avaliação. C não é escolhido nas 559 ou por ID.
+VARIANTES = {
+    'controle_v11': {'grupos': [], 'C': 1.0},
+    'palavra_relativa': {'grupos': ['relativa'], 'C': 1.0},
+    'palavra_foco': {'grupos': ['foco'], 'C': 1.0},
+    'alternativas_condicionais': {'grupos': ['alternativas'], 'C': 1.0},
+    'regularizacao_03': {'grupos': [], 'C': 0.3},
+    'combinado': {'grupos': ['relativa','foco','alternativas'], 'C': 0.3},
+}
+
+def nomes(variante):
+    if variante not in VARIANTES: raise ValueError('Variante desconhecida.')
+    return BASE + [n for g in VARIANTES[variante]['grupos'] for n in GRUPOS[g]]
+
+def vantagens(valores):
+    v=f.np.asarray(valores,dtype=float)
+    if v.ndim!=1 or not len(v) or not f.np.isfinite(v).all(): raise ValueError('Vetor inválido.')
+    if len(v)==1: return f.np.zeros((1,2))
+    ordem=f.np.argsort(v);maximo=v[ordem[-1]]
+    outros=f.np.full(len(v),maximo);outros[ordem[-1]]=v[ordem[-2]]
+    d=v-outros
+    return f.np.column_stack([d,d/f.np.maximum(f.np.maximum(v,outros),1e-12)])
+
+def agregar_palavras(cat,texto):
+    vetor=cat.palavras.transform([f.normalizar(texto)])
+    docs=(vetor@cat.wp.T).toarray()[0]
+    return f.np.asarray([f.np.mean(sorted(docs[js],reverse=True)[:3]) for js in cat.membros])
+
+def preparar(cat,dic,qs):
+    pp=v11.preparar(cat,dic,qs)
+    ix=[v11.ATRIBUTOS.index(n) for n in BASE]
+    j=v11.ATRIBUTOS.index('palavra_completo')
+    je=v11.ATRIBUTOS.index('palavra_enunciado');ja=v11.ATRIBUTOS.index('palavra_alternativas')
+    for i,p in pp.items():
+        # Identificadores/ranking/rota v9-v11 são mantidos sem modificação.
+        x=p['x_mescla'];global_=x[:,j]
+        q,_=rotear(qs[i],cat.temas)
+        alt=alternativas_tematicas(q)
+        foco=agregar_palavras(cat,p['foco']['texto_foco']) if p['foco']['presente'] else f.np.zeros(len(cat.familias))
+        p['novos_v12']={
+            'relativa': vantagens(global_),
+            'foco': f.np.column_stack([foco,(foco-global_)*int(p['foco']['presente'])]),
+            'alternativas': f.np.column_stack([x[:,je]*int(not alt),x[:,ja]*int(alt)]),
+        }
+        p['base_v12']=x[:,ix].copy()
+    return pp
+
+def matriz(p,variante):
+    nomes(variante)
+    partes=[p['base_v12']]+[p['novos_v12'][g] for g in VARIANTES[variante]['grupos']]
+    return f.np.column_stack(partes)
+
+def dados_treino(pp,ys,cat,variante):
+    if not pp or set(pp)!=set(ys): raise ValueError('Treino vazio ou rótulos externos.')
+    cont=Counter(p['hash'] for p in pp.values());xx=[];yy=[];ww=[]
+    for i,p in pp.items():
+        xx.extend(matriz(p,variante));yy.extend(int(f.aceito(t,ys[i],cat.temas)) for t in cat.familias)
+        ww.extend([1/cont[p['hash']]]*len(cat.familias))
+    return f.np.asarray(xx),f.np.asarray(yy),f.np.asarray(ww)
+
+def ajustar(pp,ys,cat,variante):
+    # Mesmo caminho/layout numérico legado para reproduzir o controle exato.
+    # A padronização de uma cópia C vs F pode mudar o ponto de parada do solver.
+    if variante=='controle_v11':
+        return v11.ajustar(v11.matriz_treino(pp,ys,cat),'sem_apoio_duplo')
+    x,y,w=dados_treino(pp,ys,cat,variante)
+    if VARIANTES[variante]['C']==1.0:
+        return v11.ajustar_linear_eficiente(x,y,w,True)
+    if len(set(y))<2: return f.ajustar_linear(x,y,w,False)
+    scaler=f.StandardScaler().fit(x,sample_weight=w);z=scaler.transform(x)
+    total=float(sum(w));massas={c:float(sum(w[y==c])) for c in set(y)}
+    pesos=w*f.np.asarray([total/(2*massas[c]) for c in y])
+    lr=f.LogisticRegression(C=VARIANTES[variante]['C'],solver='liblinear',max_iter=1500,random_state=2026)
+    with f.threadpool_limits(limits=2): lr.fit(z,y,sample_weight=pesos)
+    return {'dimensao':x.shape[1],'media':scaler.mean_.tolist(),'escala':scaler.scale_.tolist(),
+        'coeficientes':lr.coef_[0].tolist(),'intercepto':float(lr.intercept_[0])}
+
+def sinais(pp,mod,cat,variante):
+    if variante=='controle_v11': return v11.sinais(pp,mod,cat,'sem_apoio_duplo')
+    rr=[]
+    for i,p in pp.items():
+        k=int(f.ordenar(p['ranking_vocabulario_reordena'])[0])
+        rr.append({'id':i,'tema_central_id':cat.familias[k],
+            'sinal':float(a.escore_linear(matriz(p,variante)[[k]],mod)[0]),
+            'elegivel':bool(not p['rota']['conteudo_insuficiente'] and max(p['scores'][k],p['scores_novos'][k],p['scores_foco'][k],p['score_vocabulario'][k])>=.03)})
+    return rr
+
+def aplicar(pp,m,cat,variante):
+    if m['atributos']!=nomes(variante): raise ValueError('Atributos incompatíveis.')
+    ss=sinais(pp,m['modelo'],cat,variante)
+    return [{**r,'confianca':float(c),'decisao':f.decidir(r,c,m['politica'])}
+        for r,c in zip(ss,a.confiancas(ss,m['calibrador']))]
+
+def combinar(novas,controle):
+    # Preserva tanto os acertos quanto os erros do controle; nunca consulta rótulos.
+    return v11.preservar_publicadas(novas,controle)

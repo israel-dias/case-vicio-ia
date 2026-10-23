@@ -1,0 +1,206 @@
+{
+  "testes": 60,
+  "resultado_testes": "OK",
+  "log": "testes_v18_definitivos.log",
+  "arquivos_anteriores_preservados": 766,
+  "alteracoes_anteriores": [],
+  "reproducoes": {
+    "contexto_v18_002": {
+      "variantes": {
+        "controle_fusao": {
+          "questoes": 559,
+          "publicar": 216,
+          "reproducao_exata": true
+        },
+        "comando_estrito": {
+          "questoes": 559,
+          "publicar": 196,
+          "reproducao_exata": true
+        },
+        "passagens_apoio": {
+          "questoes": 559,
+          "publicar": 175,
+          "reproducao_exata": true
+        },
+        "passagens_pares": {
+          "questoes": 559,
+          "publicar": 0,
+          "reproducao_exata": true
+        },
+        "estrito_pares": {
+          "questoes": 559,
+          "publicar": 0,
+          "reproducao_exata": true
+        }
+      },
+      "previsoes_conferidas": 2795,
+      "rede_rotulos_avaliador_treino_recalibracao_bloqueados": true,
+      "selecionada_pelo_comando_publico": "controle_fusao",
+      "entrada_sha256": "3e22b72926d964154e8449cc1a38cd8f05af79af2d08337dc2526cb6aaea5d20",
+      "csv_resultante_sha256": "6139dff16ae9d1f057f0d61dd4acd8b01c256e5a104e4b268a1f7091c6eba8b2",
+      "precisao_real_559": null,
+      "promove_entrega": false
+    },
+    "comando_extraido_v18_001": {
+      "variantes": {
+        "controle_fusao": {
+          "questoes": 559,
+          "publicar": 216,
+          "reproducao_exata": true
+        },
+        "comando_estrito": {
+          "questoes": 559,
+          "publicar": 140,
+          "reproducao_exata": true
+        },
+        "passagens_apoio": {
+          "questoes": 559,
+          "publicar": 90,
+          "reproducao_exata": true
+        }
+      },
+      "previsoes_conferidas": 1677,
+      "rede_rotulos_avaliador_treino_recalibracao_bloqueados": true,
+      "selecionada_pelo_comando_publico": "controle_fusao",
+      "entrada_sha256": "3e22b72926d964154e8449cc1a38cd8f05af79af2d08337dc2526cb6aaea5d20",
+      "csv_resultante_sha256": "6139dff16ae9d1f057f0d61dd4acd8b01c256e5a104e4b268a1f7091c6eba8b2",
+      "precisao_real_559": null,
+      "promove_entrega": false
+    },
+    "comando_foco_v18_001": {
+      "variantes": {
+        "controle_fusao": {
+          "questoes": 559,
+          "publicar": 216,
+          "reproducao_exata": true
+        },
+        "comando_estrito": {
+          "questoes": 559,
+          "publicar": 142,
+          "reproducao_exata": true
+        },
+        "passagens_apoio": {
+          "questoes": 559,
+          "publicar": 125,
+          "reproducao_exata": true
+        }
+      },
+      "previsoes_conferidas": 1677,
+      "rede_rotulos_avaliador_treino_recalibracao_bloqueados": true,
+      "selecionada_pelo_comando_publico": "controle_fusao",
+      "entrada_sha256": "3e22b72926d964154e8449cc1a38cd8f05af79af2d08337dc2526cb6aaea5d20",
+      "csv_resultante_sha256": "6139dff16ae9d1f057f0d61dd4acd8b01c256e5a104e4b268a1f7091c6eba8b2",
+      "precisao_real_559": null,
+      "promove_entrega": false
+    },
+    "comando_seguro_v18_001": {
+      "variantes": {
+        "controle_fusao": {
+          "questoes": 559,
+          "publicar": 216,
+          "reproducao_exata": true
+        },
+        "comando_estrito": {
+          "questoes": 559,
+          "publicar": 139,
+          "reproducao_exata": true
+        },
+        "passagens_apoio": {
+          "questoes": 559,
+          "publicar": 138,
+          "reproducao_exata": true
+        }
+      },
+      "previsoes_conferidas": 1677,
+      "rede_rotulos_avaliador_treino_recalibracao_bloqueados": true,
+      "selecionada_pelo_comando_publico": "controle_fusao",
+      "entrada_sha256": "3e22b72926d964154e8449cc1a38cd8f05af79af2d08337dc2526cb6aaea5d20",
+      "csv_resultante_sha256": "6139dff16ae9d1f057f0d61dd4acd8b01c256e5a104e4b268a1f7091c6eba8b2",
+      "precisao_real_559": null,
+      "promove_entrega": false
+    },
+    "comando_integral_v18_001": {
+      "variantes": {
+        "controle_fusao": {
+          "questoes": 559,
+          "publicar": 216,
+          "reproducao_exata": true
+        },
+        "comando_estrito": {
+          "questoes": 559,
+          "publicar": 139,
+          "reproducao_exata": true
+        },
+        "passagens_apoio": {
+          "questoes": 559,
+          "publicar": 138,
+          "reproducao_exata": true
+        }
+      },
+      "previsoes_conferidas": 1677,
+      "rede_rotulos_avaliador_treino_recalibracao_bloqueados": true,
+      "selecionada_pelo_comando_publico": "controle_fusao",
+      "entrada_sha256": "3e22b72926d964154e8449cc1a38cd8f05af79af2d08337dc2526cb6aaea5d20",
+      "csv_resultante_sha256": "6139dff16ae9d1f057f0d61dd4acd8b01c256e5a104e4b268a1f7091c6eba8b2",
+      "precisao_real_559": null,
+      "promove_entrega": false
+    },
+    "conceitos_v18_001": {
+      "variantes": {
+        "controle_fusao": {
+          "questoes": 559,
+          "publicar": 216,
+          "reproducao_exata": true
+        },
+        "comando_estrito": {
+          "questoes": 559,
+          "publicar": 139,
+          "reproducao_exata": true
+        }
+      },
+      "previsoes_conferidas": 1118,
+      "rede_rotulos_avaliador_treino_recalibracao_bloqueados": true,
+      "selecionada_pelo_comando_publico": "controle_fusao",
+      "entrada_sha256": "3e22b72926d964154e8449cc1a38cd8f05af79af2d08337dc2526cb6aaea5d20",
+      "csv_resultante_sha256": "6139dff16ae9d1f057f0d61dd4acd8b01c256e5a104e4b268a1f7091c6eba8b2",
+      "precisao_real_559": null,
+      "promove_entrega": false
+    },
+    "roteamento_comando_v18_001": {
+      "politicas": {
+        "comando_prioritario": {
+          "reproducao_exata": true,
+          "publicar": 380
+        },
+        "suplemento_revisoes": {
+          "reproducao_exata": true,
+          "publicar": 395
+        }
+      },
+      "previsoes_conferidas": 1118,
+      "rede_rotulos_avaliador_treino_recalibracao_bloqueados": true,
+      "precisao_real_559": null
+    },
+    "roteamento_extraido_v18_001": {
+      "politicas": {
+        "comando_prioritario": {
+          "reproducao_exata": true,
+          "publicar": 338
+        },
+        "suplemento_revisoes": {
+          "reproducao_exata": true,
+          "publicar": 394
+        }
+      },
+      "previsoes_conferidas": 1118,
+      "rede_rotulos_avaliador_treino_recalibracao_bloqueados": true,
+      "precisao_real_559": null
+    }
+  },
+  "previsoes_conferidas": 12857,
+  "precisao_real_559": null,
+  "avaliacao_100": "Desenvolvimento exposto e reutilizado; não é teste externo cego.",
+  "promove_entrega": false,
+  "push_realizado": false,
+  "email_enviado": false
+}

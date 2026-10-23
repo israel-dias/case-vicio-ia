@@ -1,0 +1,155 @@
+{
+  "corretas": 11,
+  "precisao": 0.5238095238095238,
+  "probabilidade_calibrada": false,
+  "publicacoes_por_marcador": 21,
+  "questoes": [
+    {
+      "correto": 0,
+      "foco": "a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é crime de furto qualificado praticado em 15/5/2022, Carlos é",
+      "fora_oficial": 0,
+      "id": "Q0005",
+      "tema_central_id": "5157"
+    },
+    {
+      "correto": 1,
+      "foco": "crimes praticados em detrimento da administração pública",
+      "fora_oficial": 0,
+      "id": "Q0060",
+      "tema_central_id": "5087"
+    },
+    {
+      "correto": 0,
+      "foco": "Analise abaixo, caracterizando-a com um dos tipos de crime contra a Administração Pública",
+      "fora_oficial": 0,
+      "id": "Q0067",
+      "tema_central_id": "6719"
+    },
+    {
+      "correto": 1,
+      "foco": "sistemas processuais penais e aos seus princípios reitores",
+      "fora_oficial": 0,
+      "id": "Q0079",
+      "tema_central_id": "5580"
+    },
+    {
+      "correto": 0,
+      "foco": "aplicação de pena, cominação de penas, regime de penas, medidas de segurança e livramento condicional",
+      "fora_oficial": 0,
+      "id": "Q0091",
+      "tema_central_id": "5199"
+    },
+    {
+      "correto": 1,
+      "foco": "revisão criminal",
+      "fora_oficial": 0,
+      "id": "Q0103",
+      "tema_central_id": "5476"
+    },
+    {
+      "correto": 0,
+      "foco": "o entendimento sumulado dos Tribunais Superiores",
+      "fora_oficial": 0,
+      "id": "Q0150",
+      "tema_central_id": "5524"
+    },
+    {
+      "correto": 1,
+      "foco": "causas de impedimento e suspeição do juiz, de acordo com o Código de Processo Penal",
+      "fora_oficial": 0,
+      "id": "Q0169",
+      "tema_central_id": "5490"
+    },
+    {
+      "correto": 0,
+      "foco": "recursos no Código de Processo Penal",
+      "fora_oficial": 0,
+      "id": "Q0191",
+      "tema_central_id": "5512"
+    },
+    {
+      "correto": 0,
+      "foco": "a situação hipotética acima descrita",
+      "fora_oficial": 0,
+      "id": "Q0208",
+      "tema_central_id": "5199"
+    },
+    {
+      "correto": 1,
+      "foco": "o sistema de juizados especiais criminais, previsto na Lei n.° 9.099/1995, e a jurisprudência do STJ e STF sobre a matéria",
+      "fora_oficial": 0,
+      "id": "Q0216",
+      "tema_central_id": "4701"
+    },
+    {
+      "correto": 1,
+      "foco": "penas e das medidas de segurança",
+      "fora_oficial": 0,
+      "id": "Q0221",
+      "tema_central_id": "5184"
+    },
+    {
+      "correto": 0,
+      "foco": "causas de exclusão de culpabilidade, ao concurso de pessoas, às finalidades das penas e às medidas de segurança",
+      "fora_oficial": 0,
+      "id": "Q0230",
+      "tema_central_id": "5184"
+    },
+    {
+      "correto": 1,
+      "foco": "o prazo legal que o promotor tem para oferecer a denúncia e que esse prazo venceria em um dia útil, o trâmite do inquérito, o prazo utilizado pelo delegado, o recebimento e a vista do inquérito pelo promotor e a denúncia contra Pedro, somando-se todos esses atos e prazos, desde a prisão, teria que ser oferecida em",
+      "fora_oficial": 0,
+      "id": "Q0240",
+      "tema_central_id": "5498"
+    },
+    {
+      "correto": 1,
+      "foco": "prescrição",
+      "fora_oficial": 0,
+      "id": "Q0245",
+      "tema_central_id": "5185"
+    },
+    {
+      "correto": 0,
+      "foco": "as disposições da Lei nº 9.099/1995, caso Tício não seja encontrado para ser citado, o juiz",
+      "fora_oficial": 0,
+      "id": "Q0275",
+      "tema_central_id": "5102"
+    },
+    {
+      "correto": 1,
+      "foco": "preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais",
+      "fora_oficial": 0,
+      "id": "Q0290",
+      "tema_central_id": "4701"
+    },
+    {
+      "correto": 0,
+      "foco": "as afirmativas abaixo, é CORRETO afirmar que",
+      "fora_oficial": 0,
+      "id": "Q0325",
+      "tema_central_id": "5147"
+    },
+    {
+      "correto": 1,
+      "foco": "conduta de Diogo, pode-se afirmar que",
+      "fora_oficial": 0,
+      "id": "Q0336",
+      "tema_central_id": "5157"
+    },
+    {
+      "correto": 0,
+      "foco": "adequação típica da conduta e da incidência da agravante prevista no Art. 61, inciso II, alínea f, do Código Penal (Art. 61",
+      "fora_oficial": 0,
+      "id": "Q0345",
+      "tema_central_id": "5218"
+    },
+    {
+      "correto": 1,
+      "foco": "concurso formal impróprio ou imperfeito, tal como no concurso material, serão somadas as penas de todos os crimes praticados pelo agente. ( ) De acordo com o Código Penal brasileiro, no concurso de crimes, as penas de multa são aplicadas distinta e integralmente para cada crime",
+      "fora_oficial": 0,
+      "id": "Q0356",
+      "tema_central_id": "5066"
+    }
+  ]
+}

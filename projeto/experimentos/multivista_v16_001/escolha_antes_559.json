@@ -1,0 +1,16 @@
+{
+  "configuracao": "condicional_v15/70/preservar_v11",
+  "cumpre_comparacao_v15": true,
+  "elegiveis": [
+    "condicional_v15/calibrado/preservar_v11",
+    "condicional_v15/calibrado/preservar_com_guarda",
+    "condicional_v15/70/preservar_v11",
+    "condicional_v15/70/preservar_com_guarda",
+    "busca_multivista/calibrado/preservar_v11",
+    "busca_multivista/calibrado/preservar_com_guarda",
+    "reranking_multivista/calibrado/preservar_v11",
+    "reranking_multivista/calibrado/preservar_com_guarda"
+  ],
+  "fonte_escolha": "Somente desenvolvimento_100, antes das previsões nas 559.",
+  "promove_entrega": false
+}

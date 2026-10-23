@@ -1,0 +1,10 @@
+{
+  "questoes": 559,
+  "variante": "foco_contextual",
+  "corte": "70",
+  "politica": "preservar_v11",
+  "igualdade_decisao_tema_confianca": true,
+  "rede_bloqueada": true,
+  "folha_verdade_bloqueada": true,
+  "retreino_bloqueado": true
+}

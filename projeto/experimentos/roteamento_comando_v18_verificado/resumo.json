@@ -1,0 +1,18 @@
+{
+  "questoes": 559,
+  "publicar": 395,
+  "revisar": 164,
+  "fora": 0,
+  "cobertura": 0.7066189624329159,
+  "precisao_real_alvo": null,
+  "motivos_revisao": {
+    "Controle anterior preservado; rota de comando não aplicada.": 160,
+    "homonimo_sem_escopo_resolvido": 1,
+    "abaixo_do_limiar_calibrado": 3
+  },
+  "politica": "suplemento_revisoes",
+  "precisao_real_559": null,
+  "chamadas_llm": 0,
+  "promove_entrega": false,
+  "calibracao_global_da_composicao": false
+}

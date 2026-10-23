@@ -1,0 +1,19 @@
+{
+  "questoes": 559,
+  "publicar": 196,
+  "revisar": 363,
+  "fora": 0,
+  "cobertura": 0.35062611806797855,
+  "precisao_real_alvo": null,
+  "motivos_revisao": {
+    "abaixo_do_limiar_calibrado": 293,
+    "homonimo_sem_escopo_resolvido": 69,
+    "sem_evidencia;homonimo_sem_escopo_resolvido": 1
+  },
+  "variante": "comando_estrito",
+  "rotulos_lidos": false,
+  "treino_supervisionado": false,
+  "recalibracao": false,
+  "chamadas_llm": 0,
+  "promove_entrega": false
+}

@@ -1,0 +1,74 @@
+{
+  "etapa": "teste_politica_fixa_v1",
+  "metodo": "escopos_separados_media3",
+  "limiar_preservado": 0.6070580985325005,
+  "teste": {
+    "questoes": 20,
+    "acertos_top1_todas": 12,
+    "acerto_top1_todas": 0.6,
+    "publicar": 2,
+    "revisar": 18,
+    "fora": 0,
+    "cobertura": 0.1,
+    "acertos_publicadas": 2,
+    "erros_publicadas": 0,
+    "precisao_publicadas": 1.0,
+    "intervalo_binomial_95_publicadas": [
+      0.158113883008419,
+      1.0
+    ],
+    "limite_inferior_unilateral_95": 0.22360679774997894,
+    "meta_95_atingida_na_amostra": true,
+    "minimo_95_sustentado_por_limite_unilateral": false,
+    "confianca_publicar_fixada_na_calibracao": 0.8,
+    "brier_todas": 0.23142382271468143,
+    "por_ramo_referencia": {
+      "Criminologia": {
+        "questoes": 2,
+        "acertos_top1": 1,
+        "publicadas": 0,
+        "publicadas_corretas": 0
+      },
+      "Direito Penal - Legislação Especial": {
+        "questoes": 2,
+        "acertos_top1": 2,
+        "publicadas": 0,
+        "publicadas_corretas": 0
+      },
+      "FORA": {
+        "questoes": 2,
+        "acertos_top1": 0,
+        "publicadas": 0,
+        "publicadas_corretas": 0
+      },
+      "Penal": {
+        "questoes": 8,
+        "acertos_top1": 5,
+        "publicadas": 1,
+        "publicadas_corretas": 1
+      },
+      "Processo Penal": {
+        "questoes": 6,
+        "acertos_top1": 4,
+        "publicadas": 1,
+        "publicadas_corretas": 1
+      }
+    }
+  },
+  "metodo_ou_politica_alterados": false,
+  "questoes_sem_rotulo": {
+    "questoes": 559,
+    "previsoes_geradas": false
+  },
+  "tempo_execucao_segundos": 0.175,
+  "observacoes": [
+    "Regra e confiança foram verificadas e registradas antes de classificar o teste.",
+    "O teste não escolheu limiares, pesos, descrições ou exceções por ID.",
+    "Aprovação na amostra e comprovação estatística de precisão mínima são coisas distintas.",
+    "Com zero publicadas, a precisão é indefinida; não é 100%.",
+    "A confiança do CSV continua sendo a estimada na calibração, inclusive após ver o teste.",
+    "Os 100 rótulos foram vistos na conversa; não é teste externo inteiramente cego.",
+    "Todos os rótulos são de questões antigas; o teste não mede a qualidade nas 300 novas.",
+    "Repetir a mesma avaliação congelada é reprodução; não é uma nova amostra independente."
+  ]
+}

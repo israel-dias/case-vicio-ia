@@ -1,0 +1,21 @@
+{
+  "referencias_100": {
+    "questoes": 100,
+    "campos_comando_vazios": 30,
+    "comandos_extraidos": 22,
+    "identificador_forte_apos_extracao": 24
+  },
+  "antigas_259": {
+    "questoes": 259,
+    "campos_comando_vazios": 71,
+    "comandos_extraidos": 68,
+    "identificador_forte_apos_extracao": 48
+  },
+  "recentes_300": {
+    "questoes": 300,
+    "campos_comando_vazios": 300,
+    "comandos_extraidos": 133,
+    "identificador_forte_apos_extracao": 65
+  },
+  "duplicatas_texto_efetivo_referencias": []
+}

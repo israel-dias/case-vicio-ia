@@ -1,0 +1,36 @@
+{
+  "versao": "v5_sem_formato",
+  "testes": {
+    "testes_auditoria_v4.log": {
+      "quantidade": 10,
+      "segundos": 0.032,
+      "resultado": "OK"
+    },
+    "testes_flexivel_v5.log": {
+      "quantidade": 11,
+      "segundos": 1.916,
+      "resultado": "OK"
+    },
+    "testes_folha_v2.log": {
+      "quantidade": 19,
+      "segundos": 8.46,
+      "resultado": "OK"
+    },
+    "testes_melhorias_v3.log": {
+      "quantidade": 17,
+      "segundos": 2.245,
+      "resultado": "OK"
+    },
+    "testes_raiz.log": {
+      "quantidade": 104,
+      "segundos": 16.908,
+      "resultado": "OK"
+    }
+  },
+  "testes_aprovados": 161,
+  "artefato_reproduzido_byte_a_byte": true,
+  "csv_e_previsao_reproduzidos_byte_a_byte": true,
+  "559_predicoes_conferidas_com_simulacao_anterior": true,
+  "precisao_559_medida": false,
+  "meta_95_nas_559_comprovada": false
+}

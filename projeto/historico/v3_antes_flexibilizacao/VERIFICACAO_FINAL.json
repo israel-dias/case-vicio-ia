@@ -1,0 +1,20 @@
+{
+  "versao": "melhorias_v3_1",
+  "testes_novos": 17,
+  "testes_originais": 104,
+  "todos_passaram": true,
+  "csv_reproduzido_identico": true,
+  "previsao_reproduzida_identica": true,
+  "artefato_sem_decisoes_por_id": true,
+  "inferencias_sem_llm_rotulos_rede_treino": true,
+  "v2_original_integra": true,
+  "anexos_originais_inalterados": true,
+  "metodo_final": "referencias_fixa",
+  "questoes_alvo": 559,
+  "publicar_alvo": 175,
+  "revisar_alvo": 384,
+  "fora_alvo": 0,
+  "precisao_real_alvo": null,
+  "meta_95_alvo_comprovada": false,
+  "nota": "Aprovação de testes verifica o software e a reprodução, não acerto jurídico."
+}

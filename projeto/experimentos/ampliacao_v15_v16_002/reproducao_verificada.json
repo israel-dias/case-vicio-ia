@@ -1,0 +1,18 @@
+{
+  "questoes": 559,
+  "excluidos": 100,
+  "configuracao": "busca_multivista/calibrado/preservar_v15",
+  "decisoes_temas_confiancas_reproduzidos": true,
+  "base_v15_recalculada_igual": true,
+  "rede_rotulos_treino_calibracao_bloqueados": true,
+  "publicar": 394,
+  "revisar": 165,
+  "recentes_publicadas": 218,
+  "novas_publicacoes": [
+    "Q0095",
+    "Q0256"
+  ],
+  "publicacoes_anteriores_perdidas": 0,
+  "precisao_real": null,
+  "promove_entrega": false
+}

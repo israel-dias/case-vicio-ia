@@ -1,0 +1,37 @@
+{
+  "variantes": [
+    "titulos_diretos",
+    "relacoes_diretas",
+    "relacoes_alternativas"
+  ],
+  "controle": "v8_vocabulário_somente_busca",
+  "regra": "Publicar quando a regra produzir um único candidato; nas outras situações, preservar controle.",
+  "relacoes": "Última referência com título/sinônimo conhecido; caso contrário, enunciado efetivo completo.",
+  "rodada": 3,
+  "ajustes_posteriores": "Preserva rodada 2; Conduta/Resultado podem acionar apenas em expressões técnicas específicas versionadas, conforme orientação do candidato.",
+  "considerando_e_marcador": false,
+  "peso_contexto": 0.6,
+  "peso_alternativas": 0.4,
+  "margem_desambiguacao": 0.15,
+  "busca_de_hiperparametros": false,
+  "confianca": "Taxa suavizada Beta(1,1) dos acionamentos nos outros folds, excluindo textos duplicados. Não é piso de 80%.",
+  "avaliacao": "100 rótulos já expostos; experimento de desenvolvimento, não teste externo cego.",
+  "fora_automatico": false,
+  "sem_rotulo_559": "Somente contagens e alterações, sem precisão real.",
+  "promove_entrega": false,
+  "chamadas_llm": 0,
+  "arquivos_preservados_sha256": {
+    "publicacao.csv": "05921ae3cff5ee7336c08620530c4516825f3f7c69969a8cca3384cd65a70686",
+    "previsao.txt": "052ba667402f327bfef61a9b4c34b98f10b50382e6a39e26f740cfe439eefb03"
+  },
+  "codigo_sha256": {
+    "testar_relacoes_v9.py": "1ead9e01e28fa097fa261de81cd347586eb1b8d0fdbfdfe4eb668ec0e12a878d",
+    "experimento_relacoes_v9/regras.py": "98f20c8aae2efe974a86748d8b2681bbd77757f22360f3bb21e6ed7eefde5709"
+  },
+  "controle_modelo_sha256": "46d3df661b499cf620e4e10a49e6dd0a53a5fbfa7c7c043b3909031c5e6a8271",
+  "anexos_sha256": {
+    "questoes.jsonl": "318f1fea970633a4d84eb5a4dd071b2ae76ad3e49288a073ab381f61a09da3f3",
+    "temas.csv": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc",
+    "folha_verdade.csv": "c1412ce8d336ae248a2f0e46d8e34cbc07dd33c78af9ce6bbe1337c516ee8e3b"
+  }
+}

@@ -1,360 +1,660 @@
 id,decisao,tema_central_id,extras_ids,confianca,motivo
-Q0001,publicar,5524,5486;5527;5562,0.97,I exige desaforamento (prazo não é um ano); II exige distinguir impronúncia e recurso; III e IV tratam dos efeitos da absolvição sumária e desclassificação.
-Q0002,publicar,4378,,0.97,"A resposta depende da seletividade da criminalização secundária, e não de suposta propensão natural dos pobres."
-Q0003,publicar,5562,5475,0.97,O recurso da absolvição sumária do procedimento comum é apelação.
-Q0004,publicar,5480,5484;5483,0.96,"As cinco assertivas cobram competência: prerrogativa de prefeito, Justiça Federal e foro territorial."
-Q0005,publicar,5199,5203;5201,0.96,"É necessário computar o período depurador desde o livramento sem revogação e daí afastar a reincidência, corrigir a dosimetria e o regime inicial."
-Q0006,publicar,5157,5159;5160,0.96,I exige teorias de consumação do furto; II distingue roubo com violência imprópria de furto; III exige tentativa no roubo impróprio.
-Q0007,publicar,5468,,0.96,"O problema pede identificar espécies de ação para ameaça contra mulher, injúria e perseguição."
-Q0008,publicar,5201,,0.98,"Julga-se condição material da progressão de regime, ligada à reparação/devolução do produto de crime contra a administração."
-Q0009,publicar,5159,5158,0.97,A resposta exige furto com rompimento de obstáculo e afastamento da imunidade patrimonial diante de vítima de 60 anos.
-Q0010,publicar,4688,,0.95,O conjunto compara tipos e responsabilidade ambiental; o ramo da Lei 9.605 em Legislação Especial representa o objeto.
-Q0011,publicar,4702,5482,0.95,Ocultação do produto de corrupção exige Lavagem de Dinheiro como central; a competência federal é conteúdo adicional explicitamente julgado.
-Q0012,publicar,5569,,0.98,A resposta é apelação em dez dias no Juizado Especial Criminal.
-Q0013,publicar,5503,,0.97,"O EXCETO recai sobre homologar ANPP após decisão desclassificatória, fora da fase investigativa do juiz das garantias."
-Q0014,publicar,5477,,0.97,A assertiva nega de forma geral habeas corpus em restrição à liberdade de adolescente.
-Q0015,publicar,5500,,0.97,A resposta exige a regra de devolução do inquérito para diligências imprescindíveis.
-Q0016,publicar,5584,5519;5586;5589,0.96,I: vedação à preventiva de ofício; II: prisão especial por diploma; III: prazo da audiência de custódia.
-Q0017,revisar,5533,,0.68,Defesa preliminar do rito especial de funcionário público não corresponde automaticamente ao nó subordinado ao Ordinário. Falta nó com esse escopo específico; 5533 é sugestão para decisão pedagógica.
-Q0018,publicar,5540,,0.97,"O objeto é a exclusão/deslocamento da competência dos Juizados por conexão, impossibilidade de citação pessoal e complexidade."
-Q0019,publicar,5475,,0.97,É preciso distinguir efeitos civis da decisão penal e legítima defesa putativa.
-Q0020,revisar,5066,5203;5119;5159;5542;5541;5067,0.55,Cinco julgamentos de campos independentes incluem crimes do ECA sem nó correspondente explícito; sequência e alcance dos rótulos não confirmados. Extras não comprovam representação adequada do conjunto.
-Q0021,publicar,5503,,0.98,O julgamento exige saber se o prazo de implantação do juiz das garantias admite prorrogação.
-Q0022,publicar,5089,,0.98,A pergunta genérica se resolve pelo peculato culposo.
-Q0023,revisar,5524,,0.85,"Possíveis duas alternativas incorretas B/C; conferir original, interpretação da impronúncia e eventual anulação. Não é retenção por diversidade temática."
-Q0024,publicar,4385,4379,0.96,"As assertivas exigem Escola de Chicago/ecologia, associação diferencial/aprendizagem, colarinho branco e cifras negras."
-Q0025,publicar,5101,,0.98,"A conduta descrita é tráfico de influência, pois solicita vantagem a pretexto de influir em auditor."
-Q0026,publicar,4704,,0.96,"Delimitar unidade doméstica, família e relação íntima é o conhecimento necessário."
-Q0027,publicar,5488,,0.98,A solução depende de citação/intimação pessoal e ausência injustificada do acusado.
-Q0028,publicar,5526,,0.98,"As três referências normativas descrevem fases do rito do Júri: resposta, manifestação sobre preliminares e remessa ao MP por fato superveniente depois da pronúncia."
-Q0029,publicar,4684,,0.97,"O núcleo é prosseguir interrogatório sem o advogado escolhido pela pessoa, hipótese específica da Lei de Abuso de Autoridade."
-Q0030,publicar,5135,,0.98,"O enunciado reproduz constrangimento violento para trabalhar ou não trabalhar, tipificado como atentado contra a liberdade de trabalho."
-Q0031,publicar,4385,,0.97,É necessário interpretar a teoria da anomia para julgar a explicação sobre metas e normas.
-Q0032,publicar,5497,,0.98,A solução é representar ao juiz para exame de integridade mental durante o inquérito.
-Q0033,publicar,5519,,0.98,"O conjunto exige pressupostos e cabimento da prisão preventiva, que pode atingir primário e pessoa de bons antecedentes."
-Q0034,publicar,5477,5594,0.96,Pede-se o cabimento de habeas corpus para excluir prova ilícita em persecução que ameace a liberdade.
-Q0035,publicar,4706,,0.98,A alternativa correta exige o art. 11 da Lei Antiterrorismo: interesse da União e investigação pela PF.
-Q0036,publicar,5470,,0.95,A lesão corporal doméstica é de ação pública incondicionada: não cabe exigir confirmação de representação nem condicionar recebimento a audiência de retratação.
-Q0037,publicar,5118,,0.97,"A INCORRETA trata como particular a falsidade da CTPS ou documento previdenciário, que o CP enquadra no art. 297, §3º."
-Q0038,publicar,5583,,0.96,A prerrogativa correta é a proteção de dados e depoimentos do ofendido contra exposição.
-Q0039,fora,,,0.00,A resolução identifica cartel e crime contra a ordem econômica.
-Q0040,publicar,5562,5515,0.97,O conhecimento é o efeito suspensivo da apelação do Júri conforme a disciplina legal mencionada na prova.
-Q0041,publicar,5184,,0.97,"A alternativa plausível descreve a lógica manicomial; as demais confundem sistema vicariante, imputabilidade e Lei 10.216."
-Q0042,publicar,5222,,0.98,"A resposta descreve vontade de produzir o resultado, núcleo do dolo direto, em contraste com dolo eventual e culpa."
-Q0043,publicar,5201,,0.96,"A opção correta exige o regime inicial semiaberto do reincidente condenado a até quatro anos, presentes circunstâncias favoráveis."
-Q0044,publicar,5488,,0.98,A assertiva cobra revelia após citação pessoal e inexistência de confissão ficta no processo penal.
-Q0045,publicar,5091,,0.98,O desvio do que se recebeu indevidamente para recolher aos cofres públicos qualifica o excesso de exação.
-Q0046,publicar,5509,,0.97,A regra de prejuízo e instrumentalidade é a resposta; as opções testam vícios e saneamento no processo.
-Q0047,publicar,5164,5468,0.97,Exigem-se duas modalidades de dano qualificado e a ação privada para o dano com prejuízo considerável ao particular.
-Q0048,publicar,5193,,0.97,A resposta depende da natureza declaratória da concessão de indulto/comutação quando preenchidos os requisitos.
-Q0049,publicar,5152,,0.98,A solução depende da redação do induzimento/instigação ao suicídio após a Lei 13.968/2019: o tipo básico não exige lesão.
-Q0050,publicar,5557,,0.97,"Todas as alternativas tratam dos requisitos da colaboração premiada na Lei de Drogas: identificação, recuperação, voluntariedade e cumulação."
-Q0051,publicar,5182,,0.97,A resolução depende de extraterritorialidade e das condições para aplicação da lei brasileira a fato no exterior.
-Q0052,publicar,6734,,0.95,I e II exigem as razões de remição por trabalho e estudo; III erra ao estender o bônus a toda remição; IV erra ao tornar a perda de um terço obrigatória.
-Q0053,publicar,5541,,0.98,"A assertiva é resolvida pela ausência de coisa julgada material da homologação da transação penal, permitindo retomar a persecução por descumprimento."
-Q0054,publicar,5174,,0.98,A pergunta exige associar categorias dogmáticas de crimes a exemplos.
-Q0055,publicar,5550,5510,0.96,O objeto é a ordem de inquirição das testemunhas e os efeitos da atuação judicial.
-Q0056,publicar,5066,5070,0.97,"A resposta exige distinguir soma, exasperação e tratamento da multa nas espécies de concurso, com ressalva do continuado."
-Q0057,publicar,5176,,0.99,"Pede-se a definição das fases percorridas pelo delito, objeto expresso e restrito das fases do iter criminis."
-Q0058,publicar,4390,,0.96,A opção correta afirma que a vitimização é seletiva e atinge preferencialmente pobres.
-Q0059,publicar,4385,,0.93,"A crítica de Baratta à subcultura carcerária e às relações de poder e exclusão é abordagem sociológica da criminalidade, sustentando 4385."
-Q0060,publicar,5093,,0.97,A resposta exige a majorante da corrupção ativa quando o funcionário retarda/omite o ato.
-Q0061,publicar,6734,,0.95,"O conhecimento necessário é falta grave e seus efeitos no processo de execução: regime aberto, remição, indulto e exame criminológico."
-Q0062,publicar,5182,,0.98,A pergunta delimita extraterritorialidade incondicionada em crime contra patrimônio de sociedade de economia mista brasileira no exterior.
-Q0063,publicar,4704,5522,0.95,O conjunto cobra o regime de medidas protetivas da LMP.
-Q0064,revisar,5191,5165,0.76,Data e regime da extinção de punibilidade por pagamento após trânsito em julgado afetam o conhecimento decisivo. Conferir fonte e contexto antes de liberar.
-Q0065,publicar,5161,,0.98,"A resolução exige qualificadoras e consumação da extorsão mediante sequestro, abrangida pelo tema Extorsão."
-Q0066,publicar,4373,,0.98,"A característica correta é o método empírico-científico da escola positivista, em contraste com livre-arbítrio clássico."
-Q0067,publicar,5091,,0.98,A exigência de dinheiro pelo policial em razão da função caracteriza concussão.
-Q0068,revisar,5096,,0.77,"B indica condescendência, mas E e a pista de anulação exigem conferir versão oficial. Possível problema de unicidade da resposta; pista não é anulação confirmada."
-Q0069,publicar,5173,,0.99,A enumeração seguida de fórmula genérica configura interpretação analógica.
-Q0070,publicar,5193,5201,0.96,"A solução exige computar prisão provisória no requisito temporal da comutação, articulando benefício e detração."
-Q0071,publicar,4688,,0.98,As majorantes dos crimes contra a flora estão no art.53 da Lei 9.605.
-Q0072,publicar,5592,,0.98,Pede-se a formação do convencimento judicial e o limite ao uso exclusivo de elementos do inquérito.
-Q0073,publicar,5093,,0.98,A promessa de vantagem para omitir ato de ofício resolve a questão como corrupção ativa.
-Q0074,publicar,5485,5181,0.96,"Depois do trânsito, a aplicação da lei mais benigna compete ao juízo da execução, não ao juízo de origem."
-Q0075,publicar,5191,,0.99,A alternativa incorreta inverte a regra de comunicabilidade da extinção da punibilidade entre crimes conexos.
-Q0076,publicar,4373,,0.99,"A resposta identifica Lombroso, Ferri e Garofalo como representantes fundadores do positivismo criminológico."
-Q0077,publicar,5170,5171;5174,0.95,A resposta correta reúne norma penal em branco invertida e crime de atentado.
-Q0078,publicar,4697,,0.96,A resposta exige omissão de cautela que permite a adolescente acessar arma.
-Q0079,publicar,5581,,0.97,As alternativas comparam características e escolha dos sistemas acusatório e inquisitivo.
-Q0080,publicar,4370,,0.98,A assertiva confunde modelo restaurador com castigo/reintegração.
-Q0081,publicar,4373,,0.98,I cobra objeto da escola clássica; II erra ao incluir Beccaria na positivista; III exige influência do etiquetamento na escola crítica.
-Q0082,publicar,5100,,0.98,A ameaça ao policial para impedir ato legal constitui resistência.
-Q0083,publicar,5226,5150,0.94,O desvio do curso causal no erro sucessivo/dolo geral é o conhecimento diferenciador.
-Q0084,publicar,4704,,0.97,"Vínculo trabalhista, matrícula de dependentes e ressarcimento ao SUS são assistência estatutária da LMP."
-Q0085,publicar,5076,,0.99,"A resposta exige comunicabilidade da condição funcional, elementar da concussão, ao particular que a conhece."
-Q0086,publicar,5092,,0.99,Aceitar promessa de vantagem indevida consuma corrupção passiva mesmo sem receber a estadia.
-Q0087,publicar,5521,,0.97,A resolução exige a extensão excepcional da prisão domiciliar executória para mãe em regime fechado com cuidado imprescindível.
-Q0088,publicar,4389,,0.98,Julga-se objeto da vitimologia e possibilidade de autonomia científica defendida por autores.
-Q0089,publicar,5172,,0.99,A resposta reúne os quatro vetores da insignificância.
-Q0090,revisar,5526,,0.74,A resposta compara réplica em Júri e procedimento originário superior; não há nó explícito para o segundo. Júri é sugestão parcial para o conhecimento comparativo exigido.
-Q0091,publicar,5201,,0.98,"O item cobra a vedação à progressão por salto, do fechado diretamente ao aberto."
-Q0092,publicar,5511,,0.99,As lacunas reproduzem os efeitos de nulidade por incompetência e o saneamento da ilegitimidade de representação.
-Q0093,publicar,5223,,0.98,A solução depende de distinguir a omissão imprópria do salva-vidas garantidor da omissão própria do surfista.
-Q0094,publicar,4385,,0.97,O conhecimento decisivo é o etiquetamento/criminologia crítica associado ao estigma de roupa prisional.
-Q0095,publicar,5197,,0.98,É necessário aplicar perdão judicial a lesão culposa e homicídio culposo quando as consequências atingem gravemente o próprio agente.
-Q0096,publicar,5486,,0.97,A solução identifica o desaforamento como derrogação da competência territorial.
-Q0097,publicar,4705,5067,0.94,"A alternativa E, confirmada no gabarito definitivo FGV/TJSE, exige reconhecer a coexistência da organização criminosa e da associação para o tráfico em concurso material nas condições descritas."
-Q0098,publicar,5548,,0.99,A resposta define confissão qualificada: admitir o fato e invocar uma tese defensiva favorável.
-Q0099,publicar,5100,5228,0.96,"A solução combina resistência consumada, responsabilização pelas lesões e exclusão da ilicitude da atuação proporcional dos fiscais."
-Q0100,publicar,5103,5224,0.97,"A resposta exige compreender estupro de vulnerável e erro sobre idade, que pode afastar o dolo."
-Q0101,publicar,4704,,0.97,Divórcio no Juizado e exclusão da partilha são regras próprias do art.14-A da LMP.
-Q0102,publicar,5574,,0.97,A alternativa correta exige reconhecer a sentença absolutória imprópria quando há imposição de medida de segurança.
-Q0103,publicar,5478,,0.99,"O item descreve finalidade e resultados possíveis da revisão criminal depois da coisa julgada, instituto explicitamente delimitado."
-Q0104,revisar,5500,5477,0.76,A redação atribui instauração do inquérito ao promotor e relaciona prosseguimento à autoridade coatora no HC. Distinção instauração/requisição e fundamento jurisprudencial não confirmados.
-Q0105,publicar,4385,,0.96,Julga-se a leitura da pichação pela criminologia cultural e sua relação com etiquetamento.
-Q0106,publicar,5157,,0.96,"A hipótese correta descreve fraude de refeição sem recursos para pagar, do art. 176."
-Q0107,publicar,5119,,0.99,"A solução depende da tipicidade de falsa identidade mesmo sob alegação de autodefesa, e não do princípio do silêncio em abstrato."
-Q0108,publicar,5561,5515,0.98,A decisão que nega reconhecer prescrição é impugnável por RESE e não tem efeito suspensivo legal.
-Q0109,publicar,4708,,0.95,"Adota-se 4708 como módulo do art.33 e suas figuras específicas, incluindo oferecimento eventual para consumo conjunto do §3º."
-Q0110,publicar,5480,,0.96,A resposta depende da competência para exceção da verdade envolvendo pessoa com foro por função.
-Q0111,publicar,4373,,0.98,A resposta exige a recepção racista do positivismo no Brasil e o papel de Nina Rodrigues.
-Q0112,publicar,4705,,0.98,"A pergunta exige diretamente a majorante do art.2º,§4º, da Lei12.850."
-Q0113,fora,,,0.00,"A resposta exige aplicação de prazo penal à prescrição disciplinar no PAD, independentemente da persecução criminal."
-Q0114,revisar,5507,5181,0.73,"ADI4424 em2012, norma processual mista e afirmações constitucionais/doutrinárias problemáticas exigem prova e resposta históricas. A sugestão temporal permanece, sem ocultar a pendência de conteúdo."
-Q0115,publicar,4385,,0.96,A narrativa de frustração e inadequação entre metas e meios é explicada pela teoria da anomia na hipótese de resolução.
-Q0116,publicar,5205,,0.95,A resposta sustentada é a suspensão da vedação à conversão em penas restritivas de direitos no tráfico.
-Q0117,publicar,5200,,0.96,A descrição corresponde à teoria agnóstica/negativa da pena.
-Q0118,publicar,5507,,0.98,A assertiva distingue incorretamente incidência temporal de lei processual nova para fiança e preventiva.
-Q0119,publicar,5194,,0.99,A resposta exige abolitio criminis com efeitos mesmo depois do trânsito em julgado.
-Q0120,publicar,5590,,0.96,"O julgamento exige momentos e iniciativa defensiva na proposição de provas, admitindo indicação no interrogatório."
-Q0121,publicar,5472,5196,0.98,A solução depende da indivisibilidade da ação privada e da renúncia tácita que se estende aos coautores conhecidos.
-Q0122,publicar,6734,,0.96,"O núcleo é remição executória: razão de trabalho/estudo, cumulação, bônus por conclusão e perda de dias."
-Q0123,revisar,4378,4385;5594,0.65,"Sequência exige conferir seletividade racial, criminalização e efeitos da discriminação na prova. Faltam referências para assegurar o conjunto e sua organização; não é mera homonímia."
-Q0124,publicar,4384,,0.97,"As cinco proposições comparam fundamentos legitimadores da pena em Kant, Hegel, Roxin, Binding e teorias relativas."
-Q0125,publicar,5485,5181,0.96,A resposta exige reconhecer a competência do juízo da execução para lei mais benéfica após trânsito.
-Q0126,publicar,5182,,0.97,A resposta correta delimita extraterritorialidade por crime contra fé pública de entes brasileiros.
-Q0127,publicar,5581,,0.96,A resolução exige discutir a possibilidade de condenar apesar do pedido absolutório do MP e sua relação com o sistema acusatório.
-Q0128,publicar,5468,5184,0.95,"Julga-se a definição doutrinária de ação de prevenção penal, voltada à medida de segurança."
-Q0129,publicar,5550,,0.98,Pede-se admissibilidade da oitiva de familiares e sua relevância no caso.
-Q0130,publicar,5160,5205,0.98,"O caso exige reconhecer roubo consumado com simulacro, sem majorante de arma de fogo, e vedação à substituição por restritiva em crime com grave ameaça."
-Q0131,publicar,5072,,0.98,A assertiva reduz indevidamente domínio do fato à prática executória.
-Q0132,publicar,5583,,0.96,I e III tratam da proteção de dados e acesso controlado; II erra ao vedar atuação de ofício.
-Q0133,publicar,5524,,0.98,"Julga-se a fase em que é admissível o desaforamento, ligado ao procedimento do Júri."
-Q0134,publicar,5092,,0.99,A descrição e a pena correspondem à corrupção passiva.
-Q0135,publicar,5169,,0.99,A resposta aplica autonomia da receptação em relação à identificação/punibilidade do autor do antecedente.
-Q0136,publicar,4704,,0.96,A incidência da LMP sobre violência ligada a relação íntima encerrada é o núcleo; alimentos são cenário.
-Q0137,publicar,5498,,0.97,"Pede-se o regime da investigação conduzida pelo delegado: indiciamento, avocação, remoção e tratamento institucional."
-Q0138,publicar,5205,,0.97,A opção correta exige a possibilidade de manter pena restritiva quando compatível com condenação superveniente.
-Q0139,publicar,5212,,0.97,A resposta identifica coculpabilidade e redução da possibilidade de autodeterminação por condições sociais.
-Q0140,publicar,5159,5545,0.96,A alternativa correta exige a perícia na qualificadora de rompimento de obstáculo e a exceção por desaparecimento dos vestígios.
-Q0141,publicar,4385,,0.98,A resposta é teoria ecológica/Escola de Chicago e sua relação com desorganização urbana.
-Q0142,fora,,,0.00,O conhecimento necessário é isenção tributária estadual de ITCD em doação/transmissão causa mortis.
-Q0143,publicar,5507,,0.99,"A regra geral processual é tempus regit actum, e não tempus delicti."
-Q0144,publicar,5562,,0.99,O conhecimento é cabimento de apelação contra sentença do juiz-presidente contrária à lei ou aos jurados.
-Q0145,publicar,4702,5084;4695,0.94,Objeto e antecedentes da lavagem são o núcleo das cinco assertivas.
-Q0146,publicar,5594,,0.97,"A resolução exige a admissão excepcional de prova em favor da inocência e análise de ilicitude em domicílio, sigilo e interceptação."
-Q0147,publicar,5500,,0.97,"A resposta exige a insuficiência de denúncia anônima isolada para instaurar inquérito ou medidas invasivas, sem diligências preliminares."
-Q0148,publicar,5203,5202,0.96,"A resolução exige tratar confissão, reincidência e múltiplas condenações na dosimetria, inclusive eventual uso de uma condenação como antecedente."
-Q0149,publicar,5500,,0.97,A resposta depende do procedimento para localização de vítima de tráfico de pessoas após ausência de manifestação judicial em doze horas.
-Q0150,publicar,4708,5181,0.96,O conjunto exige majorantes do tráfico e aplicação temporal da Lei de Drogas.
-Q0151,publicar,5523,,0.97,A resposta correta exige o aumento de fiança em até mil vezes conforme situação econômica.
-Q0152,publicar,5472,,0.98,"Pede-se a preferência entre sucessores com direito de queixa, começando pelo cônjuge."
-Q0153,publicar,5222,,0.98,A resposta identifica dolo geral em dois atos sucessivos que realizam o resultado pretendido.
-Q0154,publicar,5135,,0.95,A resposta exige a proibição criminal de teste de gravidez/esterilização no acesso ou manutenção do trabalho.
-Q0155,publicar,6734,,0.95,"O conhecimento é cabimento, condições e duração do RDD na execução, inclusive prisão provisória e suspeita de associação."
-Q0156,publicar,4688,,0.97,"O item compara sanções da Lei de Crimes Ambientais; a interdição por três anos nos crimes culposos, art.10, identifica a resposta D proposta."
-Q0157,publicar,5520,4693,0.98,"A solução combina prazo da prisão temporária e a hediondez da epidemia com morte, que leva ao prazo de trinta dias prorrogável."
-Q0158,publicar,4707,,0.98,A perda de cargo e a interdição pelo dobro da pena decorrem da Lei de Tortura.
-Q0159,publicar,5226,5150;5160,0.95,A causa superveniente produtora da morte distingue a tentativa de homicídio de Caio e o latrocínio de Lívio.
-Q0160,publicar,5205,,0.99,A assertiva ignora a possibilidade de substituição para reincidente genérico quando socialmente recomendável.
-Q0161,publicar,5588,5554,0.98,A tese principal é relaxar prisão ilegal por ingresso domiciliar sem justa causa/autorização.
-Q0162,publicar,4381,,0.98,"A solução diferencia controle social formal, exercido por órgãos estatais, e informal."
-Q0163,revisar,5133,4703,0.74,"O item usa a revogada Lei4.898/1965 e depende do regime histórico da correspondência prisional. Conferir prova/contexto, sem atualizar silenciosamente a resposta."
-Q0164,publicar,4703,,0.97,"A assistência ao preso/egresso, em especial alojamento e alimentação do art.25, sustenta LEP em Legislação Especial (4703)."
-Q0165,revisar,4705,,0.75,"O art.2º,§1º, da Lei12.850 foi alterado pela Lei15.245/2025. O central4705 está escolhido, mas versão temporal e formulação da resposta exigem conferência."
-Q0166,publicar,5521,,0.98,A resposta é prisão domiciliar ao condenado em regime aberto maior de setenta anos.
-Q0167,publicar,5524,,0.96,"As opções exigem pressupostos, legitimados e momento do desaforamento."
-Q0168,fora,,,0.00,A resolução identifica crimes contra a incerteza do resultado esportivo da Lei Geral do Esporte.
-Q0169,publicar,5492,,0.99,A resposta exige os efeitos da dissolução da afinidade sobre impedimento/suspeição e a exceção para familiares indicados.
-Q0170,publicar,5199,5188,0.96,"O conhecimento central é reincidência/primariedade e efeitos de condenações, representado por Teoria da Pena."
-Q0171,publicar,4693,,0.97,"A prova oficial e o gabarito preliminar indicam B, sobre inclusão do roubo com arma de fogo no rol de hediondos."
-Q0172,revisar,5484,5467,0.73,A resposta indicada exige imunidade parlamentar para recebimento de denúncia; falta nó explícito. Competência por função não é equivalente; verificar contexto e alcance da sugestão.
-Q0173,publicar,6734,,0.95,O objeto é regressão de regime e efeitos das faltas no processo de execução.
-Q0174,publicar,5133,,0.97,"A resposta exige a redação de invasão de dispositivo informático após 2021, que dispensou violação de mecanismo de segurança."
-Q0175,publicar,5092,,0.99,"O agente solicita vantagem para não autuar, caracterizando corrupção passiva; não há exigência constrangedora típica da concussão."
-Q0176,publicar,5081,,0.97,A resposta assistida identifica falso testemunho como delito de mão própria.
-Q0177,publicar,5547,,0.98,A INCORRETA permite usar silêncio para aumentar pena-base.
-Q0178,publicar,4697,,0.97,A resposta depende do alcance territorial e funcional do porte de arma da polícia judicial previsto no estatuto e regulamentação do CNJ.
-Q0179,publicar,4369,,0.98,Julga-se a prevenção secundária dirigida a grupos e contextos de risco.
-Q0180,publicar,5594,5554,0.98,A resposta exige reconhecer ilicitude da busca noturna sem ordem ou consentimento e inadmissibilidade das provas.
-Q0181,publicar,4695,,0.98,"Apenas III descreve crime contra a ordem tributária, pela nota fiscal."
-Q0182,revisar,5138,5154;5074;5122;5139,0.58,Cinco proposições incluem rixa sem nó explícito e quantidade de erros não confirmada. O central é parcial; extras não solucionam a lacuna do conjunto.
-Q0183,publicar,5561,,0.97,A conclusão perguntada é o recurso contra extinção da punibilidade e o prazo de cinco dias.
-Q0184,publicar,5518,,0.98,Julga-se o prazo de comunicação e remessa do flagrante.
-Q0185,publicar,6734,,0.96,"A resposta exige procedimento disciplinar com defesa e decisão judicial de regressão, sem esperar condenação pela arma."
-Q0186,publicar,5202,,0.99,Condenação por fato anterior com trânsito no curso da ação pode ser valorada como antecedente na primeira fase.
-Q0187,publicar,5201,,0.97,A resposta correta é condicionar progressão à reparação/devolução no crime contra a administração.
-Q0188,publicar,5228,,0.98,"Ofendículos relacionam-se à exclusão da ilicitude, por regular exercício de direito/defesa conforme a construção adotada."
-Q0189,publicar,5472,,0.97,A assertiva exige disponibilidade da ação penal privada e limite temporal até trânsito.
-Q0190,publicar,5540,,0.98,"A resposta correta é a regra territorial do Jecrim, lugar da prática da infração."
-Q0191,publicar,5560,5567;5561,0.99,I exige carta testemunhável; II exige RESE com retratação.
-Q0192,publicar,5092,5091,0.98,"A INCORRETA chama de concussão a conduta de solicitar vantagem, que é corrupção passiva."
-Q0193,publicar,5557,,0.97,"O conjunto exige negociação, benefícios e suspensão no acordo de colaboração."
-Q0194,publicar,5089,5076,0.99,O funcionário com guarda do computador pratica peculato e a elementar funcional se comunica ao particular que a conhece.
-Q0195,publicar,4373,,0.98,A resposta exige reconhecer a preocupação clássica com crime/pena jurídicos e limitação do poder punitivo.
-Q0196,publicar,4385,,0.98,O conhecimento é o caráter seletivo e constitutivo do controle penal no etiquetamento.
-Q0197,publicar,5499,,0.94,"A pergunta exige atribuições da Polícia Federal e do inquérito, não competência do juiz."
-Q0198,publicar,5073,,0.98,"O EXCETO é prévio acerto entre comandante e executores, desnecessário ao domínio da organização."
-Q0199,publicar,5219,,0.96,"A resposta exige o conceito de bem jurídico, objeto de tutela que orienta interpretação e sistematização dos tipos."
-Q0200,publicar,4705,,0.95,O conjunto cobra o crime de integrar organização e sua permanência.
-Q0201,publicar,5103,,0.99,A resposta exige irrelevância do consentimento e experiência sexual da menor de quatorze anos para estupro de vulnerável.
-Q0202,publicar,5224,5109,0.97,O desconhecimento de menoridade e condição de prostituição afasta dolo e não há modalidade culposa.
-Q0203,publicar,5496,,0.95,Julga-se medida patrimonial assecuratória sobre bens em nome de interpostas pessoas.
-Q0204,publicar,5507,,0.99,A assertiva descreve incidência imediata da lei processual com preservação dos atos anteriores.
-Q0205,publicar,5567,,0.97,A opção correta enuncia o cabimento de carta testemunhável contra denegação de recurso.
-Q0206,publicar,5583,,0.98,"A resposta exige oitiva prévia do MP para admissão do assistente, sem confundir manifestação com concordância vinculante."
-Q0207,publicar,6734,,0.96,"O julgamento exige prescrição da falta grave, isolamento, RDD, perda da remição e regressão."
-Q0208,publicar,5072,,0.97,O comando exige atribuir autoria e participação; a narrativa não mostra adesão de Carlos ao homicídio.
-Q0209,publicar,5499,,0.98,A resposta decorre da vedação legal de mencionar instauração de inquérito em atestado de antecedentes.
-Q0210,publicar,4697,5172,0.97,A resposta exige a atipicidade material excepcional de ínfima munição sem arma apta a disparar.
-Q0211,publicar,5583,,0.95,A INCORRETA permite manifestação de aprovação/desaprovação da plateia; o CPP a veda.
-Q0212,publicar,5488,,0.99,A assertiva transfere indevidamente à citação por hora certa os efeitos da citação por edital.
-Q0213,publicar,4708,,0.95,A notificação para defesa prévia em dez dias decorre do rito especial do art.55 da Lei de Drogas.
-Q0214,publicar,5494,,0.99,"Há repetição da ação pelos mesmos fatos sem trânsito da primeira, caracterizando litispendência e processamento da exceção em apartado."
-Q0215,publicar,5201,,0.99,A resposta depende de regime inicial semiaberto para primário com seis anos e circunstâncias favoráveis; gravidade abstrata não basta para fechado.
-Q0216,publicar,5539,,0.98,A resposta exige efeitos da composição civil em ação privada ou pública condicionada no Jecrim.
-Q0217,publicar,4371,,0.95,A resolução identifica a reforma penal setecentista como reorganização do poder de punir na leitura de Foucault.
-Q0218,publicar,5518,,0.99,"A polícia aguarda o retorno sem induzir o crime, caracterizando flagrante esperado."
-Q0219,revisar,5074,,0.78,"Falta integralmente a situação hipotética. A expressão participação sugere tema, mas o item não pode ser resolvido ou apresentado completo ao aluno."
-Q0220,publicar,5501,,0.98,A resposta exige a revisão ministerial do arquivamento e a possibilidade excepcional de remessa judicial por ilegalidade patente/teratologia.
-Q0221,publicar,5184,,0.95,A hipótese de resposta recai sobre duração e cessação de periculosidade na medida de segurança.
-Q0222,publicar,4375,,0.95,A opção correta identifica quarta velocidade/neopunitivismo e responsabilização internacional de dirigentes.
-Q0223,publicar,5086,,0.98,A solução exige a tipicidade estrita do ingresso de aparelho de comunicação: chip isolado não equivale ao aparelho descrito no art. 349-A.
-Q0224,publicar,5199,5207,0.98,É necessário distinguir condenação por crime e contravenção para reincidência e a exceção da condenação anterior só a multa para sursis.
-Q0225,publicar,5478,,0.99,"O STJ não examinou mérito, logo a revisão não se torna de sua competência só pelo não conhecimento do especial."
-Q0226,publicar,5544,,0.99,A INCORRETA troca coleta preferencial por exclusivamente perito oficial.
-Q0227,revisar,5103,4709,0.80,"O art.240 do ECA é conteúdo adicional necessário; não se sabe se4709 abrange produção de imagem ou o regime da Lei13.431. É lacuna de escopo, não mero número de temas."
-Q0228,publicar,5208,,0.98,"Pede-se o meio inicial de requerer livramento condicional ao juiz da execução: petição, sem decisão anterior a agravar."
-Q0229,publicar,5519,,0.98,A INCORRETA inclui clamor público como fundamento autônomo da preventiva.
-Q0230,publicar,5214,,0.98,A opção correta descreve erro de proibição indireto sobre limites de norma autorizadora e seus efeitos.
-Q0231,publicar,5224,,0.99,"A resposta exige que erro essencial exclua dolo e, inexistindo tráfico culposo, gere atipicidade."
-Q0232,publicar,5080,,0.98,"A resposta correta exige denunciação caluniosa por imputação consciente de ato ímprobo, com nome suposto."
-Q0233,publicar,5178,,0.99,A alternativa correta descreve desistência voluntária e responsabilidade pelos atos já praticados.
-Q0234,publicar,4382,,0.98,A resposta afasta hermenêutica dogmática do método empírico e interdisciplinar da criminologia.
-Q0235,publicar,5561,5515,0.98,"O CPP prevê RESE contra decisão que conclui pela incompetência, e não pela competência como escrito."
-Q0236,revisar,5590,5491;5495;5582;5592,0.64,Institutos independentes e afirmação de nulidade absoluta exigem conferir contexto. Provas é sugestão parcial; resposta e integridade jurídica ainda não confirmadas.
-Q0237,publicar,5178,,0.99,A solução distingue interrupção voluntária da execução e atuação eficaz posterior aos atos executórios para evitar resultado.
-Q0238,publicar,5523,,0.99,A assertiva reproduz a hipótese de reforço da fiança por mudança de classificação do delito.
-Q0239,publicar,5207,,0.98,A resposta correta descreve sursis simples e especial e suas condições.
-Q0240,publicar,5500,5473,0.97,"A resolução soma dez dias do inquérito preso e cinco para denúncia, considerando remessa/vista no mesmo dia útil e as regras de contagem."
-Q0241,publicar,5224,,0.97,"As quatro proposições exigem erro essencial e acidental, erro sobre objeto, aberratio ictus e aberratio criminis."
-Q0242,publicar,5560,,0.95,A resposta exige o processamento do recurso ordinário constitucional e o exame de admissibilidade pelo tribunal julgador.
-Q0243,publicar,5178,,0.99,"A devolução voluntária em crime sem violência, antes do recebimento da denúncia, é arrependimento posterior."
-Q0244,publicar,5091,,0.99,O verbo exigir em razão da função caracteriza concussão.
-Q0245,publicar,5185,,0.96,A resposta exige o termo inicial da prescrição do crime falimentar na homologação do plano extrajudicial.
-Q0246,publicar,5527,,0.99,"A semi-imputabilidade não autoriza absolvição sumária; presentes materialidade e indícios, cabe pronúncia."
-Q0247,publicar,5502,,0.99,A assertiva contém restrições incorretas de confissão no flagrante e irretroatividade do ANPP.
-Q0248,publicar,5087,5100;5092;5093;5091,0.99,"A correspondência exige julgar os cinco tipos: desobediência-d, resistência-c, passiva-a, ativa-e, concussão-b."
-Q0249,publicar,5492,,0.99,O item reproduz hipóteses de impedimento do juiz e parentesco em órgão coletivo.
-Q0250,publicar,5201,,0.98,"A resposta admite semiaberto na extorsão mediante sequestro, sem regime fechado automático por hediondez."
-Q0251,publicar,5191,5185;5193,0.98,I exige rol não taxativo das causas extintivas; II diferencia anistia/indulto; III define perda da pretensão pelo tempo.
-Q0252,publicar,5206,,0.98,A resposta correta exige parcelamento da pena de multa conforme condições do condenado.
-Q0253,publicar,4373,,0.99,"A resposta identifica escola clássica, livre-arbítrio e Carrara."
-Q0254,publicar,4704,,0.96,"Autonomia, duração e concessão imediata das medidas protetivas sustentam 4704."
-Q0255,publicar,5213,,0.99,A INCORRETA confunde incapacidade parcial por perturbação/desenvolvimento com isenção total de pena.
-Q0256,publicar,5224,5214,0.94,A assertiva compara efeitos do erro sobre elemento do tipo e da crença de autorização jurídica.
-Q0257,publicar,5227,5219,0.97,I exige distinguir tipo penal de improbidade; II exige sujeitos ativo humano/PJ; III exige distinguir ilicitude de tipicidade.
-Q0258,publicar,5545,,0.99,A resposta exige prioridade do exame de corpo de delito em violência doméstica.
-Q0259,publicar,5183,,0.98,"A pergunta exige distinguir critérios de solução do conflito aparente entre dano e furto qualificado, especialmente subsidiariedade tácita e consunção."
-Q0260,revisar,4374,4376;4370,0.66,"III/IV cobram movimentos sociais e criação de direitos sem escopo claro no catálogo, além dos dois institutos criminais. Política Criminal é sugestão parcial; conferir fonte/sequência."
-Q0261,publicar,5136,,0.96,"A resposta exige a permissão de uma cópia de salvaguarda de software legitimamente adquirido, sem crime autoral."
-Q0262,publicar,5184,,0.97,"A resposta identifica internação ou conversão da pena em medida de segurança diante de doença mental superveniente, por decisão do juízo da execução com perícia."
-Q0263,publicar,5492,,0.99,"II e III descrevem suspeição; I e IV, impedimento."
-Q0264,publicar,5102,5103;5109,0.97,As duas partes exigem distinguir estupro de vulnerável e favorecimento da prostituição conforme idade/condição da vítima e papel dos agentes.
-Q0265,publicar,5185,,0.99,A regra julgada é a incidência isolada da prescrição no concurso de crimes.
-Q0266,publicar,5482,,0.98,A resolução distingue Justiça Militar da União para militar federal em GLO e Júri para militar estadual no crime doloso contra vida de civil.
-Q0267,publicar,4708,,0.95,Laudo e destruição da droga apreendida no tráfico compõem o procedimento especial do art.50.
-Q0268,publicar,5118,,0.96,A hipótese correta enumera requisitos de falsidade ideológica.
-Q0269,publicar,4375,,0.98,A opção que não se ajusta ao garantismo subordina decisões ao consenso popular.
-Q0270,publicar,5091,,0.99,"O policial exige vantagem para liberar veículo, caracterizando concussão."
-Q0271,publicar,5562,5515,0.97,"A exceção é a apelação do Júri, cujo efeito devolutivo se limita aos fundamentos de interposição."
-Q0272,publicar,6734,,0.96,"A resposta exige termo inicial da prescrição de falta grave de fuga na recaptura, por permanência."
-Q0273,publicar,5089,,0.99,"A pergunta genérica sobre modalidade culposa se resolve pelo peculato, tal como na Q0022."
-Q0274,publicar,5160,,0.99,A morte consumada com subtração tentada caracteriza latrocínio consumado.
-Q0275,publicar,5540,,0.99,A solução é remeter peças ao juízo comum quando o acusado não é encontrado para citação no Jecrim.
-Q0276,publicar,5554,,0.98,A alternativa correta exige dispensa de mandado para busca pessoal no curso de busca domiciliar.
-Q0277,publicar,4696,,0.97,"O comando compara tipos específicos contra a pessoa idosa, especialmente a indução a procuração e a exigência de falta de discernimento."
-Q0278,publicar,5542,,0.99,A assertiva troca o limite de pena mínima de um por dois anos para suspensão condicional do processo.
-Q0279,publicar,5188,,0.99,A resposta exige prazo prescricional do furto reduzido pela idade inferior a 21 anos no fato e ausência de interrupção antes de quatro anos.
-Q0280,publicar,5122,,0.96,A INCORRETA torna sempre cabível exceção da verdade na imputação de crime funcional.
-Q0281,publicar,5590,5555;5499,0.94,"Condições e limites da obtenção, acesso e proteção de elementos probatórios unificam as assertivas."
-Q0282,publicar,4704,,0.97,A alternativa E exige restrição ou suspensão de visitas como medida protetiva da LMP.
-Q0283,publicar,5496,,0.99,A resposta exige caução suficiente em dinheiro para evitar inscrição da hipoteca legal.
-Q0284,publicar,5224,,0.97,"A defesa depende de erro sobre pressuposto fático de justificante, tratado como erro de tipo permissivo na teoria limitada."
-Q0285,publicar,4376,,0.99,A resposta identifica legislação diferenciada como característica do Direito Penal do Inimigo.
-Q0286,publicar,5199,5202;5204,0.98,A solução exige ordem das fases: antecedentes na pena-base antes da redução por tentativa.
-Q0287,publicar,5228,,0.99,"A resposta distingue estado de necessidade, causa de ilicitude, das hipóteses de erro e inimputabilidade."
-Q0288,revisar,5103,4695;4688;5068,0.58,Inclui crime de responsabilidade municipal sem nó próprio e afirmação reunindo prefeitos e vereadores. Pendência concreta de conteúdo/alcance e sequência.
-Q0289,publicar,4704,,0.97,As medidas protetivas como tutela inibitória autônoma são o núcleo do Tema1249/STJ.
-Q0290,publicar,5468,,0.97,A INCORRETA generaliza ação incondicionada a todas as lesões dolosas.
-Q0291,publicar,5500,,0.99,A assertiva cobra prazos especiais do inquérito da Lei de Drogas e duplicação por decisão judicial.
-Q0292,publicar,4374,,0.97,A resposta exige analisar política criminal e encarceramento em massa no período constitucional.
-Q0293,publicar,5185,5188;5189,0.97,"A resolução exige comparar prescrição punitiva e executória, marcos interruptivos entre coautores e efeitos da interrupção das restritivas."
-Q0294,publicar,5212,,0.97,A opção correta descreve reprovação pessoal na teoria normativa pura da culpabilidade.
-Q0295,publicar,5489,,0.99,"A resposta exige termo inicial pela entrega dos autos à Defensoria, distinto do ciente individual."
-Q0296,publicar,5472,,0.99,A assertiva nega indevidamente sucessão do direito de queixa por morte da vítima.
-Q0297,publicar,4695,5191,0.96,A resposta exige efeito extintivo do pagamento do tributo e acessórios no regime dos crimes tributários.
-Q0298,fora,,,0.00,"A assertiva trata de crimes de relações de consumo da Lei 8.137, que admite culpa em hipóteses do art. 7º."
-Q0299,publicar,4385,,0.98,"A resposta correta descreve etiquetamento, reação social e reprodução da criminalidade."
-Q0300,publicar,5084,,0.96,A resolução assistida identifica favorecimento pessoal: ocultar o instrumento auxilia o autor a escapar da ação da autoridade.
-Q0301,publicar,5197,,0.98,"O NÃO recai sobre retorsão em difamação, pois o perdão judicial do CP se refere à injúria."
-Q0302,publicar,5224,,0.99,"César desconhece a presença humana e erra sobre elemento fático, afastando dolo."
-Q0303,publicar,5182,,0.99,A alternativa correta descreve extraterritorialidade incondicionada em delitos contra patrimônio/fé pública de entes brasileiros.
-Q0304,publicar,5540,,0.98,A resolução exige conservar institutos despenalizadores quando a competência se desloca do Jecrim.
-Q0305,publicar,5471,,0.96,A opção correta trata de requisição do Ministro da Justiça como condição da ação pública nos casos legais.
-Q0306,publicar,5146,,0.99,"O conhecimento é associação criminosa do CP, com estabilidade e finalidade de crimes indeterminados, distinta de organização criminosa."
-Q0307,publicar,4707,,0.98,A assertiva erra ao excluir responsabilidade omissiva do delegado e afirmar que tortura só pode ser comissiva.
-Q0308,publicar,5501,,0.98,O arquivamento por insuficiência de elementos denota falta de justa causa e não coisa julgada material.
-Q0309,publicar,4688,,0.98,A pergunta pede a pena do crime ambiental do art.61 da Lei9.605.
-Q0310,publicar,5507,5181,0.98,A resposta exige reconhecer irretroatividade prejudicial de norma processual com conteúdo material.
-Q0311,publicar,5488,,0.97,A resolução exige citação por edital e seus efeitos se o acusado não comparecer nem constituir defensor.
-Q0312,publicar,4384,,0.98,"O item expõe prevenção especial em Liszt, com socialização, intimidação e neutralização conforme destinatários."
-Q0313,publicar,5209,5475,0.96,O núcleo é o efeito genérico automático da condenação sobre obrigação de reparar.
-Q0314,publicar,5477,,0.98,A resposta exige a natureza de ação constitucional protetora da liberdade de locomoção.
-Q0315,publicar,5189,,0.97,"A hipótese de resposta calcula quatro anos da prescrição executória após trânsito para ambas as partes, com redução por idade no fato."
-Q0316,publicar,5224,,0.97,"O conhecimento é erro sobre a pessoa com consideração das qualidades da vítima pretendida, associado à equivalência."
-Q0317,publicar,5198,,0.98,"O prazo de seis meses corre da ciência da autoria, que no caso coincide com o fato."
-Q0318,publicar,5178,5203,0.97,"A morte ocorreu apesar do socorro, logo não há arrependimento eficaz que afaste o resultado consumado."
-Q0319,revisar,5073,,0.79,Lista I/II/III não se conecta às opções A–E; possível concatenação de questões. Conferir original antes de corrigir ou publicar.
-Q0320,publicar,5550,,0.99,A testemunha fedatária atesta regularidade de ato praticado no inquérito/processo.
-Q0321,publicar,5073,,0.99,A resposta caracteriza autoria colateral sem vínculo subjetivo.
-Q0322,publicar,5569,,0.97,"A conduta é a do art. 12 da Lei 13.869, com pena máxima de dois anos, e a própria lei admite a Lei 9.099."
-Q0323,publicar,5590,,0.97,"A resposta exige pressupostos da produção antecipada de prova urgente e relevante, como risco de morte de testemunha."
-Q0324,revisar,5199,5184;4703;5201;5209,0.65,A assertiva III sobre periculosidade presumida do semi-imputável e a combinação ofertada exigem conferência jurídica/histórica. Extras não eliminam essa pendência.
-Q0325,publicar,5467,,0.97,A opção correta descreve justa causa para recebimento da denúncia e processamento da ação.
-Q0326,revisar,4708,,0.75,"Prescrição/ministração culposa do art.38 é tipo médico autônomo, diferente do tráfico do art.33. Escolher entre homônimos não esclarece a abrangência desse objeto no módulo."
-Q0327,publicar,5203,,0.99,"A condenação antiga ultrapassou cinco anos desde o início do livramento não revogado; contravenção anterior não gera reincidência para novo crime, e ação posterior não é condenação."
-Q0328,publicar,4382,4374,0.97,A assertiva atribui à criminologia a ponte normativa que cabe à política criminal.
-Q0329,publicar,5557,,0.96,"A resolução exige efeitos e condições da colaboração do jogador, com possível redução de até dois terços e sem imunidade automática."
-Q0330,publicar,5501,,0.99,A resposta correta é revisão ministerial do arquivamento provocada pela vítima em trinta dias.
-Q0331,revisar,5477,,0.98,Possíveis duas alternativas incorretas A/C sobre HC e legitimidade do juiz. Conferir gabarito/eventual anulação; tema claro não elimina pendência de integridade.
-Q0332,publicar,5541,,0.97,A resolução exige intervalo de cinco anos para nova transação e efeitos de cumprimento/descumprimento.
-Q0333,publicar,4373,,0.98,A resposta correta identifica método empírico-experimental positivista em contraste com a escola clássica.
-Q0334,publicar,4381,,0.99,O dever-ser pertence ao campo normativo e não é objeto empírico da criminologia.
-Q0335,publicar,5218,5221;5222,0.97,"A opção correta exige ação finalista, deslocamento de dolo/culpa ao tipo e desvalor da ação/resultado."
-Q0336,publicar,5159,,0.99,"A resolução aplica consumação do furto pela inversão da posse, independentemente de sair do restaurante ou manter posse tranquila."
-Q0337,publicar,4684,5470,0.98,"O regime de abuso de autoridade é central: finalidade específica, divergência interpretativa e ação penal."
-Q0338,publicar,5595,,0.97,"A resposta exige limites à liberdade probatória quanto ao estado das pessoas, regido pelas restrições civis."
-Q0339,publicar,5524,,0.97,"A alternativa correta exige reclassificação por fato superveniente depois da pronúncia, no procedimento do Júri."
-Q0340,publicar,5071,5203,0.98,A resposta exige agravante de instigar/determinar crime a quem se subordina ao agente ou é inimputável por condição pessoal.
-Q0341,publicar,5157,,0.97,"A resposta exige natureza formal da duplicata simulada, crime patrimonial do art. 172."
-Q0342,publicar,5543,5545;5546,0.97,"As cinco proposições exigem corpo de delito, habilitação de peritos, assistente técnico, autópsia, exumação e esclarecimentos."
-Q0343,publicar,5195,5196,0.98,"A resposta exige perempção por inércia superior a trinta dias, possível apesar da recusa do perdão bilateral."
-Q0344,publicar,4688,,0.97,A destinação dos instrumentos apreendidos é regra ambiental específica do art.25.
-Q0345,publicar,5103,5203;5204,0.97,A resposta exige estupro de vulnerável consumado por atos libidinosos e vedação de dupla valoração da mesma relação de autoridade do professor.
-Q0346,publicar,5583,,0.98,"I exige decisão/pedido nos autos; II, legitimidade para preventiva; III, legitimidade para desaforamento; IV, legitimidade de entidades de consumo; V, momento de intervenção."
-Q0347,publicar,5207,,0.98,A alternativa correta exige revogação obrigatória do sursis por frustração de multa apesar de solvência e falta injustificada de reparação.
-Q0348,revisar,5093,,0.69,"Possível conflito D/E em corrupção internacional, além de alcance do art.337-B não delimitado no nó de Corrupção Ativa. Conferir original e resposta."
-Q0349,publicar,5178,,0.99,A resposta exige o requisito de crime sem violência/grave ameaça para arrependimento posterior.
-Q0350,publicar,5557,,0.96,A resposta exige benefícios da colaboração na lei de lavagem.
-Q0351,publicar,5118,,0.99,A resposta exige equiparação do cartão de crédito a documento particular para falsificação material.
-Q0352,publicar,5515,,0.99,A resposta aplica efeito extensivo ao corréu por fundamento objetivo de atipicidade.
-Q0353,publicar,5535,,0.94,A solução cobra concentração da colheita da prova oral em audiência sem suprimir defesa.
-Q0354,publicar,5227,5172,0.98,"A INCORRETA atribui à insignificância/adequação social efeito sobre tipicidade formal, quando o debate é material."
-Q0355,revisar,4708,,0.75,Porte/uso pessoal não penal de maconha do art.28 difere de tráfico. E confirmado não define abrangência desse objeto no módulo; não é apenas4708/6728.
-Q0356,publicar,5066,5067;5068;5070,0.99,"As quatro proposições exigem distinguir concurso material, formal impróprio e soma de multas conforme texto do CP."
-Q0357,publicar,5135,,0.99,A resposta reproduz boicotagem violenta por constranger a não fornecer/adquirir produtos.
-Q0358,publicar,5133,,0.97,"O conhecimento é invasão de dispositivo e efeitos de obtenção/divulgação de dados, do art. 154-A."
-Q0359,revisar,5539,,0.81,Lei15.163/2025 alterou art.94 do Estatuto da Pessoa Idosa. Identificar versão histórica e sinalizar desatualização antes de liberar.
+Q0001,revisar,5524,,0.64196106,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0002,revisar,4689,,0.40252406,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0003,publicar,5560,,0.70572213,
+Q0004,publicar,5480,,0.77937377,
+Q0005,revisar,5157,,0.60086360,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0006,publicar,5157,,0.92592593,
+Q0007,publicar,5466,,0.98894838,
+Q0008,publicar,5087,,0.74874190,
+Q0009,publicar,5157,,0.95164414,
+Q0010,publicar,6717,,0.89020437,
+Q0011,revisar,6723,,0.52485320,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0012,publicar,5560,,0.90210677,
+Q0013,publicar,5498,,0.77907730,
+Q0014,publicar,5476,,0.92592593,
+Q0015,publicar,5498,,0.92592593,
+Q0016,publicar,5517,,0.78920394,
+Q0017,revisar,5530,,0.49393897,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0018,publicar,5539,,0.86508087,
+Q0019,publicar,5466,,0.92592593,
+Q0020,revisar,5199,,0.51017355,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0021,publicar,5498,,0.92592593,
+Q0022,publicar,5087,,0.94618648,
+Q0023,publicar,5524,,0.92592593,
+Q0024,publicar,4385,,0.92592593,
+Q0025,publicar,5087,,0.92592593,
+Q0026,publicar,6724,,0.98216581,
+Q0027,publicar,5087,,0.87368964,
+Q0028,publicar,5524,,0.85480031,
+Q0029,revisar,6716,,0.31984402,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0030,publicar,5134,,0.92784939,
+Q0031,publicar,4385,,0.92592593,
+Q0032,revisar,5498,,0.71427761,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0033,publicar,5517,,0.92592593,
+Q0034,publicar,5476,,0.92592593,
+Q0035,publicar,4706,,0.72474983,
+Q0036,publicar,6724,,0.98562790,
+Q0037,publicar,5128,,0.89557789,
+Q0038,publicar,5498,,0.84972306,
+Q0039,publicar,4687,,0.84822110,
+Q0040,publicar,5524,,0.71925343,
+Q0041,publicar,5184,,0.80443589,
+Q0042,revisar,5218,,0.70038109,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0043,revisar,5199,,0.51898367,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0044,revisar,5466,,0.43222899,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0045,publicar,5087,,0.92592593,
+Q0046,publicar,5509,,0.92592593,
+Q0047,revisar,5466,,0.70559023,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0048,revisar,5191,,0.56930937,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0049,publicar,5149,,0.99866106,
+Q0050,publicar,4708,,0.93161486,
+Q0051,revisar,5466,,0.65137143,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0052,revisar,4703,,0.75336602,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0053,publicar,5560,,0.84136874,
+Q0054,revisar,5077,,0.67806736,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0055,publicar,5530,,0.92592593,
+Q0056,publicar,5066,,0.87408230,
+Q0057,publicar,5175,,0.92592593,
+Q0058,publicar,4377,,0.74377383,
+Q0059,revisar,4703,,0.45756692,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0060,publicar,5087,,0.91480244,
+Q0061,revisar,6734,,0.66839191,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0062,revisar,5466,,0.44773539,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0063,publicar,5498,,0.92592593,
+Q0064,revisar,5185,,0.51386801,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0065,publicar,5157,,0.92592593,
+Q0066,publicar,4371,,0.91834180,
+Q0067,publicar,5087,,0.92592593,
+Q0068,revisar,5087,,0.59602919,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0069,publicar,5170,,0.97693515,
+Q0070,revisar,5517,,0.60464874,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0071,revisar,5199,,0.54165332,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0072,publicar,5498,,0.72123665,
+Q0073,publicar,5087,,0.97236699,
+Q0074,revisar,5199,,0.68630396,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0075,publicar,5191,,0.92592593,
+Q0076,publicar,4380,,0.79660906,
+Q0077,revisar,4698,,0.58468062,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0078,revisar,4691,,0.37469682,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0079,publicar,5580,,0.92592593,
+Q0080,publicar,4368,,0.92592593,
+Q0081,publicar,4371,,0.89698968,
+Q0082,publicar,5466,,0.92592593,
+Q0083,publicar,5149,,0.93736789,
+Q0084,publicar,6724,,0.97282836,
+Q0085,publicar,5087,,0.92592593,
+Q0086,publicar,5087,,0.75807997,
+Q0087,revisar,5517,,0.64677642,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0088,publicar,4389,,0.92592593,
+Q0089,publicar,5218,,0.92592593,
+Q0090,revisar,5524,,0.43797678,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0091,revisar,6734,,0.68641886,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0092,publicar,5509,,0.82649106,
+Q0093,publicar,5138,,0.81052820,
+Q0094,publicar,5524,,0.92592593,
+Q0095,publicar,5077,,0.86686993,
+Q0096,publicar,5480,,0.92592593,
+Q0097,publicar,6728,,0.81918563,
+Q0098,publicar,5543,,0.92592593,
+Q0099,publicar,5077,,0.86422264,
+Q0100,revisar,5102,,0.64338630,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0101,publicar,6724,,0.99694521,
+Q0102,publicar,5572,,0.78087685,
+Q0103,publicar,5476,,0.92592593,
+Q0104,revisar,5498,,0.56890243,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0105,revisar,4380,,0.54259304,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0106,revisar,4389,,0.33058148,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0107,publicar,5116,,0.79054119,
+Q0108,publicar,5560,,0.81350663,
+Q0109,publicar,5199,,0.75792819,
+Q0110,publicar,5480,,0.92592593,
+Q0111,revisar,4371,,0.62300076,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0112,publicar,6725,,0.99235767,
+Q0113,revisar,5498,,0.58494920,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0114,revisar,5077,,0.65522519,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0115,publicar,4385,,0.74794932,
+Q0116,revisar,4708,,0.53898459,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0117,revisar,4384,,0.57031560,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0118,publicar,5517,,0.72199701,
+Q0119,revisar,5530,,0.56597681,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0120,revisar,6735,,0.53567385,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0121,publicar,5466,,0.83237052,
+Q0122,revisar,4703,,0.81083434,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0123,publicar,5517,,0.85984519,
+Q0124,publicar,4384,,0.75897169,
+Q0125,revisar,6734,,0.37099447,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0126,revisar,5116,,0.42880389,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0127,publicar,6728,,0.94910948,
+Q0128,publicar,5184,,0.92592593,
+Q0129,publicar,5530,,0.77419292,
+Q0130,publicar,5199,,0.83576157,
+Q0131,publicar,5071,,0.92592593,
+Q0132,revisar,5543,,0.38851337,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0133,revisar,5524,,0.67640624,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0134,publicar,5087,,0.92592593,
+Q0135,publicar,5157,,0.92592593,
+Q0136,revisar,6724,,0.58987545,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0137,publicar,5498,,0.92592593,
+Q0138,publicar,5199,,0.92592593,
+Q0139,publicar,5211,,0.95532183,
+Q0140,publicar,5157,,0.92592593,
+Q0141,publicar,4385,,0.94654234,
+Q0142,revisar,5157,,0.50811915,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0143,publicar,5580,,0.72470127,
+Q0144,publicar,5524,,0.92592593,
+Q0145,publicar,5157,,0.92592593,
+Q0146,publicar,5228,,0.92592593,
+Q0147,publicar,5498,,0.92592593,
+Q0148,publicar,5199,,0.99674769,
+Q0149,publicar,5498,,0.92592593,
+Q0150,publicar,4708,,0.99212743,
+Q0151,publicar,5517,,0.70654411,
+Q0152,revisar,5466,,0.59174766,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0153,revisar,5218,,0.64369834,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0154,publicar,5134,,0.76101424,
+Q0155,revisar,5584,,0.47163956,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0156,publicar,5199,,0.71938564,
+Q0157,publicar,5517,,0.79563358,
+Q0158,revisar,4707,,0.92592593,"Tema aparece apenas no crime narrado, sem apoio na cobranca; confirmar o enquadramento."
+Q0159,publicar,5087,,0.92592593,
+Q0160,publicar,5199,,0.78688190,
+Q0161,publicar,5584,,0.86606079,
+Q0162,revisar,4380,,0.58894894,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0163,revisar,6728,,0.44715196,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0164,revisar,6734,,0.52285673,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0165,publicar,5498,,0.92592593,
+Q0166,revisar,6734,,0.66485524,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0167,publicar,5524,,0.92592593,
+Q0168,revisar,5087,,0.28454778,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0169,publicar,5490,,0.72081375,
+Q0170,revisar,5185,,0.55106368,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0171,revisar,5199,,0.53449625,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0172,revisar,5185,,0.51136220,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0173,revisar,4703,,0.91433309,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0174,revisar,5466,,0.59979651,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0175,publicar,5087,,0.97906559,
+Q0176,publicar,5079,,0.94371917,
+Q0177,publicar,5543,,0.85881333,
+Q0178,publicar,5079,,0.71297069,
+Q0179,publicar,4368,,0.74410716,
+Q0180,publicar,5498,,0.92592593,
+Q0181,publicar,4695,,0.86402293,
+Q0182,publicar,5138,,0.77947374,
+Q0183,revisar,5185,,0.54218673,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0184,publicar,5517,,0.92592593,
+Q0185,publicar,4703,,0.73839252,
+Q0186,publicar,5199,,0.98289379,
+Q0187,revisar,5199,,0.60397371,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0188,revisar,5191,,0.49534573,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0189,revisar,5063,,0.56272273,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0190,publicar,4701,,0.99559337,
+Q0191,publicar,5560,,0.98196513,
+Q0192,publicar,5087,,0.79263262,
+Q0193,publicar,5543,,0.92592593,
+Q0194,publicar,5087,,0.88682889,
+Q0195,publicar,4371,,0.88481457,
+Q0196,publicar,4385,,0.76306487,
+Q0197,publicar,5498,,0.92592593,
+Q0198,publicar,5071,,0.77478729,
+Q0199,revisar,5228,,0.58316658,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0200,publicar,4705,,0.98728830,
+Q0201,publicar,5102,,0.95851541,
+Q0202,revisar,5218,,0.62830928,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0203,revisar,6723,,0.89504684,"Tema aparece apenas no crime narrado, sem apoio na cobranca; confirmar o enquadramento."
+Q0204,publicar,5505,,0.89075368,
+Q0205,publicar,5560,,0.84194482,
+Q0206,publicar,5583,,0.96103030,
+Q0207,publicar,5199,,0.71357053,
+Q0208,publicar,5149,,0.80008812,
+Q0209,revisar,5498,,0.68499096,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0210,publicar,4697,,0.92592593,
+Q0211,revisar,5138,,0.28598036,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0212,revisar,4700,,0.46611058,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0213,publicar,5466,,0.92592593,
+Q0214,publicar,5490,,0.76363339,
+Q0215,publicar,5199,,0.78164964,
+Q0216,publicar,4701,,0.99200193,
+Q0217,revisar,4687,,0.47061491,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0218,publicar,5517,,0.99245609,
+Q0219,publicar,5071,,0.92592593,
+Q0220,publicar,5498,,0.94534176,
+Q0221,revisar,5184,,0.62624591,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0222,revisar,5170,,0.42347404,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0223,publicar,5079,,0.78785233,
+Q0224,publicar,5199,,0.86647393,
+Q0225,publicar,5476,,0.70602785,
+Q0226,publicar,5543,,0.92592593,
+Q0227,publicar,5102,,0.89727297,
+Q0228,publicar,5199,,0.92592593,
+Q0229,revisar,5517,,0.72305156,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0230,revisar,5211,,0.48996576,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0231,publicar,5218,,0.90081470,
+Q0232,publicar,5079,,0.93145443,
+Q0233,publicar,5175,,0.98858252,
+Q0234,revisar,4380,,0.24477710,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0235,publicar,5512,,0.83891531,
+Q0236,revisar,5498,,0.52784925,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0237,publicar,5175,,0.99882722,
+Q0238,revisar,4367,,0.46473672,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0239,publicar,5199,,0.88198312,
+Q0240,publicar,5466,,0.81394301,
+Q0241,publicar,5218,,0.92592593,
+Q0242,publicar,5560,,0.77897487,
+Q0243,publicar,5175,,0.92784665,
+Q0244,publicar,5087,,0.92592593,
+Q0245,publicar,5185,,0.92592593,
+Q0246,revisar,5524,,0.57129120,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0247,publicar,5498,,0.97030355,
+Q0248,publicar,5087,,0.92592593,
+Q0249,revisar,5079,,0.58145130,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0250,publicar,5199,,0.77032084,
+Q0251,publicar,5191,,0.92592593,
+Q0252,revisar,5157,,0.92592593,"Tema aparece apenas no crime narrado, sem apoio na cobranca; confirmar o enquadramento."
+Q0253,publicar,4371,,0.88445105,
+Q0254,publicar,4704,,0.95720758,
+Q0255,publicar,5211,,0.71226875,
+Q0256,publicar,5218,,0.91665565,
+Q0257,publicar,5218,,0.92592593,
+Q0258,publicar,5543,,0.92592593,
+Q0259,publicar,5157,,0.92592593,
+Q0260,publicar,4374,,0.92592593,
+Q0261,revisar,5466,,0.60495472,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0262,revisar,6734,,0.38331116,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0263,revisar,5583,,0.71736372,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0264,publicar,5102,,0.92592593,
+Q0265,revisar,5066,,0.66228934,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0266,publicar,5524,,0.71529310,
+Q0267,publicar,5498,,0.92592593,
+Q0268,publicar,5120,,0.83149894,
+Q0269,revisar,5505,,0.59430991,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0270,publicar,5087,,0.96953755,
+Q0271,revisar,5512,,0.56944698,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0272,revisar,6734,,0.75989253,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0273,publicar,5087,,0.81157418,
+Q0274,publicar,5175,,0.74930017,
+Q0275,publicar,4701,,0.87725495,
+Q0276,publicar,5543,,0.89430240,
+Q0277,publicar,4696,,0.81370724,
+Q0278,revisar,5466,,0.69615226,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0279,revisar,5185,,0.50335574,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0280,publicar,5120,,0.71057324,
+Q0281,revisar,5543,,0.41268275,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0282,publicar,6724,,0.94732458,
+Q0283,revisar,5476,,0.50874682,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0284,publicar,5228,,0.77337075,
+Q0285,publicar,4374,,0.92592593,
+Q0286,revisar,5066,,0.52872775,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0287,publicar,5228,,0.92592593,
+Q0288,publicar,5466,,0.92005261,
+Q0289,publicar,6724,,0.99971048,
+Q0290,publicar,4701,,0.83113349,
+Q0291,revisar,5498,,0.56805758,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0292,publicar,4374,,0.92592593,
+Q0293,publicar,5185,,0.91237202,
+Q0294,publicar,5211,,0.92592593,
+Q0295,publicar,5487,,0.78617543,
+Q0296,revisar,5063,,0.66554355,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0297,publicar,4689,,0.85538683,
+Q0298,publicar,4694,,0.81809717,
+Q0299,revisar,4368,,0.56394798,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0300,publicar,5157,,0.92592593,
+Q0301,publicar,5191,,0.92592593,
+Q0302,publicar,5211,,0.94179601,
+Q0303,revisar,5505,,0.59836902,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0304,publicar,5539,,0.91404761,
+Q0305,publicar,5466,,0.93087725,
+Q0306,revisar,4708,,0.37650886,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0307,revisar,4707,,0.51176821,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0308,publicar,5498,,0.92592593,
+Q0309,publicar,5199,,0.77119808,
+Q0310,publicar,5505,,0.99216846,
+Q0311,publicar,5487,,0.76601142,
+Q0312,revisar,4384,,0.42377486,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0313,publicar,5199,,0.84196191,
+Q0314,publicar,5476,,0.92592593,
+Q0315,revisar,5185,,0.75392231,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0316,revisar,5218,,0.68010083,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0317,publicar,5191,,0.92592593,
+Q0318,publicar,5175,,0.88344887,
+Q0319,revisar,5071,,0.58045948,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0320,revisar,5543,,0.63734473,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0321,publicar,6728,,0.76938880,
+Q0322,publicar,5560,,0.97340742,
+Q0323,revisar,5543,,0.59386491,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0324,publicar,5184,,0.89050437,
+Q0325,revisar,4701,,0.62509635,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0326,publicar,6728,,0.86380729,
+Q0327,publicar,5199,,0.98415267,
+Q0328,publicar,4374,,0.92592593,
+Q0329,publicar,5218,,0.71176315,
+Q0330,publicar,5498,,0.93684170,
+Q0331,publicar,5476,,0.99162185,
+Q0332,publicar,5539,,0.85167361,
+Q0333,revisar,5175,,0.65906407,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0334,publicar,4380,,0.86474136,
+Q0335,revisar,5218,,0.64100543,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0336,publicar,5157,,0.92562317,
+Q0337,publicar,6716,,0.85952784,
+Q0338,revisar,5543,,0.71561836,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0339,publicar,5572,,0.75932629,
+Q0340,publicar,5071,,0.92592593,
+Q0341,publicar,5157,,0.92592593,
+Q0342,publicar,5543,,0.92592593,
+Q0343,revisar,5191,,0.67788575,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0344,revisar,6717,,0.36379611,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0345,publicar,5102,,0.96815431,
+Q0346,revisar,5466,,0.45297560,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0347,publicar,5199,,0.92954504,
+Q0348,publicar,5087,,0.92592593,
+Q0349,revisar,4703,,0.28827737,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0350,publicar,4702,,0.83170622,
+Q0351,publicar,5116,,0.99306559,
+Q0352,revisar,5560,,0.43491080,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0353,revisar,5466,,0.36982317,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0354,publicar,5218,,0.75049926,
+Q0355,revisar,6728,,0.61910814,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0356,publicar,5066,,0.92592593,
+Q0357,publicar,5157,,0.89181415,
+Q0358,revisar,5184,,0.36312926,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0359,revisar,4694,,0.55685492,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0360,publicar,4389,,0.77840918,
+Q0361,publicar,5211,,0.93057386,
+Q0362,publicar,5543,,0.92592593,
+Q0363,publicar,5087,,0.92077947,
+Q0364,revisar,5211,,0.54460796,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0365,publicar,5191,,0.92592593,
+Q0366,publicar,5543,,0.92592593,
+Q0367,publicar,5530,,0.72166087,
+Q0368,revisar,5498,,0.63172985,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0369,revisar,6723,,0.36521508,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0370,publicar,5517,,0.92592593,
+Q0371,revisar,5063,,0.54172854,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0372,publicar,5543,,0.98366818,
+Q0373,publicar,5180,,0.92592593,
+Q0374,publicar,5147,,0.90771931,
+Q0375,publicar,5218,,0.92592593,
+Q0376,revisar,5218,,0.63600591,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0377,publicar,5476,,0.92592593,
+Q0378,publicar,5116,,0.92052889,
+Q0379,publicar,6724,,0.97917662,
+Q0380,revisar,5572,,0.48819811,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0381,publicar,5498,,0.92592593,
+Q0382,revisar,5191,,0.47357665,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0383,revisar,4702,,0.45891546,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0384,publicar,5490,,0.96103147,
+Q0385,publicar,5543,,0.92592593,
+Q0386,revisar,4687,,0.33681271,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0387,publicar,5590,,0.85780365,
+Q0388,publicar,5530,,0.70603930,
+Q0389,publicar,5218,,0.93787724,
+Q0390,revisar,4385,,0.40135001,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0391,publicar,5466,,0.82101568,
+Q0392,publicar,5199,,0.92592593,
+Q0393,publicar,5157,,0.92592593,
+Q0394,publicar,5480,,0.92592593,
+Q0395,publicar,5539,,0.77147029,
+Q0396,publicar,5087,,0.92592593,
+Q0397,revisar,5466,,0.34543405,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0398,publicar,5175,,0.76699384,
+Q0399,publicar,5087,,0.92592593,
+Q0400,revisar,5218,,0.58547809,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0401,revisar,5191,,0.57576029,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0402,publicar,4684,,0.87936250,
+Q0403,publicar,5180,,0.75020573,
+Q0404,publicar,5116,,0.92592593,
+Q0405,publicar,5524,,0.92592593,
+Q0406,publicar,5087,,0.96094782,
+Q0407,publicar,5572,,0.83999054,
+Q0408,publicar,5490,,0.89966580,
+Q0409,publicar,5211,,0.92592593,
+Q0410,publicar,5211,,0.92592593,
+Q0411,publicar,5087,,0.80810229,
+Q0412,publicar,5087,,0.90712034,
+Q0413,publicar,5087,,0.91717768,
+Q0414,publicar,4695,,0.82254441,
+Q0415,publicar,4695,,0.77413053,
+Q0416,revisar,5199,,0.33331916,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0417,revisar,5185,,0.60728448,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0418,publicar,4704,,0.96351400,
+Q0419,publicar,4385,,0.95040006,
+Q0420,publicar,6724,,0.96310754,
+Q0421,publicar,5466,,0.95322831,
+Q0422,publicar,5087,,0.88972063,
+Q0423,publicar,4695,,0.78401081,
+Q0424,revisar,5466,,0.58056385,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0425,publicar,5572,,0.78717528,
+Q0426,publicar,5466,,0.92592593,
+Q0427,revisar,5466,,0.71846556,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0428,publicar,5466,,0.93525746,
+Q0429,publicar,5149,,0.93049664,
+Q0430,publicar,6724,,0.99936031,
+Q0431,publicar,5466,,0.72480004,
+Q0432,publicar,5466,,0.85208017,
+Q0433,publicar,5071,,0.92592593,
+Q0434,publicar,5498,,0.92592593,
+Q0435,revisar,4689,,0.31554562,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0436,publicar,6724,,0.99012494,
+Q0437,revisar,5180,,0.25147633,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0438,revisar,5087,,0.44870804,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0439,publicar,5087,,0.72259570,
+Q0440,publicar,5498,,0.88993969,
+Q0441,revisar,5157,,0.92592593,"Tema aparece apenas no crime narrado, sem apoio na cobranca; confirmar o enquadramento."
+Q0442,publicar,5466,,0.93216700,
+Q0443,publicar,5211,,0.80554991,
+Q0444,publicar,5543,,0.92592593,
+Q0445,publicar,6725,,0.86711014,
+Q0446,revisar,5517,,0.67666868,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0447,publicar,5185,,0.92592593,
+Q0448,publicar,5157,,0.92592593,
+Q0449,publicar,5228,,0.88628609,
+Q0450,publicar,5560,,0.92592593,
+Q0451,publicar,5498,,0.92592593,
+Q0452,publicar,5498,,0.71958575,
+Q0453,publicar,6724,,0.96779340,
+Q0454,publicar,5180,,0.92592593,
+Q0455,revisar,5530,,0.54491016,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0456,revisar,5180,,0.57006581,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0457,publicar,5476,,0.92592593,
+Q0458,publicar,5218,,0.85182155,
+Q0459,publicar,4695,,0.92231042,
+Q0460,publicar,5144,,0.92592593,
+Q0461,publicar,5560,,0.79209451,
+Q0462,publicar,5149,,0.92592593,
+Q0463,publicar,5087,,0.95810058,
+Q0464,publicar,4689,,0.92592593,
+Q0465,revisar,5498,,0.59718658,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0466,revisar,5218,,0.56685669,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0467,publicar,5490,,0.80660450,
+Q0468,publicar,5184,,0.92592593,
+Q0469,publicar,4374,,0.92592593,
+Q0470,publicar,6734,,0.98273988,
+Q0471,revisar,5191,,0.49781087,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0472,publicar,5116,,0.94882335,
+Q0473,publicar,5498,,0.92592593,
+Q0474,revisar,4689,,0.51967415,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0475,publicar,5218,,0.92592593,
+Q0476,revisar,5524,,0.58663940,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0477,publicar,5466,,0.91948647,
+Q0478,publicar,5480,,0.92592593,
+Q0479,revisar,5079,,0.65008255,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0480,publicar,5199,,0.79658031,
+Q0481,publicar,5218,,0.92592593,
+Q0482,publicar,5505,,0.85717314,
+Q0483,publicar,5157,,0.92592593,
+Q0484,revisar,6723,,0.75802153,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0485,publicar,5180,,0.76537342,
+Q0486,revisar,5560,,0.47183840,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0487,publicar,5157,,0.92592593,
+Q0488,publicar,5087,,0.92592593,
+Q0489,revisar,5185,,0.62922087,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0490,publicar,5211,,0.92592593,
+Q0491,publicar,5157,,0.92592593,
+Q0492,publicar,5157,,0.92592593,
+Q0493,publicar,5466,,0.88700770,
+Q0494,revisar,5498,,0.43392946,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0495,publicar,5498,,0.92592593,
+Q0496,revisar,5199,,0.58859926,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0497,publicar,5560,,0.96536102,
+Q0498,publicar,4704,,0.70188031,
+Q0499,revisar,5218,,0.62285128,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0500,publicar,4695,,0.99815761,
+Q0501,publicar,6724,,0.98060466,
+Q0502,publicar,5087,,0.89790852,
+Q0503,publicar,4377,,0.81014384,
+Q0504,revisar,5218,,0.40354883,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0505,publicar,5087,,0.92592593,
+Q0506,publicar,5180,,0.72409390,
+Q0507,publicar,5218,,0.85429752,
+Q0508,publicar,4700,,0.86763976,
+Q0509,publicar,5498,,0.92592593,
+Q0510,revisar,6735,,0.69763368,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0511,revisar,5063,,0.53368301,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0512,publicar,5480,,0.92592593,
+Q0513,revisar,4688,,0.63032137,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0514,publicar,5071,,0.92592593,
+Q0515,publicar,6724,,0.98718267,
+Q0516,publicar,4689,,0.70928707,
+Q0517,publicar,5466,,0.98005017,
+Q0518,publicar,5087,,0.97540969,
+Q0519,publicar,5498,,0.78821321,
+Q0520,publicar,4694,,0.73572858,
+Q0521,revisar,4384,,0.54233030,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0522,revisar,5157,,0.92592593,"Tema aparece apenas no crime narrado, sem apoio na cobranca; confirmar o enquadramento."
+Q0523,publicar,5498,,0.80592128,
+Q0524,publicar,5185,,0.74481401,
+Q0525,publicar,5199,,0.75437463,
+Q0526,revisar,4385,,0.37243826,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0527,publicar,5199,,0.72247570,
+Q0528,revisar,5180,,0.21302888,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0529,revisar,5087,,0.65529747,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0530,publicar,5543,,0.81729327,
+Q0531,publicar,5466,,0.77842236,
+Q0532,publicar,5157,,0.71770111,
+Q0533,publicar,5134,,0.87528164,
+Q0534,publicar,4377,,0.84537250,
+Q0535,publicar,4704,,0.95064945,
+Q0536,publicar,5543,,0.92592593,
+Q0537,publicar,5149,,0.92592593,
+Q0538,publicar,5228,,0.79567809,
+Q0539,publicar,5157,,0.87678250,
+Q0540,revisar,5218,,0.67754424,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0541,publicar,5087,,0.82425495,
+Q0542,publicar,5517,,0.92592593,
+Q0543,revisar,5560,,0.36591023,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0544,publicar,5149,,0.92592593,
+Q0545,revisar,4374,,0.44421977,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0546,publicar,5087,,0.84611505,
+Q0547,revisar,5191,,0.68534525,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0548,publicar,5560,,0.70638748,
+Q0549,revisar,4703,,0.29502164,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0550,publicar,5157,,0.92592593,
+Q0551,publicar,5466,,0.80760027,
+Q0552,publicar,5509,,0.84735105,
+Q0553,revisar,5530,,0.55726446,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0554,publicar,5476,,0.92592593,
+Q0555,publicar,5199,,0.92592593,
+Q0556,publicar,4385,,0.92592593,
+Q0557,publicar,5498,,0.85282523,
+Q0558,publicar,5580,,0.96816013,
+Q0559,publicar,5087,,0.98321669,
+Q0560,revisar,5517,,0.54347354,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0561,publicar,5116,,0.92592593,
+Q0562,publicar,5087,,0.81087411,
+Q0563,publicar,4385,,0.77516055,
+Q0564,publicar,4385,,0.89010341,
+Q0565,revisar,5498,,0.47528377,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0566,publicar,5087,,0.74473252,
+Q0567,revisar,5199,,0.58381760,"Tema aparece apenas no crime narrado, sem apoio na cobranca; confirmar o enquadramento."
+Q0568,publicar,5180,,0.74721286,
+Q0569,revisar,4377,,0.37638144,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0570,publicar,5476,,0.92592593,
+Q0571,revisar,5480,,0.70567057,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0572,publicar,4697,,0.77277079,
+Q0573,publicar,5157,,0.92592593,
+Q0574,publicar,5157,,0.73534247,
+Q0575,revisar,6723,,0.51653566,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0576,revisar,5087,,0.61802735,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0577,publicar,6724,,0.97053940,
+Q0578,publicar,6723,,0.90745871,
+Q0579,publicar,5543,,0.71173021,
+Q0580,revisar,4690,,0.50575017,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0581,revisar,5466,,0.48641119,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0582,revisar,5157,,0.92592593,"Tema aparece apenas no crime narrado, sem apoio na cobranca; confirmar o enquadramento."
+Q0583,publicar,5185,,0.92592593,
+Q0584,publicar,5185,,0.73202967,
+Q0585,publicar,5175,,0.73310283,
+Q0586,publicar,5517,,0.74847591,
+Q0587,publicar,5185,,0.92592593,
+Q0588,publicar,4385,,0.93428756,
+Q0589,publicar,5087,,0.92592593,
+Q0590,publicar,5228,,0.92515053,
+Q0591,publicar,5560,,0.93735221,
+Q0592,publicar,5087,,0.76261430,
+Q0593,publicar,5157,,0.95164651,
+Q0594,revisar,5530,,0.59117319,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0595,publicar,5498,,0.92592593,
+Q0596,revisar,5180,,0.48582749,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0597,revisar,5584,,0.64789059,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0598,revisar,4380,,0.62248915,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0599,revisar,5102,,0.53385143,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0600,publicar,5191,,0.92592593,
+Q0601,publicar,5539,,0.79075099,
+Q0602,revisar,5466,,0.74010314,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0603,publicar,5087,,0.94265915,
+Q0604,publicar,5087,,0.92592593,
+Q0605,revisar,5530,,0.34781049,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0606,publicar,5149,,0.92592593,
+Q0607,revisar,4368,,0.56763380,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0608,publicar,5180,,0.92592593,
+Q0609,publicar,5199,,0.70276638,
+Q0610,publicar,4700,,0.98947441,
+Q0611,publicar,5116,,0.96851140,
+Q0612,publicar,5466,,0.96250674,
+Q0613,revisar,4689,,0.58497823,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0614,revisar,5087,,0.50717634,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0615,publicar,5191,,0.76122654,
+Q0616,revisar,5191,,0.48812691,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0617,publicar,5498,,0.81811916,
+Q0618,publicar,5218,,0.91723420,
+Q0619,revisar,5530,,0.65614144,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0620,publicar,5147,,0.92592593,
+Q0621,revisar,5543,,0.73480478,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0622,publicar,5180,,0.74363961,
+Q0623,publicar,5543,,0.89886057,
+Q0624,publicar,6724,,0.98407163,
+Q0625,publicar,5087,,0.97308940,
+Q0626,revisar,5087,,0.45391885,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0627,publicar,5125,,0.92592593,
+Q0628,revisar,5498,,0.36753835,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0629,revisar,4385,,0.62370592,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0630,publicar,5079,,0.99082819,
+Q0631,publicar,5087,,0.84499018,
+Q0632,publicar,5087,,0.99550278,
+Q0633,publicar,5157,,0.82944720,
+Q0634,publicar,5487,,0.77355803,
+Q0635,revisar,4691,,0.40901611,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0636,revisar,4695,,0.65313215,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0637,publicar,5087,,0.96072766,
+Q0638,publicar,5087,,0.71539029,
+Q0639,publicar,4707,,0.92592593,
+Q0640,publicar,5218,,0.92592593,
+Q0641,publicar,5087,,0.97587471,
+Q0642,publicar,6724,,0.99815869,
+Q0643,revisar,4703,,0.35458126,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0644,publicar,5157,,0.92592593,
+Q0645,revisar,5218,,0.49749215,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0646,publicar,4374,,0.92592593,
+Q0647,publicar,5487,,0.73953653,
+Q0648,publicar,5498,,0.92592593,
+Q0649,publicar,5199,,0.82013260,
+Q0650,revisar,5199,,0.41263821,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0651,publicar,6724,,0.99743302,
+Q0652,publicar,5087,,0.92592593,
+Q0653,revisar,4704,,0.46014157,Titulo homonimo em outro ramo; escopo ainda nao resolvido.
+Q0654,revisar,5583,,0.52026393,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0655,revisar,4690,,0.17563741,Cobranca explicita diverge do enquadramento anterior; confirmar o ramo sugerido.
+Q0656,publicar,6724,,0.98092848,
+Q0657,publicar,6716,,0.86300308,
+Q0658,revisar,4380,,0.57327285,Confirmar o enquadramento sugerido; evidencia insuficiente para publicacao automatica.
+Q0659,publicar,6723,,0.87569911,

@@ -1,0 +1,35 @@
+{
+  "questoes": 559,
+  "publicar": 140,
+  "revisar": 419,
+  "fora": 0,
+  "cobertura": 0.2504472271914132,
+  "precisao_real_alvo": null,
+  "motivos_revisao": {
+    "abaixo_do_limiar_calibrado": 349,
+    "homonimo_sem_escopo_resolvido": 69,
+    "sem_evidencia;homonimo_sem_escopo_resolvido": 1
+  },
+  "novas_publicacoes": 1,
+  "publicacoes_anteriores_perdidas": 0,
+  "publicadas_com_tema_trocado": 1,
+  "uniao_descritiva_nao_ativada": {
+    "publicar": 140,
+    "cobertura": 0.2504472271914132,
+    "precisao_desenvolvimento": null,
+    "politica_calibrada_para_uniao": false
+  },
+  "recentes_300": {
+    "questoes": 300,
+    "publicar": 80,
+    "revisar": 220,
+    "fora": 0,
+    "cobertura": 0.26666666666666666,
+    "precisao_real_alvo": null,
+    "motivos_revisao": {
+      "abaixo_do_limiar_calibrado": 189,
+      "homonimo_sem_escopo_resolvido": 31
+    }
+  },
+  "controle_com_mesmo_candidato": 547
+}

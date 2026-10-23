@@ -1,0 +1,226 @@
+{
+  "frases_completas": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 21,
+      "revisar": 79,
+      "fora": 0,
+      "cobertura": 0.21,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 54,
+        "homonimo_sem_escopo_resolvido": 5,
+        "sem_politica_com_suporte": 20
+      },
+      "acertos_top1": 73,
+      "acertos_publicadas": 20,
+      "erros_publicadas": 1,
+      "precisao_desenvolvimento": 0.9523809523809523,
+      "fora_oficial_publicadas": 1,
+      "brier": 0.17652689156614823,
+      "meta_95_na_amostra": true,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 0,
+      "publicacoes_anteriores_perdidas": 18,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 0,
+      "novas_erradas": 0,
+      "acertos_perdidos": 16,
+      "erros_retidos": 1,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 39,
+        "cobertura": 0.39,
+        "precisao_desenvolvimento": 0.9230769230769231,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "erros_corrigidos": [],
+    "acertos_prejudicados": [
+      "Q0311"
+    ],
+    "alvo_559": {
+      "questoes": 559,
+      "publicar": 94,
+      "revisar": 465,
+      "fora": 0,
+      "cobertura": 0.16815742397137745,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 395,
+        "homonimo_sem_escopo_resolvido": 69,
+        "sem_evidencia;homonimo_sem_escopo_resolvido": 1
+      },
+      "novas_publicacoes": 4,
+      "publicacoes_anteriores_perdidas": 49,
+      "publicadas_com_tema_trocado": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 143,
+        "cobertura": 0.2558139534883721,
+        "precisao_desenvolvimento": null,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "recentes_300": {
+      "questoes": 300,
+      "publicar": 52,
+      "revisar": 248,
+      "fora": 0,
+      "cobertura": 0.17333333333333334,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 217,
+        "homonimo_sem_escopo_resolvido": 31
+      }
+    }
+  },
+  "vocabulario_escopos": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 32,
+      "revisar": 68,
+      "fora": 0,
+      "cobertura": 0.32,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 44,
+        "homonimo_sem_escopo_resolvido": 4,
+        "sem_politica_com_suporte": 20
+      },
+      "acertos_top1": 76,
+      "acertos_publicadas": 27,
+      "erros_publicadas": 5,
+      "precisao_desenvolvimento": 0.84375,
+      "fora_oficial_publicadas": 3,
+      "brier": 0.16764379757846562,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 6,
+      "publicacoes_anteriores_perdidas": 13,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 4,
+      "novas_erradas": 2,
+      "acertos_perdidos": 13,
+      "erros_retidos": 3,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 45,
+        "cobertura": 0.45,
+        "precisao_desenvolvimento": 0.8888888888888888,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "erros_corrigidos": [
+      "Q0188",
+      "Q0106"
+    ],
+    "acertos_prejudicados": [],
+    "alvo_559": {
+      "questoes": 559,
+      "publicar": 97,
+      "revisar": 462,
+      "fora": 0,
+      "cobertura": 0.1735241502683363,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 395,
+        "homonimo_sem_escopo_resolvido": 66,
+        "sem_evidencia;homonimo_sem_escopo_resolvido": 1
+      },
+      "novas_publicacoes": 6,
+      "publicacoes_anteriores_perdidas": 48,
+      "publicadas_com_tema_trocado": 1,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 145,
+        "cobertura": 0.259391771019678,
+        "precisao_desenvolvimento": null,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "recentes_300": {
+      "questoes": 300,
+      "publicar": 56,
+      "revisar": 244,
+      "fora": 0,
+      "cobertura": 0.18666666666666668,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 213,
+        "homonimo_sem_escopo_resolvido": 31
+      }
+    }
+  },
+  "passagem_cobrada": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 32,
+      "revisar": 68,
+      "fora": 0,
+      "cobertura": 0.32,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 44,
+        "homonimo_sem_escopo_resolvido": 4,
+        "sem_politica_com_suporte": 20
+      },
+      "acertos_top1": 76,
+      "acertos_publicadas": 27,
+      "erros_publicadas": 5,
+      "precisao_desenvolvimento": 0.84375,
+      "fora_oficial_publicadas": 3,
+      "brier": 0.16796341603653742,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 6,
+      "publicacoes_anteriores_perdidas": 13,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 4,
+      "novas_erradas": 2,
+      "acertos_perdidos": 13,
+      "erros_retidos": 3,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 45,
+        "cobertura": 0.45,
+        "precisao_desenvolvimento": 0.8888888888888888,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "erros_corrigidos": [
+      "Q0188",
+      "Q0106"
+    ],
+    "acertos_prejudicados": [],
+    "alvo_559": {
+      "questoes": 559,
+      "publicar": 97,
+      "revisar": 462,
+      "fora": 0,
+      "cobertura": 0.1735241502683363,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 396,
+        "homonimo_sem_escopo_resolvido": 65,
+        "sem_evidencia;homonimo_sem_escopo_resolvido": 1
+      },
+      "novas_publicacoes": 6,
+      "publicacoes_anteriores_perdidas": 48,
+      "publicadas_com_tema_trocado": 1,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 145,
+        "cobertura": 0.259391771019678,
+        "precisao_desenvolvimento": null,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "recentes_300": {
+      "questoes": 300,
+      "publicar": 56,
+      "revisar": 244,
+      "fora": 0,
+      "cobertura": 0.18666666666666668,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 213,
+        "homonimo_sem_escopo_resolvido": 31
+      }
+    }
+  }
+}

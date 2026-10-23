@@ -1,0 +1,61 @@
+id,tema_previsto,caminho_previsto,score_similaridade,acerto_top1,acerto_top5,fora_referencia,candidatos_top5
+Q0003,5560,Processo Penal > Recursos em Espécies,0.196991,True,True,False,5560;5512;5466;5063;5543
+Q0005,5572,Processo Penal > Sentença Penal,0.210214,False,True,False,5572;5530;5199;5560;5185
+Q0018,5539,Processo Penal > Procedimento Sumaríssimo,0.31725,True,True,False,5539;6732;6733;5560;5530
+Q0023,5524,Processo Penal > Procedimento do Tribunal do Júri,0.307347,True,True,False,5524;5530;5191;5560;5543
+Q0028,5487,Processo Penal > Comunicação dos Atos Processuais,0.22293,False,False,False,5487;5530;5466;5063;5191
+Q0034,5498,Processo Penal > Inquérito Policial,0.330991,False,True,False,5498;5490;5476;5184;5530
+Q0040,5572,Processo Penal > Sentença Penal,0.176755,False,True,False,5572;5524;5560;5530;5087
+Q0041,5184,Penal > Medida de Segurança,0.405963,True,True,False,5184;5191;5476;5530;5543
+Q0043,6726,Penal > Teoria da Pena (Parte 1),0.270003,False,False,True,6726;6727;5199;5572;5530
+Q0057,5175,Penal > Iter Criminis,0.408124,True,True,False,5175;4368;6734;5543;5191
+Q0061,6726,Penal > Teoria da Pena (Parte 1),0.188945,False,False,False,6726;6727;5199;5560;5572
+Q0067,5087,Penal > Dos Crimes Contra a Administração Pública,0.299883,True,True,False,5087;6718;6719;5079;5066
+Q0068,5087,Penal > Dos Crimes Contra a Administração Pública,0.2009,True,True,False,5087;5116;5185;5530;5191
+Q0077,5170,Penal > Introdução ao Estudo do Direito Penal,0.163626,False,False,False,5170;5071;5185;5560;5530
+Q0080,4368,Criminologia > Criminologia no Estado Democrático de Direito,0.591335,True,True,False,4368;5155;4380;5480;5111
+Q0086,5087,Penal > Dos Crimes Contra a Administração Pública,0.196166,True,True,False,5087;5066;5134;5185;5487
+Q0087,6734,Processo Penal > Lei de Execução Penal,0.236107,False,False,True,6734;4703;5517;6722;5560
+Q0091,5199,Penal > Teoria da Pena,0.258608,False,False,False,5199;6726;6727;5572;5530
+Q0103,5476,Processo Penal > Ações Autônomas de Impugnação,0.210184,True,True,False,5476;5560;5191;5490;5512
+Q0110,6732,Processo Penal > Competência (Parte 1),0.215792,False,True,False,6732;6733;5480;5560;5466
+Q0111,4384,Criminologia > Teorias Legitimidoras da Pena,0.265728,False,True,False,4384;4380;4371;5199;5530
+Q0115,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,0.231089,True,True,False,4385;5560;5191;5199;5530
+Q0117,4384,Criminologia > Teorias Legitimidoras da Pena,0.281236,True,True,False,4384;5199;6726;6727;5509
+Q0124,4384,Criminologia > Teorias Legitimidoras da Pena,0.28019,True,True,False,4384;5199;6727;6726;5530
+Q0134,5087,Penal > Dos Crimes Contra a Administração Pública,0.178652,True,True,False,5087;6719;5138;6718;5199
+Q0137,5498,Processo Penal > Inquérito Policial,0.220193,True,True,False,5498;5476;5191;5530;5560
+Q0138,5199,Penal > Teoria da Pena,0.372217,True,True,False,5199;6726;6727;5530;5185
+Q0144,5560,Processo Penal > Recursos em Espécies,0.285244,True,True,False,5560;5524;5476;5512;5572
+Q0150,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,0.184466,True,True,False,4708;6728;5560;5480;5466
+Q0160,5199,Penal > Teoria da Pena,0.246041,True,True,False,5199;6726;6727;5530;5572
+Q0167,5487,Processo Penal > Comunicação dos Atos Processuais,0.19868,False,False,False,5487;5466;5480;5191;5063
+Q0179,4368,Criminologia > Criminologia no Estado Democrático de Direito,0.237371,True,True,False,4368;5125;5155;4377;5543
+Q0186,5199,Penal > Teoria da Pena,0.519172,True,True,False,5199;5530;5071;5543;5191
+Q0201,5102,Penal > Dos Crimes Contra a Dignidade Sexual,0.291926,True,True,False,5102;5066;5191;5063;5466
+Q0202,5191,Penal > Punibilidade,0.148747,False,True,False,5191;5218;5530;4709;5102
+Q0208,5066,Penal > Concurso de Crimes,0.159815,False,False,False,5066;5149;5191;5185;5543
+Q0215,5199,Penal > Teoria da Pena,0.203218,True,True,False,5199;5572;5480;5530;5543
+Q0221,5199,Penal > Teoria da Pena,0.358172,True,True,False,5199;5184;5584;5530;5476
+Q0231,5218,Penal > Teoria do Crime: Fato Típico,0.314581,True,True,False,5218;6728;4708;5211;5199
+Q0244,5087,Penal > Dos Crimes Contra a Administração Pública,0.313073,True,True,False,5087;5079;5102;5480;5138
+Q0249,6732,Processo Penal > Competência (Parte 1),0.177583,False,False,False,6732;6733;5466;5063;5476
+Q0251,5191,Penal > Punibilidade,0.232683,True,True,False,5191;5185;5063;5476;5560
+Q0259,5228,Penal > Teoria do Crime: Ilicitude,0.25383,False,True,False,5228;5211;5218;5157;5466
+Q0275,5487,Processo Penal > Comunicação dos Atos Processuais,0.246888,False,True,False,5487;4701;5530;5480;5524
+Q0277,6722,Penal > Estatuto do Idoso - Crimes,0.153772,False,True,False,6722;4696;5111;5087;5079
+Q0279,5175,Penal > Iter Criminis,0.282252,True,True,False,5175;5185;5157;5191;5530
+Q0286,5066,Penal > Concurso de Crimes,0.253552,False,True,False,5066;5071;5185;5543;5199
+Q0290,5466,Processo Penal > Ação Penal,0.273509,False,False,False,5466;5063;5530;5191;5487
+Q0291,6728,Penal > Tráfico de Drogas,0.313061,False,False,True,6728;5498;4708;5087;5063
+Q0303,5199,Penal > Teoria da Pena,0.188861,False,False,True,5199;5063;5466;5530;5157
+Q0308,5498,Processo Penal > Inquérito Policial,0.279339,True,True,False,5498;5185;5560;5490;5063
+Q0311,5487,Processo Penal > Comunicação dos Atos Processuais,0.228327,True,True,False,5487;5063;5466;5530;5476
+Q0314,5476,Processo Penal > Ações Autônomas de Impugnação,0.302756,True,True,False,5476;6716;5063;5079;5128
+Q0316,5066,Penal > Concurso de Crimes,0.164857,False,False,False,5066;5185;5191;5175;5199
+Q0320,5498,Processo Penal > Inquérito Policial,0.21818,False,True,False,5498;5543;5530;5079;5191
+Q0323,5530,Processo Penal > Procedimento Ordinário,0.237796,False,False,False,5530;5580;5543;5476;5466
+Q0324,6726,Penal > Teoria da Pena (Parte 1),0.193017,False,False,False,6726;6727;5572;5530;5199
+Q0338,5580,Processo Penal > Sistemas e Princípios Processuais Penais,0.215257,False,False,False,5580;5543;5063;5191;5560
+Q0341,5066,Penal > Concurso de Crimes,0.227367,True,True,False,5066;5157;5071;6720;6721
+Q0345,5102,Penal > Dos Crimes Contra a Dignidade Sexual,0.222875,True,True,False,5102;5560;5175;5191;5476

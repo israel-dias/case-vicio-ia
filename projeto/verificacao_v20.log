@@ -1,0 +1,27 @@
+{"questoes": 559, "publicar": 140, "revisar": 419, "fora": 0, "cobertura": 0.2504472271914132, "precisao_real_alvo": null, "motivos_revisao": {"abaixo_do_limiar_calibrado": 349, "homonimo_sem_escopo_resolvido": 69, "sem_evidencia;homonimo_sem_escopo_resolvido": 1}, "estimador_preservado": true, "rotulos_lidos": false, "treino_adicional": false, "chamadas_llm": 0, "promove_entrega": false}
+{
+  "variantes": {
+    "controle_atual": {
+      "questoes": 559,
+      "reproducao_exata": true
+    },
+    "ambiguidades_contextuais": {
+      "questoes": 559,
+      "reproducao_exata": true
+    },
+    "campos_sem_amplificar": {
+      "questoes": 559,
+      "reproducao_exata": true
+    },
+    "escopos_contextuais": {
+      "questoes": 559,
+      "reproducao_exata": true
+    }
+  },
+  "previsoes_reproduzidas": 2236,
+  "inferencias_adicionais_estimador_preservado": 559,
+  "mesmo_candidato_implica_mesma_confianca_verificado": 547,
+  "rotulos_rede_treino_avaliador_recalibracao_bloqueados": true,
+  "precisao_real_559": null,
+  "promove_entrega": false
+}

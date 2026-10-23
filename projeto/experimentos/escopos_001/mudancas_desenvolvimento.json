@@ -1,0 +1,155 @@
+[
+  {
+    "id": "Q0005",
+    "antes": "Processo Penal > Sentença Penal",
+    "depois": "Penal > Teoria da Pena",
+    "antes_aceito": false,
+    "depois_aceito": true,
+    "central_oficial": "Penal > Teoria da Pena",
+    "extras_oficiais": ""
+  },
+  {
+    "id": "Q0040",
+    "antes": "Processo Penal > Sentença Penal",
+    "depois": "Processo Penal > Procedimento do Tribunal do Júri",
+    "antes_aceito": false,
+    "depois_aceito": true,
+    "central_oficial": "Processo Penal > Recursos em Espécies > Apelação",
+    "extras_oficiais": "5524;5529"
+  },
+  {
+    "id": "Q0043",
+    "antes": "Penal > Teoria da Pena (Parte 1)",
+    "depois": "Penal > Teoria da Pena",
+    "antes_aceito": false,
+    "depois_aceito": false,
+    "central_oficial": "",
+    "extras_oficiais": ""
+  },
+  {
+    "id": "Q0061",
+    "antes": "Penal > Teoria da Pena (Parte 1)",
+    "depois": "Processo Penal > Lei de Execução Penal",
+    "antes_aceito": false,
+    "depois_aceito": false,
+    "central_oficial": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+    "extras_oficiais": ""
+  },
+  {
+    "id": "Q0077",
+    "antes": "Penal > Concurso de Pessoas",
+    "depois": "Direito Penal - Legislação Especial > Genocídio",
+    "antes_aceito": false,
+    "depois_aceito": false,
+    "central_oficial": "Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas",
+    "extras_oficiais": ""
+  },
+  {
+    "id": "Q0086",
+    "antes": "Penal > Concurso de Crimes",
+    "depois": "Penal > Dos Crimes Contra a Administração Pública",
+    "antes_aceito": false,
+    "depois_aceito": true,
+    "central_oficial": "Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva",
+    "extras_oficiais": ""
+  },
+  {
+    "id": "Q0144",
+    "antes": "Processo Penal > Recursos em Espécies",
+    "depois": "Processo Penal > Procedimento do Tribunal do Júri",
+    "antes_aceito": true,
+    "depois_aceito": true,
+    "central_oficial": "Processo Penal > Procedimento do Tribunal do Júri",
+    "extras_oficiais": "5529;5562"
+  },
+  {
+    "id": "Q0167",
+    "antes": "Processo Penal > Comunicação dos Atos Processuais",
+    "depois": "Processo Penal > Procedimento do Tribunal do Júri",
+    "antes_aceito": false,
+    "depois_aceito": true,
+    "central_oficial": "Processo Penal > Procedimento do Tribunal do Júri",
+    "extras_oficiais": ""
+  },
+  {
+    "id": "Q0202",
+    "antes": "Penal > Teoria do Crime: Fato Típico",
+    "depois": "Penal > Dos Crimes Contra a Dignidade Sexual",
+    "antes_aceito": true,
+    "depois_aceito": false,
+    "central_oficial": "Penal > Teoria do Crime: Fato Típico > Erro de Tipo",
+    "extras_oficiais": ""
+  },
+  {
+    "id": "Q0249",
+    "antes": "Processo Penal > Competência (Parte 1)",
+    "depois": "Processo Penal > Sujeitos do Processo",
+    "antes_aceito": false,
+    "depois_aceito": false,
+    "central_oficial": "Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",
+    "extras_oficiais": ""
+  },
+  {
+    "id": "Q0259",
+    "antes": "Penal > Teoria do Crime: Ilicitude",
+    "depois": "Penal > Dos Crimes Contra o Patrimônio",
+    "antes_aceito": false,
+    "depois_aceito": true,
+    "central_oficial": "Penal > Introdução ao Estudo do Direito Penal > Princípios do Direito Penal",
+    "extras_oficiais": "5164"
+  },
+  {
+    "id": "Q0275",
+    "antes": "Processo Penal > Comunicação dos Atos Processuais",
+    "depois": "Direito Penal - Legislação Especial > Juizado Especial Criminal",
+    "antes_aceito": false,
+    "depois_aceito": true,
+    "central_oficial": "Direito Penal - Legislação Especial > Juizado Especial Criminal",
+    "extras_oficiais": "5539"
+  },
+  {
+    "id": "Q0279",
+    "antes": "Penal > Iter Criminis",
+    "depois": "Penal > Prescrição",
+    "antes_aceito": true,
+    "depois_aceito": true,
+    "central_oficial": "Penal > Prescrição",
+    "extras_oficiais": "5178"
+  },
+  {
+    "id": "Q0303",
+    "antes": "Penal > Teoria da Pena",
+    "depois": "Penal > Lei Penal no Tempo e no Espaço",
+    "antes_aceito": false,
+    "depois_aceito": false,
+    "central_oficial": "",
+    "extras_oficiais": ""
+  },
+  {
+    "id": "Q0324",
+    "antes": "Penal > Teoria da Pena (Parte 1)",
+    "depois": "Penal > Medida de Segurança",
+    "antes_aceito": false,
+    "depois_aceito": false,
+    "central_oficial": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+    "extras_oficiais": "4686;6734"
+  },
+  {
+    "id": "Q0338",
+    "antes": "Processo Penal > Sistemas e Princípios Processuais Penais",
+    "depois": "Processo Penal > Provas em Espécies",
+    "antes_aceito": false,
+    "depois_aceito": false,
+    "central_oficial": "Processo Penal > Teoria Geral das Provas",
+    "extras_oficiais": ""
+  },
+  {
+    "id": "Q0341",
+    "antes": "Penal > Concurso de Crimes",
+    "depois": "Penal > Dos Crimes Contra o Patrimônio",
+    "antes_aceito": true,
+    "depois_aceito": true,
+    "central_oficial": "Penal > Dos Crimes Contra o Patrimônio",
+    "extras_oficiais": "5068"
+  }
+]

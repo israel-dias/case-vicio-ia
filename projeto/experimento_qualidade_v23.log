@@ -1,0 +1,22 @@
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+margens {"desenvolvimento_100": {"questoes": 100, "publicar": 28, "revisar": 72, "fora": 0, "cobertura": 0.28, "precisao_real_alvo": null, "motivos_revisao": {"abaixo_do_limiar_estimado": 68, "homonimo_sem_escopo_resolvido": 4}, "acertos_top1": 74, "acertos_publicadas": 25, "erros_publicadas": 3, "precisao_desenvolvimento": 0.8928571428571429, "fora_oficial_publicadas": 2, "brier": 0.17129333018569085, "meta_95_na_amostra": false, "prova_de_minimo_95_populacional": false, "novas_publicacoes": 7, "publicacoes_anteriores_perdidas": 29, "publicadas_com_tema_trocado": 1, "novas_corretas": 5, "novas_erradas": 2, "acertos_perdidos": 28, "erros_retidos": 1, "uniao_descritiva_nao_ativada": {"publicar": 57, "cobertura": 0.57, "precisao_desenvolvimento": 0.9298245614035088, "politica_calibrada_para_uniao": false}}}
+evidencias {"desenvolvimento_100": {"questoes": 100, "publicar": 10, "revisar": 90, "fora": 0, "cobertura": 0.1, "precisao_real_alvo": null, "motivos_revisao": {"abaixo_do_limiar_estimado": 28, "homonimo_sem_escopo_resolvido": 4, "sem_politica_com_suporte": 58}, "acertos_top1": 74, "acertos_publicadas": 9, "erros_publicadas": 1, "precisao_desenvolvimento": 0.9, "fora_oficial_publicadas": 1, "brier": 0.16449178221866337, "meta_95_na_amostra": false, "prova_de_minimo_95_populacional": false, "novas_publicacoes": 3, "publicacoes_anteriores_perdidas": 43, "publicadas_com_tema_trocado": 0, "novas_corretas": 2, "novas_erradas": 1, "acertos_perdidos": 41, "erros_retidos": 0, "uniao_descritiva_nao_ativada": {"publicar": 53, "cobertura": 0.53, "precisao_desenvolvimento": 0.9433962264150944, "politica_calibrada_para_uniao": false}}}
+selecionado_internamente {"desenvolvimento_100": {"questoes": 100, "publicar": 30, "revisar": 70, "fora": 0, "cobertura": 0.3, "precisao_real_alvo": null, "motivos_revisao": {"abaixo_do_limiar_estimado": 66, "homonimo_sem_escopo_resolvido": 4}, "acertos_top1": 74, "acertos_publicadas": 27, "erros_publicadas": 3, "precisao_desenvolvimento": 0.9, "fora_oficial_publicadas": 2, "brier": 0.16640581226369766, "meta_95_na_amostra": false, "prova_de_minimo_95_populacional": false, "novas_publicacoes": 8, "publicacoes_anteriores_perdidas": 28, "publicadas_com_tema_trocado": 1, "novas_corretas": 6, "novas_erradas": 2, "acertos_perdidos": 27, "erros_retidos": 1, "uniao_descritiva_nao_ativada": {"publicar": 58, "cobertura": 0.58, "precisao_desenvolvimento": 0.9310344827586207, "politica_calibrada_para_uniao": false}}}
+Traceback (most recent call last):
+  File "/workspace/scratch/49a54813cd46/case-vicio-ia-etapa2-expressoes-v19-experimental/testar_qualidade_v23.py", line 70, in <module>
+    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--projeto',type=Path,default=Path('.'));p.add_argument('--saida',type=Path,required=True);z=p.parse_args();executar(z.projeto,z.saida)
+                                                                                                                                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/49a54813cd46/case-vicio-ia-etapa2-expressoes-v19-experimental/testar_qualidade_v23.py", line 60, in executar
+    alvo={i:q for i,q in qs.items() if i not in ys};pa=busca.preparar(alvo);ra=ler(e/'classificacoes_559_todas_variantes.csv','controle_contextual');out=[];ref=controle(projeto,'classificacoes_559_todas_variantes.csv')
+                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/49a54813cd46/case-vicio-ia-etapa2-expressoes-v19-experimental/testar_qualidade_v23.py", line 14, in ler
+    rr=[r for r in csv.DictReader(p.open()) if r.get('avaliacao',r.get('variante'))==v]
+                                  ^^^^^^^^
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/workspace/scratch/49a54813cd46/case-vicio-ia-etapa2-expressoes-v19-experimental/experimentos/semantica_v22_001/classificacoes_559_todas_variantes.csv'

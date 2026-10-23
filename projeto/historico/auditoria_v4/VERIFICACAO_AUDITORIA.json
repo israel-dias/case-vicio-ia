@@ -1,0 +1,30 @@
+{
+  "testes": {
+    "testes_auditoria_v4.log": {
+      "testes": 10,
+      "segundos": 0.035,
+      "resultado": "OK"
+    },
+    "testes_folha_v2.log": {
+      "testes": 19,
+      "segundos": 7.811,
+      "resultado": "OK"
+    },
+    "testes_melhorias_v3.log": {
+      "testes": 17,
+      "segundos": 2.242,
+      "resultado": "OK"
+    },
+    "testes_raiz.log": {
+      "testes": 104,
+      "segundos": 16.956,
+      "resultado": "OK"
+    }
+  },
+  "total_testes_aprovados": 150,
+  "controle_reproduziu_probabilidades_cv_v3": true,
+  "entrega_v3_reproduzida_byte_a_byte": true,
+  "entrega_v3_alterada_pela_auditoria": false,
+  "acerto_juridico_559_medido": false,
+  "comparacao": "Remoção de atributos com novo ajuste, calibração e cortes escolhidos antes do grupo externo."
+}

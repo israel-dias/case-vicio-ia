@@ -1,0 +1,64 @@
+{
+  "questoes": 559,
+  "publicar": 394,
+  "revisar": 165,
+  "fora": 0,
+  "base_v15_publicadas": 392,
+  "precisao_real": null,
+  "rotulos_lidos": false,
+  "retreino": false,
+  "chamadas_llm": 0,
+  "promove_entrega": false
+}
+{
+  "questoes": 559,
+  "publicar": 196,
+  "revisar": 363,
+  "fora": 0,
+  "cobertura": 0.35062611806797855,
+  "precisao_real_alvo": null,
+  "motivos_revisao": {
+    "abaixo_do_limiar_calibrado": 293,
+    "homonimo_sem_escopo_resolvido": 69,
+    "sem_evidencia;homonimo_sem_escopo_resolvido": 1
+  },
+  "variante": "comando_estrito",
+  "rotulos_lidos": false,
+  "treino_supervisionado": false,
+  "recalibracao": false,
+  "chamadas_llm": 0,
+  "promove_entrega": false
+}
+{
+  "questoes": 559,
+  "publicar": 395,
+  "revisar": 164,
+  "fora": 0,
+  "cobertura": 0.7066189624329159,
+  "precisao_real_alvo": null,
+  "motivos_revisao": {
+    "Controle anterior preservado; rota de comando não aplicada.": 160,
+    "homonimo_sem_escopo_resolvido": 1,
+    "abaixo_do_limiar_calibrado": 3
+  },
+  "politica": "suplemento_revisoes",
+  "precisao_real_559": null,
+  "chamadas_llm": 0,
+  "promove_entrega": false,
+  "calibracao_global_da_composicao": false
+}
+{
+  "politicas": {
+    "comando_prioritario": {
+      "reproducao_exata": true,
+      "publicar": 380
+    },
+    "suplemento_revisoes": {
+      "reproducao_exata": true,
+      "publicar": 395
+    }
+  },
+  "previsoes_conferidas": 1118,
+  "rede_rotulos_avaliador_treino_recalibracao_bloqueados": true,
+  "precisao_real_559": null
+}

@@ -1,0 +1,13 @@
+{
+  "testes_passaram": 12,
+  "arquivos_anteriores_preservados": 478,
+  "reproducao": {
+    "questoes": 559,
+    "variante": "sem_apoio_duplo",
+    "politica": "preservar",
+    "tema_decisao_confianca_iguais": true,
+    "rotulos_bloqueados": true,
+    "rede_bloqueada": true
+  },
+  "promove_entrega": false
+}

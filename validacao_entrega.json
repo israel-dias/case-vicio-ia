@@ -1,0 +1,18 @@
+{
+  "arquivos_sha256": {
+    "publicacao.csv": "c763449d90b463caec306b8c0fabcf90da26f2421d567f2a543ae06744025934",
+    "previsao.txt": "56bcbca245870a416e657382aba3f70c0adf22c417e5244e0af56a588eb20f70",
+    "resumo_entrega.json": "a21d8387c5ff88b2a622ce3f563c9e7832713da8fb3df69b9ce81d51bf52327c",
+    "rastreabilidade.jsonl": "2eeab2372e6b5563b63e96d23bb90cccae1a9af8554664fb358715fc4f7b6915",
+    "relatorio.pdf": "adaa1bda136b28828d40cea3e51d58b627792b636fa2b459fd64d4ea2aeeed27",
+    "relatorio.md": "2f3692c0a44538f86ebcfde6fe52a8b715d3f7a3877064b2cb85e10bc2e38411",
+    "gerar_entrega.py": "4237451122ddc7cfda363106acbb218775d8f5dbfa23126ef15d1cdba8a1567f",
+    "conferir_entrega.py": "5f76ebcff49f867ff14a95a5984782e97b1e010258f79f947d648aaaabcdcaa3",
+    "requirements.txt": "6fcf39b25b0ecb7f3d79dd5240c61d4db3f3932859f6cb8000ab7151c5215852"
+  },
+  "659_ids_unicos": true,
+  "confianca_formatada_8_casas_sem_alterar_decisao": true,
+  "testes_cobranca_v24": 16,
+  "precisao_real_559": null,
+  "modelo_linguagem_na_inferencia": false
+}

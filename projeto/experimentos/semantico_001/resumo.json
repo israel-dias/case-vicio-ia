@@ -1,0 +1,138 @@
+{
+  "experimento": "semantico_supervisionado_v1",
+  "avaliacao": "desenvolvimento; exclusão do próprio item e duplicatas de texto normalizado",
+  "particao": {
+    "desenvolvimento": 60,
+    "calibracao_reservada": 20,
+    "teste_reservado": 20
+  },
+  "resultados": {
+    "lexical_controle": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 35,
+      "acerto_top1_total": 0.5833333333333334,
+      "acerto_top1_com_tema": 0.625,
+      "acerto_top5_com_tema": 0.7678571428571429
+    },
+    "semantico": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 7,
+      "acerto_top1_total": 0.11666666666666667,
+      "acerto_top1_com_tema": 0.125,
+      "acerto_top5_com_tema": 0.19642857142857142
+    },
+    "semantico_pai": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 7,
+      "acerto_top1_total": 0.11666666666666667,
+      "acerto_top1_com_tema": 0.125,
+      "acerto_top5_com_tema": 0.25
+    },
+    "hibrido_50": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 33,
+      "acerto_top1_total": 0.55,
+      "acerto_top1_com_tema": 0.5892857142857143,
+      "acerto_top5_com_tema": 0.6964285714285714
+    },
+    "hibrido_50_pai": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 33,
+      "acerto_top1_total": 0.55,
+      "acerto_top1_com_tema": 0.5892857142857143,
+      "acerto_top5_com_tema": 0.7321428571428571
+    },
+    "hibrido_75": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 17,
+      "acerto_top1_total": 0.2833333333333333,
+      "acerto_top1_com_tema": 0.30357142857142855,
+      "acerto_top5_com_tema": 0.6071428571428571
+    },
+    "hibrido_75_pai": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 18,
+      "acerto_top1_total": 0.3,
+      "acerto_top1_com_tema": 0.32142857142857145,
+      "acerto_top5_com_tema": 0.6607142857142857
+    },
+    "vizinhos_k5": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 13,
+      "acerto_top1_total": 0.21666666666666667,
+      "acerto_top1_com_tema": 0.23214285714285715,
+      "acerto_top5_com_tema": 0.5178571428571429
+    },
+    "hibrido_vizinhos_k3": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 26,
+      "acerto_top1_total": 0.43333333333333335,
+      "acerto_top1_com_tema": 0.4642857142857143,
+      "acerto_top5_com_tema": 0.8214285714285714
+    },
+    "hibrido_vizinhos_k5": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 27,
+      "acerto_top1_total": 0.45,
+      "acerto_top1_com_tema": 0.48214285714285715,
+      "acerto_top5_com_tema": 0.8214285714285714
+    },
+    "lexico_vizinhos_k1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 36,
+      "acerto_top1_total": 0.6,
+      "acerto_top1_com_tema": 0.6428571428571429,
+      "acerto_top5_com_tema": 0.8214285714285714
+    },
+    "lexico_vizinhos_k3": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 35,
+      "acerto_top1_total": 0.5833333333333334,
+      "acerto_top1_com_tema": 0.625,
+      "acerto_top5_com_tema": 0.8214285714285714
+    },
+    "lexico_vizinhos_k5": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 35,
+      "acerto_top1_total": 0.5833333333333334,
+      "acerto_top1_com_tema": 0.625,
+      "acerto_top5_com_tema": 0.7857142857142857
+    }
+  },
+  "tempo_segundos": 1.401,
+  "observacoes": [
+    "Nenhum treino ou previsão usa os 20 IDs de calibração ou os 20 de teste.",
+    "Os vetores das 659 questões são preparação sem rótulos; 559 não recebem classificações.",
+    "Encoder só foi usado antes, na preparação versionada; não é chamado nesta execução.",
+    "Pontuação de ordenação não é probabilidade nem precisão das publicadas.",
+    "Vários métodos foram comparados no desenvolvimento; não é teste externo intocado.",
+    "As marcações oficiais de fora são preservadas; não há detector de fora nesta versão.",
+    "Ainda não há publicacao.csv nem política de publicação."
+  ]
+}

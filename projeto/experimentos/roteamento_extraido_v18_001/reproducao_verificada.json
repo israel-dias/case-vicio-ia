@@ -1,0 +1,15 @@
+{
+  "politicas": {
+    "comando_prioritario": {
+      "reproducao_exata": true,
+      "publicar": 338
+    },
+    "suplemento_revisoes": {
+      "reproducao_exata": true,
+      "publicar": 394
+    }
+  },
+  "previsoes_conferidas": 1118,
+  "rede_rotulos_avaliador_treino_recalibracao_bloqueados": true,
+  "precisao_real_559": null
+}

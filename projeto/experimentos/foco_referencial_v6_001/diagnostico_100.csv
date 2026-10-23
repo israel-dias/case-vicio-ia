@@ -1,0 +1,101 @@
+acerto_controle,acerto_foco,extras_ids,foco,fora_da_taxonomia,id,marcadores,tema_central_caminho,tema_central_id,tema_controle,tema_foco
+0,0,,,1,Q0002,[],,,4384,4384
+1,1,5562,,0,Q0003,[],Processo Penal > Recursos em Espécies,5560,5560,5560
+1,0,,"a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é crime de furto qualificado praticado em 15/5/2022, Carlos é",0,Q0005,"[{""marcador"": ""Considerando-se"", ""inicio"": 566, ""trecho"": ""a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é"", ""retomada_textual"": false, ""limite_janela"": false}, {""marcador"": ""em relação ao"", ""inicio"": 686, ""trecho"": ""crime de furto qualificado praticado em 15/5/2022, Carlos é"", ""retomada_textual"": false, ""limite_janela"": false}]",Penal > Teoria da Pena,5199,5199,5157
+1,1,4701;5569,,0,Q0012,[],Processo Penal > Recursos em Espécies > Apelação,5562,5560,5560
+0,0,,,1,Q0017,[],,,5530,5530
+1,1,5540,,0,Q0018,[],Direito Penal - Legislação Especial > Juizado Especial Criminal,4701,5539,5539
+1,1,,,0,Q0023,[],Processo Penal > Procedimento do Tribunal do Júri,5524,5524,5524
+0,0,5526,,0,Q0028,[],"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",5527,5487,5487
+1,1,4387;4388,,0,Q0031,[],Criminologia > Teorias Sociológicas Explicativas da Criminalidade,4385,4385,4385
+0,0,5590;5594,,0,Q0034,[],Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,5477,5498,5498
+1,1,,,0,Q0035,[],Direito Penal - Legislação Especial > Terrorismo,4706,4706,4706
+0,0,,,1,Q0039,[],,,4687,4687
+1,1,5524;5529,,0,Q0040,[],Processo Penal > Recursos em Espécies > Apelação,5562,5524,5524
+1,1,,,0,Q0041,[],Penal > Medida de Segurança,5184,5184,5184
+0,0,,,1,Q0043,[],,,5199,5199
+1,1,5149,,0,Q0049,[],"Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",5152,5149,5149
+0,0,,,0,Q0052,[],Direito Penal - Legislação Especial > Lei de Execução Penal,4703,6726,6726
+1,1,,,0,Q0057,[],Penal > Iter Criminis,5175,5175,5175
+0,0,4377,,0,Q0058,[],Criminologia > Vitimologia,4389,5184,5184
+1,1,5093,crimes praticados em detrimento da administração pública,0,Q0060,"[{""marcador"": ""A respeito dos"", ""inicio"": 0, ""trecho"": ""crimes praticados em detrimento da administração pública"", ""retomada_textual"": false, ""limite_janela"": false}]",Penal > Dos Crimes Contra a Administração Pública,5087,5087,5087
+0,0,,,0,Q0061,[],Direito Penal - Legislação Especial > Lei de Execução Penal,4703,6734,6734
+1,1,4373,,0,Q0066,[],Criminologia > Etapas Evolutivas e Escolas Criminológicas,4371,4371,4371
+1,0,,"Analise abaixo, caracterizando-a com um dos tipos de crime contra a Administração Pública",0,Q0067,"[{""marcador"": ""a conduta"", ""inicio"": 367, ""trecho"": ""Analise abaixo, caracterizando-a com um dos tipos de crime contra a Administração Pública"", ""retomada_textual"": true, ""limite_janela"": false}]",Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,5091,5087,6719
+1,1,5119;5096,,0,Q0068,[],Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Dos Crimes contra a Fé Pública,5117,5116,5116
+0,0,,,0,Q0077,[],Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas,5183,4698,4698
+1,1,,sistemas processuais penais e aos seus princípios reitores,0,Q0079,"[{""marcador"": ""Em relação aos"", ""inicio"": 0, ""trecho"": ""sistemas processuais penais e aos seus princípios reitores"", ""retomada_textual"": false, ""limite_janela"": false}]",Processo Penal > Sistemas e Princípios Processuais Penais,5580,5580,5580
+1,1,,,0,Q0080,[],Criminologia > Criminologia no Estado Democrático de Direito,4368,4368,4368
+1,1,,,0,Q0086,[],Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,5092,5087,5087
+0,0,,,1,Q0087,[],,,4703,4703
+0,0,,,0,Q0090,[],Processo Penal > Procedimento Ordinário,5530,5466,5466
+0,0,,"aplicação de pena, cominação de penas, regime de penas, medidas de segurança e livramento condicional",0,Q0091,"[{""marcador"": ""a respeito de"", ""inicio"": 184, ""trecho"": ""aplicação de pena, cominação de penas, regime de penas, medidas de segurança e livramento condicional"", ""retomada_textual"": false, ""limite_janela"": false}]",Direito Penal - Legislação Especial > Lei de Execução Penal,4703,5199,5199
+0,0,,,0,Q0099,[],"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",5100,5077,5077
+1,1,,revisão criminal,0,Q0103,"[{""marcador"": ""A respeito da"", ""inicio"": 0, ""trecho"": ""revisão criminal"", ""retomada_textual"": false, ""limite_janela"": false}]",Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,5478,5476,5476
+0,0,5166,,0,Q0106,[],Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,5165,5155,5155
+1,1,,,0,Q0110,[],Processo Penal > Competência,5480,5480,5480
+0,0,,,0,Q0111,[],Criminologia > Etapas Evolutivas e Escolas Criminológicas,4371,4384,4384
+1,1,4385,,0,Q0115,[],Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,4388,4385,4385
+1,1,,,0,Q0117,[],Criminologia > Teorias Legitimidoras da Pena,4384,4384,4384
+1,1,,,0,Q0124,[],Criminologia > Teorias Legitimidoras da Pena,4384,4384,4384
+1,1,,,0,Q0134,[],Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,5092,5087,5087
+1,1,,,0,Q0137,[],Processo Penal > Inquérito Policial,5498,5498,5498
+1,1,5205,,0,Q0138,[],Processo Penal > Lei de Execução Penal,6734,5199,5199
+1,1,,,0,Q0139,[],Penal > Teoria do Crime: Culpabilidade,5211,5211,5211
+1,1,5529;5562,,0,Q0144,[],Processo Penal > Procedimento do Tribunal do Júri,5524,5524,5524
+1,1,,,0,Q0147,[],Processo Penal > Inquérito Policial,5498,5498,5498
+1,0,,o entendimento sumulado dos Tribunais Superiores,0,Q0150,"[{""marcador"": ""Considerando"", ""inicio"": 0, ""trecho"": ""o entendimento sumulado dos Tribunais Superiores"", ""retomada_textual"": false, ""limite_janela"": false}]",Direito Penal - Legislação Especial > Tráfico de Drogas,4708,4708,5524
+1,1,5201;5205,,0,Q0160,[],Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,5203,5199,5199
+1,1,,,0,Q0167,[],Processo Penal > Procedimento do Tribunal do Júri,5524,5524,5524
+1,1,,"causas de impedimento e suspeição do juiz, de acordo com o Código de Processo Penal",0,Q0169,"[{""marcador"": ""A respeito das"", ""inicio"": 0, ""trecho"": ""causas de impedimento e suspeição do juiz, de acordo com o Código de Processo Penal"", ""retomada_textual"": false, ""limite_janela"": false}]","Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",5492,5490,5490
+1,1,,,0,Q0179,[],Criminologia > Criminologia no Estado Democrático de Direito,4368,4368,4368
+1,1,,,0,Q0186,[],Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,5202,5199,5199
+1,1,5233,,0,Q0188,[],Penal > Teoria do Crime: Ilicitude,5228,5228,5228
+1,0,,recursos no Código de Processo Penal,0,Q0191,"[{""marcador"": ""a respeito dos"", ""inicio"": 34, ""trecho"": ""recursos no Código de Processo Penal"", ""retomada_textual"": false, ""limite_janela"": false}]",Processo Penal > Recursos em Espécies,5560,5560,5512
+1,1,5076,,0,Q0194,[],Penal > Dos Crimes Contra a Administração Pública,5087,5087,5087
+1,1,5103,,0,Q0201,[],Penal > Dos Crimes Contra a Dignidade Sexual,5102,5102,5102
+0,0,,,0,Q0202,[],Penal > Teoria do Crime: Fato Típico > Erro de Tipo,5224,5102,5102
+0,0,,a situação hipotética acima descrita,0,Q0208,"[{""marcador"": ""Considerando"", ""inicio"": 1207, ""trecho"": ""a situação hipotética acima descrita"", ""retomada_textual"": false, ""limite_janela"": false}]",Penal > Concurso de Pessoas > Autores e Partícipes,5072,5066,5199
+1,1,,,0,Q0215,[],Penal > Teoria da Pena > Penas Privativas de Liberdade,5201,5199,5199
+1,1,,"o sistema de juizados especiais criminais, previsto na Lei n.° 9.099/1995, e a jurisprudência do STJ e STF sobre a matéria",0,Q0216,"[{""marcador"": ""Considerando"", ""inicio"": 0, ""trecho"": ""o sistema de juizados especiais criminais, previsto na Lei n.° 9.099/1995, e a jurisprudência do STJ e STF sobre a matéria"", ""retomada_textual"": false, ""limite_janela"": false}]",Direito Penal - Legislação Especial > Juizado Especial Criminal,4701,4701,4701
+1,1,5184;5201;5203,penas e das medidas de segurança,0,Q0221,"[{""marcador"": ""A respeito das"", ""inicio"": 0, ""trecho"": ""penas e das medidas de segurança"", ""retomada_textual"": false, ""limite_janela"": false}]",Penal > Teoria da Pena,5199,5199,5184
+1,1,,,0,Q0226,[],Processo Penal > Provas em Espécies > Cadeia de Custódia,5544,5543,5543
+0,0,5214,"causas de exclusão de culpabilidade, ao concurso de pessoas, às finalidades das penas e às medidas de segurança",0,Q0230,"[{""marcador"": ""em relação às"", ""inicio"": 25, ""trecho"": ""causas de exclusão de culpabilidade, ao concurso de pessoas, às finalidades das penas e às medidas de segurança"", ""retomada_textual"": false, ""limite_janela"": false}]",Penal > Teoria do Crime: Culpabilidade,5211,5071,5184
+1,1,,,0,Q0231,[],Penal > Teoria do Crime: Fato Típico > Erro de Tipo,5224,5218,5218
+1,1,5473,"o prazo legal que o promotor tem para oferecer a denúncia e que esse prazo venceria em um dia útil, o trâmite do inquérito, o prazo utilizado pelo delegado, o recebimento e a vista do inquérito pelo promotor e a denúncia contra Pedro, somando-se todos esses atos e prazos, desde a prisão, teria que ser oferecida em",0,Q0240,"[{""marcador"": ""Considerando-se"", ""inicio"": 464, ""trecho"": ""o prazo legal que o promotor tem para oferecer a denúncia e que esse prazo venceria em um dia útil, o trâmite do inquérito, o prazo utilizado pelo delegado, o recebimento e a vista do inquérito pelo promotor e a denúncia contra Pedro, somando-se todos esses atos e prazos, desde a prisão, teria que ser oferecida em"", ""retomada_textual"": false, ""limite_janela"": true}]",Processo Penal > Inquérito Policial,5498,5498,5498
+1,1,,,0,Q0244,[],Penal > Dos Crimes Contra a Administração Pública,5087,5087,5087
+1,1,,prescrição,0,Q0245,"[{""marcador"": ""a respeito da"", ""inicio"": 25, ""trecho"": ""prescrição"", ""retomada_textual"": false, ""limite_janela"": false}]",Penal > Prescrição,5185,5185,5185
+1,1,,,0,Q0246,[],"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",5527,5524,5524
+0,0,,,0,Q0249,[],"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",5492,5583,5583
+1,1,5185;5193,,0,Q0251,[],Penal > Punibilidade,5191,5191,5191
+0,0,,,1,Q0252,[],,,5199,5199
+1,1,4372,,0,Q0253,[],Criminologia > Etapas Evolutivas e Escolas Criminológicas,4371,4371,4371
+1,1,5164,,0,Q0259,[],Penal > Introdução ao Estudo do Direito Penal > Princípios do Direito Penal,5172,5157,5157
+1,1,5066,,0,Q0265,[],Penal > Prescrição,5185,5066,5066
+1,1,5160,,0,Q0274,[],Penal > Iter Criminis > Crime Consumado e Tentado,5177,5157,5157
+1,0,5539,"as disposições da Lei nº 9.099/1995, caso Tício não seja encontrado para ser citado, o juiz",0,Q0275,"[{""marcador"": ""considerando"", ""inicio"": 140, ""trecho"": ""as disposições da Lei nº 9.099/1995, caso Tício não seja encontrado para ser citado, o juiz"", ""retomada_textual"": false, ""limite_janela"": false}]",Direito Penal - Legislação Especial > Juizado Especial Criminal,4701,4701,5102
+1,1,5543,,0,Q0276,[],Processo Penal > Provas em Espécies > Busca e Apreensão,5554,5543,5543
+1,1,,,0,Q0277,[],Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,4696,4696,4696
+1,1,5178,,0,Q0279,[],Penal > Prescrição,5185,5185,5185
+0,0,5203;5204,,0,Q0286,[],Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,5202,5066,5066
+0,1,,"preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais",0,Q0290,"[{""marcador"": ""No que diz respeito ao"", ""inicio"": 0, ""trecho"": ""preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais"", ""retomada_textual"": false, ""limite_janela"": false}]",Direito Penal - Legislação Especial > Juizado Especial Criminal,4701,5466,4701
+0,0,,,1,Q0291,[],,,6728,6728
+0,0,,,1,Q0303,[],,,5180,5180
+1,1,5541;5539,,0,Q0304,[],Direito Penal - Legislação Especial > Juizado Especial Criminal,4701,5539,5539
+1,1,,,0,Q0308,[],Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,5501,5498,5498
+1,1,,,0,Q0311,[],Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos,5488,5487,5487
+0,0,,,0,Q0313,[],Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,5209,5572,5572
+1,1,,,0,Q0314,[],Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,5477,5476,5476
+0,0,5187,,0,Q0315,[],Penal > Prescrição,5185,4691,4691
+0,0,,,0,Q0316,[],Penal > Teoria do Crime: Fato Típico > Erro de Tipo,5224,5066,5066
+0,0,,,0,Q0319,[],"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",5073,5218,5218
+0,0,,,0,Q0320,[],Processo Penal > Provas em Espécies > Prova Testemunhal,5550,5498,5498
+0,0,,,0,Q0323,[],Processo Penal > Teoria Geral das Provas > Princípios Relativos à Prova Penal,5595,5530,5530
+0,0,4686;6734,,0,Q0324,[],Direito Penal - Legislação Especial > Lei de Execução Penal,4703,5184,5184
+0,0,4704;5494;5541,"as afirmativas abaixo, é CORRETO afirmar que",0,Q0325,"[{""marcador"": ""Considerando"", ""inicio"": 0, ""trecho"": ""as afirmativas abaixo, é CORRETO afirmar que"", ""retomada_textual"": false, ""limite_janela"": false}]",Processo Penal > Ação Penal > Denúncia,5473,6724,5147
+1,1,5177,"conduta de Diogo, pode-se afirmar que",0,Q0336,"[{""marcador"": ""em relação à"", ""inicio"": 806, ""trecho"": ""conduta de Diogo, pode-se afirmar que"", ""retomada_textual"": false, ""limite_janela"": false}]",Penal > Dos Crimes Contra o Patrimônio > Furto,5159,5157,5157
+0,0,,,0,Q0338,[],Processo Penal > Teoria Geral das Provas,5590,5543,5543
+1,1,,,0,Q0339,[],Processo Penal > Sentença Penal,5572,5572,5572
+1,1,5068,,0,Q0341,[],Penal > Dos Crimes Contra o Patrimônio,5157,5157,5157
+1,0,,"adequação típica da conduta e da incidência da agravante prevista no Art. 61, inciso II, alínea f, do Código Penal (Art. 61",0,Q0345,"[{""marcador"": ""A respeito da"", ""inicio"": 359, ""trecho"": ""adequação típica da conduta e da incidência da agravante prevista no Art. 61, inciso II, alínea f, do Código Penal (Art. 61"", ""retomada_textual"": false, ""limite_janela"": false}]",Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,5103,5102,5218
+1,1,5070,"concurso formal impróprio ou imperfeito, tal como no concurso material, serão somadas as penas de todos os crimes praticados pelo agente. ( ) De acordo com o Código Penal brasileiro, no concurso de crimes, as penas de multa são aplicadas distinta e integralmente para cada crime",0,Q0356,"[{""marcador"": ""No que diz respeito ao"", ""inicio"": 516, ""trecho"": ""concurso formal impróprio ou imperfeito, tal como no concurso material, serão somadas as penas de todos os crimes praticados pelo agente. ( ) De acordo com o Código Penal brasileiro, no concurso de crimes, as penas de multa são aplicadas distinta e integralmente para cada crime"", ""retomada_textual"": false, ""limite_janela"": false}]",Penal > Concurso de Crimes,5066,5066,5066

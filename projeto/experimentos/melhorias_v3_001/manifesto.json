@@ -1,0 +1,16 @@
+{
+  "LEITURA.md": "553c2320ce4f8ca43f87d0d0ff5b1d876cca8fc2f5f8b404fbd579104dbd6ed0",
+  "auditoria_folds.json": "499d8bc518d58325a78b21242c4e0c87f044ec18968067d699d95e8df4dcbeaa",
+  "modelos_folds/fold_1.json": "d6e987ce82f05dac1073317b6d7f56d737629329606ae5cf6973ccf21b53236c",
+  "modelos_folds/fold_2.json": "b6e5b509b188ac7b368aaccc0d3c3f6f46379d2ad4b082133df67440efb67450",
+  "modelos_folds/fold_3.json": "97b24a2e038e2b371cc63eafbcc7a0551b08b88d99820c00ba4fa063bbfa9b32",
+  "modelos_folds/fold_4.json": "044f9356f4b0262c1b18ce10fb642173d48717e847701aafbcf7fa6f10cb2195",
+  "modelos_folds/fold_5.json": "79c3ebe8a0830ba509f43c4fb26ef9dc3ad71de25a4e7c00446b077172a33640",
+  "previsoes_candidatos_proximos.csv": "945b3bfcbe6b948c323d53f0cd76eb60b2f6b3afb2c22337f3f3fdf4b7f9cfc2",
+  "previsoes_controle_v2.csv": "18b4454ba9a2110c1da864bd675dd4204e5e4c5d8e068ff3b27a9321c05b8210",
+  "previsoes_ranking_hibrido.csv": "5d533e8f8ee9f11d13fe7998c70da7ef4e2f422bfbc891003d2ac1d08d2d4fed",
+  "previsoes_referencias_fixa.csv": "a9210b58e876adeaeeeb010299bd77eef2504e8f242dc376845f10fd1412feb3",
+  "previsoes_selecionado_internamente.csv": "62f062193225072b8a1354799e28bbe1aed5f707cc7eaad5849c8c2c30ebe8d2",
+  "protocolo_previo.json": "5e259bf456d4e6e290e77d5025e4f677c29b33d2cadbf39cbba6a5c7d7de23d1",
+  "resumo.json": "99e0e6f270d6cf93ec7e1c45ab215c418d9e8a4584269773cf22e65783c38f2a"
+}

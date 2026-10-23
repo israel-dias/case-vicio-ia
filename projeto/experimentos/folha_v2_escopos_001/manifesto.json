@@ -1,0 +1,17 @@
+{
+  "LEITURA.md": "3034483185e24f73e228a7405a87f96a764fdbb9903ee11b2fe53220c0fb8718",
+  "auditoria_folds.json": "32092777420262999f98bc7ce6e9cf282113a487ed8be6678bf87ddf8360390d",
+  "diagnostico_folha.json": "58efedb16854b272ff3d82837de1a7c356d67f1011ef2077a60c96404ba55881",
+  "modelos_folds/fold_1.json": "30d4add36e4b80ff34e351ede41e466730a8d34604c718f1b6260c6aeecbab2a",
+  "modelos_folds/fold_2.json": "872f7fca254fd3580f9797907b86f224ea9aaac3b46748ab767b3b7603368841",
+  "modelos_folds/fold_3.json": "020266e56c1dec7dc6d142ff0cab928a2eadd7b0a7ba76e1383e7f90e1b64a54",
+  "modelos_folds/fold_4.json": "7bb0765a45cf82a7ea23001b8279bf646e734f001f9a63815e74a2eee33fceac",
+  "modelos_folds/fold_5.json": "c310faa8fe6438d5628a73a608c2fafe5435238dc9ef97e8fa622bac48de5b85",
+  "previsoes_compatibilidade_fixa.csv": "18b4454ba9a2110c1da864bd675dd4204e5e4c5d8e068ff3b27a9321c05b8210",
+  "previsoes_compatibilidade_ranking.csv": "49692a262cc62485526346029932ed3f71a0177991e4fdf8532da60d20f89609",
+  "previsoes_compatibilidade_vizinhos.csv": "1f344a1f7f3eb1934923ac1f2161c94feedceb4b91c8baf92f66a644fe2c8945",
+  "previsoes_lexical_margem.csv": "427716cab3ea6d312379814dbfd38df0912a93eec7ff0ffe1e173ef1acfad4e1",
+  "previsoes_selecionado_internamente.csv": "2fcf65c5cb472643558c1736a3e06e4d4f1ce5c2447a756cd493b05a8d23e238",
+  "protocolo_previo.json": "0c8b656050e6b90267ab88da2bb82143b0a7ab5c6bc82bdb9b300ea6d2a74175",
+  "resumo.json": "010b40cf73b691d3851aa2558f6852aa9ab069e2003d0b15f18dc45523712660"
+}

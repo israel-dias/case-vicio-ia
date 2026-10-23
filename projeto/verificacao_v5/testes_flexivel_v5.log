@@ -1,0 +1,16 @@
+test_alerta_normativo_e_origem_nao_impoem_veto_adicional (test_flexivel_v5.TestFlexivelV5.test_alerta_normativo_e_origem_nao_impoem_veto_adicional) ... ok
+test_artefato_adulterado_e_rejeitado (test_flexivel_v5.TestFlexivelV5.test_artefato_adulterado_e_rejeitado) ... ok
+test_codigo_divergente_e_rejeitado (test_flexivel_v5.TestFlexivelV5.test_codigo_divergente_e_rejeitado) ... ok
+test_id_nao_altera_tema_decisao_ou_confianca (test_flexivel_v5.TestFlexivelV5.test_id_nao_altera_tema_decisao_ou_confianca) ... ok
+test_inferencia_sem_rede_sem_rotulos_sem_treinamento (test_flexivel_v5.TestFlexivelV5.test_inferencia_sem_rede_sem_rotulos_sem_treinamento) ... ok
+test_manifesto_rejeita_caminho_externo (test_flexivel_v5.TestFlexivelV5.test_manifesto_rejeita_caminho_externo) ... ok
+test_modelo_copiado_e_calibracao_sao_os_previamente_avaliados (test_flexivel_v5.TestFlexivelV5.test_modelo_copiado_e_calibracao_sao_os_previamente_avaliados) ... ok
+test_mudar_tres_colunas_retiradas_nao_muda_predicao (test_flexivel_v5.TestFlexivelV5.test_mudar_tres_colunas_retiradas_nao_muda_predicao) ... ok
+test_saida_se_reproduz_e_nao_sobrescreve_historico (test_flexivel_v5.TestFlexivelV5.test_saida_se_reproduz_e_nao_sobrescreve_historico) ... ok
+test_tema_inicial_da_busca_e_preservado (test_flexivel_v5.TestFlexivelV5.test_tema_inicial_da_busca_e_preservado) ... ok
+test_texto_de_id_existente_e_reprocessado (test_flexivel_v5.TestFlexivelV5.test_texto_de_id_existente_e_reprocessado) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 1.916s
+
+OK

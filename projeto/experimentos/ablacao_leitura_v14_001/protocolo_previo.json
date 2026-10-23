@@ -1,0 +1,17 @@
+{
+  "variantes": [
+    "original",
+    "ce_sem_alternativas",
+    "somente_comando_identificado",
+    "somente_itens_selecionados",
+    "roteamento_literal_completo"
+  ],
+  "codigo_sha256": "776045593821a5dc6a3201364a7927d1c8ee97fecca88e87908c88ceb6855b50",
+  "comparacao": "Mesmo catálogo, dicionário e recuperador V8 em todas; só muda o texto/campo segundo as rotas V14 salvas.",
+  "rotas_sha256": "68556557784eb734d8821a3aea23fff725df60a9da5b6561564eeb06ca79bc1d",
+  "somente_100": true,
+  "avaliacao": "Diagnóstico pós-rodadas V14 reutilizando os mesmos 100; não independente.",
+  "mede_confianca": false,
+  "publica_questoes": false,
+  "promove_entrega": false
+}

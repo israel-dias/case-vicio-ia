@@ -1,0 +1,82 @@
+{
+  "codigo_sha256": {
+    "auditoria_confianca_v4/experimento.py": "a96f48ae211bcc26d350113855598c617a00ba1b688ebfda5222c931b69d7208",
+    "avaliar_mescla_v7.py": "bb24ae4a2ece67c387dab630538cb8e846ad932b19fe0889a5e8f0ea65c840d4",
+    "compatibilidade_v2/features.py": "50222d35b96196b75a8c3c207562610f73ee4d88d7e6c7b9086d7c1553bd80f0",
+    "melhorias_v3/aprendizado.py": "01ec94966f0c99cf440c566527e2cc4c7d5360f61a14393011011c099a53ecc1",
+    "melhorias_v3/representacao.py": "248a2ea484dd393cbd6434a082061eb3a16948618781c2a038b5ff064b4043e2",
+    "mescla_marcadores_v7/experimento.py": "94957e0046074e72fcd55547b91b0628027d9b7c7666bf7b87060577ae6990e6",
+    "mescla_marcadores_v7/texto.py": "02790301c8d0645dcdb8644fa7e5a70047304d745811895c1bbc71599aec78d2"
+  },
+  "comparacao_100": {
+    "mescla_condicional": {
+      "acertos_publicadas": 16,
+      "acertos_top1": 66,
+      "avaliadas": 100,
+      "brier": 0.1703323621051392,
+      "cobertura": 0.16,
+      "erros_publicadas": 0,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": true,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 1.0,
+      "publicar": 16,
+      "revisar": 84
+    },
+    "roteamento_sem_foco": {
+      "acertos_publicadas": 18,
+      "acertos_top1": 66,
+      "avaliadas": 100,
+      "brier": 0.16643015981049533,
+      "cobertura": 0.19,
+      "erros_publicadas": 1,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": false,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 0.9473684210526315,
+      "publicar": 19,
+      "revisar": 81
+    }
+  },
+  "entrega_alterada": false,
+  "precisao_559_medida": false,
+  "roteamento": {
+    "100_rotulados": {
+      "alternativas_exclusivas": 6,
+      "cabecalho_removido": 1,
+      "conteudo_insuficiente": 0,
+      "foco_utilizavel": 15
+    },
+    "559_avaliados": {
+      "alternativas_exclusivas": 31,
+      "cabecalho_removido": 22,
+      "conteudo_insuficiente": 0,
+      "foco_utilizavel": 116
+    }
+  },
+  "segundos": 30.19115680599998,
+  "simulacao_559": {
+    "mescla_condicional": {
+      "fora": 0,
+      "mudancas_tema": 35,
+      "precisao_real": null,
+      "promovida_para_entrega": false,
+      "publicar": 285,
+      "publicar_para_revisar": 14,
+      "revisar": 274,
+      "revisar_para_publicar": 68
+    },
+    "roteamento_sem_foco": {
+      "fora": 0,
+      "mudancas_tema": 19,
+      "precisao_real": null,
+      "promovida_para_entrega": false,
+      "publicar": 222,
+      "publicar_para_revisar": 19,
+      "revisar": 337,
+      "revisar_para_publicar": 10
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "adaptativo": true,
+  "motivo": "Efeito da representação isolado dos novos atributos de confiança. Escolhas iguais nas 100; mesmas 27 dimensões de entrada do controle.",
+  "escolhas_iguais_nas_100": true,
+  "estimador_e_calibrador_preservados": true,
+  "treino_adicional": false,
+  "usa_rotulos_559": false,
+  "promove_entrega": false,
+  "limite": "Igualdade em referências expostas não garante transferência para dados novos; não comprova meta de 95%."
+}

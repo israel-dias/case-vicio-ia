@@ -1,0 +1,1385 @@
+{
+  "Q0106": {
+    "questao": {
+      "id": "Q0106",
+      "enunciado_html": "Que delito praticam os estudantes de Direito com o chamado “pendura”, nas comemorações da instalação dos cursos jurídicos no País?",
+      "comando": "Responda qual é o delito praticado pelos estudantes de Direito com o chamado “pendura” nas comemorações da instalação dos cursos jurídicos no País.",
+      "alternativas": {
+        "A": "Nenhum crime foi praticado, por se tratar de fato atípico.",
+        "B": "Crime de dano qualificado, por motivo egoístico.",
+        "C": "Delito  de  fraude,  consistente  em  tomar  refeições  em  restaurante,  sem  dispor  de  recursos para pagar as despesas.",
+        "D": "Estelionato privilegiado, devido ao pequeno valor do prejuízo causado à vítima."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Crimes contra o patrimônio"
+    },
+    "referencia": {
+      "id": "Q0106",
+      "tema_central_id": "5165",
+      "tema_central_caminho": "Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita",
+      "extras_ids": "5166",
+      "fora_da_taxonomia": "0"
+    },
+    "previsoes": {
+      "controle_atual": {
+        "id": "Q0106",
+        "tema_central_id": "5155",
+        "sinal": "1.6973349715977903",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5155",
+        "top5_ids": "5155;5157;4368;5560;5543",
+        "top5_recuperacao_ids": "5155;5157;4368;5560;5543",
+        "candidatos_ids": "4368;5155;5157;5543;5560",
+        "variante": "controle_atual",
+        "confianca": "0.5699045596008145",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "3",
+        "avaliacao": "controle_atual"
+      },
+      "frases_completas": {
+        "id": "Q0106",
+        "tema_central_id": "5155",
+        "sinal": "2.2261862244052097",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5155",
+        "top5_ids": "5155;5157;4368;5560;5543",
+        "top5_recuperacao_ids": "5155;5157;4368;5560;5543",
+        "candidatos_ids": "4368;5155;5157;5543;5560",
+        "variante": "frases_completas",
+        "confianca": "0.5951681601880525",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "3",
+        "avaliacao": "frases_completas"
+      },
+      "vocabulario_escopos": {
+        "id": "Q0106",
+        "tema_central_id": "5157",
+        "sinal": "3.7894045986971583",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5157",
+        "top5_ids": "5157;5155;5147;5102;4368",
+        "top5_recuperacao_ids": "5157;5155;5147;5102;4368",
+        "candidatos_ids": "4368;5102;5147;5155;5157;5543;5560",
+        "variante": "vocabulario_escopos",
+        "confianca": "0.6093459858775232",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "3",
+        "avaliacao": "vocabulario_escopos"
+      },
+      "passagem_cobrada": {
+        "id": "Q0106",
+        "tema_central_id": "5157",
+        "sinal": "3.7894045986971583",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5157",
+        "top5_ids": "5157;5155;5147;5102;4368",
+        "top5_recuperacao_ids": "5157;5155;5147;5102;4368",
+        "candidatos_ids": "4368;5102;5147;5155;5157;5543;5560",
+        "variante": "passagem_cobrada",
+        "confianca": "0.6093459858775232",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "3",
+        "avaliacao": "passagem_cobrada"
+      },
+      "selecionado_internamente": {
+        "id": "Q0106",
+        "tema_central_id": "5157",
+        "sinal": "3.7894045986971583",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5157",
+        "top5_ids": "5157;5155;5147;5102;4368",
+        "top5_recuperacao_ids": "5157;5155;5147;5102;4368",
+        "candidatos_ids": "4368;5102;5147;5155;5157;5543;5560",
+        "variante": "vocabulario_escopos",
+        "confianca": "0.6093459858775232",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "3",
+        "avaliacao": "selecionado_internamente"
+      }
+    },
+    "evidencia": {
+      "origem_foco": "cobranca_extraida",
+      "foco": " Responda qual é o delito praticado pelos estudantes de Direito com o chamado “pendura” nas comemorações da instalação dos cursos jurídicos no País. Nenhum crime foi praticado, por se tratar de fato atípico. Crime de dano qualificado, por motivo egoístico. Delito de fraude, consistente em tomar refeições em restaurante, sem dispor de recursos para pagar as despesas. Estelionato privilegiado, devido ao pequeno valor do prejuízo causado à vítima.",
+      "texto_completo": "Que delito praticam os estudantes de Direito com o chamado “pendura”, nas comemorações da instalação dos cursos jurídicos no País? Responda qual é o delito praticado pelos estudantes de Direito com o chamado “pendura” nas comemorações da instalação dos cursos jurídicos no País. Nenhum crime foi praticado, por se tratar de fato atípico. Crime de dano qualificado, por motivo egoístico. Delito de fraude, consistente em tomar refeições em restaurante, sem dispor de recursos para pagar as despesas. Estelionato privilegiado, devido ao pequeno valor do prejuízo causado à vítima.",
+      "evidencias": [
+        {
+          "familia": "5102",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "praticado"
+          ]
+        },
+        {
+          "familia": "5147",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "despesa"
+          ]
+        },
+        {
+          "familia": "5157",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "estelionato"
+          ]
+        },
+        {
+          "familia": "5509",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "prejuizo"
+          ]
+        }
+      ],
+      "evidencias_foco": [
+        {
+          "familia": "5102",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "praticado"
+          ]
+        },
+        {
+          "familia": "5147",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "despesa"
+          ]
+        },
+        {
+          "familia": "5157",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "estelionato"
+          ]
+        },
+        {
+          "familia": "5509",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "prejuizo"
+          ]
+        }
+      ],
+      "extracao": {
+        "extraido": false,
+        "origem": "campo_comando_preservado",
+        "trecho": "",
+        "enunciado_original": "Que delito praticam os estudantes de Direito com o chamado “pendura”, nas comemorações da instalação dos cursos jurídicos no País?",
+        "cabecalho_geral_separado": "",
+        "lista_sem_cobranca_especifica": false
+      },
+      "certo_errado": false
+    }
+  },
+  "Q0188": {
+    "questao": {
+      "id": "Q0188",
+      "enunciado_html": "Segundo sua classificação doutrinária dominante, o chamado <i>ofendículo</i> pode mais precisamente caracterizar situação de exclusão de",
+      "comando": "Complete a frase sobre a caracterização do ofendículo segundo a doutrina dominante.",
+      "alternativas": {
+        "A": "antijuridicidade.  ",
+        "B": "tipicidade.  ",
+        "C": "periculosidade.  ",
+        "D": "culpabilidade.  ",
+        "E": "punibilidade. "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Teoria do Crime (Ilicitude)"
+    },
+    "referencia": {
+      "id": "Q0188",
+      "tema_central_id": "5228",
+      "tema_central_caminho": "Penal > Teoria do Crime: Ilicitude",
+      "extras_ids": "5233",
+      "fora_da_taxonomia": "0"
+    },
+    "previsoes": {
+      "controle_atual": {
+        "id": "Q0188",
+        "tema_central_id": "5211",
+        "sinal": "3.667029488546147",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5211",
+        "top5_ids": "5211;5228;5218;5191;5584",
+        "top5_recuperacao_ids": "5211;5228;5218;5191;5584",
+        "candidatos_ids": "5191;5211;5218;5228;5584",
+        "variante": "controle_atual",
+        "confianca": "0.660567997980032",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "1",
+        "avaliacao": "controle_atual"
+      },
+      "frases_completas": {
+        "id": "Q0188",
+        "tema_central_id": "5211",
+        "sinal": "2.392018664172568",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5211",
+        "top5_ids": "5211;5228;5218;5191;5584",
+        "top5_recuperacao_ids": "5211;5228;5218;5191;5584",
+        "candidatos_ids": "5191;5211;5218;5228;5584",
+        "variante": "frases_completas",
+        "confianca": "0.5904819173121912",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "1",
+        "avaliacao": "frases_completas"
+      },
+      "vocabulario_escopos": {
+        "id": "Q0188",
+        "tema_central_id": "5228",
+        "sinal": "2.443701066925377",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5228",
+        "top5_ids": "5228;5218;5211;5191;5184",
+        "top5_recuperacao_ids": "5228;5218;5211;5191;5184",
+        "candidatos_ids": "5170;5184;5191;5211;5218;5228;5584",
+        "variante": "vocabulario_escopos",
+        "confianca": "0.6046164122036477",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "1",
+        "avaliacao": "vocabulario_escopos"
+      },
+      "passagem_cobrada": {
+        "id": "Q0188",
+        "tema_central_id": "5228",
+        "sinal": "2.443701066925377",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5228",
+        "top5_ids": "5228;5218;5211;5191;5184",
+        "top5_recuperacao_ids": "5228;5218;5211;5191;5184",
+        "candidatos_ids": "5184;5191;5211;5218;5228;5584",
+        "variante": "passagem_cobrada",
+        "confianca": "0.598934568169578",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "1",
+        "avaliacao": "passagem_cobrada"
+      },
+      "selecionado_internamente": {
+        "id": "Q0188",
+        "tema_central_id": "5211",
+        "sinal": "3.667029488546147",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5211",
+        "top5_ids": "5211;5228;5218;5191;5584",
+        "top5_recuperacao_ids": "5211;5228;5218;5191;5584",
+        "candidatos_ids": "5191;5211;5218;5228;5584",
+        "variante": "controle_atual",
+        "confianca": "0.660567997980032",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "1",
+        "avaliacao": "selecionado_internamente"
+      }
+    },
+    "evidencia": {
+      "origem_foco": "cobranca_extraida",
+      "foco": " Complete a frase sobre a caracterização do ofendículo segundo a doutrina dominante. antijuridicidade. tipicidade. periculosidade. culpabilidade. punibilidade.",
+      "texto_completo": "Segundo sua classificação doutrinária dominante, o chamado ofendículo pode mais precisamente caracterizar situação de exclusão de Complete a frase sobre a caracterização do ofendículo segundo a doutrina dominante. antijuridicidade. tipicidade. periculosidade. culpabilidade. punibilidade.",
+      "evidencias": [
+        {
+          "familia": "5170",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "doutrinaria"
+          ]
+        },
+        {
+          "familia": "5184",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "periculosidade"
+          ]
+        },
+        {
+          "familia": "5218",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "tipicidade"
+          ]
+        },
+        {
+          "familia": "5228",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "antijuridicidade"
+          ]
+        }
+      ],
+      "evidencias_foco": [
+        {
+          "familia": "5184",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "periculosidade"
+          ]
+        },
+        {
+          "familia": "5218",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "tipicidade"
+          ]
+        },
+        {
+          "familia": "5228",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "antijuridicidade"
+          ]
+        }
+      ],
+      "extracao": {
+        "extraido": false,
+        "origem": "campo_comando_preservado",
+        "trecho": "",
+        "enunciado_original": "Segundo sua classificação doutrinária dominante, o chamado ofendículo pode mais precisamente caracterizar situação de exclusão de",
+        "cabecalho_geral_separado": "",
+        "lista_sem_cobranca_especifica": false
+      },
+      "certo_errado": false
+    }
+  },
+  "Q0052": {
+    "questao": {
+      "id": "Q0052",
+      "enunciado_html": "Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional <i>intra muros</i>, bem como, simultaneamente, teve frequência escolar de 200 horas, concluindo atividade de ensino médio ao longo do cumprimento da pena. Cada 12 (doze) horas foram divididas em 3 (três) dias de estudo.<br><br>Esse indivíduo<br><br>I. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 3 (três) dias de trabalho.<br><br>II. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar.<br><br>III. tem direito à remição de pena, com o acréscimo de 1/3 (um terço) de toda a remição conquistada durante o cumprimento da pena devido à conclusão do ensino médio.<br><br>IV. em caso da prática de falta grave, obrigatoriamente, perderá 1/3 (um terço) da remição conquistada, recomeçando a contagem a partir da data da infração disciplinar.",
+      "comando": "Está correto o que se afirma APENAS em",
+      "alternativas": {
+        "A": "II, III e IV.  ",
+        "B": "I e III.  ",
+        "C": "I e II.  ",
+        "D": "III e IV.  ",
+        "E": "I, II e IV. "
+      },
+      "disciplina_origem": "Direito Penal - Legislação Especial",
+      "assunto_origem": "Teoria da Pena (Parte 02)"
+    },
+    "referencia": {
+      "id": "Q0052",
+      "tema_central_id": "4703",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Lei de Execução Penal",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    },
+    "previsoes": {
+      "controle_atual": {
+        "id": "Q0052",
+        "tema_central_id": "4703",
+        "sinal": "7.679583564950949",
+        "elegivel": "False",
+        "homonimo_nao_resolvido": "True",
+        "motivos_bloqueio": "homonimo_sem_escopo_resolvido",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "4703",
+        "top5_ids": "4703;6734;5199;6726;6727",
+        "top5_recuperacao_ids": "4703;6734;5199;6726;6727",
+        "candidatos_ids": "4703;5199;6726;6727;6734",
+        "variante": "controle_atual",
+        "confianca": "0.8063433456734784",
+        "decisao": "revisar",
+        "motivo": "homonimo_sem_escopo_resolvido",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "2",
+        "avaliacao": "controle_atual"
+      },
+      "frases_completas": {
+        "id": "Q0052",
+        "tema_central_id": "4703",
+        "sinal": "4.654583003887472",
+        "elegivel": "False",
+        "homonimo_nao_resolvido": "True",
+        "motivos_bloqueio": "homonimo_sem_escopo_resolvido",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "4703",
+        "top5_ids": "4703;6734;5199;6726;6727",
+        "top5_recuperacao_ids": "4703;6734;5199;6726;6727",
+        "candidatos_ids": "4703;5199;6726;6727;6734",
+        "variante": "frases_completas",
+        "confianca": "0.590444806929114",
+        "decisao": "revisar",
+        "motivo": "homonimo_sem_escopo_resolvido",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "2",
+        "avaliacao": "frases_completas"
+      },
+      "vocabulario_escopos": {
+        "id": "Q0052",
+        "tema_central_id": "5199",
+        "sinal": "-6.787871724736753",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5199",
+        "top5_ids": "5199;4703;6734;6726;6727",
+        "top5_recuperacao_ids": "5199;4703;6734;6726;6727",
+        "candidatos_ids": "4703;5149;5199;5498;6726;6727;6734",
+        "variante": "vocabulario_escopos",
+        "confianca": "0.1163716908461158",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "2",
+        "avaliacao": "vocabulario_escopos"
+      },
+      "passagem_cobrada": {
+        "id": "Q0052",
+        "tema_central_id": "5199",
+        "sinal": "-6.787871724736753",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5199",
+        "top5_ids": "5199;4703;6734;6726;6727",
+        "top5_recuperacao_ids": "5199;4703;6734;6726;6727",
+        "candidatos_ids": "4703;5149;5199;5498;6726;6727;6734",
+        "variante": "passagem_cobrada",
+        "confianca": "0.11056698421855748",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "2",
+        "avaliacao": "passagem_cobrada"
+      },
+      "selecionado_internamente": {
+        "id": "Q0052",
+        "tema_central_id": "5199",
+        "sinal": "-6.787871724736753",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5199",
+        "top5_ids": "5199;4703;6734;6726;6727",
+        "top5_recuperacao_ids": "5199;4703;6734;6726;6727",
+        "candidatos_ids": "4703;5149;5199;5498;6726;6727;6734",
+        "variante": "vocabulario_escopos",
+        "confianca": "0.1163716908461158",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "2",
+        "avaliacao": "selecionado_internamente"
+      }
+    },
+    "evidencia": {
+      "origem_foco": "todas_as_proposicoes_preservadas",
+      "foco": "Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional intra muros, bem como, simultaneamente, teve frequência escolar de 200 horas, concluindo atividade de ensino médio ao longo do cumprimento da pena. Cada 12 (doze) horas foram divididas em 3 (três) dias de estudo. Esse indivíduo I. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 3 (três) dias de trabalho. II. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar. III. tem direito à remição de pena, com o acréscimo de 1/3 (um terço) de toda a remição conquistada durante o cumprimento da pena devido à conclusão do ensino médio. IV. em caso da prática de falta grave, obrigatoriamente, perderá 1/3 (um terço) da remição conquistada, recomeçando a contagem a partir da data da infração disciplinar. Está correto o que se afirma APENAS em II, III e IV. I e III. I e II. III e IV. I, II e IV.",
+      "texto_completo": "Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional intra muros, bem como, simultaneamente, teve frequência escolar de 200 horas, concluindo atividade de ensino médio ao longo do cumprimento da pena. Cada 12 (doze) horas foram divididas em 3 (três) dias de estudo. Esse indivíduo I. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 3 (três) dias de trabalho. II. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar. III. tem direito à remição de pena, com o acréscimo de 1/3 (um terço) de toda a remição conquistada durante o cumprimento da pena devido à conclusão do ensino médio. IV. em caso da prática de falta grave, obrigatoriamente, perderá 1/3 (um terço) da remição conquistada, recomeçando a contagem a partir da data da infração disciplinar. Está correto o que se afirma APENAS em II, III e IV. I e III. I e II. III e IV. I, II e IV.",
+      "evidencias": [
+        {
+          "familia": "5199",
+          "tema_fonte": "5201",
+          "tipo": "escopo",
+          "expressao": "regime fechado"
+        },
+        {
+          "familia": "5149",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "durante"
+          ]
+        },
+        {
+          "familia": "5199",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "fechado"
+          ]
+        },
+        {
+          "familia": "5498",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "conclusao"
+          ]
+        },
+        {
+          "familia": "5584",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "prisional"
+          ]
+        }
+      ],
+      "evidencias_foco": [
+        {
+          "familia": "5199",
+          "tema_fonte": "5201",
+          "tipo": "escopo",
+          "expressao": "regime fechado"
+        },
+        {
+          "familia": "5149",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "durante"
+          ]
+        },
+        {
+          "familia": "5199",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "fechado"
+          ]
+        },
+        {
+          "familia": "5498",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "conclusao"
+          ]
+        },
+        {
+          "familia": "5584",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "prisional"
+          ]
+        }
+      ],
+      "extracao": {
+        "extraido": false,
+        "origem": "campo_comando_preservado",
+        "trecho": "",
+        "enunciado_original": "Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional intra muros, bem como, simultaneamente, teve frequência escolar de 200 horas, concluindo atividade de ensino médio ao longo do cumprimento da pena. Cada 12 (doze) horas foram divididas em 3 (três) dias de estudo. Esse indivíduo I. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 3 (três) dias de trabalho. II. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar. III. tem direito à remição de pena, com o acréscimo de 1/3 (um terço) de toda a remição conquistada durante o cumprimento da pena devido à conclusão do ensino médio. IV. em caso da prática de falta grave, obrigatoriamente, perderá 1/3 (um terço) da remição conquistada, recomeçando a contagem a partir da data da infração disciplinar.",
+        "cabecalho_geral_separado": "",
+        "lista_sem_cobranca_especifica": false
+      },
+      "certo_errado": false
+    }
+  },
+  "Q0058": {
+    "questao": {
+      "id": "Q0058",
+      "enunciado_html": "Sobre a relação entre sistema penal e pobreza é correto afirmar que",
+      "comando": "",
+      "alternativas": {
+        "A": "a vertente criminológica do conflito identifica a pobreza\\ncomo principal causa da criminalidade e defende\\nmaior investimento social para reduzir as taxas\\nde crimes.",
+        "B": "tal qual o processo de criminalização, a vitimização\\ntambém é um processo seletivo que tem como alvo\\npreferencial os mais pobres.",
+        "C": "por se tratar de uma questão de saúde, a internação\\ndas pessoas com transtorno mental pelas medidas\\nde segurança não se dá de maneira seletiva como\\nno processo de criminalização.",
+        "D": "o surgimento da prisão como forma de punição por\\nexcelência nos séculos XVIII e XIX teve como fulcro\\na substituição de penas cruéis, mas somente nas\\núltimas duas décadas passou a ser um mecanismo\\nde controle social da pobreza.",
+        "E": "o efetivo respeito ao garantismo penal é capaz de\\nreverter o caráter seletivo do sistema penal brasileiro\\ne sua consequente gestão autoritária da miséria."
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Legitimidoras da Pena"
+    },
+    "referencia": {
+      "id": "Q0058",
+      "tema_central_id": "4389",
+      "tema_central_caminho": "Criminologia > Vitimologia",
+      "extras_ids": "4377",
+      "fora_da_taxonomia": "0"
+    },
+    "previsoes": {
+      "controle_atual": {
+        "id": "Q0058",
+        "tema_central_id": "4377",
+        "sinal": "9.70701863922599",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "4377",
+        "top5_ids": "4377;5184;4689;4389;4384",
+        "top5_recuperacao_ids": "4377;5184;4689;4389;4384",
+        "candidatos_ids": "4377;4384;4389;4689;5184",
+        "variante": "controle_atual",
+        "confianca": "0.7831199095497948",
+        "decisao": "publicar",
+        "motivo": "",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "5",
+        "avaliacao": "controle_atual"
+      },
+      "frases_completas": {
+        "id": "Q0058",
+        "tema_central_id": "5184",
+        "sinal": "1.7439377592082956",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5184",
+        "top5_ids": "5184;4377;4689;4389;4384",
+        "top5_recuperacao_ids": "5184;4377;4689;4389;4384",
+        "candidatos_ids": "4366;4367;4377;4384;4389;4689;5184",
+        "variante": "frases_completas",
+        "confianca": "0.5931340422040436",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "5",
+        "avaliacao": "frases_completas"
+      },
+      "vocabulario_escopos": {
+        "id": "Q0058",
+        "tema_central_id": "5184",
+        "sinal": "1.7439377592082956",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5184",
+        "top5_ids": "5184;4377;4689;4389;4384",
+        "top5_recuperacao_ids": "5184;4377;4689;4389;4384",
+        "candidatos_ids": "4374;4377;4384;4389;4689;5184",
+        "variante": "vocabulario_escopos",
+        "confianca": "0.572287086426647",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "5",
+        "avaliacao": "vocabulario_escopos"
+      },
+      "passagem_cobrada": {
+        "id": "Q0058",
+        "tema_central_id": "5184",
+        "sinal": "1.7439377592082956",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5184",
+        "top5_ids": "5184;4377;4689;4389;4384",
+        "top5_recuperacao_ids": "5184;4377;4689;4389;4384",
+        "candidatos_ids": "4374;4377;4384;4389;4689;5184",
+        "variante": "passagem_cobrada",
+        "confianca": "0.5724985756332777",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "5",
+        "avaliacao": "passagem_cobrada"
+      },
+      "selecionado_internamente": {
+        "id": "Q0058",
+        "tema_central_id": "4377",
+        "sinal": "9.70701863922599",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "4377",
+        "top5_ids": "4377;5184;4689;4389;4384",
+        "top5_recuperacao_ids": "4377;5184;4689;4389;4384",
+        "candidatos_ids": "4377;4384;4389;4689;5184",
+        "variante": "controle_atual",
+        "confianca": "0.7831199095497948",
+        "decisao": "publicar",
+        "motivo": "",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "5",
+        "avaliacao": "selecionado_internamente"
+      }
+    },
+    "evidencia": {
+      "origem_foco": "sem_cobranca_inequivoca_preserva_conjunto",
+      "foco": "Sobre a relação entre sistema penal e pobreza é correto afirmar que  a vertente criminológica do conflito identifica a pobreza como principal causa da criminalidade e defende maior investimento social para reduzir as taxas de crimes. tal qual o processo de criminalização, a vitimização também é um processo seletivo que tem como alvo preferencial os mais pobres. por se tratar de uma questão de saúde, a internação das pessoas com transtorno mental pelas medidas de segurança não se dá de maneira seletiva como no processo de criminalização. o surgimento da prisão como forma de punição por excelência nos séculos XVIII e XIX teve como fulcro a substituição de penas cruéis, mas somente nas últimas duas décadas passou a ser um mecanismo de controle social da pobreza. o efetivo respeito ao garantismo penal é capaz de reverter o caráter seletivo do sistema penal brasileiro e sua consequente gestão autoritária da miséria.",
+      "texto_completo": "Sobre a relação entre sistema penal e pobreza é correto afirmar que  a vertente criminológica do conflito identifica a pobreza como principal causa da criminalidade e defende maior investimento social para reduzir as taxas de crimes. tal qual o processo de criminalização, a vitimização também é um processo seletivo que tem como alvo preferencial os mais pobres. por se tratar de uma questão de saúde, a internação das pessoas com transtorno mental pelas medidas de segurança não se dá de maneira seletiva como no processo de criminalização. o surgimento da prisão como forma de punição por excelência nos séculos XVIII e XIX teve como fulcro a substituição de penas cruéis, mas somente nas últimas duas décadas passou a ser um mecanismo de controle social da pobreza. o efetivo respeito ao garantismo penal é capaz de reverter o caráter seletivo do sistema penal brasileiro e sua consequente gestão autoritária da miséria.",
+      "evidencias": [
+        {
+          "familia": "4368",
+          "tema_fonte": "4368",
+          "tipo": "escopo",
+          "expressao": "controle social"
+        },
+        {
+          "familia": "5184",
+          "tema_fonte": "5184",
+          "tipo": "titulo",
+          "expressao": "medida seguranca"
+        },
+        {
+          "familia": "5184",
+          "tema_fonte": "5184",
+          "tipo": "escopo",
+          "expressao": "medida seguranca"
+        },
+        {
+          "familia": "4374",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "garantismo"
+          ]
+        },
+        {
+          "familia": "4377",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "criminalizacao",
+            "seletiva"
+          ]
+        },
+        {
+          "familia": "5184",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "internacao"
+          ]
+        }
+      ],
+      "evidencias_foco": [
+        {
+          "familia": "4368",
+          "tema_fonte": "4368",
+          "tipo": "escopo",
+          "expressao": "controle social"
+        },
+        {
+          "familia": "5184",
+          "tema_fonte": "5184",
+          "tipo": "titulo",
+          "expressao": "medida seguranca"
+        },
+        {
+          "familia": "5184",
+          "tema_fonte": "5184",
+          "tipo": "escopo",
+          "expressao": "medida seguranca"
+        },
+        {
+          "familia": "4374",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "garantismo"
+          ]
+        },
+        {
+          "familia": "4377",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "criminalizacao",
+            "seletiva"
+          ]
+        },
+        {
+          "familia": "5184",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "internacao"
+          ]
+        }
+      ],
+      "extracao": {
+        "extraido": false,
+        "origem": "sem_cobranca_explicita_extraivel",
+        "trecho": "",
+        "enunciado_original": "Sobre a relação entre sistema penal e pobreza é correto afirmar que",
+        "cabecalho_geral_separado": "",
+        "lista_sem_cobranca_especifica": false
+      },
+      "certo_errado": false
+    }
+  },
+  "Q0315": {
+    "questao": {
+      "id": "Q0315",
+      "enunciado_html": "Paulo, nascido em 15/8/1996, foi denunciado em 24/5/2020, pela prática do crime de roubo majorado tentado, que teria sido praticado em 7/4/2016. Recebida a denúncia em 30/5/2020, Paulo foi condenado a uma pena de 2 anos e 9 meses pela prática delitiva em 20/10/2021, tendo a condenação transitado em julgado em 1/12/2021.<br><br>Nessa situação, a prescrição, segundo a jurisprudência atual do STF,",
+      "comando": "Considerando os dados apresentados, analise a prescrição aplicável ao caso de Paulo.",
+      "alternativas": {
+        "A": "já teria ocorrido antes do oferecimento da denúncia. ",
+        "B": "ocorrerá em 2 anos após o trânsito em julgado da condenação, quer para a defesa quer para a acusação. ",
+        "C": "ocorrerá em 4 anos após o trânsito em julgado da condenação, tanto para a defesa quanto para a acusação. ",
+        "D": "ocorrerá em 6 anos após o trânsito em julgado da condenação para a defesa e para a acusação. ",
+        "E": "ocorrerá em 8 anos após o trânsito em julgado da condenação, tanto para a defesa quanto para a acusação."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Concurso de Crimes"
+    },
+    "referencia": {
+      "id": "Q0315",
+      "tema_central_id": "5185",
+      "tema_central_caminho": "Penal > Prescrição",
+      "extras_ids": "5187",
+      "fora_da_taxonomia": "0"
+    },
+    "previsoes": {
+      "controle_atual": {
+        "id": "Q0315",
+        "tema_central_id": "5185",
+        "sinal": "3.0574502628861273",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5185",
+        "top5_ids": "5185;4691;5530;5199;5066",
+        "top5_recuperacao_ids": "5185;4691;5530;5199;5066",
+        "candidatos_ids": "4691;5066;5185;5199;5530",
+        "variante": "controle_atual",
+        "confianca": "0.6465675478283127",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "1",
+        "avaliacao": "controle_atual"
+      },
+      "frases_completas": {
+        "id": "Q0315",
+        "tema_central_id": "5185",
+        "sinal": "5.2357939441161925",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5185",
+        "top5_ids": "5185;4691;5530;5199;5066",
+        "top5_recuperacao_ids": "5185;4691;5530;5199;5066",
+        "candidatos_ids": "4691;5066;5185;5199;5530",
+        "variante": "frases_completas",
+        "confianca": "0.6557718289492612",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "1",
+        "avaliacao": "frases_completas"
+      },
+      "vocabulario_escopos": {
+        "id": "Q0315",
+        "tema_central_id": "4691",
+        "sinal": "1.4649668568498546",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "4691",
+        "top5_ids": "4691;5530;5185;5066;5138",
+        "top5_recuperacao_ids": "4691;5530;5185;5066;5138",
+        "candidatos_ids": "4691;5066;5102;5138;5185;5199;5530",
+        "variante": "vocabulario_escopos",
+        "confianca": "0.5819489072682099",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "1",
+        "avaliacao": "vocabulario_escopos"
+      },
+      "passagem_cobrada": {
+        "id": "Q0315",
+        "tema_central_id": "4691",
+        "sinal": "1.4649668568498546",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "4691",
+        "top5_ids": "4691;5530;5185;5476;5199",
+        "top5_recuperacao_ids": "4691;5530;5185;5476;5199",
+        "candidatos_ids": "4691;5066;5185;5199;5211;5476;5530",
+        "variante": "passagem_cobrada",
+        "confianca": "0.5741791991441587",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "1",
+        "avaliacao": "passagem_cobrada"
+      },
+      "selecionado_internamente": {
+        "id": "Q0315",
+        "tema_central_id": "5185",
+        "sinal": "3.0574502628861273",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5185",
+        "top5_ids": "5185;4691;5530;5199;5066",
+        "top5_recuperacao_ids": "5185;4691;5530;5199;5066",
+        "candidatos_ids": "4691;5066;5185;5199;5530",
+        "variante": "controle_atual",
+        "confianca": "0.6465675478283127",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "1",
+        "avaliacao": "selecionado_internamente"
+      }
+    },
+    "evidencia": {
+      "origem_foco": "cobranca_com_contexto_da_retomada",
+      "foco": "Nessa situação, a prescrição, segundo a jurisprudência atual do STF, Considerando os dados apresentados, analise a prescrição aplicável ao caso de Paulo. já teria ocorrido antes do oferecimento da denúncia. ocorrerá em 2 anos após o trânsito em julgado da condenação, quer para a defesa quer para a acusação. ocorrerá em 4 anos após o trânsito em julgado da condenação, tanto para a defesa quanto para a acusação. ocorrerá em 6 anos após o trânsito em julgado da condenação para a defesa e para a acusação. ocorrerá em 8 anos após o trânsito em julgado da condenação, tanto para a defesa quanto para a acusação.",
+      "texto_completo": "Paulo, nascido em 15/8/1996, foi denunciado em 24/5/2020, pela prática do crime de roubo majorado tentado, que teria sido praticado em 7/4/2016. Recebida a denúncia em 30/5/2020, Paulo foi condenado a uma pena de 2 anos e 9 meses pela prática delitiva em 20/10/2021, tendo a condenação transitado em julgado em 1/12/2021. Nessa situação, a prescrição, segundo a jurisprudência atual do STF, Considerando os dados apresentados, analise a prescrição aplicável ao caso de Paulo. já teria ocorrido antes do oferecimento da denúncia. ocorrerá em 2 anos após o trânsito em julgado da condenação, quer para a defesa quer para a acusação. ocorrerá em 4 anos após o trânsito em julgado da condenação, tanto para a defesa quanto para a acusação. ocorrerá em 6 anos após o trânsito em julgado da condenação para a defesa e para a acusação. ocorrerá em 8 anos após o trânsito em julgado da condenação, tanto para a defesa quanto para a acusação.",
+      "evidencias": [
+        {
+          "familia": "4691",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "transito"
+          ]
+        },
+        {
+          "familia": "5066",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "delitiva"
+          ]
+        },
+        {
+          "familia": "5102",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "praticado"
+          ]
+        },
+        {
+          "familia": "5138",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "nascido"
+          ]
+        },
+        {
+          "familia": "5211",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "analise"
+          ]
+        },
+        {
+          "familia": "5476",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "julgado"
+          ]
+        },
+        {
+          "familia": "5530",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "oferecimento"
+          ]
+        }
+      ],
+      "evidencias_foco": [
+        {
+          "familia": "4691",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "transito"
+          ]
+        },
+        {
+          "familia": "5211",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "analise"
+          ]
+        },
+        {
+          "familia": "5476",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "julgado"
+          ]
+        },
+        {
+          "familia": "5530",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "oferecimento"
+          ]
+        }
+      ],
+      "extracao": {
+        "extraido": false,
+        "origem": "campo_comando_preservado",
+        "trecho": "",
+        "enunciado_original": "Paulo, nascido em 15/8/1996, foi denunciado em 24/5/2020, pela prática do crime de roubo majorado tentado, que teria sido praticado em 7/4/2016. Recebida a denúncia em 30/5/2020, Paulo foi condenado a uma pena de 2 anos e 9 meses pela prática delitiva em 20/10/2021, tendo a condenação transitado em julgado em 1/12/2021. Nessa situação, a prescrição, segundo a jurisprudência atual do STF,",
+        "cabecalho_geral_separado": "",
+        "lista_sem_cobranca_especifica": false
+      },
+      "certo_errado": false
+    }
+  },
+  "Q0311": {
+    "questao": {
+      "id": "Q0311",
+      "enunciado_html": "Considere que um oficial de justiça não tenha localizado o réu, para realizar a citação pessoal na ação penal, no endereço que constava dos autos. Nesse caso,",
+      "comando": "",
+      "alternativas": {
+        "A": "o oficial de justiça deverá proceder à citação por hora certa, a\nser cumprida, no máximo, em três dias.",
+        "B": "o juiz decretará a revelia do réu e dará seguimento à ação\npenal.",
+        "C": "será feita a citação por edital e, caso o réu não compareça, a\nação penal ficará suspensa.",
+        "D": "será citada a Defensoria Pública para realizar a defesa técnica\ndo réu.",
+        "E": "a falta de citação pessoal interromperá o prazo prescricional\naté a localização do réu."
+      },
+      "disciplina_origem": "Processo Penal",
+      "assunto_origem": "Das Citações e Intimações, Citação no Processo Penal"
+    },
+    "referencia": {
+      "id": "Q0311",
+      "tema_central_id": "5488",
+      "tema_central_caminho": "Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    },
+    "previsoes": {
+      "controle_atual": {
+        "id": "Q0311",
+        "tema_central_id": "5487",
+        "sinal": "10.258040117895224",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5487",
+        "top5_ids": "5487;5466;5063;5185;5180",
+        "top5_recuperacao_ids": "5487;5466;5063;5185;5180",
+        "candidatos_ids": "5063;5180;5185;5466;5487",
+        "variante": "controle_atual",
+        "confianca": "0.7953431883509826",
+        "decisao": "publicar",
+        "motivo": "",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "5",
+        "avaliacao": "controle_atual"
+      },
+      "frases_completas": {
+        "id": "Q0311",
+        "tema_central_id": "5466",
+        "sinal": "-1.122959755731173",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5466",
+        "top5_ids": "5466;5063;5487;5185;5180",
+        "top5_recuperacao_ids": "5466;5063;5487;5185;5180",
+        "candidatos_ids": "4366;5063;5180;5185;5466;5487",
+        "variante": "frases_completas",
+        "confianca": "0.527364955442869",
+        "decisao": "revisar",
+        "motivo": "abaixo_do_limiar_calibrado",
+        "correto": "0",
+        "fora_oficial": "0",
+        "fold": "5",
+        "avaliacao": "frases_completas"
+      },
+      "vocabulario_escopos": {
+        "id": "Q0311",
+        "tema_central_id": "5487",
+        "sinal": "11.154371954557943",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5487",
+        "top5_ids": "5487;5466;5063;5185;5560",
+        "top5_recuperacao_ids": "5487;5466;5063;5185;5560",
+        "candidatos_ids": "5063;5180;5185;5466;5487;5560",
+        "variante": "vocabulario_escopos",
+        "confianca": "0.8018005994630153",
+        "decisao": "publicar",
+        "motivo": "",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "5",
+        "avaliacao": "vocabulario_escopos"
+      },
+      "passagem_cobrada": {
+        "id": "Q0311",
+        "tema_central_id": "5487",
+        "sinal": "11.154371954557943",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5487",
+        "top5_ids": "5487;5466;5063;5185;5560",
+        "top5_recuperacao_ids": "5487;5466;5063;5185;5560",
+        "candidatos_ids": "5063;5180;5185;5466;5487;5560",
+        "variante": "passagem_cobrada",
+        "confianca": "0.8011336816214373",
+        "decisao": "publicar",
+        "motivo": "",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "5",
+        "avaliacao": "passagem_cobrada"
+      },
+      "selecionado_internamente": {
+        "id": "Q0311",
+        "tema_central_id": "5487",
+        "sinal": "10.258040117895224",
+        "elegivel": "True",
+        "homonimo_nao_resolvido": "False",
+        "motivos_bloqueio": "",
+        "empate_comparador": "False",
+        "identificador_forte_cmd": "False",
+        "origem_identificador": "sem_identificador_forte",
+        "narrativa_excluida": "False",
+        "primeiro_recuperado": "5487",
+        "top5_ids": "5487;5466;5063;5185;5180",
+        "top5_recuperacao_ids": "5487;5466;5063;5185;5180",
+        "candidatos_ids": "5063;5180;5185;5466;5487",
+        "variante": "controle_atual",
+        "confianca": "0.7953431883509826",
+        "decisao": "publicar",
+        "motivo": "",
+        "correto": "1",
+        "fora_oficial": "0",
+        "fold": "5",
+        "avaliacao": "selecionado_internamente"
+      }
+    },
+    "evidencia": {
+      "origem_foco": "sem_cobranca_inequivoca_preserva_conjunto",
+      "foco": "Considere que um oficial de justiça não tenha localizado o réu, para realizar a citação pessoal na ação penal, no endereço que constava dos autos. Nesse caso,  o oficial de justiça deverá proceder à citação por hora certa, a ser cumprida, no máximo, em três dias. o juiz decretará a revelia do réu e dará seguimento à ação penal. será feita a citação por edital e, caso o réu não compareça, a ação penal ficará suspensa. será citada a Defensoria Pública para realizar a defesa técnica do réu. a falta de citação pessoal interromperá o prazo prescricional até a localização do réu.",
+      "texto_completo": "Considere que um oficial de justiça não tenha localizado o réu, para realizar a citação pessoal na ação penal, no endereço que constava dos autos. Nesse caso,  o oficial de justiça deverá proceder à citação por hora certa, a ser cumprida, no máximo, em três dias. o juiz decretará a revelia do réu e dará seguimento à ação penal. será feita a citação por edital e, caso o réu não compareça, a ação penal ficará suspensa. será citada a Defensoria Pública para realizar a defesa técnica do réu. a falta de citação pessoal interromperá o prazo prescricional até a localização do réu.",
+      "evidencias": [
+        {
+          "familia": "5063",
+          "tema_fonte": "5063",
+          "tipo": "titulo",
+          "expressao": "acao penal"
+        },
+        {
+          "familia": "5185",
+          "tema_fonte": "5187",
+          "tipo": "escopo",
+          "expressao": "prazo prescricao"
+        },
+        {
+          "familia": "5466",
+          "tema_fonte": "5466",
+          "tipo": "titulo",
+          "expressao": "acao penal"
+        },
+        {
+          "familia": "5487",
+          "tema_fonte": "5488",
+          "tipo": "escopo",
+          "expressao": "hora certa"
+        },
+        {
+          "familia": "5487",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "citacao"
+          ]
+        },
+        {
+          "familia": "5560",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "seguimento"
+          ]
+        }
+      ],
+      "evidencias_foco": [
+        {
+          "familia": "5063",
+          "tema_fonte": "5063",
+          "tipo": "titulo",
+          "expressao": "acao penal"
+        },
+        {
+          "familia": "5185",
+          "tema_fonte": "5187",
+          "tipo": "escopo",
+          "expressao": "prazo prescricao"
+        },
+        {
+          "familia": "5466",
+          "tema_fonte": "5466",
+          "tipo": "titulo",
+          "expressao": "acao penal"
+        },
+        {
+          "familia": "5487",
+          "tema_fonte": "5488",
+          "tipo": "escopo",
+          "expressao": "hora certa"
+        },
+        {
+          "familia": "5487",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "citacao"
+          ]
+        },
+        {
+          "familia": "5560",
+          "tipo": "vocabulo_distintivo_catalogo",
+          "expressoes": [
+            "seguimento"
+          ]
+        }
+      ],
+      "extracao": {
+        "extraido": false,
+        "origem": "sem_cobranca_explicita_extraivel",
+        "trecho": "",
+        "enunciado_original": "Considere que um oficial de justiça não tenha localizado o réu, para realizar a citação pessoal na ação penal, no endereço que constava dos autos. Nesse caso,",
+        "cabecalho_geral_separado": "",
+        "lista_sem_cobranca_especifica": false
+      },
+      "certo_errado": false
+    }
+  }
+}

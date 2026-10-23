@@ -1,0 +1,143 @@
+{
+  "comando_prioritario": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 50,
+      "revisar": 50,
+      "fora": 0,
+      "cobertura": 0.5,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 13,
+        "Controle anterior preservado; rota de comando não aplicada.": 37
+      },
+      "acertos_top1": 72,
+      "acertos_publicadas": 48,
+      "erros_publicadas": 2,
+      "precisao_desenvolvimento": 0.96,
+      "fora_oficial_publicadas": 1,
+      "brier": 0.16165424124754338,
+      "meta_95_na_amostra": true,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 3,
+      "publicacoes_anteriores_perdidas": 3,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 3,
+      "novas_erradas": 0,
+      "acertos_perdidos": 3,
+      "erros_retidos": 2,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 53,
+        "cobertura": 0.53,
+        "precisao_desenvolvimento": 0.9622641509433962,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "alvo_559": {
+      "questoes": 559,
+      "publicar": 338,
+      "revisar": 221,
+      "fora": 0,
+      "cobertura": 0.6046511627906976,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "Controle anterior preservado; rota de comando não aplicada.": 145,
+        "abaixo_do_limiar_calibrado": 64,
+        "homonimo_sem_escopo_resolvido": 11,
+        "sem_evidencia;homonimo_sem_escopo_resolvido": 1
+      },
+      "novas_publicacoes": 0,
+      "publicacoes_anteriores_perdidas": 56,
+      "publicadas_com_tema_trocado": 2,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 394,
+        "cobertura": 0.7048300536672629,
+        "precisao_desenvolvimento": null,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "recentes_300": {
+      "questoes": 300,
+      "publicar": 187,
+      "revisar": 113,
+      "fora": 0,
+      "cobertura": 0.6233333333333333,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "Controle anterior preservado; rota de comando não aplicada.": 72,
+        "abaixo_do_limiar_calibrado": 37,
+        "homonimo_sem_escopo_resolvido": 4
+      }
+    }
+  },
+  "suplemento_revisoes": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 53,
+      "revisar": 47,
+      "fora": 0,
+      "cobertura": 0.53,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "Controle anterior preservado; rota de comando não aplicada.": 37,
+        "abaixo_do_limiar_calibrado": 10
+      },
+      "acertos_top1": 72,
+      "acertos_publicadas": 51,
+      "erros_publicadas": 2,
+      "precisao_desenvolvimento": 0.9622641509433962,
+      "fora_oficial_publicadas": 1,
+      "brier": 0.1576354099812199,
+      "meta_95_na_amostra": true,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 3,
+      "publicacoes_anteriores_perdidas": 0,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 3,
+      "novas_erradas": 0,
+      "acertos_perdidos": 0,
+      "erros_retidos": 2,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 53,
+        "cobertura": 0.53,
+        "precisao_desenvolvimento": 0.9622641509433962,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "alvo_559": {
+      "questoes": 559,
+      "publicar": 394,
+      "revisar": 165,
+      "fora": 0,
+      "cobertura": 0.7048300536672629,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "Controle anterior preservado; rota de comando não aplicada.": 145,
+        "homonimo_sem_escopo_resolvido": 2,
+        "abaixo_do_limiar_calibrado": 18
+      },
+      "novas_publicacoes": 0,
+      "publicacoes_anteriores_perdidas": 0,
+      "publicadas_com_tema_trocado": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 394,
+        "cobertura": 0.7048300536672629,
+        "precisao_desenvolvimento": null,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "recentes_300": {
+      "questoes": 300,
+      "publicar": 218,
+      "revisar": 82,
+      "fora": 0,
+      "cobertura": 0.7266666666666667,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "Controle anterior preservado; rota de comando não aplicada.": 72,
+        "homonimo_sem_escopo_resolvido": 1,
+        "abaixo_do_limiar_calibrado": 9
+      }
+    }
+  }
+}

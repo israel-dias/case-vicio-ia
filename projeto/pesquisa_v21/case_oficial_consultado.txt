@@ -1,0 +1,152 @@
+    PROCESSO SELETIVO · ÁREA DE IA · MÉTODO VDE
+
+
+    Case: classificação de tópicos
+    Pôr um modelo de linguagem para classificar e outro para conferir, nós já sabemos fazer.
+    Queremos ver o sistema de classificação que você constrói: os dados organizados, o
+    modelo e a regra de decisão são seus.
+
+    Prazo          Anexos                  Contato
+    a combinar     anexos-case-ia.zip      carla@viciodeumaestudante.com.br
+
+
+
+
+1. Contexto
+A plataforma tem dezenas de milhares de questões de concursos jurídicos. O aluno estuda por tópico:
+escolhe "Lei Maria da Penha" ou "Juiz das Garantias" e resolve as questões ligadas a ele. Se a
+classificação está errada, ele estuda a matéria errada, perde tempo e perde a confiança na plataforma.
+
+Boa parte das questões foi classificada automaticamente. O resultado criou o que chamamos de lixeiras:
+tópicos genéricos e introdutórios que atraíram centenas de questões que não têm nada a ver com eles.
+Os alunos perceberam e começaram a reportar. E toda semana chegam questões novas, de concursos
+novos, que precisam ser classificadas.
+
+Você vai trabalhar num recorte real desse problema: 659 questões de Penal, Processo Penal, Legislação
+Penal Especial e Criminologia, com os dados do jeito que estão, inclusive com os defeitos.
+
+
+
+2. O que você recebe
+ Arquivo                               Conteúdo
+
+ questoes.jsonl                        659 questões: enunciado (HTML cru), comando, alternativas, disciplina e assunto
+                                       de origem. Q0001 a Q0359 vêm do nosso banco; Q0360 a Q0659 são de
+                                       concursos recentes, como numa importação nova.
+
+ temas.csv                             Os 377 temas em que as questões podem ser classificadas, em árvore (disciplina
+                                       → tema → subtema), exatamente como estão hoje na plataforma.
+
+ folha_verdade.csv                     100 questões classificadas pela nossa equipe de especialistas. Use como
+                                       quiser (para treinar, calibrar ou testar) e explique como usou.
+
+ LEIA-ME.md                            Dicionário dos campos e formato exato dos arquivos de entrega.
+
+
+Guardamos a classificação da equipe para as demais questões e avaliamos a sua entrega nelas. Os IDs (Q0001…) são
+exclusivos deste case.
+
+
+
+
+3. A decisão que você precisa tomar
+Para cada questão você decide uma de três coisas:
+
+ Decisão                 Significado                                            Custo
+ publicar              Vai direto para o aluno, no tema que você escolheu.   Se estiver errado, o aluno estuda
+                                                                             errado. É o erro mais caro.
+
+ revisar               Vai para a fila do professor, com a sua sugestão.     Tempo do professor, que é escasso.
+
+ fora                  Nenhum tema da árvore serve.                          A questão some do recorte até
+                                                                             alguém criar o tema.
+
+
+     A régua
+     Das questões que você publicar, pelo menos 95% precisam estar certas. Respeitada essa
+     condição, quanto mais você publicar, melhor; o que sobrar vai para revisão.
+
+     Conta como certo publicar no tema que a equipe atribuiu à questão, ou num nó do mesmo ramo
+     (pai ou filho dele), porque o aluno que estuda um tema também vê as questões dos subtemas.
+     Publicar em outro subtema do mesmo tema conta como erro.
+
+
+
+
+4. O desafio: um sistema de classificação seu
+Construa um sistema que decida o tema de cada questão. Ele pode combinar o que você quiser:
+embeddings, busca, regras sobre a árvore e sobre as leis citadas, um dicionário de termos, um
+classificador treinado, kNN, um modelo de ranqueamento. O que importa é que a decisão seja do seu
+sistema e que ele devolva uma probabilidade que você consiga calibrar.
+
+     Onde um modelo de linguagem pode entrar
+     Pode, antes da decisão e sempre documentado e versionado: gerar embeddings, limpar e normalizar
+     o texto, extrair a lei e o artigo citados, enriquecer a descrição dos temas, propor termos ou exemplos
+     que você revisa e guarda como dado.
+
+     Não pode escolher o tema, votar, julgar ou validar as questões avaliadas. Na hora de classificar, o
+     seu sistema precisa rodar sem chamar nenhum modelo de linguagem.
+
+
+Não esperamos que você saiba Direito nem que classifique questões à mão. A folha-verdade existe para
+isso. Organizar o conhecimento que está nos dados (a árvore, as leis, os termos, os 100 exemplos) é o
+centro do trabalho.
+
+
+
+5. O que entregar
+ 1     publicacao.csv
+      Uma linha por questão (as 659), com a decisão ( publicar , revisar ou fora ), o tema central, os
+      extras e a sua confiança. O formato está no LEIA-ME.md .
+
+ 2     previsao.txt : a sua autoavaliação
+      Antes de saber o resultado, diga qual será a sua precisão nas publicadas e a sua cobertura (fração
+      publicada) nas questões fora da folha-verdade, cada uma com um intervalo. Explique como chegou
+      nesses números. Comparamos a previsão com o resultado real.
+ 3    Código
+      Um comando que regenera o publicacao.csv a partir dos anexos, sem chamar modelo de
+      linguagem. Os artefatos que você construiu (dicionários, regras, embeddings em cache, modelo
+      treinado) ficam versionados no repositório. O README diz como rodar, quanto tempo leva e de onde
+      veio cada artefato. Se alguma decisão foi tomada à mão, registre qual e por quê.
+
+ 4    Relatório (até 4 páginas)
+      a) O sistema. O que você construiu, peça por peça, e por que cada peça está ali. Inclua o que testou
+      e descartou.
+
+      b) Os 100 rótulos. Como você os usou (treino, calibração, teste) e o que eles mostraram sobre o seu
+      sistema e sobre a convenção da equipe.
+
+      c) Diagnóstico. O que nos dados e nos temas atrapalha a classificação, que tipos de questão o
+      sistema ainda erra e o que resolveria cada um.
+
+      d) Produção. Custo e tempo para 50 mil questões por semana, como a correção do professor vira
+      dado de treino e de quanto em quanto tempo o sistema se retreina.
+
+      e) Memo para o professor (1 página). Ele é especialista em Direito, não em IA. O que você
+      encontrou, o que recomenda mudar nos temas e do que precisa dele.
+
+Como entregar: crie um repositório público no GitHub com publicacao.csv , previsao.txt , o
+relatório (PDF ou Markdown) e o código, e envie o link para carla@viciodeumaestudante.com.br.
+
+
+
+6. Regras
+     Ferramentas: use as suas. Não reembolsamos custos. Um sistema que roda num notebook comum é
+     tão bom quanto um que precisa de GPU.
+     Prazo: a combinar. Se não terminar tudo, diga o que faria com mais tempo.
+     Dúvidas: escreva para carla@viciodeumaestudante.com.br.
+
+
+
+7. Como avaliamos
+
+     O que pesa                                          O que não pesa
+       Cobertura com precisão ≥ 95% nas                     Usar o modelo mais sofisticado
+       questões fora da folha-verdade                       Infraestrutura ou volume de código
+       Como você organizou os dados e o que o               Volume de páginas
+       sistema aprende com eles                             Saber Direito Penal de cor (ajuda, mas não
+       O quanto a sua previsão acerta o seu                 é requisito)
+       próprio resultado
+       Rodar de novo, do zero, sem modelo de
+       linguagem na decisão
+

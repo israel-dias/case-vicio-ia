@@ -1,0 +1,19 @@
+{
+  "motivacao": "Análise posterior à rodada V16: preservar a versão ATUAL V15, em vez de retornar apenas ao controle V11. Mantém também os resultados negativos da rodada inicial.",
+  "decisoes_modelos_congeladas": true,
+  "novo_treino": false,
+  "novos_cortes": false,
+  "cortes": [
+    "calibrado",
+    "70"
+  ],
+  "politicas": [
+    "preservar_v15",
+    "preservar_v15_com_guarda"
+  ],
+  "selecionar_pela_cobertura_559": false,
+  "criterio": "Precisão empírica >=95% nas 100 reutilizadas; maximizar publicações e acertos, mantendo ordem de desempate fixa. Depois conferir as 559.",
+  "exposicao": "Análise adaptativa no mesmo conjunto repetidamente visto; não é teste externo cego. Volumes individuais das 559 da rodada anterior já vistos.",
+  "modelos_v16_sha256": "42dc3f274347123df2a4be72da929f3038a9ee6fa82411fa860c8eba916db95f",
+  "promove_entrega": false
+}

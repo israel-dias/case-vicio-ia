@@ -1,0 +1,25 @@
+{
+  "experimento": "baseline_lexical_v1",
+  "tipo_avaliacao": "desenvolvimento; não é teste cego",
+  "questoes_recebidas": 659,
+  "rotulos": 100,
+  "particao": {
+    "desenvolvimento": 60,
+    "teste_reservado": 20,
+    "calibracao_reservada": 20
+  },
+  "questoes_avaliadas": 60,
+  "acerto_top1_total": 0.4666666666666667,
+  "acerto_top1_com_tema": 0.5,
+  "acerto_top5_com_tema": 0.6607142857142857,
+  "tempo_preparacao_e_avaliacao_segundos": 0.183,
+  "observacoes": [
+    "TF-IDF ajustado somente nos textos do catálogo.",
+    "Sem treino supervisionado nesta versão.",
+    "ID e metadados de origem não são atributos.",
+    "Similaridade não é probabilidade de acerto.",
+    "Baseline não detecta fora nem decide publicação.",
+    "Calibração e teste permanecem sem previsões.",
+    "As outras 559 questões não foram classificadas."
+  ]
+}

@@ -1,0 +1,20 @@
+test_adjetivo_comum_nao_vira_ancora_isolada (test_evidencia.TestEvidencia.test_adjetivo_comum_nao_vira_ancora_isolada) ... ok
+test_ce_nao_fornece_palavras_para_classificar (test_evidencia.TestEvidencia.test_ce_nao_fornece_palavras_para_classificar) ... ok
+test_coocorrencia_nao_e_relacao_morte_do_agente (test_evidencia.TestEvidencia.test_coocorrencia_nao_e_relacao_morte_do_agente) ... ok
+test_enumeracao_sozinha_nao_cria_foco_unico (test_evidencia.TestEvidencia.test_enumeracao_sozinha_nao_cria_foco_unico) ... ok
+test_homonimos_permanecem_em_familias_separadas (test_evidencia.TestEvidencia.test_homonimos_permanecem_em_familias_separadas) ... ok
+test_ids_e_origem_nao_entram_na_evidencia (test_evidencia.TestEvidencia.test_ids_e_origem_nao_entram_na_evidencia) ... ok
+test_itens_romanos_e_vf_nao_sao_descartados (test_evidencia.TestEvidencia.test_itens_romanos_e_vf_nao_sao_descartados) ... ok
+test_negacao_preservada (test_evidencia.TestEvidencia.test_negacao_preservada) ... ok
+test_ordem_da_expressao_importa (test_evidencia.TestEvidencia.test_ordem_da_expressao_importa) ... ok
+test_vocabulo_do_escopo_e_recuperado_do_catalogo (test_evidencia.TestEvidencia.test_vocabulo_do_escopo_e_recuperado_do_catalogo) ... ok
+test_mesma_disciplina_nao_torna_irmaos_equivalentes (test_guarda.TestGuarda.test_mesma_disciplina_nao_torna_irmaos_equivalentes) ... ok
+test_nao_adivinha_conjunto_faltante (test_guarda.TestGuarda.test_nao_adivinha_conjunto_faltante) ... ok
+test_troca_de_disciplina_conserva_controle_sem_elevar_confianca (test_guarda.TestGuarda.test_troca_de_disciplina_conserva_controle_sem_elevar_confianca) ... ok
+test_comando_embutido_em_textos_novos_sem_leitura_de_rotulos (test_runtime.TestRuntimeV19.test_comando_embutido_em_textos_novos_sem_leitura_de_rotulos) ... ok
+test_saida_existente_nao_e_sobrescrita (test_runtime.TestRuntimeV19.test_saida_existente_nao_e_sobrescrita) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 2.750s
+
+OK

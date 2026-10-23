@@ -1,0 +1,87 @@
+{
+  "atributos_base": [
+    "media3_completo",
+    "max_completo",
+    "palavra_completo",
+    "char_completo",
+    "palavra_enunciado",
+    "char_enunciado",
+    "palavra_comando",
+    "char_comando",
+    "palavra_alternativas",
+    "char_alternativas",
+    "palavra_alt_max",
+    "palavra_alt_media",
+    "palavra_assunto_origem",
+    "apoio_enunciado_e_alternativas",
+    "origem_compativel",
+    "origem_reconhecida",
+    "lei_literal",
+    "artigo_literal",
+    "certo_errado",
+    "assertivas_numeradas",
+    "numero_alternativas",
+    "cobertura_vocabulario"
+  ],
+  "atributos_vizinhos": [
+    "voto_vizinhos",
+    "vizinho_compativel",
+    "vizinho_incompativel",
+    "vizinho_fora"
+  ],
+  "codigo_sha256": {
+    "experimento.py": "5b8d17ef150e76d5bbb8e78b03fca16da0f8c5a46dabaa5350f2a5187c682a4d",
+    "modelo.py": "50222d35b96196b75a8c3c207562610f73ee4d88d7e6c7b9086d7c1553bd80f0"
+  },
+  "dados_sha256": {
+    "folha_verdade.csv": "c1412ce8d336ae248a2f0e46d8e34cbc07dd33c78af9ce6bbe1337c516ee8e3b",
+    "questoes.jsonl": "318f1fea970633a4d84eb5a4dd071b2ae76ad3e49288a073ab381f61a09da3f3",
+    "temas.csv": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc"
+  },
+  "dependencias": {
+    "numpy": "2.3.5",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.17.0",
+    "threadpoolctl": "3.6.0"
+  },
+  "exposicao_previa": "Todos os rótulos já foram discutidos. Resultados são desenvolvimento, não teste externo inteiramente cego.",
+  "folds_externos": 5,
+  "folds_internos": 4,
+  "llm_na_decisao": false,
+  "metodos": [
+    "lexical_margem",
+    "compatibilidade_fixa",
+    "compatibilidade_ranking",
+    "compatibilidade_vizinhos"
+  ],
+  "minimo_publicadas_internas": 10,
+  "novas_559": "Não classificar neste experimento.",
+  "origem_preparada": {
+    "adaptador_sha256": "29e92ae8a8e4ffd262d77b4b011c7bb83d719e1b65bff5d6f97e2e74cbabf063",
+    "atributo_0": "score da família no classificador congelado de escopos",
+    "aviso": "Comparar somente os métodos desta execução. Os folds e a calibração são novos; não é reprodução do teste reservado antigo.",
+    "configuracao": {
+      "caracteres": 0.25,
+      "familia": "media3",
+      "meta": 0.2,
+      "modo": "separados",
+      "nome": "escopos_separados_media3",
+      "peso_escopo": 0.5
+    },
+    "sha256": {
+      "calibrar_etapa2.py": "5ad0add669ca56d85fc188c964d5363139a6a4362384a988a43edfc8066bbb56",
+      "escopos": "1b636c43fd0844ca6e485d15e209e1f444abf3487e09aebebc1b33add1387f00",
+      "experimento_campos.py": "679654abfac800d60b75e8031c969456c9032e36de5aa1a96562c793915c93c4",
+      "experimento_escopos.py": "e82a9c926c03263ca43a8d7f41e2c3edfe06a388e818870fe90412d378d824dc",
+      "gerar_escopos.py": "ac0d1fd87f9fd245f00606d467ca1c6c7b4f55bb4ec30356b97c1c3f4cafaa18",
+      "metodo": "bc7ecead2dec543bec2395daac5d99fad3df6ff18651b5ad96807fe6ec9499bb",
+      "vocabulario": "66f90e91004724af1ad72e8768db89db448219fe2c27b1f337ab57e9758b213e"
+    },
+    "tipo": "classificador congelado de escopos do projeto existente"
+  },
+  "precisao_empirica_interna_alvo": 0.95,
+  "python": "3.12.3",
+  "selecao": "Maior número de publicações internas; desempate pelo top1 interno e menor complexidade.",
+  "semente": "vde-folha-v2-2026-10-21",
+  "versao": "folha_v2_independente"
+}

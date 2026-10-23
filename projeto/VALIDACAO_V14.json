@@ -1,0 +1,15 @@
+{
+  "testes_v14_passaram": 18,
+  "arquivos_v12_v13_preservados": 547,
+  "reproducao_559": {
+    "questoes": 559,
+    "variante": "fusao_conservadora",
+    "corte": "70",
+    "politica": "substituir",
+    "tema_decisao_confianca_iguais": true,
+    "rotulos_bloqueados": true,
+    "rede_bloqueada": true
+  },
+  "entrega_substituida": false,
+  "corte70_atinge_meta95_novas_variantes": false
+}

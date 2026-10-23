@@ -1,17 +1,7 @@
-.venv/
 __pycache__/
-*.pyc
-.env
-.DS_Store
-.pytest_cache/
-.vscode/
-resposta_chat.json
+*.py[cod]
+.venv/
+venv/
 entrega_reproduzida*/
-dados/processados_regenerados/
-lotes_v3_regenerados/
-respostas_v3_regeneradas/
-
-# Cache opcional de pesquisa e saídas locais
-auditoria_v4/cache_local/
-auditoria_v4/fontes/normas_nova_consulta.json
-entrega_reproduzida*/
+projeto/modelos/
+modelos/

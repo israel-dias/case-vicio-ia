@@ -1,0 +1,41 @@
+test_fora_nao_cria_par_positivo (test_contexto.TestPares.test_fora_nao_cria_par_positivo) ... ok
+test_nao_injeta_rotulo_ausente_nos_candidatos (test_contexto.TestPares.test_nao_injeta_rotulo_ausente_nos_candidatos) ... ok
+test_rotulos_externos_sao_rejeitados (test_contexto.TestPares.test_rotulos_externos_sao_rejeitados) ... ok
+test_sugestao_sem_sinal_nao_quebra_lista_de_candidatos (test_contexto.TestPares.test_sugestao_sem_sinal_nao_quebra_lista_de_candidatos) ... ok
+test_adjetivo_impossivel_nao_e_crime_impossivel (test_contexto.TestTexto.test_adjetivo_impossivel_nao_e_crime_impossivel) ... ok
+test_artigo_compartilhado_respeita_o_codigo (test_contexto.TestTexto.test_artigo_compartilhado_respeita_o_codigo) ... ok
+test_artigo_isolado_nao_e_identificador_forte (test_contexto.TestTexto.test_artigo_isolado_nao_e_identificador_forte) ... ok
+test_autor_conduta_resultado_genericos_nao_ativam (test_contexto.TestTexto.test_autor_conduta_resultado_genericos_nao_ativam) ... ok
+test_certo_errado_nao_oferece_temas_nas_alternativas (test_contexto.TestTexto.test_certo_errado_nao_oferece_temas_nas_alternativas) ... ok
+test_comando_generico_mantem_enunciado (test_contexto.TestTexto.test_comando_generico_mantem_enunciado) ... ok
+test_estrito_real_nao_vaza_narrativa_nem_origem_nos_atributos (test_contexto.TestTexto.test_estrito_real_nao_vaza_narrativa_nem_origem_nos_atributos) ... ok
+test_estrito_retira_narrativa_e_metadados_sem_apagar_alternativas (test_contexto.TestTexto.test_estrito_retira_narrativa_e_metadados_sem_apagar_alternativas) ... ok
+test_expressao_crime_impossivel_completa_e_aceita (test_contexto.TestTexto.test_expressao_crime_impossivel_completa_e_aceita) ... ok
+test_lei_especifica_repetida_pode_ativar_sem_fundir_ramos (test_contexto.TestTexto.test_lei_especifica_repetida_pode_ativar_sem_fundir_ramos) ... ok
+test_lei_sem_repeticao_no_enunciado_nao_ativa (test_contexto.TestTexto.test_lei_sem_repeticao_no_enunciado_nao_ativa) ... ok
+test_nao_fraciona_citacao_em_artigo_e_numero (test_contexto.TestTexto.test_nao_fraciona_citacao_em_artigo_e_numero) ... ok
+test_passagens_preservam_negacao_antecedente_e_texto_integral (test_contexto.TestTexto.test_passagens_preservam_negacao_antecedente_e_texto_integral) ... ok
+test_plural_e_papeis_compostos_sao_identificador_de_catalogo (test_contexto.TestTexto.test_plural_e_papeis_compostos_sao_identificador_de_catalogo) ... ok
+test_todos_os_itens_permanecem_com_cabecalho (test_contexto.TestTexto.test_todos_os_itens_permanecem_com_cabecalho) ... ok
+test_assertiva_ce_unica_e_cobranca_sem_corte_por_tamanho (test_extracao.TestExtracao.test_assertiva_ce_unica_e_cobranca_sem_corte_por_tamanho) ... ok
+test_cobranca_extraida_com_topico_anterior_na_mesma_frase (test_extracao.TestExtracao.test_cobranca_extraida_com_topico_anterior_na_mesma_frase) ... ok
+test_comando_existente_informativo_nao_e_substituido (test_extracao.TestExtracao.test_comando_existente_informativo_nao_e_substituido) ... ok
+test_itens_independentes_nao_sao_recortados (test_extracao.TestExtracao.test_itens_independentes_nao_sao_recortados) ... ok
+test_lei_nao_e_duplicada_artificialmente_na_narrativa (test_extracao.TestExtracao.test_lei_nao_e_duplicada_artificialmente_na_narrativa) ... ok
+test_negacao_e_instrucao_incorreta_sao_preservadas (test_extracao.TestExtracao.test_negacao_e_instrucao_incorreta_sao_preservadas) ... ok
+test_pergunta_final_preserva_narrativa_anterior (test_extracao.TestExtracao.test_pergunta_final_preserva_narrativa_anterior) ... ok
+test_prioridade_aplica_nova_leitura_mas_nao_libera_so_pelo_gatilho (test_roteamento.TestRoteamento.test_prioridade_aplica_nova_leitura_mas_nao_libera_so_pelo_gatilho) ... ok
+test_sem_gatilho_nao_modifica_controle (test_roteamento.TestRoteamento.test_sem_gatilho_nao_modifica_controle) ... ok
+test_string_false_nao_ativa_regra (test_roteamento.TestRoteamento.test_string_false_nao_ativa_regra) ... ok
+test_suplemento_so_altera_revisoes_identificadas (test_roteamento.TestRoteamento.test_suplemento_so_altera_revisoes_identificadas) ... ok
+test_adulteracao_rejeitada_antes_da_entrada (test_runtime.TestRuntimeV18.test_adulteracao_rejeitada_antes_da_entrada) ... ok
+test_modelos_sem_respostas_por_id (test_runtime.TestRuntimeV18.test_modelos_sem_respostas_por_id) ... ok
+test_saida_existente_preservada (test_runtime.TestRuntimeV18.test_saida_existente_preservada) ... ok
+test_textos_novos_sem_rotulos_rede_treino_ou_recalibracao (test_runtime.TestRuntimeV18.test_textos_novos_sem_rotulos_rede_treino_ou_recalibracao) ... ok
+test_comando_embutido_em_textos_novos_sem_leitura_de_rotulos (test_runtime_extraido.TestRuntimeExtraido.test_comando_embutido_em_textos_novos_sem_leitura_de_rotulos) ... ok
+test_saida_existente_nao_e_sobrescrita (test_runtime_extraido.TestRuntimeExtraido.test_saida_existente_nao_e_sobrescrita) ... ok
+
+----------------------------------------------------------------------
+Ran 36 tests in 5.199s
+
+OK

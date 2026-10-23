@@ -1,0 +1,1872 @@
+{
+  "Q0002": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase de acordo com o autor.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Segundo Vera Regina Pereira de Andrade, a clientela do sistema penal é constituída de pobres, porque",
+    "comando_original": "Complete a frase de acordo com o autor.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0003": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Francisco foi processado pelo Ministério Público pelo delito de furto. Contudo, após a resposta preliminar, foi absolvido sumariamente, tendo o juízo decidido que o fato narrado na denúncia evidentemente não constitui crime. Nesse contexto, é correto afirmar que, em face da referida decisão, caberá:",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0005": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5159",
+        "familia": "5157",
+        "titulo": "Furto",
+        "expressao": "furto",
+        "forca": 2,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Considerando-se a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é",
+    "familias": [
+      "5157"
+    ],
+    "foco": "Considerando-se a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é",
+    "origem_leitura": "cobranca_final_do_enunciado",
+    "enunciado_original": "Carlos foi denunciado pelo crime de furto qualificado, praticado em 15/5/2022. Após a tramitação regular do processo, o juiz fixou a pena base no mínimo legal, tendo em seguida agravado em 1/6 a pena em face da reincidência, sob o fundamento de que o réu possuía uma condenação anterior transitada em julgado, e impôs o regime fechado para início de cumprimento de pena. Na condenação anterior, Carlos havia recebido o livramento condicional em 27/4/2015, cumprindo-o sem revogações até 27/4/2019, e a decisão que declarou extinta a pena foi proferida em 29/6/2020. Considerando-se a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é",
+    "comando_original": "complete a frase com a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0012": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5473",
+        "familia": "5466",
+        "titulo": "Denúncia",
+        "expressao": "denuncia",
+        "forca": 2,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [
+      [
+        "lei:9099/1995",
+        "77"
+      ]
+    ],
+    "normas_compartilhadas": [
+      "lei:9099/1995"
+    ],
+    "comando": "Indique o recurso cabível contra a decisão que rejeitar a denúncia oferecida nos termos do artigo 77 da Lei 9.099/1995.",
+    "familias": [
+      "5466"
+    ],
+    "foco": "Indique o recurso cabível contra a decisão que rejeitar a denúncia oferecida nos termos do artigo 77 da Lei 9.099/1995.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "Da decisão que rejeitar a denúncia oferecida nos termos do artigo 77 da Lei 9.099/1995, caberá:",
+    "comando_original": "Indique o recurso cabível contra a decisão que rejeitar a denúncia oferecida nos termos do artigo 77 da Lei 9.099/1995.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0017": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase ou responda conforme o contexto do processo penal.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "No processo e julgamento dos crimes de responsabilidade dos funcionários públicos,",
+    "comando_original": "Complete a frase ou responda conforme o contexto do processo penal.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0018": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Marque “C” para certo e “E” para errado na assertiva abaixo.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Marque “C” para certo e “E” para errado na assertiva abaixo. São considerados casos de exclusão de competência dos Juizados Especiais Criminais a conexão, não localização do acusado e a complexidade da ocorrência ou circunstância diversa que não permita o imediato oferecimento da denúncia, como perícias complexas e amplas diligências para a identificação do autor.",
+    "comando_original": "Marque “C” para certo e “E” para errado na assertiva abaixo.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0023": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Sobre o Tribunal do Júri, é INCORRETO afirmar:",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0028": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Analise as disposições mencionadas e explique o procedimento adotado pelo juiz em cada etapa processual descrita.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "O Código de Processo Penal, em seu art. 406, estabelece que o juiz, ao receber a denúncia ou a queixa, ordenará a citação do acusado para responder a acusação, por escrito, no prazo de dez dias. O art. 409, do mesmo diploma legal, determina que, apresentada a defesa, o juiz ouvirá o Ministério Público ou o querelante sobre preliminares e documentos, em cinco dias. Por sua vez, segundo o parágrafo primeiro, do art. 421, do referido Estatuto Processual, ainda que preclusa a decisão de pronúncia, havendo circunstância superveniente que altere a classificação do crime, o juiz ordenará a remessa dos autos ao Ministério Público.",
+    "comando_original": "Analise as disposições mencionadas e explique o procedimento adotado pelo juiz em cada etapa processual descrita.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0031": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Julgue o item a seguir.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Julgue o item a seguir, relativos a modelos teóricos da criminologia. De acordo com a teoria da anomia, o crime se origina da impossibilidade social do indivíduo de atingir suas metas pessoais, o que o faz negar a norma imposta e criar suas próprias regras, conforme o seu próprio interesse.",
+    "comando_original": "Julgue o item a seguir.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0034": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5477",
+        "familia": "5476",
+        "titulo": "Habeas Corpus",
+        "expressao": "habea corpu",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase sobre a situação em que o habeas corpus é medida de impugnação cabível.",
+    "familias": [
+      "5476"
+    ],
+    "foco": "Complete a frase sobre a situação em que o habeas corpus é medida de impugnação cabível.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "A situação em que o habeas corpus é medida de impugnação cabível é",
+    "comando_original": "Complete a frase sobre a situação em que o habeas corpus é medida de impugnação cabível.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0035": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Nos termos da Lei no 13.260/2016 (Lei Antiterrorismo), assinale a alternativa correta.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0039": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Suponha que todos os revendedores de gás liquefeito de petróleo (GLP) ajustem artificialmente preço final de venda do produto em determinada localidade. A esse respeito, é correto afirmar que",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0040": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Assinale a alternativa que traz duas características do recurso de apelação contra sentença condenatória do Tribunal do Júri que, cumuladas, podem levar à atribuição de efeito suspensivo ao referido recurso.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0041": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5184",
+        "familia": "5184",
+        "titulo": "Medida de Segurança",
+        "expressao": "medida de seguranca",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Sobre as medidas de segurança é correto afirmar:",
+    "familias": [
+      "5184"
+    ],
+    "foco": "Sobre as medidas de segurança é correto afirmar:",
+    "origem_leitura": "delimitacao_temática_do_enunciado",
+    "enunciado_original": "Sobre as medidas de segurança é correto afirmar:",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0043": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete o estudo sobre a fixação da pena.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Sobre a fixação da pena, tem-se o seguinte:",
+    "comando_original": "Complete o estudo sobre a fixação da pena.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0049": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Mévia e Tício foram namorados, por 5 anos. Mévia terminou a relação, por ter conhecido e se apaixonado por outra pessoa. Tício não se conformava com o término e, diagnosticado com depressão, todos os dias, durante meses, mandava mensagem para Mévia, dizendo que a vida sem ela perdera a graça. Mévia, sabendo da condição de saúde mental de Tício, manteve-se silente durante todo o tempo. Mas, um dia, irritada com as mensagens, que estavam causando instabilidade em seu atual relacionamento, Mévia envia a Tício a seguinte resposta: “se a vida perdeu a graça, de que vale viver? Seja homem ao menos uma vez! Coloque fim em seu sofrimento e pare de me infernizar! Eu até vou a seu enterro e faço uma homenagem póstuma!” Tício visualizou a mensagem, respondendo com “Ok”. Passados dois dias, Tício se joga da janela do prédio de sua casa. Por sorte, Tício cai em cima da carroceria de um caminhão, lotado de colchão, que passava na rua no exato momento da queda. Tício não sofreu qualquer lesão. Diante da situação hipotética, assinale a alternativa correta.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0052": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Está correto o que se afirma APENAS em",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "proposicoes_preservadas",
+    "enunciado_original": "Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional intra muros, bem como, simultaneamente, teve frequência escolar de 200 horas, concluindo atividade de ensino médio ao longo do cumprimento da pena. Cada 12 (doze) horas foram divididas em 3 (três) dias de estudo. Esse indivíduo I. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 3 (três) dias de trabalho. II. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar. III. tem direito à remição de pena, com o acréscimo de 1/3 (um terço) de toda a remição conquistada durante o cumprimento da pena devido à conclusão do ensino médio. IV. em caso da prática de falta grave, obrigatoriamente, perderá 1/3 (um terço) da remição conquistada, recomeçando a contagem a partir da data da infração disciplinar.",
+    "comando_original": "Está correto o que se afirma APENAS em",
+    "itens_preservados": [
+      "tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 3 (três) dias de trabalho.",
+      "tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar.",
+      "tem direito à remição de pena, com o acréscimo de 1/3 (um terço) de toda a remição conquistada durante o cumprimento da pena devido à conclusão do ensino médio.",
+      "em caso da prática de falta grave, obrigatoriamente, perderá 1/3 (um terço) da remição conquistada, recomeçando a contagem a partir da data da infração disciplinar."
+    ],
+    "vf_preservado": false
+  },
+  "Q0057": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5175",
+        "familia": "5175",
+        "titulo": "Iter Criminis",
+        "expressao": "iter crimini",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a definição de iter criminis.",
+    "familias": [
+      "5175"
+    ],
+    "foco": "Complete a definição de iter criminis.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "Por iter criminis compreende-se o conjunto de",
+    "comando_original": "Complete a definição de iter criminis.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0058": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Sobre a relação entre sistema penal e pobreza é correto afirmar que",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0060": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "A respeito dos crimes praticados em detrimento da administração pública, assinale a alternativa correta.",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0061": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Sobre a falta grave no processo de execução criminal, é correto afirmar:",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0066": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Explique o que é o positivismo criminológico.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "O positivismo criminológico",
+    "comando_original": "Explique o que é o positivismo criminológico.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0067": {
+    "forte": false,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5087",
+        "familia": "5087",
+        "titulo": "Dos Crimes Contra a Administração Pública",
+        "expressao": "contra a administracao publica",
+        "forca": 4,
+        "tipo": "titulo_especifico"
+      },
+      {
+        "tema_titulo_id": "5117",
+        "familia": "5116",
+        "titulo": "Dos Crimes contra a Fé Pública",
+        "expressao": "contra a administracao publica",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Analise a conduta e caracterize-a com um dos tipos de crime contra a Administração Pública.",
+    "familias": [
+      "5087",
+      "5116"
+    ],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Os fi ns da Administração Pública resumem-se em um único objetivo: o bem comum da coletividade administrativa. Toda atividade deve ser orientada para este objetivo; sendo que todo ato administrativo que não for praticado no interesse da coletividade será ilícito e imoral. Assim, temos no Código Penal o título XI - Dos crimes contra a Administração Pública. Analise a conduta abaixo, caracterizando-a com um dos tipos de crime contra a Administração Pública. Sebastião, policial militar, exige dinheiro de Caio, usuário de maconha, para que este não seja preso. Caio, com medo da função de policial exercida pelo funcionário público militar, dá R$ 4.000,00 (quatro mil reais) a Sebastião, conforme exigido por ele. Com base nessa informação e na legislação penal especial, é correto afi rmar que:",
+    "comando_original": "Analise a conduta e caracterize-a com um dos tipos de crime contra a Administração Pública.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0068": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Marque a alternativa correta do ponto de vista legal.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0077": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Marque a alternativa CORRETA.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Considere os artigos abaixo. Em seguida, marque a alternativa CORRETA: Artigo 1º da Lei 2.889/1956: “Quem, com a intenção de destruir, no todo ou em parte, grupo nacional, étnico, racial ou religioso, como tal”: a) matar membros do grupo; Será punido: Com as penas do art. 121, § 2º, do Código Penal, no caso da letra “a”; Artigo 309 do Código Eleitoral: “Votar ou tentar votar mais de uma vez, ou em lugar de outrem”: Pena - reclusão de até três anos.",
+    "comando_original": "Marque a alternativa CORRETA.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0079": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5580",
+        "familia": "5580",
+        "titulo": "Sistemas e Princípios Processuais Penais",
+        "expressao": "sistema processual penal e aos seus principio",
+        "forca": 4,
+        "tipo": "titulo_especifico"
+      },
+      {
+        "tema_titulo_id": "5581",
+        "familia": "5580",
+        "titulo": "Sistemas Processuais Penais",
+        "expressao": "sistema processual",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Em relação aos sistemas processuais penais e aos seus princípios reitores, assinale a opção correta.",
+    "familias": [
+      "5580"
+    ],
+    "foco": "Em relação aos sistemas processuais penais e aos seus princípios reitores, assinale a opção correta.",
+    "origem_leitura": "cobranca_final_do_enunciado",
+    "enunciado_original": "Em relação aos sistemas processuais penais e aos seus princípios reitores, assinale a opção correta.",
+    "comando_original": "Assinale a opção correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0080": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "4370",
+        "familia": "4368",
+        "titulo": "Modelos de Reação ao Delito",
+        "expressao": "modelo de reacao ao delito",
+        "forca": 4,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Julgue o item subsequente acerca dos modelos de reação ao delito.",
+    "familias": [
+      "4368"
+    ],
+    "foco": "Julgue o item subsequente acerca dos modelos de reação ao delito.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "Com relação às teorias da criminologia e à prevenção da infração penal no estado democrático de direito, julgue o item subsequente acerca dos modelos de reação ao delito. O cumprimento dos deveres legais por parte do apenado recluso constitui instrumento de reação ao delito analisado pelo modelo restaurador: o real impacto do castigo aplicado ao indivíduo no caso concreto é capaz de aferir os diagnósticos e de proporcionar adequadas soluções para prevenir a reincidência.",
+    "comando_original": "Julgue o item subsequente acerca dos modelos de reação ao delito.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0086": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Nessa hipótese, o Auditor:",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Um Auditor-Fiscal do Trabalho deixou de autuar uma empresa que havia cometido infração às normas de segurança no trabalho porque o dirigente dessa empresa prometeu-lhe uma semana de estadia num hotel de luxo, com direito a acompanhante e todas as despesas inclusas. Ocorre que, após o encerramento dos trabalhos de fiscalização e lavratura do termo de regularidade da empresa, o dirigente da mesma negou-se a cumprir a promessa.",
+    "comando_original": "Nessa hipótese, o Auditor:",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0087": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5521",
+        "familia": "5517",
+        "titulo": "Prisão Domiciliar",
+        "expressao": "prisao domiciliar",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase ou responda sobre a prisão domiciliar na execução penal conforme a jurisprudência do Superior Tribunal de Justiça.",
+    "familias": [
+      "5517"
+    ],
+    "foco": "Complete a frase ou responda sobre a prisão domiciliar na execução penal conforme a jurisprudência do Superior Tribunal de Justiça.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "De acordo com a jurisprudência do Superior Tribunal de Justiça, a prisão domiciliar na execução penal",
+    "comando_original": "Complete a frase ou responda sobre a prisão domiciliar na execução penal conforme a jurisprudência do Superior Tribunal de Justiça.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0090": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Assinale a alternativa CORRETA.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0091": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "familia": "5199",
+        "titulo": "Teoria da Pena",
+        "expressao": "regime prisional",
+        "tipo": "regime_de_cumprimento",
+        "forca": 3.0
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Nessa situação, o pedido não poderá ser atendido: a progressão do regime prisional de Flávio deverá ser para o regime semiaberto.",
+    "familias": [
+      "5199"
+    ],
+    "foco": "Nessa situação, o pedido não poderá ser atendido: a progressão do regime prisional de Flávio deverá ser para o regime semiaberto.",
+    "origem_leitura": "cobranca_final_do_enunciado",
+    "enunciado_original": "Em cada item que se segue, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superiores a respeito de aplicação de pena, cominação de penas, regime de penas, medidas de segurança e livramento condicional. Flávio, maior e capaz, condenado a pena de doze anos pela prática de homicídio doloso qualificado, iniciou o cumprimento da pena em regime fechado. Durante a execução da pena, ele apresentou comportamento excelente e colaborativo, por isso, após o período mínimo para a progressão de regime, seu advogado requereu ao juiz a passagem de Flávio para o regime aberto. Nessa situação, o pedido não poderá ser atendido: a progressão do regime prisional de Flávio deverá ser para o regime semiaberto.",
+    "comando_original": "Julgue a assertiva apresentada na situação hipotética.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0099": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Diante do caso narrado, é correto afirmar que:",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Filomena, camelô Irregular, é flagrada por dois agentes da fiscalização municipal, ocasião em que estes anunciam que irão lavrar um auto de infração e apreender sua mercadoria, levando-a ao depósito público, de onde poderá vir a ser retirada posteriormente, mediante pagamentos devidos, tudo conforme o previsto na legislação. Inconformada com o fato, Filomena passa a agredir fisicamente os fiscais, no intuito de impedir que levem sua mercadoria, porém eles reagem, usando força corporal nos limites necessários para conter Filomena. Como resultado, Filomena e os fiscais ficam levemente feridos, sendo a mercadoria devidamente apreendida. Diante do caso narrado, é correto afirmar que:",
+    "comando_original": "Diante do caso narrado, é correto afirmar que:",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0103": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5478",
+        "familia": "5476",
+        "titulo": "Revisão Criminal",
+        "expressao": "revisao criminal",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Julgue os próximos itens sobre a revisão criminal.",
+    "familias": [
+      "5476"
+    ],
+    "foco": "Julgue os próximos itens sobre a revisão criminal.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "A respeito da revisão criminal, julgue os próximos itens. A revisão criminal, que é um dos aspectos diferenciadores do mero direito à defesa e do direito à ampla defesa, este caracterizador do direito processual penal, tem por finalidade o reexame do processo já alcançado pela coisa julgada, de forma a possibilitar ao condenado a absolvição, a melhora de sua situação jurídica ou a anulação do processo.",
+    "comando_original": "Julgue os próximos itens sobre a revisão criminal.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0106": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Responda qual é o delito praticado pelos estudantes de Direito com o chamado “pendura” nas comemorações da instalação dos cursos jurídicos no País.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Que delito praticam os estudantes de Direito com o chamado “pendura”, nas comemorações da instalação dos cursos jurídicos no País?",
+    "comando_original": "Responda qual é o delito praticado pelos estudantes de Direito com o chamado “pendura” nas comemorações da instalação dos cursos jurídicos no País.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0110": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Sobre a competência em matéria processual penal é correto afirmar que:",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0111": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Sobre a escola positivista da criminologia, é correto afirmar:",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0115": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Paulo, executivo do mercado financeiro, após um dia estressante de trabalho, foi demitido. O mundo desabara sobre sua cabeça. Pegou seu carro e o que mais queria era chegar em casa. Mas o horário era de rush e o trânsito estava caótico, ainda chovia. No interior de seu carro sentiu o trauma da demissão e só pensava nas dívidas que já estavam para vencer, quando fora acometido de uma sensação terrível: uma mistura de fracasso, com frustração, impotência, medo e etc. Neste instante, sem quê nem porque, apenas querendo chegar em casa, jogou seu carro para o acostamento, onde atropelou um ciclista que por ali trafegava, subiu no passeio onde atropelou um casal que ali se encontrava, andou por mais de 200 metros até bater num poste, desceu do carro meio tonto e não hesitou, agrediu um motoqueiro e subtraiu a motocicleta, evadindo-se em desabalada carreira, rumo à sua casa. Naquele dia, Paulo, um pacato cidadão, pagador de impostos, bom pai de família, representante da classe média-alta daquela metrópole, transformou-se num criminoso perigoso, uma fera que ocupara as notícias dos principais telejornais. Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+    "comando_original": "Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0117": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase com o nome da teoria correspondente.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "O estudo das teorias relaciona-se intimamente com as finalidades da pena. Nesse sentido, a teoria que sustenta que a única função efetivamente desempenhada pela pena seria a neutralização do condenado, especialmente quando a prisão acarreta seu afastamento da sociedade, é a teoria",
+    "comando_original": "Complete a frase com o nome da teoria correspondente.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0124": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "A quantidade de itens certos é igual a",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "proposicoes_preservadas",
+    "enunciado_original": "À luz das teorias das penas, julgue os seguintes itens. I Kant, que era adepto da teoria absoluta da pena, asseverava que, ainda que a sociedade civil acordasse em se dissolver, o último assassino que estivesse no cárcere deveria ser executado, a fim de que cada um sofresse o que efetivamente merecia por seus feitos. II Para Hegel, a justiça da pena concreta decorre de um processo dialético, pelo qual se levam em conta as características da lesão concreta assim como as circunstâncias da sociedade civil. III Segundo Roxin, a idéia de retribuição compensadora somente é plausível mediante um ato de fé, pois não há como se compreender, de forma racional, como apagar um mal cometido pelo sujeito ativo do crime com um outro mal, isto é, o sofrimento da pena. IV Para Binding, a finalidade da pena é mostrar ao delinqüente sua impotência diante da lei, submetendo-lhe, assim, à força vitoriosa do direito. V De acordo com as teorias relativas da pena, esta se justifica para a prevenção geral e especial do delito, partindo-se de uma concepção utilitarista da pena.",
+    "comando_original": "A quantidade de itens certos é igual a",
+    "itens_preservados": [
+      "Kant, que era adepto da teoria absoluta da pena, asseverava que, ainda que a sociedade civil acordasse em se dissolver, o último assassino que estivesse no cárcere deveria ser executado, a fim de que cada um sofresse o que efetivamente merecia por seus feitos.",
+      "Para Hegel, a justiça da pena concreta decorre de um processo dialético, pelo qual se levam em conta as características da lesão concreta assim como as circunstâncias da sociedade civil.",
+      "Segundo Roxin, a idéia de retribuição compensadora somente é plausível mediante um ato de fé, pois não há como se compreender, de forma racional, como apagar um mal cometido pelo sujeito ativo do crime com um outro mal, isto é, o sofrimento da pena.",
+      "Para Binding, a finalidade da pena é mostrar ao delinqüente sua impotência diante da lei, submetendo-lhe, assim, à força vitoriosa do direito.",
+      "De acordo com as teorias relativas da pena, esta se justifica para a prevenção geral e especial do delito, partindo-se de uma concepção utilitarista da pena."
+    ],
+    "vf_preservado": false
+  },
+  "Q0134": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "assinale a alternativa correta",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem é conduta tipificada no Código Penal Brasileiro em vigor. Sobre referida conduta,",
+    "comando_original": "assinale a alternativa correta",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0137": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "No que dispõe a legislação sobre a investigação criminal, conduzida pelo delegado de polícia é CORRETO afirmar que:",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0138": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Marque a alternativa CORRETA.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Sobre a substituição das penas privativas de liberdade por penas restritivas de direitos e suspensão condicional da pena.",
+    "comando_original": "Marque a alternativa CORRETA.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0139": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "A frase “há sujeitos que têm uma menor possibilidade de autodeterminação, condicionados dessa maneira por causas sociais”, está ligada à:",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0144": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5529",
+        "familia": "5524",
+        "titulo": "Sentença do Júri",
+        "expressao": "sentenca do juiz presidente no tribunal do juri",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Segundo o Código de Processo Penal, quando a sentença do juiz-presidente no Tribunal do Júri for contrária à Lei expressa ou à decisão dos jurados, caberá:",
+    "familias": [
+      "5524"
+    ],
+    "foco": "Segundo o Código de Processo Penal, quando a sentença do juiz-presidente no Tribunal do Júri for contrária à Lei expressa ou à decisão dos jurados, caberá:",
+    "origem_leitura": "cobranca_final_do_enunciado",
+    "enunciado_original": "Segundo o Código de Processo Penal, quando a sentença do juiz-presidente no Tribunal do Júri for contrária à Lei expressa ou à decisão dos jurados, caberá:",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0147": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Sobre a investigação preliminar e os meios de obtenção de provas e/ou elementos de convicção cabíveis em sede processual penal, assinale a alternativa correta, de acordo com a lei.",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0150": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Analise as assertivas e assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "proposicoes_preservadas",
+    "enunciado_original": "Considerando o entendimento sumulado dos Tribunais Superiores, analise as assertivas abaixo e assinale a alternativa: I - A majorante do tráfico transnacional de drogas (art. 40, inciso I, da Lei n. 11.343/2006) configura-se com a prova da destinação internacional das drogas, ainda que não consumada a transposição de fronteiras. II - Para a incidência da majorante prevista no art. 40, inciso V, da Lei n. 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual. III - É cabível a aplicação retroativa da Lei n. 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei n. 6.368/1976, sendo vedada a combinação de leis. IV - A causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006 tem natureza objetiva, devendo haver portanto comprovação de mercancia a menos de duzentos metros da respectiva entidade de ensino.",
+    "comando_original": "Analise as assertivas e assinale a alternativa correta.",
+    "itens_preservados": [
+      "A majorante do tráfico transnacional de drogas (art. 40, inciso I, da Lei n. 11.343/2006) configura-se com a prova da destinação internacional das drogas, ainda que não consumada a transposição de fronteiras.",
+      "Para a incidência da majorante prevista no art. 40, inciso V, da Lei n. 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.",
+      "É cabível a aplicação retroativa da Lei n. 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei n. 6.368/1976, sendo vedada a combinação de leis.",
+      "A causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006 tem natureza objetiva, devendo haver portanto comprovação de mercancia a menos de duzentos metros da respectiva entidade de ensino."
+    ],
+    "vf_preservado": false
+  },
+  "Q0160": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Julgue o item subsequente, acerca do instituto da pena.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Julgue o item subsequente, acerca do instituto da pena. É inadmissível a substituição de pena privativa de liberdade por restritiva de direitos ao réu reincidente, ainda que a substituição seja socialmente recomendável e se trate de reincidência genérica.",
+    "comando_original": "Julgue o item subsequente, acerca do instituto da pena.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0167": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Acerca de desaforamento é incorreto afirmar:",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0169": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "A respeito das causas de impedimento e suspeição do juiz, de acordo com o Código de Processo Penal, assinale a alternativa correta.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0179": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Explique o que caracteriza a prevenção secundária do delito.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Ações como controle dos meios de comunicação e ordenação urbana, orientadas a determinados grupos ou subgrupos sociais, estão inseridas no âmbito da chamada prevenção secundária do delito.",
+    "comando_original": "Explique o que caracteriza a prevenção secundária do delito.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0186": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase sobre a valoração das condenações definitivas na primeira fase da dosimetria.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "No que concerne à fixação da pena-base, é certo que o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato delituoso e aspectos inerentes ao agente, obedecidos e sopesados todos os critérios legais para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para a reprovação do crime, sobrepujando as elementares comuns do próprio tipo legal. No Art. 59 do Código Penal, o legislador elencou oito circunstâncias judiciais para individualização da pena na primeira fase da dosimetria. Ao considerar desfavoráveis as circunstâncias judiciais, deve o julgador declinar, motivadamente, as suas razões, que devem corresponder objetivamente às características próprias do vetor desabonado. Nesse particular, as condenações definitivas, por fato anterior ao delito, transitadas em julgado no curso da ação penal, somente podem ser valoradas, na primeira fase da dosimetria, a título de:",
+    "comando_original": "Complete a frase sobre a valoração das condenações definitivas na primeira fase da dosimetria.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0188": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "familia": "5228",
+        "titulo": "Teoria do Crime: Ilicitude",
+        "expressao": "ofendiculo",
+        "tipo": "exclusao_e_ofendiculo",
+        "forca": 3.0
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase sobre a caracterização do ofendículo segundo a doutrina dominante.",
+    "familias": [
+      "5228"
+    ],
+    "foco": "Complete a frase sobre a caracterização do ofendículo segundo a doutrina dominante.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "Segundo sua classificação doutrinária dominante, o chamado ofendículo pode mais precisamente caracterizar situação de exclusão de",
+    "comando_original": "Complete a frase sobre a caracterização do ofendículo segundo a doutrina dominante.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0191": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Estas afirmações referem-se, respectivamente, a",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "proposicoes_preservadas",
+    "enunciado_original": "Considere as seguintes afirmações a respeito dos recursos no Código de Processo Penal: I. Recurso de caráter subsidiário, cabível de decisão que denegar recurso. II. Recurso pelo qual se procede ao reexame da decisão do juiz, nas matérias especificadas em lei, permitindo-se-lhe novo pronunciamento antes do julgamento pela instância superior.",
+    "comando_original": "Estas afirmações referem-se, respectivamente, a",
+    "itens_preservados": [
+      "Recurso de caráter subsidiário, cabível de decisão que denegar recurso.",
+      "Recurso pelo qual se procede ao reexame da decisão do juiz, nas matérias especificadas em lei, permitindo-se-lhe novo pronunciamento antes do julgamento pela instância superior."
+    ],
+    "vf_preservado": false
+  },
+  "Q0194": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Tício, funcionário público, convida Mévio, que trabalha em empresa privada, para ajudá-lo a subtrair um computador, pertencente à repartição, que se encontra na sala de trabalho de Tício, para seu uso diário, e que se acha sob sua guarda. Ciente da condição de funcionário público de Tício, Mévio ajuda-o a transportar esse bem até sua casa. Nessa situação hipotética, é correto afirmar-se que",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0201": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Acerca dessa situação hipotética, assinale a opção correta à luz da jurisprudência dominante, atualmente, no STF e no STJ.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "José, com trinta anos de idade, manteve, entre 2013 e 2015, relacionamento amoroso com uma menor que atualmente tem treze anos de idade. Nesse período, constantemente, José, praticava com ela conjunção carnal e outros atos libidinosos diversos. A mãe da menor descobriu o caso e denunciou José à polícia. A menor, em seu depoimento, afirmou que sempre consentiu com o namoro e com os atos sexuais praticados e que, da mesma forma, já havia namorado outros rapazes antes de José. Acerca dessa situação hipotética, assinale a opção correta à luz da jurisprudência dominante, atualmente, no STF e no STJ.",
+    "comando_original": "Acerca dessa situação hipotética, assinale a opção correta à luz da jurisprudência dominante, atualmente, no STF e no STJ.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0202": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "familia": "5218",
+        "titulo": "Teoria do Crime: Fato Típico",
+        "expressao": "nao sabia",
+        "tipo": "erro_sobre_circunstancia_fatica",
+        "forca": 3.0
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Diante da situação hipotética e considerando que Tício também não sabia da menoridade da pessoa contratada,",
+    "familias": [
+      "5218"
+    ],
+    "foco": "Diante da situação hipotética e considerando que Tício também não sabia da menoridade da pessoa contratada,",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "Tício e Mévio são amigos, desde a infância. Enquanto Tício tem facilidade para se relacionar, Mévio é tímido, nunca tendo se relacionado. No aniversário de Mévio, Tício decide contratar uma profissional do sexo. Contudo, ele pede para a moça não contar nada ao amigo e, simula um encontro fortuito, dos dois, em um bar. O plano de Tício dá certo. Mévio e a moça contratada passam a noite juntos, no quarto de um flat, onde ela disse residir. Pela manhã, contudo, Mévio é acordado, por policiais, em uma operação de combate à exploração sexual de criança e adolescente, sendo acusado de manter relação sexual com menor de 18 anos, em situação de prostituição (art. 218, B, parágrafo 2º, inciso I, do CP), já que a moça conta com apenas 17 anos de idade.",
+    "comando_original": "Diante da situação hipotética e considerando que Tício também não sabia da menoridade da pessoa contratada,",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0208": {
+    "forte": false,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5072",
+        "familia": "5071",
+        "titulo": "Autores e Partícipes",
+        "expressao": "autor de homicidio e carlo figurou como participe",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      },
+      {
+        "tema_titulo_id": "5150",
+        "familia": "5149",
+        "titulo": "Homicídio",
+        "expressao": "homicidio",
+        "forca": 2,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Lucas foi o autor de homicídio e Carlos figurou como partícipe do crime",
+    "familias": [
+      "5071",
+      "5149"
+    ],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Lucas foi denunciado por infringir o art. 121, § 2.º, inciso II (homicídio qualificado por motivo fútil), do CP, por ter disparado arma de fogo contra Mauro, levando-o a óbito. Na denúncia, consta que Lucas e seu irmão Carlos estavam em um bar na comarca de Pacajus, onde, em dado momento, Carlos discutiu com Mauro. A discussão acabou resultando em luta corporal. O dono do bar afirmou que a discussão se deu porque Carlos se recusou a pagar uma bebida para Mauro; Lucas acudiu o irmão e Mauro, estando sozinho, foi embora, mas retornou, minutos depois, com uma faca do tipo peixeira na mão. O dono do bar afirmou que chegou a trancar a porta, tentando evitar a tragédia, mas a vítima conseguiu arrombá-la, entrou no bar e partiu para cima de Carlos com a peixeira em riste. O depoente viu que Lucas sacou um revólver e atirou duas vezes, atingindo Mauro na altura do tórax. Vendo-o caído, Lucas fugiu do local e escondeu-se em uma mata, onde foi encontrado doze horas depois, ainda com a arma do crime. A vítima foi socorrida no hospital municipal e, no dia seguinte, foi transferida para o Hospital Geral de Fortaleza, onde, devido à gravidade dos ferimentos, faleceu depois de ser submetida a cirurgia. Considerando a situação hipotética acima descrita, julgue os itens subseqüentes.",
+    "comando_original": "Lucas foi o autor de homicídio e Carlos figurou como partícipe do crime",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0215": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "familia": "5199",
+        "titulo": "Teoria da Pena",
+        "expressao": "regime inicial de cumprimento",
+        "tipo": "regime_de_cumprimento",
+        "forca": 3.0
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "O regime inicial de cumprimento da pena será o",
+    "familias": [
+      "5199"
+    ],
+    "foco": "O regime inicial de cumprimento da pena será o",
+    "origem_leitura": "cobranca_final_do_enunciado",
+    "enunciado_original": "Leia o caso a seguir. Um homem é réu primário e é condenado por crime cometido com violência à pessoa, fixando o juiz a pena-base no mínimo legal, que é de 6 (seis) anos de reclusão. Elaborado pelo(a) autor(a). O regime inicial de cumprimento da pena será o",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0216": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "assinale a opção correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Considerando o sistema de juizados especiais criminais, previsto na Lei n.° 9.099/1995, e a jurisprudência do STJ e STF sobre a matéria,",
+    "comando_original": "assinale a opção correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0221": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5184",
+        "familia": "5184",
+        "titulo": "Medida de Segurança",
+        "expressao": "medida de seguranca",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "A respeito das penas e das medidas de segurança, assinale a opção correta.",
+    "familias": [
+      "5184"
+    ],
+    "foco": "A respeito das penas e das medidas de segurança, assinale a opção correta.",
+    "origem_leitura": "cobranca_final_do_enunciado",
+    "enunciado_original": "A respeito das penas e das medidas de segurança, assinale a opção correta.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0226": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa INCORRETA.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "A lei nº 13.964/19, popularmente conhecida como Pacote Anticrime, introduziu no Código de Processo Penal disciplina acerca do procedimento da cadeia de custódia. De acordo com o que dispõe o código, assinale a alternativa INCORRETA.",
+    "comando_original": "Assinale a alternativa INCORRETA.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0230": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Assinale a opção correta em relação às causas de exclusão de culpabilidade, ao concurso de pessoas, às finalidades das penas e às medidas de segurança.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0231": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Aquele que pratica conduta descrita no tipo penal do delito de tráfico de drogas, mas em erro sobre elemento constitutivo do tipo, ou seja, em hipótese de erro de tipo essencial poderá",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0240": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5473",
+        "familia": "5466",
+        "titulo": "Denúncia",
+        "expressao": "denuncia",
+        "forca": 2,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Considerando o prazo legal para o promotor oferecer a denúncia, calcule o prazo total desde a prisão até a oferta da denúncia contra Pedro.",
+    "familias": [
+      "5466"
+    ],
+    "foco": "Considerando o prazo legal para o promotor oferecer a denúncia, calcule o prazo total desde a prisão até a oferta da denúncia contra Pedro.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "Pedro, que estava indiciado por crime de roubo, teve sua prisão decretada pelo juiz da comarca de Miracema-RJ em 08 de agosto de 2011, uma segunda-feira, sendo preso provisoriamente no mesmo dia, enquanto ainda estava sendo investigado. Terminado o inquérito, o delegado, no último dia do prazo determinado em lei, fez logo cedo a remessa a juízo. O juiz, no mesmo dia em que recebeu os autos, tendo-se em conta que era um dia útil, deu vista pessoal ao promotor. Considerando-se o prazo legal que o promotor tem para oferecer a denúncia e que esse prazo venceria em um dia útil, o trâmite do inquérito, o prazo utilizado pelo delegado, o recebimento e a vista do inquérito pelo promotor e a denúncia contra Pedro, somando-se todos esses atos e prazos, desde a prisão, teria que ser oferecida em:",
+    "comando_original": "Considerando o prazo legal para o promotor oferecer a denúncia, calcule o prazo total desde a prisão até a oferta da denúncia contra Pedro.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0244": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "O agente que exigir vantagem indevida, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, responderá pelo crime de:",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0245": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Assinale a opção correta a respeito da prescrição.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0246": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "No procedimento do júri, presentes indícios da autoria e prova da materialidade, se ao término da instrução do sumário de culpa ficar provado tecnicamente que o acusado é semi-imputável, o juiz deverá:",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0249": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Processo Penal",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "O Estatuto Processual Penal prevê que o juiz não poderá exercer jurisdição no processo em que: a) tiver funcionado seu cônjuge ou parente, consanguíneo ou afim, em linha reta ou colateral até o terceiro grau, inclusive, como defensor ou advogado, órgão do Ministério Público, autoridade policial, auxiliar da justiça ou perito; b) ele próprio houver desempenhado qualquer dessas funções ou servido como testemunha; c) tiver funcionado como juiz de outra instância, pronunciando-se, de fato ou de direito, sobre a questão; d) ele próprio ou seu cônjuge ou parente, consanguíneo ou afim em linha reta ou colateral até o terceiro grau, inclusive, for parte ou diretamente interessado no feito. Nos juízos coletivos, não poderão servir no mesmo processo os juízes que forem entre si parentes, consanguíneos ou afins, em linha reta ou colateral até o terceiro grau, inclusive.",
+    "comando_original": "Processo Penal",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0251": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Quais são corretas?",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "proposicoes_preservadas",
+    "enunciado_original": "Considere as assertivas abaixo sobre extinção da puni bilidade. I - É taxativo o rol das causas de extinção de punibilidade previsto no art. 107 do Código Penal. II - A anistia e o indulto se referem a fatos e pessoas determinados, respectivamente. III - A perda do direito de punir do Estado pelo não exercício em determinado lapso de tempo é causa de extinção da punibilidade.",
+    "comando_original": "Quais são corretas?",
+    "itens_preservados": [
+      "É taxativo o rol das causas de extinção de punibilidade previsto no art. 107 do Código Penal.",
+      "A anistia e o indulto se referem a fatos e pessoas determinados, respectivamente.",
+      "A perda do direito de punir do Estado pelo não exercício em determinado lapso de tempo é causa de extinção da punibilidade."
+    ],
+    "vf_preservado": false
+  },
+  "Q0252": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inicial semiaberto e, ainda, ao pagamento de cinquenta dias-multa, fixado o valor de um vinte avos do salário mínimo vigente. Nessa situação hipotética, conforme o CPP,",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0253": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase com a afirmação correta sobre as Escolas Penais.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "No que concerne às Escolas Penais, é correto afirmar que a",
+    "comando_original": "Complete a frase com a afirmação correta sobre as Escolas Penais.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0259": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase com o princípio aplicável.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "O crime de dano (CP, art. 163), norma menos grave, funciona como elemento do crime de furto qualificado pelo rompimento de obstáculo à subtração da coisa (CP, art. 155, § 4.º, inciso I). Nesta hipótese, o crime de dano é excluído pela norma mais grave, em função do princípio da",
+    "comando_original": "Complete a frase com o princípio aplicável.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0265": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5066",
+        "familia": "5066",
+        "titulo": "Concurso de Crimes",
+        "expressao": "concurso de crime",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Explique como a prescrição incide sobre a pena em caso de concurso de crimes.",
+    "familias": [
+      "5066"
+    ],
+    "foco": "Explique como a prescrição incide sobre a pena em caso de concurso de crimes.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "Na hipótese de concurso de crimes, a extinção da punibilidade pela prescrição incidirá sobre a pena cominada por cada crime, isoladamente.",
+    "comando_original": "Explique como a prescrição incide sobre a pena em caso de concurso de crimes.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0274": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Tendo como referência a jurisprudência sumulada dos tribunais superiores, julgue o item a seguir, acerca de crimes, penas, imputabilidade penal, aplicação da lei penal e institutos. Na hipótese de tentativa de subtração patrimonial e morte consumada, o agente responderá pelo crime de latrocínio consumado.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0275": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [
+      "lei:9099/1995"
+    ],
+    "comando": "Complete a frase conforme a Lei nº 9.099/1995.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "O Ministério Público ofereceu denúncia em face de Tício, pela suposta prática de infração penal de menor potencial ofensivo. Nesse cenário, considerando as disposições da Lei nº 9.099/1995, caso Tício não seja encontrado para ser citado, o juiz:",
+    "comando_original": "Complete a frase conforme a Lei nº 9.099/1995.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0276": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Sobre as provas no processo penal, é correto:",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0277": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "NÃO configura crime contra idoso:",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0279": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Um indivíduo de dezenove anos de idade, livre, consciente e capaz, dirigiu-se a uma joalheria com a intenção de praticar furto. Na loja, passou-se por cliente e pediu a uma vendedora para ver algumas peças. Enquanto via as joias, aproveitando-se de um descuido da vendedora, o indivíduo colocou um colar de ouro em seu bolso e, em seguida, saiu da loja, sem nada ter comprado. Trinta minutos depois, ele retornou à loja e devolveu a joia, incentivado por sua mãe. Apesar disso, o gerente, representando a joalheria, decidiu registrar boletim de ocorrência sobre o fato em uma delegacia de polícia, e o homem foi indiciado por furto simples. Após o término do inquérito policial, o Ministério Público denunciou o acusado por furto simples. A denúncia foi recebida pelo juízo competente quatro anos e seis meses depois da prática do delito, com a determinação da citação do acusado. Nesse caso, é possível o reconhecimento de",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0286": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "No cálculo da pena:",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "No cálculo da pena:",
+    "comando_original": "No cálculo da pena:",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0290": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "4701",
+        "familia": "4701",
+        "titulo": "Juizado Especial Criminal",
+        "expressao": "juizado especial criminal",
+        "forca": 4,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "No que diz respeito ao preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais, assinale a alternativa incorreta.",
+    "familias": [
+      "4701"
+    ],
+    "foco": "No que diz respeito ao preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais, assinale a alternativa incorreta.",
+    "origem_leitura": "cobranca_final_do_enunciado",
+    "enunciado_original": "No que diz respeito ao preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais, assinale a alternativa incorreta.",
+    "comando_original": "Assinale a alternativa incorreta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0291": {
+    "forte": false,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "4708",
+        "familia": "4708",
+        "titulo": "Tráfico de Drogas",
+        "expressao": "trafico de droga",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      },
+      {
+        "tema_titulo_id": "5498",
+        "familia": "5498",
+        "titulo": "Inquérito Policial",
+        "expressao": "inquerito policial",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      },
+      {
+        "tema_titulo_id": "6728",
+        "familia": "6728",
+        "titulo": "Tráfico de Drogas",
+        "expressao": "trafico de droga",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Explique os prazos para a conclusão do inquérito policial em crimes relativos ao tráfico de drogas.",
+    "familias": [
+      "4708",
+      "5498",
+      "6728"
+    ],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Quando se tratar de crimes relativos ao tráfico de drogas, o prazo para a conclusão do inquérito policial é de 30 dias, se o indiciado estiver preso e de 90 dias, se estiver solto, podendo ser duplicados, mediante pedido justificado da autoridade de polícia judiciária.",
+    "comando_original": "Explique os prazos para a conclusão do inquérito policial em crimes relativos ao tráfico de drogas.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0303": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a opção correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Com relação à aplicação da lei penal, assinale a opção correta.",
+    "comando_original": "Assinale a opção correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0304": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Em matéria de competência dos Juizados Especiais Criminais, de acordo com a Jurisprudência do Supremo Tribunal Federal,",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0308": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Inquérito policial arquivado pelo Ministério Público por ausência de elementos suficientes de informação importa",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0311": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Considere que um oficial de justiça não tenha localizado o réu, para realizar a citação pessoal na ação penal, no endereço que constava dos autos. Nesse caso,",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0313": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "familia": "5199",
+        "titulo": "Teoria da Pena",
+        "expressao": "efeito generico da condenacao",
+        "tipo": "efeitos_da_condenacao",
+        "forca": 3.0
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Explique o efeito genérico da condenação no que se refere à obrigação de reparar o dano.",
+    "familias": [
+      "5199"
+    ],
+    "foco": "Explique o efeito genérico da condenação no que se refere à obrigação de reparar o dano.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "A condenação tem como efeito genérico tornar certa a obrigação de reparar o dano. Esse efeito é automático, não precisa ser expressamente pronunciado pelo juiz na sentença condenatória e destina-se a formar título executivo judicial para a propositura de ação civil ex delicto.",
+    "comando_original": "Explique o efeito genérico da condenação no que se refere à obrigação de reparar o dano.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0314": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5477",
+        "familia": "5476",
+        "titulo": "Habeas Corpus",
+        "expressao": "habea corpu",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase sobre o habeas corpus.",
+    "familias": [
+      "5476"
+    ],
+    "foco": "Complete a frase sobre o habeas corpus.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "O habeas corpus é",
+    "comando_original": "Complete a frase sobre o habeas corpus.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0315": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Considerando os dados apresentados, analise a prescrição aplicável ao caso de Paulo.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Paulo, nascido em 15/8/1996, foi denunciado em 24/5/2020, pela prática do crime de roubo majorado tentado, que teria sido praticado em 7/4/2016. Recebida a denúncia em 30/5/2020, Paulo foi condenado a uma pena de 2 anos e 9 meses pela prática delitiva em 20/10/2021, tendo a condenação transitado em julgado em 1/12/2021. Nessa situação, a prescrição, segundo a jurisprudência atual do STF,",
+    "comando_original": "Considerando os dados apresentados, analise a prescrição aplicável ao caso de Paulo.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0316": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [
+      [
+        "cp",
+        "20"
+      ]
+    ],
+    "normas_compartilhadas": [],
+    "comando": "Explique como o ordenamento jurídico brasileiro resolve essa situação segundo o artigo 20, § 3º, do Código Penal.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Considere a seguinte situação: A, que acabara de ter um filho, que morre logo a seguir, sob a influência do estado puerperal, vai ao berçário e, por erro, já que acreditava tratar-se de seu próprio filho que não sabia estar morto, mata criança diversa. Dispõe o artigo 20, § 3º, do Código Penal, que, em tal caso, não se consideram as condições ou qualidades da vítima, senão as da pessoa contra quem o agente queria praticar o crime. A questão é, então, no ordenamento pátrio, resolvida:",
+    "comando_original": "Explique como o ordenamento jurídico brasileiro resolve essa situação segundo o artigo 20, § 3º, do Código Penal.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0319": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5073",
+        "familia": "5071",
+        "titulo": "Autoria Mediata, Colateral e Coautoria",
+        "expressao": "coautoria",
+        "forca": 2,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase indicando em quais crimes a coautoria é impossível.",
+    "familias": [
+      "5071"
+    ],
+    "foco": "Complete a frase indicando em quais crimes a coautoria é impossível.",
+    "origem_leitura": "proposicoes_preservadas",
+    "enunciado_original": "A coautoria é impossível nos crimes: I. Culposos; II. Unissubsistentes; III. Habitual ou de mera conduta.",
+    "comando_original": "Complete a frase indicando em quais crimes a coautoria é impossível.",
+    "itens_preservados": [
+      "Culposos;",
+      "Unissubsistentes;",
+      "Habitual ou de mera conduta."
+    ],
+    "vf_preservado": false
+  },
+  "Q0320": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "familia": "5543",
+        "titulo": "Provas em Espécies",
+        "expressao": "especies de testemunhas",
+        "tipo": "especies_de_testemunhas",
+        "forca": 3.0
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "O Direito Processual Penal, doutrinariamente, elenca as espécies de testemunhas. Dentre elas há a chamada testemunha fedatária.",
+    "familias": [
+      "5543"
+    ],
+    "foco": "O Direito Processual Penal, doutrinariamente, elenca as espécies de testemunhas. Dentre elas há a chamada testemunha fedatária.",
+    "origem_leitura": "retomada_do_enunciado",
+    "enunciado_original": "O Direito Processual Penal, doutrinariamente, elenca as espécies de testemunhas. Dentre elas há a chamada testemunha fedatária.",
+    "comando_original": "Marque abaixo a sentença CORRETA acerca da referida espécie",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0323": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a opção correta",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Acerca de provas, instrumentos legais de obtenção de prova e procedimento probatório, assinale a opção correta",
+    "comando_original": "Assinale a opção correta",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0324": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Analisando as proposições, pode-se afirmar:",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "proposicoes_preservadas",
+    "enunciado_original": "É certo afirmar: I. A pena de prisão simples deve ser cumprida, sem rigor penitenciário, em estabelecimento especial ou seção especial de prisão comum, em regime semiaberto ou aberto. II. As penas acessórias previstas no Código Penal são a perda da função pública eletiva ou de nomeação, as interdições de direitos e a publicidade da sentença. III. No caso da semi-imputabilidade, a periculosidade é presumida a partir da verificação, por meio da realização de exame pericial, do estado de doença ou perturbação mental, bem como de desenvolvimento mental incompleto ou retardado do indivíduo no instante da prática do fato delituoso. Nesse caso, o juiz pode aplicar medida de segurança, devendo fundamentar a sua decisão demonstrando a existência da periculosidade. IV. O trabalho do preso será remunerado, não podendo ser inferior a três quartos do salário mínimo, estando sujeito ao regime da Consolidação das Leis do Trabalho.",
+    "comando_original": "Analisando as proposições, pode-se afirmar:",
+    "itens_preservados": [
+      "A pena de prisão simples deve ser cumprida, sem rigor penitenciário, em estabelecimento especial ou seção especial de prisão comum, em regime semiaberto ou aberto.",
+      "As penas acessórias previstas no Código Penal são a perda da função pública eletiva ou de nomeação, as interdições de direitos e a publicidade da sentença.",
+      "No caso da semi-imputabilidade, a periculosidade é presumida a partir da verificação, por meio da realização de exame pericial, do estado de doença ou perturbação mental, bem como de desenvolvimento mental incompleto ou retardado do indivíduo no instante da prática do fato delituoso. Nesse caso, o juiz pode aplicar medida de segurança, devendo fundamentar a sua decisão demonstrando a existência da periculosidade.",
+      "O trabalho do preso será remunerado, não podendo ser inferior a três quartos do salário mínimo, estando sujeito ao regime da Consolidação das Leis do Trabalho."
+    ],
+    "vf_preservado": false
+  },
+  "Q0325": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Considerando as afirmativas abaixo, é CORRETO afirmar que:",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0336": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Em 05 de junho de 2022, Mariana entrou em um restaurante estilo “self-service” e apoiou sua bolsa em uma cadeira. Enquanto conversava distraidamente com seu marido, José, Mariana esqueceu sua bolsa aberta. Diogo, outro cliente que estava no estabelecimento, terminou o almoço, levantou-se de onde estava sentado e foi em direção ao caixa para efetuar o pagamento da conta. Nesse momento, Diogo percebeu a bolsa de Mariana aberta e, sorrateiramente, pegou o aparelho celular dela. Logo em seguida, Mariana e José deram falta do aparelho e iniciaram a procura no local, tendo José visto Diogo na fila do caixa com o celular de Mariana. Imediatamente, José interpelou Diogo e restou comprovado que se tratava realmente do celular de Mariana. De acordo com jurisprudência consolidada dos Tribunais Superiores, em relação à conduta de Diogo, pode-se afirmar que",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0338": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Assinale a alternativa correta.",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Com relação às regras de provas do Código de Processo Penal, é correto afirmar que:",
+    "comando_original": "Assinale a alternativa correta.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0339": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Assinale a alternativa correta.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0341": {
+    "forte": true,
+    "origem": "expressao_contextual_v24",
+    "hits": [
+      {
+        "tema_titulo_id": "5157",
+        "familia": "5157",
+        "titulo": "Dos Crimes Contra o Patrimônio",
+        "expressao": "contra o patrimonio",
+        "forca": 3,
+        "tipo": "titulo_especifico"
+      }
+    ],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "Complete a frase sobre os crimes contra o patrimônio.",
+    "familias": [
+      "5157"
+    ],
+    "foco": "Complete a frase sobre os crimes contra o patrimônio.",
+    "origem_leitura": "comando_especifico",
+    "enunciado_original": "Quanto aos crimes contra o patrimônio, possível assegurar que",
+    "comando_original": "Complete a frase sobre os crimes contra o patrimônio.",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0345": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "enunciado_alternativas_sem_comando_especifico",
+    "enunciado_original": "Antônio, professor respeitado na escola, ofereceu carona à sua aluna Lívia, adolescente de 13 anos, que aceitou a oferta. Ainda no estacionamento da escola, Antônio acariciou os seios da aluna, beijou-a na boca e, enquanto se despia, foi surpreendido pela diretora da escola, que bateu na janela do carro interrompendo a ação, e em seguida, chamou a Polícia. A respeito da adequação típica da conduta e da incidência da agravante prevista no Art. 61, inciso II, alínea f, do Código Penal (Art. 61. São circunstâncias que sempre agravam a pena, quando não constituem ou qualificam o crime: II - ter o agente cometido o crime: f) com abuso de autoridade ou prevalecendo-se de relações domésticas, de coabitação ou de hospitalidade, ou com violência contra a mulher na forma da lei específica) e da causa de aumento, prevista no Art. 226, inciso II do Código Penal (Art. 226. A pena é aumentada: II - de metade, se o agente é ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou por qualquer outro título tiver autoridade sobre ela), à luz do entendimento do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": false
+  },
+  "Q0356": {
+    "forte": false,
+    "origem": "sem_identificador_especifico",
+    "hits": [],
+    "artigos_compartilhados": [],
+    "normas_compartilhadas": [],
+    "comando": "",
+    "familias": [],
+    "foco": "",
+    "origem_leitura": "proposicoes_preservadas",
+    "enunciado_original": "O concurso de crimes é o instituto que se verifica quando o agente, mediante uma ou várias condutas, pratica duas ou mais infrações penais. Com base nesse assunto, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. ( ) O concurso material, também chamado de real, é aquele em que o agente, mediante uma única conduta, pratica dois ou mais crimes, idênticos ou não. ( ) No concurso material, há pluralidade de condutas e pluralidade de resultados. ( ) No que diz respeito ao concurso formal impróprio ou imperfeito, tal como no concurso material, serão somadas as penas de todos os crimes praticados pelo agente. ( ) De acordo com o Código Penal brasileiro, no concurso de crimes, as penas de multa são aplicadas distinta e integralmente para cada crime.",
+    "comando_original": "",
+    "itens_preservados": [],
+    "vf_preservado": true
+  }
+}

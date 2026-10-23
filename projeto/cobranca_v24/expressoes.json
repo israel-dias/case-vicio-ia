@@ -1,0 +1,13 @@
+{
+  "versao": "v24_1",
+  "origem": "Expressões propostas a partir dos títulos e descrições preparados do catálogo e do diagnóstico exposto. Não são gabaritos ou exceções por questão. Os escopos não possuem homologação jurídica independente.",
+  "regras": [
+    {"nome": "regime_de_cumprimento", "familia": "5199", "padrao": "\\bregime(?:s)? (?:inicial(?: de cumprimento)?|de cumprimento|prisional|penitenciario)\\b", "apoio": "\\b(?:pena|reclusao|detencao|fechado|semiaberto|aberto)\\b"},
+    {"nome": "efeitos_da_condenacao", "familia": "5199", "padrao": "\\befeito(?:s)?(?: (?:generico|genericos|penal|penais|extrapenal|extrapenais))? da condenacao\\b", "apoio": ""},
+    {"nome": "especies_de_testemunhas", "familia": "5543", "padrao": "\\b(?:especies? de testemunhas?|testemunha fedataria|prova testemunhal)\\b", "apoio": ""},
+    {"nome": "restricao_ao_julgador", "familia": "5490", "padrao": "\\bjuiz nao podera exercer jurisdicao\\b", "apoio": "\\b(?:parente|conjuge|testemunha|funcoes|interessado)\\b"},
+    {"nome": "exclusao_e_ofendiculo", "familia": "5228", "padrao": "\\bofendiculo\\b", "apoio": "\\b(?:exclusao|ilicitude|antijuridicidade)\\b"},
+    {"nome": "erro_sobre_circunstancia_fatica", "familia": "5218", "padrao": "\\b(?:nao sabia|nao tinha conhecimento|sem saber|desconhecia)\\b", "apoio": "\\b(?:menoridade|idade da vitima|condicao da vitima|elementar|circunstancia do fato)\\b", "consequencia": "\\b(?:atipica|tipica|dolo|culpa|culposa|punida|punivel)\\b"}
+  ],
+  "normas_e_atos": "Reutiliza os intervalos versionados existentes. Exige citação contextualizada e ato compatível no mesmo trecho; CP/CPP ou número de artigo isolados não ativam a prioridade."
+}

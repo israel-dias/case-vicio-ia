@@ -1,0 +1,12 @@
+{
+  "familias_ativas": 109,
+  "familias_representadas_por_central_ou_extra": 45,
+  "familias_sem_exemplo_entre_100": 64,
+  "familias_com_so_um_exemplo": 18,
+  "questoes_fora": 8,
+  "erros_top1_com_tema": 18,
+  "erros_sem_tema_aceito_no_top5": [
+    "Q0249"
+  ],
+  "acertos_corretas_no_top5": 17
+}

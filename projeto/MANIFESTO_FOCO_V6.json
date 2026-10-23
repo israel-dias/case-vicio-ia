@@ -1,0 +1,23 @@
+{
+  "README_FOCO_REFERENCIAL_V6.md": "bedafaeb90627cdd9c92e11c95af10a7ec99f1a219606648bfc14660789656ff",
+  "avaliar_foco_referencial_v6.py": "addeb7dd0aaf1de58863d45cd9e7e23ecc28f30041ce18935c4a08233f0d155b",
+  "experimentos/foco_referencial_v6_001/ANALISE.md": "3296bca35fc0215177d593836b68cfc5aee95978a1469dc0939de54d221483e0",
+  "experimentos/foco_referencial_v6_001/diagnostico_100.csv": "eace338529b865d1e46b7dbe83aa7a97fcea5012fd3752f21a31983ef31342a1",
+  "experimentos/foco_referencial_v6_001/extracoes_659.json": "0e48945bb2926459486e474877916b696159170be625a3bc6c8423463b0519b1",
+  "experimentos/foco_referencial_v6_001/folds/fold_1.json": "0ef63fbcb0f3eebe3168d822d965d8da0fc7067ac38ea47cf22c497b1597f1e4",
+  "experimentos/foco_referencial_v6_001/folds/fold_2.json": "edd088ffe76c942eeeeb6642ec8946bcaae805a4307793147ea4ef86a0bc68e9",
+  "experimentos/foco_referencial_v6_001/folds/fold_3.json": "7a8ebd3026dcc74254bdc8ffd20c2570802fccfbbced57e9e822ce9cff974811",
+  "experimentos/foco_referencial_v6_001/folds/fold_4.json": "9ab23bb0816aa89901a3ceb4fdda0f64967767dbf2e46cf3bbe26905e6944a3c",
+  "experimentos/foco_referencial_v6_001/folds/fold_5.json": "2209ae808e66efdb75aac2dab7c58b4c82e5a2d87664c67029a4124a5434c409",
+  "experimentos/foco_referencial_v6_001/liberacao_absoluta_100.json": "ac745f805435448eccc05e1511de2042a0bfc0e2a0c68d2d33a5c9b92b970602",
+  "experimentos/foco_referencial_v6_001/liberacao_absoluta_com_controle.json": "944e3dbf651dce0b32cf2a3f70fb260f9dafecc1c03134ca1a742616cc2dd172",
+  "experimentos/foco_referencial_v6_001/modelos_diagnosticos.json": "798be433105db7e76729f30b6f8342575d02ace3cc39c81bae26c2225848e656",
+  "experimentos/foco_referencial_v6_001/previsoes_foco_exclusivo.csv": "03431913021a85da1e0093a8939591e7ac085009e940bd679812b0bf438eeb91",
+  "experimentos/foco_referencial_v6_001/previsoes_foco_ponderado.csv": "f09babd7df85d753f0261b500b6cf285317179079f781707991e4dd48a28cdc7",
+  "experimentos/foco_referencial_v6_001/protocolo_previo.json": "fcdfad0f3031da380bdd256afca015cb4a48654d0b98803b4f06f221387fd13a",
+  "experimentos/foco_referencial_v6_001/resumo.json": "8dbfbc5e4db246faaeb3bf59893b2c5afba1cd51d1a1adf941e7cc75865275f2",
+  "experimentos/foco_referencial_v6_001/simulacoes_559.csv": "8565062128e9c61950007e2f30f7c1a4091c54324fca3328e743846a48d35ce8",
+  "foco_referencial_v6/experimento.py": "e2beb794fd0e5d7d4c7370d75a70231bddbc926e740feddfcbb9466e62c83969",
+  "foco_referencial_v6/extracao.py": "c39c50859a9746d601fa8ffc363f444fcbdfa9c4fca169a54aae4d4ba658e017",
+  "foco_referencial_v6/tests/test_extracao.py": "e3abcdd2cd2e0cf921d4038bca0520c1849735f2528d8c00d90e9f50a4b935f9"
+}

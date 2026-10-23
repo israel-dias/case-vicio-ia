@@ -1,0 +1,3188 @@
+[
+  {
+    "id": "Q0049",
+    "variante": "sem_palavra_completo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0049",
+      "tema_central_id": "5149",
+      "sinal": 28.728652358762677,
+      "elegivel": true,
+      "confianca": 0.9405209896341898,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0049",
+      "tema_central_id": "5149",
+      "sinal": 26.208431094182146,
+      "elegivel": true,
+      "confianca": 0.9222225258334531,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_palavra_completo"
+    },
+    "questao": {
+      "id": "Q0049",
+      "enunciado_html": "Mévia e Tício foram namorados, por 5 anos. Mévia terminou a relação, por ter conhecido e se apaixonado por outra pessoa. Tício não se conformava com o término e, diagnosticado com depressão, todos os dias, durante meses, mandava mensagem para Mévia, dizendo que a vida sem ela perdera a graça. Mévia, sabendo da condição de saúde mental de Tício, manteve-se silente durante todo o tempo. Mas, um dia, irritada com as mensagens, que estavam causando instabilidade em seu atual relacionamento, Mévia envia a Tício a seguinte resposta: “se a vida perdeu a graça, de que vale viver? Seja homem ao menos uma vez! Coloque fim em seu sofrimento e pare de me infernizar! Eu até vou a seu enterro e faço uma homenagem póstuma!” Tício visualizou a mensagem, respondendo com “Ok”. Passados dois dias, Tício se joga da janela do prédio de sua casa. Por sorte, Tício cai em cima da carroceria de um caminhão, lotado de colchão, que passava na rua no exato momento da queda. Tício não sofreu qualquer lesão. Diante da situação hipotética, assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza grave.",
+        "B": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, que\nse configura com a conduta de induzir, instigar ou\nauxiliar, independentemente do resultado.",
+        "C": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nmodalidade tentada, vez que a morte não se concretizou, por circunstância alheia a sua vontade.",
+        "D": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza leve.",
+        "E": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nfigura qualificada, dada a relação afetiva, entre a vítima e o autor."
+      },
+      "disciplina_origem": "Penal",
+      "assunto_origem": "Tipicidade, Crimes contra a vida"
+    },
+    "oficial": {
+      "id": "Q0049",
+      "tema_central_id": "5152",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",
+      "extras_ids": "5149",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0060",
+    "variante": "sem_palavra_completo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "sinal": 12.947348335545602,
+      "elegivel": true,
+      "confianca": 0.7932387864624866,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "sinal": 12.934853544822245,
+      "elegivel": true,
+      "confianca": 0.7875044528697566,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_palavra_completo"
+    },
+    "questao": {
+      "id": "Q0060",
+      "enunciado_html": "A respeito dos crimes praticados em detrimento da administração pública, assinale a alternativa correta.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": " São crimes próprios de funcionários públicos o de\\nconcussão, o de peculato e o de tráfico de influência. ",
+        "B": " O crime de facilitação de contrabando ou descaminho pode ser praticado por particular, individualmente ou em concurso de agentes com o funcionário\\npúblico. ",
+        "C": " O crime de advocacia administrativa, para restar caracterizado, exige a qualidade de advogado do sujeito ativo. ",
+        "D": " No crime de corrupção ativa, incidirá causa de aumento da pena ao sujeito ativo, na hipótese de o funcionário omitir ou retardar ato de ofício. ",
+        "E": " O funcionário público que, por recebimento de vantagem ilícita, de qualquer natureza, deixa de responsabilizar subordinado que praticou ato ilícito comete\\ncrime de condescendência criminosa.  "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Corrupção ativa"
+    },
+    "oficial": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Administração Pública",
+      "extras_ids": "5093",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0124",
+    "variante": "sem_palavra_completo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "sinal": 12.061698554540563,
+      "elegivel": true,
+      "confianca": 0.7798992696106424,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "sinal": 13.119016071762504,
+      "elegivel": true,
+      "confianca": 0.7901920948955856,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_palavra_completo"
+    },
+    "questao": {
+      "id": "Q0124",
+      "enunciado_html": "À luz das teorias das penas, julgue os seguintes itens.<br><br>I Kant, que era adepto da teoria absoluta da pena, asseverava que, ainda que a sociedade civil acordasse em se dissolver, o último assassino que estivesse no cárcere deveria ser executado, a fim de que cada um sofresse o que efetivamente merecia por seus feitos.<br><br>II Para Hegel, a justiça da pena concreta decorre de um processo dialético, pelo qual se levam em conta as características da lesão concreta assim como as circunstâncias da sociedade civil.<br><br>III Segundo Roxin, a idéia de retribuição compensadora somente é plausível mediante um ato de fé, pois não há como se compreender, de forma racional, como apagar um mal cometido pelo sujeito ativo do crime com um outro mal, isto é, o sofrimento da pena.<br><br>IV Para Binding, a finalidade da pena é mostrar ao delinqüente sua impotência diante da lei, submetendo-lhe, assim, à força vitoriosa do direito.<br><br>V De acordo com as teorias relativas da pena, esta se justifica para a prevenção geral e especial do delito, partindo-se de uma concepção utilitarista da pena.",
+      "comando": "A quantidade de itens certos é igual a",
+      "alternativas": {
+        "A": "1. ",
+        "B": "2. ",
+        "C": "3. ",
+        "D": "4. ",
+        "E": "5. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Legitimidoras da Pena"
+    },
+    "oficial": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "tema_central_caminho": "Criminologia > Teorias Legitimidoras da Pena",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0194",
+    "variante": "sem_palavra_completo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "sinal": 10.896348765712926,
+      "elegivel": true,
+      "confianca": 0.7614232422021496,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "sinal": 10.394738496839258,
+      "elegivel": true,
+      "confianca": 0.747890217721737,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_palavra_completo"
+    },
+    "questao": {
+      "id": "Q0194",
+      "enunciado_html": "Tício, funcionário público, convida Mévio, que trabalha em empresa privada, para ajudá-lo a subtrair um computador, pertencente à repartição, que se encontra na sala de trabalho de Tício, para seu uso diário, e que se acha sob sua guarda.<br><br>Ciente da condição de funcionário público de Tício, Mévio ajuda-o a transportar esse bem até sua casa.<br><br>Nessa situação hipotética, é correto afirmar-se que",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Tício e Mévio respondem por peculato.",
+        "B": "Tício responde por peculato e Mévio responde por furto.",
+        "C": "Tício e Mévio respondem por furto.",
+        "D": "Tício responde por peculato e a conduta de Mévio é atípica."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Teoria do Crime Fato Típico Parte 03"
+    },
+    "oficial": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Administração Pública",
+      "extras_ids": "5076",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0304",
+    "variante": "sem_palavra_completo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0304",
+      "tema_central_id": "5539",
+      "sinal": 13.050239212140239,
+      "elegivel": true,
+      "confianca": 0.8561671524672079,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 5
+    },
+    "depois": {
+      "id": "Q0304",
+      "tema_central_id": "5539",
+      "sinal": 11.031547052232963,
+      "elegivel": true,
+      "confianca": 0.8033972894100765,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 5,
+      "politica": "substituir",
+      "variante": "sem_palavra_completo"
+    },
+    "questao": {
+      "id": "Q0304",
+      "enunciado_html": "Em matéria de competência dos Juizados Especiais Criminais, de acordo com a Jurisprudência do Supremo Tribunal Federal,",
+      "comando": "",
+      "alternativas": {
+        "A": "é absoluta a competência dos Juizados Especiais Criminais, razão pela qual não se admite o deslocamento da competência, por regras de conexão ou continência, para o Juízo Comum ou Tribunal do Júri, no concurso de infrações penais de menor potencial ofensivo e comum.",
+        "B": "não se admite a proposta de transação penal se ficar comprovado ter sido o agente beneficiado anteriormente, no prazo de oito anos, pela aplicação de pena restritiva ou multa.",
+        "C": "na ação penal de iniciativa do ofendido no Jecrim não poderá ser oferecida queixa oral, em qualquer hipótese.",
+        "D": "os institutos despenalizadores previstos na Lei nº 9.099/1995 constituem garantia individual do acusado e têm de ser assegurados, quando cabíveis, independente do juízo no qual tramitam os processos.",
+        "E": "o não oferecimento da representação pelo ofendido na audiência preliminar implica decadência do direito."
+      },
+      "disciplina_origem": "Direito Penal - Legislação Especial",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0304",
+      "tema_central_id": "4701",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Juizado Especial Criminal",
+      "extras_ids": "5541;5539",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0115",
+    "variante": "sem_escopo_alternativas",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 11.709923803585756,
+      "elegivel": true,
+      "confianca": 0.7665035534299887,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 15.476267209324181,
+      "elegivel": true,
+      "confianca": 0.8339042762852016,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1,
+      "politica": "substituir",
+      "variante": "sem_escopo_alternativas"
+    },
+    "questao": {
+      "id": "Q0115",
+      "enunciado_html": "Paulo, executivo do mercado financeiro, após um dia estressante de trabalho, foi demitido. O mundo desabara sobre sua cabeça. Pegou seu carro e o que mais queria era chegar em casa. Mas o horário era de rush e o trânsito estava caótico, ainda chovia. No interior de seu carro sentiu o trauma da demissão e só pensava nas dívidas que já estavam para vencer, quando fora acometido de uma sensação terrível: uma mistura de fracasso, com frustração, impotência, medo e etc. Neste instante, sem quê nem porque, apenas querendo chegar em casa, jogou seu carro para o acostamento, onde atropelou um ciclista que por ali trafegava, subiu no passeio onde atropelou um casal que ali se encontrava, andou por mais de 200 metros até bater num poste, desceu do carro meio tonto e não hesitou, agrediu um motoqueiro e subtraiu a motocicleta, evadindo-se em desabalada carreira, rumo à sua casa. Naquele dia, Paulo, um pacato cidadão, pagador de impostos, bom pai de família, representante da classe média-alta daquela metrópole, transformou-se num criminoso perigoso, uma fera que ocupara as notícias dos principais telejornais. Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "comando": "Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "alternativas": {
+        "A": "Escola de Chicago.  ",
+        "B": "Teoria da associação diferencial.  ",
+        "C": "Teoria da anomia.  ",
+        "D": "Teoria do<i> labeling approach</i>.  ",
+        "E": "Teoria crítica. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade"
+    },
+    "oficial": {
+      "id": "Q0115",
+      "tema_central_id": "4388",
+      "tema_central_caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": "4385",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0290",
+    "variante": "sem_escopo_alternativas",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0290",
+      "tema_central_id": "4701",
+      "sinal": 8.602844471546966,
+      "elegivel": true,
+      "confianca": 0.7220541629170368,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0290",
+      "tema_central_id": "4701",
+      "sinal": 9.644771613869429,
+      "elegivel": true,
+      "confianca": 0.7444206621233219,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_escopo_alternativas"
+    },
+    "questao": {
+      "id": "Q0290",
+      "enunciado_html": "<b>No que diz respeito ao preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais, assinale a alternativa <i>incorreta</i>.</b>",
+      "comando": "Assinale a alternativa incorreta.",
+      "alternativas": {
+        "A": " A ação penal relativa ao crime de lesão corporal\\ndolosa, em todas as suas modalidades, será\\npública incondicionada, já o crime de lesão\\nculposa, terá como correspondente a ação penal\\npública condicionada à representação da vítima\\nou de seu representante legal ",
+        "B": " Na fase preliminar, a autoridade policial que\\ntomar conhecimento da ocorrência deverá lavrar\\ntermo circunstanciado e o encaminhar\\nimediatamente ao Juizado, com o autor do fato\\ne a vítima, providenciando as requisições dos\\nexames periciais necessários ",
+        "C": "A citação será pessoal e far-se-á no próprio\\nJuizado, sempre que possível, ou por mandado",
+        "D": " Os atos processuais serão públicos e poderão\\nrealizar-se em horário noturno, conforme\\ndispuserem as normas de organização judiciária ",
+        "E": " Todas as provas serão produzidas na audiência\\nde instrução e julgamento, podendo o Juiz limitar\\nou excluir as que considerar excessivas,\\nimpertinentes ou protelatórias "
+      },
+      "disciplina_origem": "Processo Penal",
+      "assunto_origem": "Ação Penal"
+    },
+    "oficial": {
+      "id": "Q0290",
+      "tema_central_id": "4701",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Juizado Especial Criminal",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0115",
+    "variante": "sem_escopo_alternativas",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 11.709923803585756,
+      "elegivel": true,
+      "confianca": 0.7665035534299887,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 15.476267209324181,
+      "elegivel": true,
+      "confianca": 0.8339042762852016,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 1,
+      "politica": "preservar",
+      "variante": "sem_escopo_alternativas"
+    },
+    "questao": {
+      "id": "Q0115",
+      "enunciado_html": "Paulo, executivo do mercado financeiro, após um dia estressante de trabalho, foi demitido. O mundo desabara sobre sua cabeça. Pegou seu carro e o que mais queria era chegar em casa. Mas o horário era de rush e o trânsito estava caótico, ainda chovia. No interior de seu carro sentiu o trauma da demissão e só pensava nas dívidas que já estavam para vencer, quando fora acometido de uma sensação terrível: uma mistura de fracasso, com frustração, impotência, medo e etc. Neste instante, sem quê nem porque, apenas querendo chegar em casa, jogou seu carro para o acostamento, onde atropelou um ciclista que por ali trafegava, subiu no passeio onde atropelou um casal que ali se encontrava, andou por mais de 200 metros até bater num poste, desceu do carro meio tonto e não hesitou, agrediu um motoqueiro e subtraiu a motocicleta, evadindo-se em desabalada carreira, rumo à sua casa. Naquele dia, Paulo, um pacato cidadão, pagador de impostos, bom pai de família, representante da classe média-alta daquela metrópole, transformou-se num criminoso perigoso, uma fera que ocupara as notícias dos principais telejornais. Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "comando": "Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "alternativas": {
+        "A": "Escola de Chicago.  ",
+        "B": "Teoria da associação diferencial.  ",
+        "C": "Teoria da anomia.  ",
+        "D": "Teoria do<i> labeling approach</i>.  ",
+        "E": "Teoria crítica. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade"
+    },
+    "oficial": {
+      "id": "Q0115",
+      "tema_central_id": "4388",
+      "tema_central_caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": "4385",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0290",
+    "variante": "sem_escopo_alternativas",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0290",
+      "tema_central_id": "4701",
+      "sinal": 8.602844471546966,
+      "elegivel": true,
+      "confianca": 0.7220541629170368,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0290",
+      "tema_central_id": "4701",
+      "sinal": 9.644771613869429,
+      "elegivel": true,
+      "confianca": 0.7444206621233219,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 2,
+      "politica": "preservar",
+      "variante": "sem_escopo_alternativas"
+    },
+    "questao": {
+      "id": "Q0290",
+      "enunciado_html": "<b>No que diz respeito ao preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais, assinale a alternativa <i>incorreta</i>.</b>",
+      "comando": "Assinale a alternativa incorreta.",
+      "alternativas": {
+        "A": " A ação penal relativa ao crime de lesão corporal\\ndolosa, em todas as suas modalidades, será\\npública incondicionada, já o crime de lesão\\nculposa, terá como correspondente a ação penal\\npública condicionada à representação da vítima\\nou de seu representante legal ",
+        "B": " Na fase preliminar, a autoridade policial que\\ntomar conhecimento da ocorrência deverá lavrar\\ntermo circunstanciado e o encaminhar\\nimediatamente ao Juizado, com o autor do fato\\ne a vítima, providenciando as requisições dos\\nexames periciais necessários ",
+        "C": "A citação será pessoal e far-se-á no próprio\\nJuizado, sempre que possível, ou por mandado",
+        "D": " Os atos processuais serão públicos e poderão\\nrealizar-se em horário noturno, conforme\\ndispuserem as normas de organização judiciária ",
+        "E": " Todas as provas serão produzidas na audiência\\nde instrução e julgamento, podendo o Juiz limitar\\nou excluir as que considerar excessivas,\\nimpertinentes ou protelatórias "
+      },
+      "disciplina_origem": "Processo Penal",
+      "assunto_origem": "Ação Penal"
+    },
+    "oficial": {
+      "id": "Q0290",
+      "tema_central_id": "4701",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Juizado Especial Criminal",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0304",
+    "variante": "sem_char_enunciado",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0304",
+      "tema_central_id": "5539",
+      "sinal": 13.050239212140239,
+      "elegivel": true,
+      "confianca": 0.8561671524672079,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 5
+    },
+    "depois": {
+      "id": "Q0304",
+      "tema_central_id": "5539",
+      "sinal": 11.916497608298133,
+      "elegivel": true,
+      "confianca": 0.8261933477172237,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 5,
+      "politica": "substituir",
+      "variante": "sem_char_enunciado"
+    },
+    "questao": {
+      "id": "Q0304",
+      "enunciado_html": "Em matéria de competência dos Juizados Especiais Criminais, de acordo com a Jurisprudência do Supremo Tribunal Federal,",
+      "comando": "",
+      "alternativas": {
+        "A": "é absoluta a competência dos Juizados Especiais Criminais, razão pela qual não se admite o deslocamento da competência, por regras de conexão ou continência, para o Juízo Comum ou Tribunal do Júri, no concurso de infrações penais de menor potencial ofensivo e comum.",
+        "B": "não se admite a proposta de transação penal se ficar comprovado ter sido o agente beneficiado anteriormente, no prazo de oito anos, pela aplicação de pena restritiva ou multa.",
+        "C": "na ação penal de iniciativa do ofendido no Jecrim não poderá ser oferecida queixa oral, em qualquer hipótese.",
+        "D": "os institutos despenalizadores previstos na Lei nº 9.099/1995 constituem garantia individual do acusado e têm de ser assegurados, quando cabíveis, independente do juízo no qual tramitam os processos.",
+        "E": "o não oferecimento da representação pelo ofendido na audiência preliminar implica decadência do direito."
+      },
+      "disciplina_origem": "Direito Penal - Legislação Especial",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0304",
+      "tema_central_id": "4701",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Juizado Especial Criminal",
+      "extras_ids": "5541;5539",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0277",
+    "variante": "sem_apoio_duplo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 13.270679899301289,
+      "elegivel": true,
+      "confianca": 0.7957334217836514,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 15.1516702820536,
+      "elegivel": true,
+      "confianca": 0.8385908908024365,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1,
+      "politica": "substituir",
+      "variante": "sem_apoio_duplo"
+    },
+    "questao": {
+      "id": "Q0277",
+      "enunciado_html": "NÃO configura crime contra idoso:",
+      "comando": "",
+      "alternativas": {
+        "A": "Induzir pessoa idosa, mesmo que com discernimento, a outorgar procuração para fins de administração de bens.",
+        "B": "Desdenhar ou menosprezar pessoa idosa.",
+        "C": "Deixar de prestar assistência ao idoso em situação de iminente perigo.",
+        "D": "Abandonar idoso em hospital.",
+        "E": "Reter cartão magnético de conta bancária relativa a benefícios."
+      },
+      "disciplina_origem": "Direito Civil - Legislação Especial",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0060",
+    "variante": "sem_apoio_duplo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "sinal": 12.947348335545602,
+      "elegivel": true,
+      "confianca": 0.7932387864624866,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "sinal": 12.644039817679936,
+      "elegivel": true,
+      "confianca": 0.7813222212710107,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_apoio_duplo"
+    },
+    "questao": {
+      "id": "Q0060",
+      "enunciado_html": "A respeito dos crimes praticados em detrimento da administração pública, assinale a alternativa correta.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": " São crimes próprios de funcionários públicos o de\\nconcussão, o de peculato e o de tráfico de influência. ",
+        "B": " O crime de facilitação de contrabando ou descaminho pode ser praticado por particular, individualmente ou em concurso de agentes com o funcionário\\npúblico. ",
+        "C": " O crime de advocacia administrativa, para restar caracterizado, exige a qualidade de advogado do sujeito ativo. ",
+        "D": " No crime de corrupção ativa, incidirá causa de aumento da pena ao sujeito ativo, na hipótese de o funcionário omitir ou retardar ato de ofício. ",
+        "E": " O funcionário público que, por recebimento de vantagem ilícita, de qualquer natureza, deixa de responsabilizar subordinado que praticou ato ilícito comete\\ncrime de condescendência criminosa.  "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Corrupção ativa"
+    },
+    "oficial": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Administração Pública",
+      "extras_ids": "5093",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0124",
+    "variante": "sem_apoio_duplo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "sinal": 12.061698554540563,
+      "elegivel": true,
+      "confianca": 0.7798992696106424,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "sinal": 10.633107067928783,
+      "elegivel": true,
+      "confianca": 0.7501761508797501,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_apoio_duplo"
+    },
+    "questao": {
+      "id": "Q0124",
+      "enunciado_html": "À luz das teorias das penas, julgue os seguintes itens.<br><br>I Kant, que era adepto da teoria absoluta da pena, asseverava que, ainda que a sociedade civil acordasse em se dissolver, o último assassino que estivesse no cárcere deveria ser executado, a fim de que cada um sofresse o que efetivamente merecia por seus feitos.<br><br>II Para Hegel, a justiça da pena concreta decorre de um processo dialético, pelo qual se levam em conta as características da lesão concreta assim como as circunstâncias da sociedade civil.<br><br>III Segundo Roxin, a idéia de retribuição compensadora somente é plausível mediante um ato de fé, pois não há como se compreender, de forma racional, como apagar um mal cometido pelo sujeito ativo do crime com um outro mal, isto é, o sofrimento da pena.<br><br>IV Para Binding, a finalidade da pena é mostrar ao delinqüente sua impotência diante da lei, submetendo-lhe, assim, à força vitoriosa do direito.<br><br>V De acordo com as teorias relativas da pena, esta se justifica para a prevenção geral e especial do delito, partindo-se de uma concepção utilitarista da pena.",
+      "comando": "A quantidade de itens certos é igual a",
+      "alternativas": {
+        "A": "1. ",
+        "B": "2. ",
+        "C": "3. ",
+        "D": "4. ",
+        "E": "5. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Legitimidoras da Pena"
+    },
+    "oficial": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "tema_central_caminho": "Criminologia > Teorias Legitimidoras da Pena",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0194",
+    "variante": "sem_apoio_duplo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "sinal": 10.896348765712926,
+      "elegivel": true,
+      "confianca": 0.7614232422021496,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "sinal": 10.548318945989525,
+      "elegivel": true,
+      "confianca": 0.7487999864282439,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_apoio_duplo"
+    },
+    "questao": {
+      "id": "Q0194",
+      "enunciado_html": "Tício, funcionário público, convida Mévio, que trabalha em empresa privada, para ajudá-lo a subtrair um computador, pertencente à repartição, que se encontra na sala de trabalho de Tício, para seu uso diário, e que se acha sob sua guarda.<br><br>Ciente da condição de funcionário público de Tício, Mévio ajuda-o a transportar esse bem até sua casa.<br><br>Nessa situação hipotética, é correto afirmar-se que",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Tício e Mévio respondem por peculato.",
+        "B": "Tício responde por peculato e Mévio responde por furto.",
+        "C": "Tício e Mévio respondem por furto.",
+        "D": "Tício responde por peculato e a conduta de Mévio é atípica."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Teoria do Crime Fato Típico Parte 03"
+    },
+    "oficial": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Administração Pública",
+      "extras_ids": "5076",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0066",
+    "variante": "sem_apoio_duplo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 15.071577532219024,
+      "elegivel": true,
+      "confianca": 0.8465719893878496,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 15.569884244521337,
+      "elegivel": true,
+      "confianca": 0.8595754837545607,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3,
+      "politica": "substituir",
+      "variante": "sem_apoio_duplo"
+    },
+    "questao": {
+      "id": "Q0066",
+      "enunciado_html": "O positivismo criminológico",
+      "comando": "Explique o que é o positivismo criminológico.",
+      "alternativas": {
+        "A": " constitui uma continuidade da Escola Clássica, aprofundando suas ideias a partir do mesmo paradigma metodológico. ",
+        "B": "rejeita o viés etiológico ao buscar o desenvolvimento de um plano individualizador da pena.",
+        "C": " sofreu um abandono teórico que teve como decorrência a ausência de reflexos em práticas atuais e no direito contemporâneo. ",
+        "D": " revela, em seus estudos, a primazia do livre-arbítrio na compreensão do fenômeno criminoso.  ",
+        "E": " primou pela aplicação do método científico no qual a observação direta e a experiência assumem papel decisivo.  "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Etapas Evolutivas e Escolas Criminológicas"
+    },
+    "oficial": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "tema_central_caminho": "Criminologia > Etapas Evolutivas e Escolas Criminológicas",
+      "extras_ids": "4373",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0150",
+    "variante": "sem_apoio_duplo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 27.768132091717092,
+      "elegivel": true,
+      "confianca": 0.9605410978579393,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 25.51705634686074,
+      "elegivel": true,
+      "confianca": 0.9541251115089442,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3,
+      "politica": "substituir",
+      "variante": "sem_apoio_duplo"
+    },
+    "questao": {
+      "id": "Q0150",
+      "enunciado_html": "Considerando o entendimento sumulado dos Tribunais Superiores, analise as assertivas abaixo e assinale a alternativa:<br><br>I - A majorante do tráfico transnacional de drogas (art. 40, inciso I, da Lei n. 11.343/2006) configura-se com a prova da destinação internacional das drogas, ainda que não consumada a transposição de fronteiras.<br><br>II - Para a incidência da majorante prevista no art. 40, inciso V, da Lei n. 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.<br><br>III - É cabível a aplicação retroativa da Lei n. 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei n. 6.368/1976, sendo vedada a combinação de leis.<br><br>IV - A causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006 tem natureza objetiva, devendo haver portanto comprovação de mercancia a menos de duzentos metros da respectiva entidade de ensino.",
+      "comando": "Analise as assertivas e assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Todas as alternativas estão corretas.",
+        "B": "Apenas a alternativa I está correta. ",
+        "C": "Apenas a alternativa II está incorreta.",
+        "D": " Apenas a alternativa III está correta.",
+        "E": "Apenas a alternativa IV está incorreta. "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Legislação Penal Especial"
+    },
+    "oficial": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0345",
+    "variante": "sem_apoio_duplo",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 18.93672088718237,
+      "elegivel": true,
+      "confianca": 0.8965822163293709,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 16.62777873421966,
+      "elegivel": true,
+      "confianca": 0.8745549915204666,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3,
+      "politica": "substituir",
+      "variante": "sem_apoio_duplo"
+    },
+    "questao": {
+      "id": "Q0345",
+      "enunciado_html": "Antônio, professor respeitado na escola, ofereceu carona à sua\naluna Lívia, adolescente de 13 anos, que aceitou a oferta. Ainda no\nestacionamento da escola, Antônio acariciou os seios da aluna,\nbeijou-a na boca e, enquanto se despia, foi surpreendido pela\ndiretora da escola, que bateu na janela do carro interrompendo a\nação, e em seguida, chamou a Polícia.&nbsp; A respeito da adequação típica da conduta e da incidência da\nagravante prevista no Art. 61, inciso II, alínea f, do Código Penal\n(Art. 61. <span style=\"font-style: italic;\">São circunstâncias que sempre agravam a pena, quando\nnão constituem ou qualificam o crime: II - ter o agente cometido o\ncrime: f) com abuso de autoridade ou prevalecendo-se de relações\ndomésticas, de coabitação ou de hospitalidade, ou com violência\ncontra a mulher na forma da lei específica</span>) e da causa de aumento,\nprevista no Art. 226, inciso II do Código Penal (Art. 226.<span style=\"font-style: italic;\"> A pena é\naumentada: II - de metade, se o agente é ascendente, padrasto ou\nmadrasta, tio, irmão, cônjuge, companheiro, tutor, curador,\npreceptor ou empregador da vítima ou por qualquer outro título\ntiver autoridade sobre ela</span>), à luz do entendimento do Superior\nTribunal de Justiça, assinale a afirmativa correta.     ",
+      "comando": "",
+      "alternativas": {
+        "A": "Antônio praticou o crime de importunação sexual e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "B": "Antônio praticou o crime de estupro de vulnerável tentado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "C": "Antônio praticou o crime de estupro de vulnerável consumado e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "D": "Antônio praticou o crime de estupro de vulnerável consumado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "E": "Antônio praticou o crime de importunação sexual e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0345",
+      "tema_central_id": "5103",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0277",
+    "variante": "sem_apoio_duplo",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 13.270679899301289,
+      "elegivel": true,
+      "confianca": 0.7957334217836514,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 15.1516702820536,
+      "elegivel": true,
+      "confianca": 0.8385908908024365,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 1,
+      "politica": "preservar",
+      "variante": "sem_apoio_duplo"
+    },
+    "questao": {
+      "id": "Q0277",
+      "enunciado_html": "NÃO configura crime contra idoso:",
+      "comando": "",
+      "alternativas": {
+        "A": "Induzir pessoa idosa, mesmo que com discernimento, a outorgar procuração para fins de administração de bens.",
+        "B": "Desdenhar ou menosprezar pessoa idosa.",
+        "C": "Deixar de prestar assistência ao idoso em situação de iminente perigo.",
+        "D": "Abandonar idoso em hospital.",
+        "E": "Reter cartão magnético de conta bancária relativa a benefícios."
+      },
+      "disciplina_origem": "Direito Civil - Legislação Especial",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0066",
+    "variante": "sem_apoio_duplo",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 15.071577532219024,
+      "elegivel": true,
+      "confianca": 0.8465719893878496,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 15.569884244521337,
+      "elegivel": true,
+      "confianca": 0.8595754837545607,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 3,
+      "politica": "preservar",
+      "variante": "sem_apoio_duplo"
+    },
+    "questao": {
+      "id": "Q0066",
+      "enunciado_html": "O positivismo criminológico",
+      "comando": "Explique o que é o positivismo criminológico.",
+      "alternativas": {
+        "A": " constitui uma continuidade da Escola Clássica, aprofundando suas ideias a partir do mesmo paradigma metodológico. ",
+        "B": "rejeita o viés etiológico ao buscar o desenvolvimento de um plano individualizador da pena.",
+        "C": " sofreu um abandono teórico que teve como decorrência a ausência de reflexos em práticas atuais e no direito contemporâneo. ",
+        "D": " revela, em seus estudos, a primazia do livre-arbítrio na compreensão do fenômeno criminoso.  ",
+        "E": " primou pela aplicação do método científico no qual a observação direta e a experiência assumem papel decisivo.  "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Etapas Evolutivas e Escolas Criminológicas"
+    },
+    "oficial": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "tema_central_caminho": "Criminologia > Etapas Evolutivas e Escolas Criminológicas",
+      "extras_ids": "4373",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0150",
+    "variante": "sem_apoio_duplo",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 27.768132091717092,
+      "elegivel": true,
+      "confianca": 0.9605410978579393,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 25.51705634686074,
+      "elegivel": true,
+      "confianca": 0.9541251115089442,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 3,
+      "politica": "preservar",
+      "variante": "sem_apoio_duplo"
+    },
+    "questao": {
+      "id": "Q0150",
+      "enunciado_html": "Considerando o entendimento sumulado dos Tribunais Superiores, analise as assertivas abaixo e assinale a alternativa:<br><br>I - A majorante do tráfico transnacional de drogas (art. 40, inciso I, da Lei n. 11.343/2006) configura-se com a prova da destinação internacional das drogas, ainda que não consumada a transposição de fronteiras.<br><br>II - Para a incidência da majorante prevista no art. 40, inciso V, da Lei n. 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.<br><br>III - É cabível a aplicação retroativa da Lei n. 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei n. 6.368/1976, sendo vedada a combinação de leis.<br><br>IV - A causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006 tem natureza objetiva, devendo haver portanto comprovação de mercancia a menos de duzentos metros da respectiva entidade de ensino.",
+      "comando": "Analise as assertivas e assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Todas as alternativas estão corretas.",
+        "B": "Apenas a alternativa I está correta. ",
+        "C": "Apenas a alternativa II está incorreta.",
+        "D": " Apenas a alternativa III está correta.",
+        "E": "Apenas a alternativa IV está incorreta. "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Legislação Penal Especial"
+    },
+    "oficial": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0345",
+    "variante": "sem_apoio_duplo",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 18.93672088718237,
+      "elegivel": true,
+      "confianca": 0.8965822163293709,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 16.62777873421966,
+      "elegivel": true,
+      "confianca": 0.8745549915204666,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 3,
+      "politica": "preservar",
+      "variante": "sem_apoio_duplo"
+    },
+    "questao": {
+      "id": "Q0345",
+      "enunciado_html": "Antônio, professor respeitado na escola, ofereceu carona à sua\naluna Lívia, adolescente de 13 anos, que aceitou a oferta. Ainda no\nestacionamento da escola, Antônio acariciou os seios da aluna,\nbeijou-a na boca e, enquanto se despia, foi surpreendido pela\ndiretora da escola, que bateu na janela do carro interrompendo a\nação, e em seguida, chamou a Polícia.&nbsp; A respeito da adequação típica da conduta e da incidência da\nagravante prevista no Art. 61, inciso II, alínea f, do Código Penal\n(Art. 61. <span style=\"font-style: italic;\">São circunstâncias que sempre agravam a pena, quando\nnão constituem ou qualificam o crime: II - ter o agente cometido o\ncrime: f) com abuso de autoridade ou prevalecendo-se de relações\ndomésticas, de coabitação ou de hospitalidade, ou com violência\ncontra a mulher na forma da lei específica</span>) e da causa de aumento,\nprevista no Art. 226, inciso II do Código Penal (Art. 226.<span style=\"font-style: italic;\"> A pena é\naumentada: II - de metade, se o agente é ascendente, padrasto ou\nmadrasta, tio, irmão, cônjuge, companheiro, tutor, curador,\npreceptor ou empregador da vítima ou por qualquer outro título\ntiver autoridade sobre ela</span>), à luz do entendimento do Superior\nTribunal de Justiça, assinale a afirmativa correta.     ",
+      "comando": "",
+      "alternativas": {
+        "A": "Antônio praticou o crime de importunação sexual e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "B": "Antônio praticou o crime de estupro de vulnerável tentado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "C": "Antônio praticou o crime de estupro de vulnerável consumado e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "D": "Antônio praticou o crime de estupro de vulnerável consumado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "E": "Antônio praticou o crime de importunação sexual e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0345",
+      "tema_central_id": "5103",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0115",
+    "variante": "sem_atributos_origem",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 11.709923803585756,
+      "elegivel": true,
+      "confianca": 0.7665035534299887,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 12.341516954287897,
+      "elegivel": true,
+      "confianca": 0.7781795910442798,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1,
+      "politica": "substituir",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0115",
+      "enunciado_html": "Paulo, executivo do mercado financeiro, após um dia estressante de trabalho, foi demitido. O mundo desabara sobre sua cabeça. Pegou seu carro e o que mais queria era chegar em casa. Mas o horário era de rush e o trânsito estava caótico, ainda chovia. No interior de seu carro sentiu o trauma da demissão e só pensava nas dívidas que já estavam para vencer, quando fora acometido de uma sensação terrível: uma mistura de fracasso, com frustração, impotência, medo e etc. Neste instante, sem quê nem porque, apenas querendo chegar em casa, jogou seu carro para o acostamento, onde atropelou um ciclista que por ali trafegava, subiu no passeio onde atropelou um casal que ali se encontrava, andou por mais de 200 metros até bater num poste, desceu do carro meio tonto e não hesitou, agrediu um motoqueiro e subtraiu a motocicleta, evadindo-se em desabalada carreira, rumo à sua casa. Naquele dia, Paulo, um pacato cidadão, pagador de impostos, bom pai de família, representante da classe média-alta daquela metrópole, transformou-se num criminoso perigoso, uma fera que ocupara as notícias dos principais telejornais. Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "comando": "Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "alternativas": {
+        "A": "Escola de Chicago.  ",
+        "B": "Teoria da associação diferencial.  ",
+        "C": "Teoria da anomia.  ",
+        "D": "Teoria do<i> labeling approach</i>.  ",
+        "E": "Teoria crítica. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade"
+    },
+    "oficial": {
+      "id": "Q0115",
+      "tema_central_id": "4388",
+      "tema_central_caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": "4385",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0049",
+    "variante": "sem_atributos_origem",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0049",
+      "tema_central_id": "5149",
+      "sinal": 28.728652358762677,
+      "elegivel": true,
+      "confianca": 0.9405209896341898,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0049",
+      "tema_central_id": "5149",
+      "sinal": 30.272256866885254,
+      "elegivel": true,
+      "confianca": 0.9305645714799569,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0049",
+      "enunciado_html": "Mévia e Tício foram namorados, por 5 anos. Mévia terminou a relação, por ter conhecido e se apaixonado por outra pessoa. Tício não se conformava com o término e, diagnosticado com depressão, todos os dias, durante meses, mandava mensagem para Mévia, dizendo que a vida sem ela perdera a graça. Mévia, sabendo da condição de saúde mental de Tício, manteve-se silente durante todo o tempo. Mas, um dia, irritada com as mensagens, que estavam causando instabilidade em seu atual relacionamento, Mévia envia a Tício a seguinte resposta: “se a vida perdeu a graça, de que vale viver? Seja homem ao menos uma vez! Coloque fim em seu sofrimento e pare de me infernizar! Eu até vou a seu enterro e faço uma homenagem póstuma!” Tício visualizou a mensagem, respondendo com “Ok”. Passados dois dias, Tício se joga da janela do prédio de sua casa. Por sorte, Tício cai em cima da carroceria de um caminhão, lotado de colchão, que passava na rua no exato momento da queda. Tício não sofreu qualquer lesão. Diante da situação hipotética, assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza grave.",
+        "B": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, que\nse configura com a conduta de induzir, instigar ou\nauxiliar, independentemente do resultado.",
+        "C": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nmodalidade tentada, vez que a morte não se concretizou, por circunstância alheia a sua vontade.",
+        "D": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza leve.",
+        "E": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nfigura qualificada, dada a relação afetiva, entre a vítima e o autor."
+      },
+      "disciplina_origem": "Penal",
+      "assunto_origem": "Tipicidade, Crimes contra a vida"
+    },
+    "oficial": {
+      "id": "Q0049",
+      "tema_central_id": "5152",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",
+      "extras_ids": "5149",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0060",
+    "variante": "sem_atributos_origem",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "sinal": 12.947348335545602,
+      "elegivel": true,
+      "confianca": 0.7932387864624866,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "sinal": 13.31556137061931,
+      "elegivel": true,
+      "confianca": 0.7798288345830636,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0060",
+      "enunciado_html": "A respeito dos crimes praticados em detrimento da administração pública, assinale a alternativa correta.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": " São crimes próprios de funcionários públicos o de\\nconcussão, o de peculato e o de tráfico de influência. ",
+        "B": " O crime de facilitação de contrabando ou descaminho pode ser praticado por particular, individualmente ou em concurso de agentes com o funcionário\\npúblico. ",
+        "C": " O crime de advocacia administrativa, para restar caracterizado, exige a qualidade de advogado do sujeito ativo. ",
+        "D": " No crime de corrupção ativa, incidirá causa de aumento da pena ao sujeito ativo, na hipótese de o funcionário omitir ou retardar ato de ofício. ",
+        "E": " O funcionário público que, por recebimento de vantagem ilícita, de qualquer natureza, deixa de responsabilizar subordinado que praticou ato ilícito comete\\ncrime de condescendência criminosa.  "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Corrupção ativa"
+    },
+    "oficial": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Administração Pública",
+      "extras_ids": "5093",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0124",
+    "variante": "sem_atributos_origem",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "sinal": 12.061698554540563,
+      "elegivel": true,
+      "confianca": 0.7798992696106424,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "sinal": 11.394296684543711,
+      "elegivel": true,
+      "confianca": 0.7528540734474981,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0124",
+      "enunciado_html": "À luz das teorias das penas, julgue os seguintes itens.<br><br>I Kant, que era adepto da teoria absoluta da pena, asseverava que, ainda que a sociedade civil acordasse em se dissolver, o último assassino que estivesse no cárcere deveria ser executado, a fim de que cada um sofresse o que efetivamente merecia por seus feitos.<br><br>II Para Hegel, a justiça da pena concreta decorre de um processo dialético, pelo qual se levam em conta as características da lesão concreta assim como as circunstâncias da sociedade civil.<br><br>III Segundo Roxin, a idéia de retribuição compensadora somente é plausível mediante um ato de fé, pois não há como se compreender, de forma racional, como apagar um mal cometido pelo sujeito ativo do crime com um outro mal, isto é, o sofrimento da pena.<br><br>IV Para Binding, a finalidade da pena é mostrar ao delinqüente sua impotência diante da lei, submetendo-lhe, assim, à força vitoriosa do direito.<br><br>V De acordo com as teorias relativas da pena, esta se justifica para a prevenção geral e especial do delito, partindo-se de uma concepção utilitarista da pena.",
+      "comando": "A quantidade de itens certos é igual a",
+      "alternativas": {
+        "A": "1. ",
+        "B": "2. ",
+        "C": "3. ",
+        "D": "4. ",
+        "E": "5. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Legitimidoras da Pena"
+    },
+    "oficial": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "tema_central_caminho": "Criminologia > Teorias Legitimidoras da Pena",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0194",
+    "variante": "sem_atributos_origem",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "sinal": 10.896348765712926,
+      "elegivel": true,
+      "confianca": 0.7614232422021496,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "sinal": 10.750087320128841,
+      "elegivel": true,
+      "confianca": 0.7433275982526096,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0194",
+      "enunciado_html": "Tício, funcionário público, convida Mévio, que trabalha em empresa privada, para ajudá-lo a subtrair um computador, pertencente à repartição, que se encontra na sala de trabalho de Tício, para seu uso diário, e que se acha sob sua guarda.<br><br>Ciente da condição de funcionário público de Tício, Mévio ajuda-o a transportar esse bem até sua casa.<br><br>Nessa situação hipotética, é correto afirmar-se que",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Tício e Mévio respondem por peculato.",
+        "B": "Tício responde por peculato e Mévio responde por furto.",
+        "C": "Tício e Mévio respondem por furto.",
+        "D": "Tício responde por peculato e a conduta de Mévio é atípica."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Teoria do Crime Fato Típico Parte 03"
+    },
+    "oficial": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Administração Pública",
+      "extras_ids": "5076",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0066",
+    "variante": "sem_atributos_origem",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 15.071577532219024,
+      "elegivel": true,
+      "confianca": 0.8465719893878496,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 16.0609388157489,
+      "elegivel": true,
+      "confianca": 0.8750507958779328,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3,
+      "politica": "substituir",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0066",
+      "enunciado_html": "O positivismo criminológico",
+      "comando": "Explique o que é o positivismo criminológico.",
+      "alternativas": {
+        "A": " constitui uma continuidade da Escola Clássica, aprofundando suas ideias a partir do mesmo paradigma metodológico. ",
+        "B": "rejeita o viés etiológico ao buscar o desenvolvimento de um plano individualizador da pena.",
+        "C": " sofreu um abandono teórico que teve como decorrência a ausência de reflexos em práticas atuais e no direito contemporâneo. ",
+        "D": " revela, em seus estudos, a primazia do livre-arbítrio na compreensão do fenômeno criminoso.  ",
+        "E": " primou pela aplicação do método científico no qual a observação direta e a experiência assumem papel decisivo.  "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Etapas Evolutivas e Escolas Criminológicas"
+    },
+    "oficial": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "tema_central_caminho": "Criminologia > Etapas Evolutivas e Escolas Criminológicas",
+      "extras_ids": "4373",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0150",
+    "variante": "sem_atributos_origem",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 27.768132091717092,
+      "elegivel": true,
+      "confianca": 0.9605410978579393,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 23.60285447535232,
+      "elegivel": true,
+      "confianca": 0.9494449691228148,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3,
+      "politica": "substituir",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0150",
+      "enunciado_html": "Considerando o entendimento sumulado dos Tribunais Superiores, analise as assertivas abaixo e assinale a alternativa:<br><br>I - A majorante do tráfico transnacional de drogas (art. 40, inciso I, da Lei n. 11.343/2006) configura-se com a prova da destinação internacional das drogas, ainda que não consumada a transposição de fronteiras.<br><br>II - Para a incidência da majorante prevista no art. 40, inciso V, da Lei n. 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.<br><br>III - É cabível a aplicação retroativa da Lei n. 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei n. 6.368/1976, sendo vedada a combinação de leis.<br><br>IV - A causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006 tem natureza objetiva, devendo haver portanto comprovação de mercancia a menos de duzentos metros da respectiva entidade de ensino.",
+      "comando": "Analise as assertivas e assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Todas as alternativas estão corretas.",
+        "B": "Apenas a alternativa I está correta. ",
+        "C": "Apenas a alternativa II está incorreta.",
+        "D": " Apenas a alternativa III está correta.",
+        "E": "Apenas a alternativa IV está incorreta. "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Legislação Penal Especial"
+    },
+    "oficial": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0345",
+    "variante": "sem_atributos_origem",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 18.93672088718237,
+      "elegivel": true,
+      "confianca": 0.8965822163293709,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 18.873832646432035,
+      "elegivel": true,
+      "confianca": 0.910053263997173,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3,
+      "politica": "substituir",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0345",
+      "enunciado_html": "Antônio, professor respeitado na escola, ofereceu carona à sua\naluna Lívia, adolescente de 13 anos, que aceitou a oferta. Ainda no\nestacionamento da escola, Antônio acariciou os seios da aluna,\nbeijou-a na boca e, enquanto se despia, foi surpreendido pela\ndiretora da escola, que bateu na janela do carro interrompendo a\nação, e em seguida, chamou a Polícia.&nbsp; A respeito da adequação típica da conduta e da incidência da\nagravante prevista no Art. 61, inciso II, alínea f, do Código Penal\n(Art. 61. <span style=\"font-style: italic;\">São circunstâncias que sempre agravam a pena, quando\nnão constituem ou qualificam o crime: II - ter o agente cometido o\ncrime: f) com abuso de autoridade ou prevalecendo-se de relações\ndomésticas, de coabitação ou de hospitalidade, ou com violência\ncontra a mulher na forma da lei específica</span>) e da causa de aumento,\nprevista no Art. 226, inciso II do Código Penal (Art. 226.<span style=\"font-style: italic;\"> A pena é\naumentada: II - de metade, se o agente é ascendente, padrasto ou\nmadrasta, tio, irmão, cônjuge, companheiro, tutor, curador,\npreceptor ou empregador da vítima ou por qualquer outro título\ntiver autoridade sobre ela</span>), à luz do entendimento do Superior\nTribunal de Justiça, assinale a afirmativa correta.     ",
+      "comando": "",
+      "alternativas": {
+        "A": "Antônio praticou o crime de importunação sexual e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "B": "Antônio praticou o crime de estupro de vulnerável tentado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "C": "Antônio praticou o crime de estupro de vulnerável consumado e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "D": "Antônio praticou o crime de estupro de vulnerável consumado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "E": "Antônio praticou o crime de importunação sexual e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0345",
+      "tema_central_id": "5103",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0115",
+    "variante": "sem_atributos_origem",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 11.709923803585756,
+      "elegivel": true,
+      "confianca": 0.7665035534299887,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 12.341516954287897,
+      "elegivel": true,
+      "confianca": 0.7781795910442798,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 1,
+      "politica": "preservar",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0115",
+      "enunciado_html": "Paulo, executivo do mercado financeiro, após um dia estressante de trabalho, foi demitido. O mundo desabara sobre sua cabeça. Pegou seu carro e o que mais queria era chegar em casa. Mas o horário era de rush e o trânsito estava caótico, ainda chovia. No interior de seu carro sentiu o trauma da demissão e só pensava nas dívidas que já estavam para vencer, quando fora acometido de uma sensação terrível: uma mistura de fracasso, com frustração, impotência, medo e etc. Neste instante, sem quê nem porque, apenas querendo chegar em casa, jogou seu carro para o acostamento, onde atropelou um ciclista que por ali trafegava, subiu no passeio onde atropelou um casal que ali se encontrava, andou por mais de 200 metros até bater num poste, desceu do carro meio tonto e não hesitou, agrediu um motoqueiro e subtraiu a motocicleta, evadindo-se em desabalada carreira, rumo à sua casa. Naquele dia, Paulo, um pacato cidadão, pagador de impostos, bom pai de família, representante da classe média-alta daquela metrópole, transformou-se num criminoso perigoso, uma fera que ocupara as notícias dos principais telejornais. Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "comando": "Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "alternativas": {
+        "A": "Escola de Chicago.  ",
+        "B": "Teoria da associação diferencial.  ",
+        "C": "Teoria da anomia.  ",
+        "D": "Teoria do<i> labeling approach</i>.  ",
+        "E": "Teoria crítica. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade"
+    },
+    "oficial": {
+      "id": "Q0115",
+      "tema_central_id": "4388",
+      "tema_central_caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": "4385",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0066",
+    "variante": "sem_atributos_origem",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 15.071577532219024,
+      "elegivel": true,
+      "confianca": 0.8465719893878496,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 16.0609388157489,
+      "elegivel": true,
+      "confianca": 0.8750507958779328,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 3,
+      "politica": "preservar",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0066",
+      "enunciado_html": "O positivismo criminológico",
+      "comando": "Explique o que é o positivismo criminológico.",
+      "alternativas": {
+        "A": " constitui uma continuidade da Escola Clássica, aprofundando suas ideias a partir do mesmo paradigma metodológico. ",
+        "B": "rejeita o viés etiológico ao buscar o desenvolvimento de um plano individualizador da pena.",
+        "C": " sofreu um abandono teórico que teve como decorrência a ausência de reflexos em práticas atuais e no direito contemporâneo. ",
+        "D": " revela, em seus estudos, a primazia do livre-arbítrio na compreensão do fenômeno criminoso.  ",
+        "E": " primou pela aplicação do método científico no qual a observação direta e a experiência assumem papel decisivo.  "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Etapas Evolutivas e Escolas Criminológicas"
+    },
+    "oficial": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "tema_central_caminho": "Criminologia > Etapas Evolutivas e Escolas Criminológicas",
+      "extras_ids": "4373",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0150",
+    "variante": "sem_atributos_origem",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 27.768132091717092,
+      "elegivel": true,
+      "confianca": 0.9605410978579393,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 23.60285447535232,
+      "elegivel": true,
+      "confianca": 0.9494449691228148,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 3,
+      "politica": "preservar",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0150",
+      "enunciado_html": "Considerando o entendimento sumulado dos Tribunais Superiores, analise as assertivas abaixo e assinale a alternativa:<br><br>I - A majorante do tráfico transnacional de drogas (art. 40, inciso I, da Lei n. 11.343/2006) configura-se com a prova da destinação internacional das drogas, ainda que não consumada a transposição de fronteiras.<br><br>II - Para a incidência da majorante prevista no art. 40, inciso V, da Lei n. 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.<br><br>III - É cabível a aplicação retroativa da Lei n. 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei n. 6.368/1976, sendo vedada a combinação de leis.<br><br>IV - A causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006 tem natureza objetiva, devendo haver portanto comprovação de mercancia a menos de duzentos metros da respectiva entidade de ensino.",
+      "comando": "Analise as assertivas e assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Todas as alternativas estão corretas.",
+        "B": "Apenas a alternativa I está correta. ",
+        "C": "Apenas a alternativa II está incorreta.",
+        "D": " Apenas a alternativa III está correta.",
+        "E": "Apenas a alternativa IV está incorreta. "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Legislação Penal Especial"
+    },
+    "oficial": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0345",
+    "variante": "sem_atributos_origem",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 18.93672088718237,
+      "elegivel": true,
+      "confianca": 0.8965822163293709,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 18.873832646432035,
+      "elegivel": true,
+      "confianca": 0.910053263997173,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 3,
+      "politica": "preservar",
+      "variante": "sem_atributos_origem"
+    },
+    "questao": {
+      "id": "Q0345",
+      "enunciado_html": "Antônio, professor respeitado na escola, ofereceu carona à sua\naluna Lívia, adolescente de 13 anos, que aceitou a oferta. Ainda no\nestacionamento da escola, Antônio acariciou os seios da aluna,\nbeijou-a na boca e, enquanto se despia, foi surpreendido pela\ndiretora da escola, que bateu na janela do carro interrompendo a\nação, e em seguida, chamou a Polícia.&nbsp; A respeito da adequação típica da conduta e da incidência da\nagravante prevista no Art. 61, inciso II, alínea f, do Código Penal\n(Art. 61. <span style=\"font-style: italic;\">São circunstâncias que sempre agravam a pena, quando\nnão constituem ou qualificam o crime: II - ter o agente cometido o\ncrime: f) com abuso de autoridade ou prevalecendo-se de relações\ndomésticas, de coabitação ou de hospitalidade, ou com violência\ncontra a mulher na forma da lei específica</span>) e da causa de aumento,\nprevista no Art. 226, inciso II do Código Penal (Art. 226.<span style=\"font-style: italic;\"> A pena é\naumentada: II - de metade, se o agente é ascendente, padrasto ou\nmadrasta, tio, irmão, cônjuge, companheiro, tutor, curador,\npreceptor ou empregador da vítima ou por qualquer outro título\ntiver autoridade sobre ela</span>), à luz do entendimento do Superior\nTribunal de Justiça, assinale a afirmativa correta.     ",
+      "comando": "",
+      "alternativas": {
+        "A": "Antônio praticou o crime de importunação sexual e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "B": "Antônio praticou o crime de estupro de vulnerável tentado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "C": "Antônio praticou o crime de estupro de vulnerável consumado e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "D": "Antônio praticou o crime de estupro de vulnerável consumado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "E": "Antônio praticou o crime de importunação sexual e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0345",
+      "tema_central_id": "5103",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0115",
+    "variante": "sem_tres_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 11.709923803585756,
+      "elegivel": true,
+      "confianca": 0.7665035534299887,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 12.41186936784009,
+      "elegivel": true,
+      "confianca": 0.7969670515109845,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1,
+      "politica": "substituir",
+      "variante": "sem_tres_frequentes"
+    },
+    "questao": {
+      "id": "Q0115",
+      "enunciado_html": "Paulo, executivo do mercado financeiro, após um dia estressante de trabalho, foi demitido. O mundo desabara sobre sua cabeça. Pegou seu carro e o que mais queria era chegar em casa. Mas o horário era de rush e o trânsito estava caótico, ainda chovia. No interior de seu carro sentiu o trauma da demissão e só pensava nas dívidas que já estavam para vencer, quando fora acometido de uma sensação terrível: uma mistura de fracasso, com frustração, impotência, medo e etc. Neste instante, sem quê nem porque, apenas querendo chegar em casa, jogou seu carro para o acostamento, onde atropelou um ciclista que por ali trafegava, subiu no passeio onde atropelou um casal que ali se encontrava, andou por mais de 200 metros até bater num poste, desceu do carro meio tonto e não hesitou, agrediu um motoqueiro e subtraiu a motocicleta, evadindo-se em desabalada carreira, rumo à sua casa. Naquele dia, Paulo, um pacato cidadão, pagador de impostos, bom pai de família, representante da classe média-alta daquela metrópole, transformou-se num criminoso perigoso, uma fera que ocupara as notícias dos principais telejornais. Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "comando": "Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "alternativas": {
+        "A": "Escola de Chicago.  ",
+        "B": "Teoria da associação diferencial.  ",
+        "C": "Teoria da anomia.  ",
+        "D": "Teoria do<i> labeling approach</i>.  ",
+        "E": "Teoria crítica. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade"
+    },
+    "oficial": {
+      "id": "Q0115",
+      "tema_central_id": "4388",
+      "tema_central_caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": "4385",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0221",
+    "variante": "sem_tres_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0221",
+      "tema_central_id": "5184",
+      "sinal": 7.283979655979812,
+      "elegivel": true,
+      "confianca": 0.6689158270636105,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0221",
+      "tema_central_id": "5184",
+      "sinal": 10.868642254567948,
+      "elegivel": true,
+      "confianca": 0.7639977811652539,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1,
+      "politica": "substituir",
+      "variante": "sem_tres_frequentes"
+    },
+    "questao": {
+      "id": "Q0221",
+      "enunciado_html": "A respeito das penas e das medidas de segurança, assinale a opção correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "A atenuante da confissão espontânea é preponderante em\nrelação à reincidência, impossibilitando a compensação plena\nentre uma e outra na segunda fase da dosimetria.",
+        "B": "São espécies de penas privativas de liberdade a reclusão,\na detenção, a prisão simples e a prisão especial.",
+        "C": "São espécies de penas restritivas de direitos a prestação de\nserviços à comunidade, a interdição temporária de direitos e\na obrigação de reparar o dano causado pelo crime.",
+        "D": "São princípios constitucionais aplicáveis à pena a\npersonalidade ou responsabilidade pessoal, a legalidade,\na inderrogabilidade, a proporcionalidade, a individualização e\na humanização.",
+        "E": "A duração da medida de segurança é por tempo indeterminado,\ne o condenado só será liberado depois que perícia médica\natestar a cessação de sua periculosidade."
+      },
+      "disciplina_origem": "Penal",
+      "assunto_origem": "Diferenças entre reclusão e detenção, Sanções penais, Penas privativas de liberdade"
+    },
+    "oficial": {
+      "id": "Q0221",
+      "tema_central_id": "5199",
+      "tema_central_caminho": "Penal > Teoria da Pena",
+      "extras_ids": "5184;5201;5203",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0277",
+    "variante": "sem_tres_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 13.270679899301289,
+      "elegivel": true,
+      "confianca": 0.7957334217836514,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 13.487082873981016,
+      "elegivel": true,
+      "confianca": 0.8178308596883488,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1,
+      "politica": "substituir",
+      "variante": "sem_tres_frequentes"
+    },
+    "questao": {
+      "id": "Q0277",
+      "enunciado_html": "NÃO configura crime contra idoso:",
+      "comando": "",
+      "alternativas": {
+        "A": "Induzir pessoa idosa, mesmo que com discernimento, a outorgar procuração para fins de administração de bens.",
+        "B": "Desdenhar ou menosprezar pessoa idosa.",
+        "C": "Deixar de prestar assistência ao idoso em situação de iminente perigo.",
+        "D": "Abandonar idoso em hospital.",
+        "E": "Reter cartão magnético de conta bancária relativa a benefícios."
+      },
+      "disciplina_origem": "Direito Civil - Legislação Especial",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0049",
+    "variante": "sem_tres_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0049",
+      "tema_central_id": "5149",
+      "sinal": 28.728652358762677,
+      "elegivel": true,
+      "confianca": 0.9405209896341898,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0049",
+      "tema_central_id": "5149",
+      "sinal": 24.483358112193272,
+      "elegivel": true,
+      "confianca": 0.9204280202654676,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_tres_frequentes"
+    },
+    "questao": {
+      "id": "Q0049",
+      "enunciado_html": "Mévia e Tício foram namorados, por 5 anos. Mévia terminou a relação, por ter conhecido e se apaixonado por outra pessoa. Tício não se conformava com o término e, diagnosticado com depressão, todos os dias, durante meses, mandava mensagem para Mévia, dizendo que a vida sem ela perdera a graça. Mévia, sabendo da condição de saúde mental de Tício, manteve-se silente durante todo o tempo. Mas, um dia, irritada com as mensagens, que estavam causando instabilidade em seu atual relacionamento, Mévia envia a Tício a seguinte resposta: “se a vida perdeu a graça, de que vale viver? Seja homem ao menos uma vez! Coloque fim em seu sofrimento e pare de me infernizar! Eu até vou a seu enterro e faço uma homenagem póstuma!” Tício visualizou a mensagem, respondendo com “Ok”. Passados dois dias, Tício se joga da janela do prédio de sua casa. Por sorte, Tício cai em cima da carroceria de um caminhão, lotado de colchão, que passava na rua no exato momento da queda. Tício não sofreu qualquer lesão. Diante da situação hipotética, assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza grave.",
+        "B": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, que\nse configura com a conduta de induzir, instigar ou\nauxiliar, independentemente do resultado.",
+        "C": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nmodalidade tentada, vez que a morte não se concretizou, por circunstância alheia a sua vontade.",
+        "D": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza leve.",
+        "E": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nfigura qualificada, dada a relação afetiva, entre a vítima e o autor."
+      },
+      "disciplina_origem": "Penal",
+      "assunto_origem": "Tipicidade, Crimes contra a vida"
+    },
+    "oficial": {
+      "id": "Q0049",
+      "tema_central_id": "5152",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",
+      "extras_ids": "5149",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0060",
+    "variante": "sem_tres_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "sinal": 12.947348335545602,
+      "elegivel": true,
+      "confianca": 0.7932387864624866,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "sinal": 10.354747633954155,
+      "elegivel": true,
+      "confianca": 0.7490261800372741,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_tres_frequentes"
+    },
+    "questao": {
+      "id": "Q0060",
+      "enunciado_html": "A respeito dos crimes praticados em detrimento da administração pública, assinale a alternativa correta.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": " São crimes próprios de funcionários públicos o de\\nconcussão, o de peculato e o de tráfico de influência. ",
+        "B": " O crime de facilitação de contrabando ou descaminho pode ser praticado por particular, individualmente ou em concurso de agentes com o funcionário\\npúblico. ",
+        "C": " O crime de advocacia administrativa, para restar caracterizado, exige a qualidade de advogado do sujeito ativo. ",
+        "D": " No crime de corrupção ativa, incidirá causa de aumento da pena ao sujeito ativo, na hipótese de o funcionário omitir ou retardar ato de ofício. ",
+        "E": " O funcionário público que, por recebimento de vantagem ilícita, de qualquer natureza, deixa de responsabilizar subordinado que praticou ato ilícito comete\\ncrime de condescendência criminosa.  "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Corrupção ativa"
+    },
+    "oficial": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Administração Pública",
+      "extras_ids": "5093",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0124",
+    "variante": "sem_tres_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "sinal": 12.061698554540563,
+      "elegivel": true,
+      "confianca": 0.7798992696106424,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "sinal": 12.496667731608596,
+      "elegivel": true,
+      "confianca": 0.7856342712023404,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_tres_frequentes"
+    },
+    "questao": {
+      "id": "Q0124",
+      "enunciado_html": "À luz das teorias das penas, julgue os seguintes itens.<br><br>I Kant, que era adepto da teoria absoluta da pena, asseverava que, ainda que a sociedade civil acordasse em se dissolver, o último assassino que estivesse no cárcere deveria ser executado, a fim de que cada um sofresse o que efetivamente merecia por seus feitos.<br><br>II Para Hegel, a justiça da pena concreta decorre de um processo dialético, pelo qual se levam em conta as características da lesão concreta assim como as circunstâncias da sociedade civil.<br><br>III Segundo Roxin, a idéia de retribuição compensadora somente é plausível mediante um ato de fé, pois não há como se compreender, de forma racional, como apagar um mal cometido pelo sujeito ativo do crime com um outro mal, isto é, o sofrimento da pena.<br><br>IV Para Binding, a finalidade da pena é mostrar ao delinqüente sua impotência diante da lei, submetendo-lhe, assim, à força vitoriosa do direito.<br><br>V De acordo com as teorias relativas da pena, esta se justifica para a prevenção geral e especial do delito, partindo-se de uma concepção utilitarista da pena.",
+      "comando": "A quantidade de itens certos é igual a",
+      "alternativas": {
+        "A": "1. ",
+        "B": "2. ",
+        "C": "3. ",
+        "D": "4. ",
+        "E": "5. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Legitimidoras da Pena"
+    },
+    "oficial": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "tema_central_caminho": "Criminologia > Teorias Legitimidoras da Pena",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0194",
+    "variante": "sem_tres_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "sinal": 10.896348765712926,
+      "elegivel": true,
+      "confianca": 0.7614232422021496,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "sinal": 10.67343651919716,
+      "elegivel": true,
+      "confianca": 0.7547268592687306,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_tres_frequentes"
+    },
+    "questao": {
+      "id": "Q0194",
+      "enunciado_html": "Tício, funcionário público, convida Mévio, que trabalha em empresa privada, para ajudá-lo a subtrair um computador, pertencente à repartição, que se encontra na sala de trabalho de Tício, para seu uso diário, e que se acha sob sua guarda.<br><br>Ciente da condição de funcionário público de Tício, Mévio ajuda-o a transportar esse bem até sua casa.<br><br>Nessa situação hipotética, é correto afirmar-se que",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Tício e Mévio respondem por peculato.",
+        "B": "Tício responde por peculato e Mévio responde por furto.",
+        "C": "Tício e Mévio respondem por furto.",
+        "D": "Tício responde por peculato e a conduta de Mévio é atípica."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Teoria do Crime Fato Típico Parte 03"
+    },
+    "oficial": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Administração Pública",
+      "extras_ids": "5076",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0115",
+    "variante": "sem_tres_frequentes",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 11.709923803585756,
+      "elegivel": true,
+      "confianca": 0.7665035534299887,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 12.41186936784009,
+      "elegivel": true,
+      "confianca": 0.7969670515109845,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 1,
+      "politica": "preservar",
+      "variante": "sem_tres_frequentes"
+    },
+    "questao": {
+      "id": "Q0115",
+      "enunciado_html": "Paulo, executivo do mercado financeiro, após um dia estressante de trabalho, foi demitido. O mundo desabara sobre sua cabeça. Pegou seu carro e o que mais queria era chegar em casa. Mas o horário era de rush e o trânsito estava caótico, ainda chovia. No interior de seu carro sentiu o trauma da demissão e só pensava nas dívidas que já estavam para vencer, quando fora acometido de uma sensação terrível: uma mistura de fracasso, com frustração, impotência, medo e etc. Neste instante, sem quê nem porque, apenas querendo chegar em casa, jogou seu carro para o acostamento, onde atropelou um ciclista que por ali trafegava, subiu no passeio onde atropelou um casal que ali se encontrava, andou por mais de 200 metros até bater num poste, desceu do carro meio tonto e não hesitou, agrediu um motoqueiro e subtraiu a motocicleta, evadindo-se em desabalada carreira, rumo à sua casa. Naquele dia, Paulo, um pacato cidadão, pagador de impostos, bom pai de família, representante da classe média-alta daquela metrópole, transformou-se num criminoso perigoso, uma fera que ocupara as notícias dos principais telejornais. Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "comando": "Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "alternativas": {
+        "A": "Escola de Chicago.  ",
+        "B": "Teoria da associação diferencial.  ",
+        "C": "Teoria da anomia.  ",
+        "D": "Teoria do<i> labeling approach</i>.  ",
+        "E": "Teoria crítica. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade"
+    },
+    "oficial": {
+      "id": "Q0115",
+      "tema_central_id": "4388",
+      "tema_central_caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": "4385",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0221",
+    "variante": "sem_tres_frequentes",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0221",
+      "tema_central_id": "5184",
+      "sinal": 7.283979655979812,
+      "elegivel": true,
+      "confianca": 0.6689158270636105,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0221",
+      "tema_central_id": "5184",
+      "sinal": 10.868642254567948,
+      "elegivel": true,
+      "confianca": 0.7639977811652539,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 1,
+      "politica": "preservar",
+      "variante": "sem_tres_frequentes"
+    },
+    "questao": {
+      "id": "Q0221",
+      "enunciado_html": "A respeito das penas e das medidas de segurança, assinale a opção correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "A atenuante da confissão espontânea é preponderante em\nrelação à reincidência, impossibilitando a compensação plena\nentre uma e outra na segunda fase da dosimetria.",
+        "B": "São espécies de penas privativas de liberdade a reclusão,\na detenção, a prisão simples e a prisão especial.",
+        "C": "São espécies de penas restritivas de direitos a prestação de\nserviços à comunidade, a interdição temporária de direitos e\na obrigação de reparar o dano causado pelo crime.",
+        "D": "São princípios constitucionais aplicáveis à pena a\npersonalidade ou responsabilidade pessoal, a legalidade,\na inderrogabilidade, a proporcionalidade, a individualização e\na humanização.",
+        "E": "A duração da medida de segurança é por tempo indeterminado,\ne o condenado só será liberado depois que perícia médica\natestar a cessação de sua periculosidade."
+      },
+      "disciplina_origem": "Penal",
+      "assunto_origem": "Diferenças entre reclusão e detenção, Sanções penais, Penas privativas de liberdade"
+    },
+    "oficial": {
+      "id": "Q0221",
+      "tema_central_id": "5199",
+      "tema_central_caminho": "Penal > Teoria da Pena",
+      "extras_ids": "5184;5201;5203",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0277",
+    "variante": "sem_tres_frequentes",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 13.270679899301289,
+      "elegivel": true,
+      "confianca": 0.7957334217836514,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 13.487082873981016,
+      "elegivel": true,
+      "confianca": 0.8178308596883488,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 1,
+      "politica": "preservar",
+      "variante": "sem_tres_frequentes"
+    },
+    "questao": {
+      "id": "Q0277",
+      "enunciado_html": "NÃO configura crime contra idoso:",
+      "comando": "",
+      "alternativas": {
+        "A": "Induzir pessoa idosa, mesmo que com discernimento, a outorgar procuração para fins de administração de bens.",
+        "B": "Desdenhar ou menosprezar pessoa idosa.",
+        "C": "Deixar de prestar assistência ao idoso em situação de iminente perigo.",
+        "D": "Abandonar idoso em hospital.",
+        "E": "Reter cartão magnético de conta bancária relativa a benefícios."
+      },
+      "disciplina_origem": "Direito Civil - Legislação Especial",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0115",
+    "variante": "sem_seis_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 11.709923803585756,
+      "elegivel": true,
+      "confianca": 0.7665035534299887,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 8.700122586694299,
+      "elegivel": true,
+      "confianca": 0.7366174427128933,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1,
+      "politica": "substituir",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0115",
+      "enunciado_html": "Paulo, executivo do mercado financeiro, após um dia estressante de trabalho, foi demitido. O mundo desabara sobre sua cabeça. Pegou seu carro e o que mais queria era chegar em casa. Mas o horário era de rush e o trânsito estava caótico, ainda chovia. No interior de seu carro sentiu o trauma da demissão e só pensava nas dívidas que já estavam para vencer, quando fora acometido de uma sensação terrível: uma mistura de fracasso, com frustração, impotência, medo e etc. Neste instante, sem quê nem porque, apenas querendo chegar em casa, jogou seu carro para o acostamento, onde atropelou um ciclista que por ali trafegava, subiu no passeio onde atropelou um casal que ali se encontrava, andou por mais de 200 metros até bater num poste, desceu do carro meio tonto e não hesitou, agrediu um motoqueiro e subtraiu a motocicleta, evadindo-se em desabalada carreira, rumo à sua casa. Naquele dia, Paulo, um pacato cidadão, pagador de impostos, bom pai de família, representante da classe média-alta daquela metrópole, transformou-se num criminoso perigoso, uma fera que ocupara as notícias dos principais telejornais. Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "comando": "Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "alternativas": {
+        "A": "Escola de Chicago.  ",
+        "B": "Teoria da associação diferencial.  ",
+        "C": "Teoria da anomia.  ",
+        "D": "Teoria do<i> labeling approach</i>.  ",
+        "E": "Teoria crítica. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade"
+    },
+    "oficial": {
+      "id": "Q0115",
+      "tema_central_id": "4388",
+      "tema_central_caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": "4385",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0221",
+    "variante": "sem_seis_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0221",
+      "tema_central_id": "5184",
+      "sinal": 7.283979655979812,
+      "elegivel": true,
+      "confianca": 0.6689158270636105,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0221",
+      "tema_central_id": "5184",
+      "sinal": 11.94519363834025,
+      "elegivel": true,
+      "confianca": 0.8209934492081207,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1,
+      "politica": "substituir",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0221",
+      "enunciado_html": "A respeito das penas e das medidas de segurança, assinale a opção correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "A atenuante da confissão espontânea é preponderante em\nrelação à reincidência, impossibilitando a compensação plena\nentre uma e outra na segunda fase da dosimetria.",
+        "B": "São espécies de penas privativas de liberdade a reclusão,\na detenção, a prisão simples e a prisão especial.",
+        "C": "São espécies de penas restritivas de direitos a prestação de\nserviços à comunidade, a interdição temporária de direitos e\na obrigação de reparar o dano causado pelo crime.",
+        "D": "São princípios constitucionais aplicáveis à pena a\npersonalidade ou responsabilidade pessoal, a legalidade,\na inderrogabilidade, a proporcionalidade, a individualização e\na humanização.",
+        "E": "A duração da medida de segurança é por tempo indeterminado,\ne o condenado só será liberado depois que perícia médica\natestar a cessação de sua periculosidade."
+      },
+      "disciplina_origem": "Penal",
+      "assunto_origem": "Diferenças entre reclusão e detenção, Sanções penais, Penas privativas de liberdade"
+    },
+    "oficial": {
+      "id": "Q0221",
+      "tema_central_id": "5199",
+      "tema_central_caminho": "Penal > Teoria da Pena",
+      "extras_ids": "5184;5201;5203",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0277",
+    "variante": "sem_seis_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 13.270679899301289,
+      "elegivel": true,
+      "confianca": 0.7957334217836514,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 14.563688333515636,
+      "elegivel": true,
+      "confianca": 0.8723855785795759,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1,
+      "politica": "substituir",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0277",
+      "enunciado_html": "NÃO configura crime contra idoso:",
+      "comando": "",
+      "alternativas": {
+        "A": "Induzir pessoa idosa, mesmo que com discernimento, a outorgar procuração para fins de administração de bens.",
+        "B": "Desdenhar ou menosprezar pessoa idosa.",
+        "C": "Deixar de prestar assistência ao idoso em situação de iminente perigo.",
+        "D": "Abandonar idoso em hospital.",
+        "E": "Reter cartão magnético de conta bancária relativa a benefícios."
+      },
+      "disciplina_origem": "Direito Civil - Legislação Especial",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0049",
+    "variante": "sem_seis_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0049",
+      "tema_central_id": "5149",
+      "sinal": 28.728652358762677,
+      "elegivel": true,
+      "confianca": 0.9405209896341898,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0049",
+      "tema_central_id": "5149",
+      "sinal": 24.69256063916256,
+      "elegivel": true,
+      "confianca": 0.9342011541025752,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0049",
+      "enunciado_html": "Mévia e Tício foram namorados, por 5 anos. Mévia terminou a relação, por ter conhecido e se apaixonado por outra pessoa. Tício não se conformava com o término e, diagnosticado com depressão, todos os dias, durante meses, mandava mensagem para Mévia, dizendo que a vida sem ela perdera a graça. Mévia, sabendo da condição de saúde mental de Tício, manteve-se silente durante todo o tempo. Mas, um dia, irritada com as mensagens, que estavam causando instabilidade em seu atual relacionamento, Mévia envia a Tício a seguinte resposta: “se a vida perdeu a graça, de que vale viver? Seja homem ao menos uma vez! Coloque fim em seu sofrimento e pare de me infernizar! Eu até vou a seu enterro e faço uma homenagem póstuma!” Tício visualizou a mensagem, respondendo com “Ok”. Passados dois dias, Tício se joga da janela do prédio de sua casa. Por sorte, Tício cai em cima da carroceria de um caminhão, lotado de colchão, que passava na rua no exato momento da queda. Tício não sofreu qualquer lesão. Diante da situação hipotética, assinale a alternativa correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza grave.",
+        "B": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, que\nse configura com a conduta de induzir, instigar ou\nauxiliar, independentemente do resultado.",
+        "C": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nmodalidade tentada, vez que a morte não se concretizou, por circunstância alheia a sua vontade.",
+        "D": "Mévia não incorreu em qualquer crime, visto que o\ntipo penal de induzimento, instigação ou auxílio a\nsuicídio e automutilação, para se configurar, exige\nque da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza leve.",
+        "E": "Mévia, em tese, incorreu no crime de induzimento,\ninstigação ou auxílio a suicídio e automutilação, na\nfigura qualificada, dada a relação afetiva, entre a vítima e o autor."
+      },
+      "disciplina_origem": "Penal",
+      "assunto_origem": "Tipicidade, Crimes contra a vida"
+    },
+    "oficial": {
+      "id": "Q0049",
+      "tema_central_id": "5152",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",
+      "extras_ids": "5149",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0060",
+    "variante": "sem_seis_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "sinal": 12.947348335545602,
+      "elegivel": true,
+      "confianca": 0.7932387864624866,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "sinal": 9.681635400457434,
+      "elegivel": true,
+      "confianca": 0.74532909921381,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0060",
+      "enunciado_html": "A respeito dos crimes praticados em detrimento da administração pública, assinale a alternativa correta.",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": " São crimes próprios de funcionários públicos o de\\nconcussão, o de peculato e o de tráfico de influência. ",
+        "B": " O crime de facilitação de contrabando ou descaminho pode ser praticado por particular, individualmente ou em concurso de agentes com o funcionário\\npúblico. ",
+        "C": " O crime de advocacia administrativa, para restar caracterizado, exige a qualidade de advogado do sujeito ativo. ",
+        "D": " No crime de corrupção ativa, incidirá causa de aumento da pena ao sujeito ativo, na hipótese de o funcionário omitir ou retardar ato de ofício. ",
+        "E": " O funcionário público que, por recebimento de vantagem ilícita, de qualquer natureza, deixa de responsabilizar subordinado que praticou ato ilícito comete\\ncrime de condescendência criminosa.  "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Corrupção ativa"
+    },
+    "oficial": {
+      "id": "Q0060",
+      "tema_central_id": "5087",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Administração Pública",
+      "extras_ids": "5093",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0124",
+    "variante": "sem_seis_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "sinal": 12.061698554540563,
+      "elegivel": true,
+      "confianca": 0.7798992696106424,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "sinal": 12.555250446852813,
+      "elegivel": true,
+      "confianca": 0.7983759188093146,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0124",
+      "enunciado_html": "À luz das teorias das penas, julgue os seguintes itens.<br><br>I Kant, que era adepto da teoria absoluta da pena, asseverava que, ainda que a sociedade civil acordasse em se dissolver, o último assassino que estivesse no cárcere deveria ser executado, a fim de que cada um sofresse o que efetivamente merecia por seus feitos.<br><br>II Para Hegel, a justiça da pena concreta decorre de um processo dialético, pelo qual se levam em conta as características da lesão concreta assim como as circunstâncias da sociedade civil.<br><br>III Segundo Roxin, a idéia de retribuição compensadora somente é plausível mediante um ato de fé, pois não há como se compreender, de forma racional, como apagar um mal cometido pelo sujeito ativo do crime com um outro mal, isto é, o sofrimento da pena.<br><br>IV Para Binding, a finalidade da pena é mostrar ao delinqüente sua impotência diante da lei, submetendo-lhe, assim, à força vitoriosa do direito.<br><br>V De acordo com as teorias relativas da pena, esta se justifica para a prevenção geral e especial do delito, partindo-se de uma concepção utilitarista da pena.",
+      "comando": "A quantidade de itens certos é igual a",
+      "alternativas": {
+        "A": "1. ",
+        "B": "2. ",
+        "C": "3. ",
+        "D": "4. ",
+        "E": "5. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Legitimidoras da Pena"
+    },
+    "oficial": {
+      "id": "Q0124",
+      "tema_central_id": "4384",
+      "tema_central_caminho": "Criminologia > Teorias Legitimidoras da Pena",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0194",
+    "variante": "sem_seis_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "sinal": 10.896348765712926,
+      "elegivel": true,
+      "confianca": 0.7614232422021496,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2
+    },
+    "depois": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "sinal": 10.220027101015067,
+      "elegivel": true,
+      "confianca": 0.755930356924108,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 2,
+      "politica": "substituir",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0194",
+      "enunciado_html": "Tício, funcionário público, convida Mévio, que trabalha em empresa privada, para ajudá-lo a subtrair um computador, pertencente à repartição, que se encontra na sala de trabalho de Tício, para seu uso diário, e que se acha sob sua guarda.<br><br>Ciente da condição de funcionário público de Tício, Mévio ajuda-o a transportar esse bem até sua casa.<br><br>Nessa situação hipotética, é correto afirmar-se que",
+      "comando": "Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Tício e Mévio respondem por peculato.",
+        "B": "Tício responde por peculato e Mévio responde por furto.",
+        "C": "Tício e Mévio respondem por furto.",
+        "D": "Tício responde por peculato e a conduta de Mévio é atípica."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Teoria do Crime Fato Típico Parte 03"
+    },
+    "oficial": {
+      "id": "Q0194",
+      "tema_central_id": "5087",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Administração Pública",
+      "extras_ids": "5076",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0201",
+    "variante": "sem_seis_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0201",
+      "tema_central_id": "5102",
+      "sinal": 19.498668572297568,
+      "elegivel": true,
+      "confianca": 0.9499515185932822,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 5
+    },
+    "depois": {
+      "id": "Q0201",
+      "tema_central_id": "5102",
+      "sinal": 13.297170161302084,
+      "elegivel": true,
+      "confianca": 0.8778134012641807,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 5,
+      "politica": "substituir",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0201",
+      "enunciado_html": "José, com trinta anos de idade, manteve, entre 2013 e 2015, relacionamento amoroso com uma menor que atualmente tem treze anos de idade. Nesse período, constantemente, José, praticava com ela conjunção carnal e outros atos libidinosos diversos. A mãe da menor descobriu o caso e denunciou José à polícia. A menor, em seu depoimento, afirmou que sempre consentiu com o namoro e com os atos sexuais praticados e que, da mesma forma, já havia namorado outros rapazes antes de José.<br><br>Acerca dessa situação hipotética, assinale a opção correta à luz da jurisprudência dominante, atualmente, no STF e no STJ.",
+      "comando": "Acerca dessa situação hipotética, assinale a opção correta à luz da jurisprudência dominante, atualmente, no STF e no STJ.",
+      "alternativas": {
+        "A": "A prévia existência de relacionamento amoroso e duradouro\\nentre a menor e José extingue a punibilidade do agente por\\ncrime de estupro de vulnerável.",
+        "B": "José praticou crime de estupro de vulnerável e atentado\\nviolento ao pudor em continuidade delitiva.",
+        "C": "José praticou crime de estupro de vulnerável, ainda que a\\nadolescente tenha consentido em manter com ele relações\\nsexuais.",
+        "D": "A ausência de representação formulada pela menor ou por sua\\nmãe impede que José seja processado pelos fatos ocorridos.",
+        "E": "A anterior experiência sexual da vítima afasta sua\\nvulnerabilidade, de forma que José deve responder apenas por\\ncorrupção de menor."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Concurso de Crimes"
+    },
+    "oficial": {
+      "id": "Q0201",
+      "tema_central_id": "5102",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Dignidade Sexual",
+      "extras_ids": "5103",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0304",
+    "variante": "sem_seis_frequentes",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0304",
+      "tema_central_id": "5539",
+      "sinal": 13.050239212140239,
+      "elegivel": true,
+      "confianca": 0.8561671524672079,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 5
+    },
+    "depois": {
+      "id": "Q0304",
+      "tema_central_id": "5539",
+      "sinal": 9.224226674161695,
+      "elegivel": true,
+      "confianca": 0.7595012074296141,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 5,
+      "politica": "substituir",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0304",
+      "enunciado_html": "Em matéria de competência dos Juizados Especiais Criminais, de acordo com a Jurisprudência do Supremo Tribunal Federal,",
+      "comando": "",
+      "alternativas": {
+        "A": "é absoluta a competência dos Juizados Especiais Criminais, razão pela qual não se admite o deslocamento da competência, por regras de conexão ou continência, para o Juízo Comum ou Tribunal do Júri, no concurso de infrações penais de menor potencial ofensivo e comum.",
+        "B": "não se admite a proposta de transação penal se ficar comprovado ter sido o agente beneficiado anteriormente, no prazo de oito anos, pela aplicação de pena restritiva ou multa.",
+        "C": "na ação penal de iniciativa do ofendido no Jecrim não poderá ser oferecida queixa oral, em qualquer hipótese.",
+        "D": "os institutos despenalizadores previstos na Lei nº 9.099/1995 constituem garantia individual do acusado e têm de ser assegurados, quando cabíveis, independente do juízo no qual tramitam os processos.",
+        "E": "o não oferecimento da representação pelo ofendido na audiência preliminar implica decadência do direito."
+      },
+      "disciplina_origem": "Direito Penal - Legislação Especial",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0304",
+      "tema_central_id": "4701",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Juizado Especial Criminal",
+      "extras_ids": "5541;5539",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0115",
+    "variante": "sem_seis_frequentes",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 11.709923803585756,
+      "elegivel": true,
+      "confianca": 0.7665035534299887,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0115",
+      "tema_central_id": "4385",
+      "sinal": 8.700122586694299,
+      "elegivel": true,
+      "confianca": 0.7366174427128933,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 1,
+      "politica": "preservar",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0115",
+      "enunciado_html": "Paulo, executivo do mercado financeiro, após um dia estressante de trabalho, foi demitido. O mundo desabara sobre sua cabeça. Pegou seu carro e o que mais queria era chegar em casa. Mas o horário era de rush e o trânsito estava caótico, ainda chovia. No interior de seu carro sentiu o trauma da demissão e só pensava nas dívidas que já estavam para vencer, quando fora acometido de uma sensação terrível: uma mistura de fracasso, com frustração, impotência, medo e etc. Neste instante, sem quê nem porque, apenas querendo chegar em casa, jogou seu carro para o acostamento, onde atropelou um ciclista que por ali trafegava, subiu no passeio onde atropelou um casal que ali se encontrava, andou por mais de 200 metros até bater num poste, desceu do carro meio tonto e não hesitou, agrediu um motoqueiro e subtraiu a motocicleta, evadindo-se em desabalada carreira, rumo à sua casa. Naquele dia, Paulo, um pacato cidadão, pagador de impostos, bom pai de família, representante da classe média-alta daquela metrópole, transformou-se num criminoso perigoso, uma fera que ocupara as notícias dos principais telejornais. Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "comando": "Diante do caso narrado, identifique dentre as Teorias abaixo, a que melhor analisa (estuda/explica) o caso.",
+      "alternativas": {
+        "A": "Escola de Chicago.  ",
+        "B": "Teoria da associação diferencial.  ",
+        "C": "Teoria da anomia.  ",
+        "D": "Teoria do<i> labeling approach</i>.  ",
+        "E": "Teoria crítica. "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Teorias Sociológicas Explicativas da Criminalidade"
+    },
+    "oficial": {
+      "id": "Q0115",
+      "tema_central_id": "4388",
+      "tema_central_caminho": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie",
+      "extras_ids": "4385",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0221",
+    "variante": "sem_seis_frequentes",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0221",
+      "tema_central_id": "5184",
+      "sinal": 7.283979655979812,
+      "elegivel": true,
+      "confianca": 0.6689158270636105,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0221",
+      "tema_central_id": "5184",
+      "sinal": 11.94519363834025,
+      "elegivel": true,
+      "confianca": 0.8209934492081207,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 1,
+      "politica": "preservar",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0221",
+      "enunciado_html": "A respeito das penas e das medidas de segurança, assinale a opção correta.",
+      "comando": "",
+      "alternativas": {
+        "A": "A atenuante da confissão espontânea é preponderante em\nrelação à reincidência, impossibilitando a compensação plena\nentre uma e outra na segunda fase da dosimetria.",
+        "B": "São espécies de penas privativas de liberdade a reclusão,\na detenção, a prisão simples e a prisão especial.",
+        "C": "São espécies de penas restritivas de direitos a prestação de\nserviços à comunidade, a interdição temporária de direitos e\na obrigação de reparar o dano causado pelo crime.",
+        "D": "São princípios constitucionais aplicáveis à pena a\npersonalidade ou responsabilidade pessoal, a legalidade,\na inderrogabilidade, a proporcionalidade, a individualização e\na humanização.",
+        "E": "A duração da medida de segurança é por tempo indeterminado,\ne o condenado só será liberado depois que perícia médica\natestar a cessação de sua periculosidade."
+      },
+      "disciplina_origem": "Penal",
+      "assunto_origem": "Diferenças entre reclusão e detenção, Sanções penais, Penas privativas de liberdade"
+    },
+    "oficial": {
+      "id": "Q0221",
+      "tema_central_id": "5199",
+      "tema_central_caminho": "Penal > Teoria da Pena",
+      "extras_ids": "5184;5201;5203",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0277",
+    "variante": "sem_seis_frequentes",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 13.270679899301289,
+      "elegivel": true,
+      "confianca": 0.7957334217836514,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 1
+    },
+    "depois": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "sinal": 14.563688333515636,
+      "elegivel": true,
+      "confianca": 0.8723855785795759,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 1,
+      "politica": "preservar",
+      "variante": "sem_seis_frequentes"
+    },
+    "questao": {
+      "id": "Q0277",
+      "enunciado_html": "NÃO configura crime contra idoso:",
+      "comando": "",
+      "alternativas": {
+        "A": "Induzir pessoa idosa, mesmo que com discernimento, a outorgar procuração para fins de administração de bens.",
+        "B": "Desdenhar ou menosprezar pessoa idosa.",
+        "C": "Deixar de prestar assistência ao idoso em situação de iminente perigo.",
+        "D": "Abandonar idoso em hospital.",
+        "E": "Reter cartão magnético de conta bancária relativa a benefícios."
+      },
+      "disciplina_origem": "Direito Civil - Legislação Especial",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0277",
+      "tema_central_id": "4696",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0066",
+    "variante": "sem_atributos_foco",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 15.071577532219024,
+      "elegivel": true,
+      "confianca": 0.8465719893878496,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 15.870078838127847,
+      "elegivel": true,
+      "confianca": 0.8649604774858778,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3,
+      "politica": "substituir",
+      "variante": "sem_atributos_foco"
+    },
+    "questao": {
+      "id": "Q0066",
+      "enunciado_html": "O positivismo criminológico",
+      "comando": "Explique o que é o positivismo criminológico.",
+      "alternativas": {
+        "A": " constitui uma continuidade da Escola Clássica, aprofundando suas ideias a partir do mesmo paradigma metodológico. ",
+        "B": "rejeita o viés etiológico ao buscar o desenvolvimento de um plano individualizador da pena.",
+        "C": " sofreu um abandono teórico que teve como decorrência a ausência de reflexos em práticas atuais e no direito contemporâneo. ",
+        "D": " revela, em seus estudos, a primazia do livre-arbítrio na compreensão do fenômeno criminoso.  ",
+        "E": " primou pela aplicação do método científico no qual a observação direta e a experiência assumem papel decisivo.  "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Etapas Evolutivas e Escolas Criminológicas"
+    },
+    "oficial": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "tema_central_caminho": "Criminologia > Etapas Evolutivas e Escolas Criminológicas",
+      "extras_ids": "4373",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0150",
+    "variante": "sem_atributos_foco",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 27.768132091717092,
+      "elegivel": true,
+      "confianca": 0.9605410978579393,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 28.058303919956494,
+      "elegivel": true,
+      "confianca": 0.9688770104169431,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3,
+      "politica": "substituir",
+      "variante": "sem_atributos_foco"
+    },
+    "questao": {
+      "id": "Q0150",
+      "enunciado_html": "Considerando o entendimento sumulado dos Tribunais Superiores, analise as assertivas abaixo e assinale a alternativa:<br><br>I - A majorante do tráfico transnacional de drogas (art. 40, inciso I, da Lei n. 11.343/2006) configura-se com a prova da destinação internacional das drogas, ainda que não consumada a transposição de fronteiras.<br><br>II - Para a incidência da majorante prevista no art. 40, inciso V, da Lei n. 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.<br><br>III - É cabível a aplicação retroativa da Lei n. 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei n. 6.368/1976, sendo vedada a combinação de leis.<br><br>IV - A causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006 tem natureza objetiva, devendo haver portanto comprovação de mercancia a menos de duzentos metros da respectiva entidade de ensino.",
+      "comando": "Analise as assertivas e assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Todas as alternativas estão corretas.",
+        "B": "Apenas a alternativa I está correta. ",
+        "C": "Apenas a alternativa II está incorreta.",
+        "D": " Apenas a alternativa III está correta.",
+        "E": "Apenas a alternativa IV está incorreta. "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Legislação Penal Especial"
+    },
+    "oficial": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0345",
+    "variante": "sem_atributos_foco",
+    "politica": "substituir",
+    "antes": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 18.93672088718237,
+      "elegivel": true,
+      "confianca": 0.8965822163293709,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 19.62292581368061,
+      "elegivel": true,
+      "confianca": 0.9124514342477104,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3,
+      "politica": "substituir",
+      "variante": "sem_atributos_foco"
+    },
+    "questao": {
+      "id": "Q0345",
+      "enunciado_html": "Antônio, professor respeitado na escola, ofereceu carona à sua\naluna Lívia, adolescente de 13 anos, que aceitou a oferta. Ainda no\nestacionamento da escola, Antônio acariciou os seios da aluna,\nbeijou-a na boca e, enquanto se despia, foi surpreendido pela\ndiretora da escola, que bateu na janela do carro interrompendo a\nação, e em seguida, chamou a Polícia.&nbsp; A respeito da adequação típica da conduta e da incidência da\nagravante prevista no Art. 61, inciso II, alínea f, do Código Penal\n(Art. 61. <span style=\"font-style: italic;\">São circunstâncias que sempre agravam a pena, quando\nnão constituem ou qualificam o crime: II - ter o agente cometido o\ncrime: f) com abuso de autoridade ou prevalecendo-se de relações\ndomésticas, de coabitação ou de hospitalidade, ou com violência\ncontra a mulher na forma da lei específica</span>) e da causa de aumento,\nprevista no Art. 226, inciso II do Código Penal (Art. 226.<span style=\"font-style: italic;\"> A pena é\naumentada: II - de metade, se o agente é ascendente, padrasto ou\nmadrasta, tio, irmão, cônjuge, companheiro, tutor, curador,\npreceptor ou empregador da vítima ou por qualquer outro título\ntiver autoridade sobre ela</span>), à luz do entendimento do Superior\nTribunal de Justiça, assinale a afirmativa correta.     ",
+      "comando": "",
+      "alternativas": {
+        "A": "Antônio praticou o crime de importunação sexual e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "B": "Antônio praticou o crime de estupro de vulnerável tentado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "C": "Antônio praticou o crime de estupro de vulnerável consumado e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "D": "Antônio praticou o crime de estupro de vulnerável consumado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "E": "Antônio praticou o crime de importunação sexual e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0345",
+      "tema_central_id": "5103",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0066",
+    "variante": "sem_atributos_foco",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 15.071577532219024,
+      "elegivel": true,
+      "confianca": 0.8465719893878496,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "sinal": 15.870078838127847,
+      "elegivel": true,
+      "confianca": 0.8649604774858778,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 3,
+      "politica": "preservar",
+      "variante": "sem_atributos_foco"
+    },
+    "questao": {
+      "id": "Q0066",
+      "enunciado_html": "O positivismo criminológico",
+      "comando": "Explique o que é o positivismo criminológico.",
+      "alternativas": {
+        "A": " constitui uma continuidade da Escola Clássica, aprofundando suas ideias a partir do mesmo paradigma metodológico. ",
+        "B": "rejeita o viés etiológico ao buscar o desenvolvimento de um plano individualizador da pena.",
+        "C": " sofreu um abandono teórico que teve como decorrência a ausência de reflexos em práticas atuais e no direito contemporâneo. ",
+        "D": " revela, em seus estudos, a primazia do livre-arbítrio na compreensão do fenômeno criminoso.  ",
+        "E": " primou pela aplicação do método científico no qual a observação direta e a experiência assumem papel decisivo.  "
+      },
+      "disciplina_origem": "Criminologia",
+      "assunto_origem": "Etapas Evolutivas e Escolas Criminológicas"
+    },
+    "oficial": {
+      "id": "Q0066",
+      "tema_central_id": "4371",
+      "tema_central_caminho": "Criminologia > Etapas Evolutivas e Escolas Criminológicas",
+      "extras_ids": "4373",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0150",
+    "variante": "sem_atributos_foco",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 27.768132091717092,
+      "elegivel": true,
+      "confianca": 0.9605410978579393,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "sinal": 28.058303919956494,
+      "elegivel": true,
+      "confianca": 0.9688770104169431,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 3,
+      "politica": "preservar",
+      "variante": "sem_atributos_foco"
+    },
+    "questao": {
+      "id": "Q0150",
+      "enunciado_html": "Considerando o entendimento sumulado dos Tribunais Superiores, analise as assertivas abaixo e assinale a alternativa:<br><br>I - A majorante do tráfico transnacional de drogas (art. 40, inciso I, da Lei n. 11.343/2006) configura-se com a prova da destinação internacional das drogas, ainda que não consumada a transposição de fronteiras.<br><br>II - Para a incidência da majorante prevista no art. 40, inciso V, da Lei n. 11.343/2006, é desnecessária a efetiva transposição de fronteiras entre estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual.<br><br>III - É cabível a aplicação retroativa da Lei n. 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei n. 6.368/1976, sendo vedada a combinação de leis.<br><br>IV - A causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006 tem natureza objetiva, devendo haver portanto comprovação de mercancia a menos de duzentos metros da respectiva entidade de ensino.",
+      "comando": "Analise as assertivas e assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Todas as alternativas estão corretas.",
+        "B": "Apenas a alternativa I está correta. ",
+        "C": "Apenas a alternativa II está incorreta.",
+        "D": " Apenas a alternativa III está correta.",
+        "E": "Apenas a alternativa IV está incorreta. "
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": "Legislação Penal Especial"
+    },
+    "oficial": {
+      "id": "Q0150",
+      "tema_central_id": "4708",
+      "tema_central_caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  },
+  {
+    "id": "Q0345",
+    "variante": "sem_atributos_foco",
+    "politica": "preservar",
+    "antes": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 18.93672088718237,
+      "elegivel": true,
+      "confianca": 0.8965822163293709,
+      "decisao": "revisar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "fold": 3
+    },
+    "depois": {
+      "id": "Q0345",
+      "tema_central_id": "5102",
+      "sinal": 19.62292581368061,
+      "elegivel": true,
+      "confianca": 0.9124514342477104,
+      "decisao": "publicar",
+      "via": "modelo",
+      "correto": 1,
+      "fora_oficial": 0,
+      "publicacao_preservada": false,
+      "fold": 3,
+      "politica": "preservar",
+      "variante": "sem_atributos_foco"
+    },
+    "questao": {
+      "id": "Q0345",
+      "enunciado_html": "Antônio, professor respeitado na escola, ofereceu carona à sua\naluna Lívia, adolescente de 13 anos, que aceitou a oferta. Ainda no\nestacionamento da escola, Antônio acariciou os seios da aluna,\nbeijou-a na boca e, enquanto se despia, foi surpreendido pela\ndiretora da escola, que bateu na janela do carro interrompendo a\nação, e em seguida, chamou a Polícia.&nbsp; A respeito da adequação típica da conduta e da incidência da\nagravante prevista no Art. 61, inciso II, alínea f, do Código Penal\n(Art. 61. <span style=\"font-style: italic;\">São circunstâncias que sempre agravam a pena, quando\nnão constituem ou qualificam o crime: II - ter o agente cometido o\ncrime: f) com abuso de autoridade ou prevalecendo-se de relações\ndomésticas, de coabitação ou de hospitalidade, ou com violência\ncontra a mulher na forma da lei específica</span>) e da causa de aumento,\nprevista no Art. 226, inciso II do Código Penal (Art. 226.<span style=\"font-style: italic;\"> A pena é\naumentada: II - de metade, se o agente é ascendente, padrasto ou\nmadrasta, tio, irmão, cônjuge, companheiro, tutor, curador,\npreceptor ou empregador da vítima ou por qualquer outro título\ntiver autoridade sobre ela</span>), à luz do entendimento do Superior\nTribunal de Justiça, assinale a afirmativa correta.     ",
+      "comando": "",
+      "alternativas": {
+        "A": "Antônio praticou o crime de importunação sexual e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "B": "Antônio praticou o crime de estupro de vulnerável tentado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "C": "Antônio praticou o crime de estupro de vulnerável consumado e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "D": "Antônio praticou o crime de estupro de vulnerável consumado e não é admissível a incidência concomitante da agravante e da causa de aumento mencionadas.",
+        "E": "Antônio praticou o crime de importunação sexual e é admissível a incidência concomitante da agravante e da causa de aumento mencionadas."
+      },
+      "disciplina_origem": "Direito Penal",
+      "assunto_origem": ""
+    },
+    "oficial": {
+      "id": "Q0345",
+      "tema_central_id": "5103",
+      "tema_central_caminho": "Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável",
+      "extras_ids": "",
+      "fora_da_taxonomia": "0"
+    }
+  }
+]

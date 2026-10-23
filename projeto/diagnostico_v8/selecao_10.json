@@ -1,0 +1,39 @@
+{
+  "ids": [
+    "Q0440",
+    "Q0369",
+    "Q0466",
+    "Q0639",
+    "Q0461",
+    "Q0524",
+    "Q0473",
+    "Q0568",
+    "Q0508",
+    "Q0395"
+  ],
+  "corte": 0.7010498798592698,
+  "observacoes": {
+    "Q0440": "Inquérito policial foi reconhecido; a busca separa amplamente esse tema do segundo candidato. As parcelas negativas principais do modelo vêm da similaridade lexical do texto completo, da similaridade do foco e dos caracteres do enunciado. Não é empate entre temas nem erro comprovado na questão.",
+    "Q0369": "A busca tem dois ramos próximos: Penal > Lavagem de Dinheiro e Legislação Especial > Lavagem de Dinheiro. Nenhuma expressão do dicionário v8 foi disparada: lavagem não integra os 16 grupos novos. Não há bloqueio automático por homônimo; a revisão decorre da confiança abaixo do corte.",
+    "Q0466": "Crime doloso e suas descrições não fazem parte dos 53 padrões novos. A busca antiga sugere Fato Típico; o vocabulário não altera a ordem. Similaridade do texto completo, apoio enunciado/alternativas e média lexical das alternativas são as maiores parcelas negativas.",
+    "Q0639": "Tortura e Lei 9.455/1997 não constam dos 16 grupos do novo dicionário. O classificador anterior ainda recupera Tortura; o dicionário novo não acrescenta apoio. As medidas de apoio entre campos e de texto das alternativas contribuem negativamente no modelo de confiança.",
+    "Q0461": "Apelação e recurso de apelação foram reconhecidos como o mesmo grupo, sem dobrar o apoio. O vocabulário troca o primeiro candidato de Sentença Penal para Recursos em Espécies, pai de Apelação. As alternativas contêm datas e pouco vocabulário temático. A nova busca não dá bônus direto à confiança.",
+    "Q0524": "Prescrição foi reconhecida. O vocabulário muda a primeira sugestão de Concurso de Crimes para Prescrição. As alternativas Certo/Errado não fornecem texto temático. A confiança ainda recebe parcelas negativas das similaridades do texto/enunciado e da média de escopo das alternativas.",
+    "Q0473": "Inquérito policial e o marcador referentes ao foram reconhecidos. Considerando não foi tratado como marcador. A busca destaca Inquérito Policial, mas os pesos da comparação lexical, do foco e dos caracteres do enunciado mantêm a confiança abaixo do corte.",
+    "Q0568": "O marcador no que concerne ao extrai tempo do crime, mas essa expressão não está no dicionário v8. O tema é sugerido pela busca anterior. Similaridades de texto completo, foco e caracteres do enunciado aparecem como parcelas negativas; isso não prova ambiguidade jurídica.",
+    "Q0508": "O padrão identifica interceptação das comunicações telefônicas e dá apoio tanto ao ramo de Legislação Especial quanto ao ramo de Provas em Espécies. A busca mantém Legislação Especial em primeiro. Os campos palavra_completo, similaridade_foco e char_enunciado reduzem algebricamente a confiança. Não há veto por ausência de gabarito.",
+    "Q0395": "A introdução coletiva foi removida do texto efetivo. O novo padrão revisão criminal troca a primeira sugestão de Prescrição para Ações Autônomas de Impugnação, pai de Revisão Criminal. A confiança da compatibilidade anterior ainda é insuficiente. Não há rótulo oficial disponível para confirmar esse item."
+  },
+  "Q0308_grupo1": {
+    "confianca": "0.7086719016845587",
+    "correto": "1",
+    "decisao": "revisar",
+    "elegivel": "True",
+    "fold": "1",
+    "fora_oficial": "0",
+    "id": "Q0308",
+    "sinal": "8.976871061577427",
+    "tema_central_id": "5498"
+  },
+  "corte_grupo1": 0.8230325581062979
+}

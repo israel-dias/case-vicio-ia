@@ -1,0 +1,31 @@
+{
+  "versao": "contexto_v15_rodada002",
+  "testes_v15_aprovados": 20,
+  "arquivos_anteriores_verificados": 596,
+  "mudancas_em_arquivos_anteriores": [
+    "README.md"
+  ],
+  "README_anterior_preservado": true,
+  "manifesto_inferencia_verificado": true,
+  "grupos_sem_sobreposicao": true,
+  "reproducao_559": {
+    "questoes": 559,
+    "variante": "foco_contextual",
+    "corte": "70",
+    "politica": "preservar_v11",
+    "igualdade_decisao_tema_confianca": true,
+    "rede_bloqueada": true,
+    "folha_verdade_bloqueada": true,
+    "retreino_bloqueado": true
+  },
+  "resultados": {
+    "100_publicadas": 49,
+    "100_corretas_publicadas": 47,
+    "precisao_100": 0.9591836734693877,
+    "559_publicadas": 392,
+    "cobertura_559": 0.7012522361359571,
+    "300_publicadas": 218,
+    "precisao_real_559": null
+  },
+  "promove_entrega": false
+}

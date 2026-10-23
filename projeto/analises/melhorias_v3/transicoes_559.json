@@ -1,0 +1,1401 @@
+{
+  "mudancas": [
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra o Patrimônio",
+      "caminho_depois": "Penal > Dos Crimes Contra o Patrimônio",
+      "confianca_antes": 0.8207259727459992,
+      "confianca_depois": 0.9109240510053658,
+      "depois": "publicar",
+      "id": "Q0006",
+      "motivo_depois": "Confiança v3 0.911 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.8999320232222999,
+      "confianca_depois": 0.7717225239504831,
+      "depois": "revisar",
+      "id": "Q0008",
+      "motivo_depois": "Confiança v3 0.772 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra o Patrimônio",
+      "caminho_depois": "Penal > Dos Crimes Contra o Patrimônio",
+      "confianca_antes": 0.7717576599536196,
+      "confianca_depois": 0.9383628688163397,
+      "depois": "publicar",
+      "id": "Q0009",
+      "motivo_depois": "Confiança v3 0.938 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Inquérito Policial",
+      "caminho_depois": "Processo Penal > Inquérito Policial",
+      "confianca_antes": 0.8486044530809776,
+      "confianca_depois": 0.7866979471771449,
+      "depois": "revisar",
+      "id": "Q0015",
+      "motivo_depois": "Confiança v3 0.787 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [
+        "Correspondência com o escopo concentrada nas alternativas."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.7555471976830398,
+      "confianca_depois": 0.9182495798342468,
+      "depois": "publicar",
+      "id": "Q0022",
+      "motivo_depois": "Confiança v3 0.918 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Lei Maria da Penha",
+      "caminho_depois": "Penal > Lei Maria da Penha",
+      "confianca_antes": 0.8169639737131573,
+      "confianca_depois": 0.9715644092927513,
+      "depois": "publicar",
+      "id": "Q0026",
+      "motivo_depois": "Confiança v3 0.972 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Abuso de Autoridade",
+      "caminho_depois": "Penal > Abuso de Autoridade",
+      "confianca_antes": 0.9474001655881178,
+      "confianca_depois": 0.4976045689021939,
+      "depois": "revisar",
+      "id": "Q0029",
+      "motivo_depois": "Confiança v3 0.498 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso",
+      "caminho_depois": "Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso",
+      "confianca_antes": 0.7456025188542613,
+      "confianca_depois": 0.9099658888874659,
+      "depois": "publicar",
+      "id": "Q0030",
+      "motivo_depois": "Confiança v3 0.910 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Lei Maria da Penha",
+      "caminho_depois": "Penal > Lei Maria da Penha",
+      "confianca_antes": 0.7777517075855983,
+      "confianca_depois": 0.9540239059812643,
+      "depois": "publicar",
+      "id": "Q0036",
+      "motivo_depois": "Confiança v3 0.954 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Correspondência com o escopo concentrada nas alternativas.",
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Liberdade Pessoal",
+      "caminho_depois": "Penal > Dos Crimes Contra a Liberdade Pessoal",
+      "confianca_antes": 0.8104657413492701,
+      "confianca_depois": 0.8972053803846608,
+      "depois": "publicar",
+      "id": "Q0037",
+      "motivo_depois": "Confiança v3 0.897 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "caminho_depois": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "confianca_antes": 0.7961009892838868,
+      "confianca_depois": 0.9195460225495229,
+      "depois": "publicar",
+      "id": "Q0050",
+      "motivo_depois": "Confiança v3 0.920 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Concurso de Crimes",
+      "caminho_depois": "Penal > Concurso de Crimes",
+      "confianca_antes": 0.7368677780768702,
+      "confianca_depois": 0.8473183760335763,
+      "depois": "publicar",
+      "id": "Q0056",
+      "motivo_depois": "Confiança v3 0.847 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra o Patrimônio",
+      "caminho_depois": "Penal > Dos Crimes Contra o Patrimônio",
+      "confianca_antes": 0.7649866404184138,
+      "confianca_depois": 0.9590379729156249,
+      "depois": "publicar",
+      "id": "Q0065",
+      "motivo_depois": "Confiança v3 0.959 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Introdução ao Estudo do Direito Penal",
+      "caminho_depois": "Penal > Introdução ao Estudo do Direito Penal",
+      "confianca_antes": 0.7108100789296703,
+      "confianca_depois": 0.963605419476628,
+      "depois": "publicar",
+      "id": "Q0069",
+      "motivo_depois": "Confiança v3 0.964 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Estatuto do Desarmamento",
+      "caminho_depois": "Direito Penal - Legislação Especial > Estatuto do Desarmamento",
+      "confianca_antes": 0.7977627169939252,
+      "confianca_depois": 0.9595490346290381,
+      "depois": "publicar",
+      "id": "Q0078",
+      "motivo_depois": "Confiança v3 0.960 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Criminologia > Etapas Evolutivas e Escolas Criminológicas",
+      "caminho_depois": "Criminologia > Etapas Evolutivas e Escolas Criminológicas",
+      "confianca_antes": 0.8924440415711882,
+      "confianca_depois": 0.8022396815712209,
+      "depois": "revisar",
+      "id": "Q0081",
+      "motivo_depois": "Confiança v3 0.802 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Vida",
+      "caminho_depois": "Penal > Dos Crimes Contra a Vida",
+      "confianca_antes": 0.7954583845691718,
+      "confianca_depois": 0.9215591245569146,
+      "depois": "publicar",
+      "id": "Q0083",
+      "motivo_depois": "Confiança v3 0.922 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Criminologia > Vitimologia",
+      "caminho_depois": "Criminologia > Vitimologia",
+      "confianca_antes": 0.8793664123080559,
+      "confianca_depois": 0.5818235308049309,
+      "depois": "revisar",
+      "id": "Q0088",
+      "motivo_depois": "Confiança v3 0.582 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Competência",
+      "caminho_depois": "Processo Penal > Competência",
+      "confianca_antes": 0.900758368254525,
+      "confianca_depois": 0.7630776915709063,
+      "depois": "revisar",
+      "id": "Q0096",
+      "motivo_depois": "Confiança v3 0.763 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Tráfico de Drogas",
+      "caminho_depois": "Penal > Tráfico de Drogas",
+      "confianca_antes": 0.9048646146443945,
+      "confianca_depois": 0.7287550264852859,
+      "depois": "revisar",
+      "id": "Q0097",
+      "motivo_depois": "Confiança v3 0.729 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Sentença Penal",
+      "caminho_depois": "Processo Penal > Sentença Penal",
+      "confianca_antes": 0.8490800640279152,
+      "confianca_depois": 0.8239750933646577,
+      "depois": "revisar",
+      "id": "Q0102",
+      "motivo_depois": "Confiança v3 0.824 < corte 0.835; variante referencias_fixa. Confiança próxima do corte."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Recursos em Espécies",
+      "caminho_depois": "Processo Penal > Recursos em Espécies",
+      "confianca_antes": 0.8055931535977323,
+      "confianca_depois": 0.8536923410281858,
+      "depois": "publicar",
+      "id": "Q0108",
+      "motivo_depois": "Confiança v3 0.854 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Ação Penal",
+      "caminho_depois": "Processo Penal > Ação Penal",
+      "confianca_antes": 0.7254954801854677,
+      "confianca_depois": 0.8448960811473415,
+      "depois": "publicar",
+      "id": "Q0121",
+      "motivo_depois": "Confiança v3 0.845 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Tráfico de Drogas",
+      "caminho_depois": "Penal > Tráfico de Drogas",
+      "confianca_antes": 0.6739937247127011,
+      "confianca_depois": 0.9209015265446203,
+      "depois": "publicar",
+      "id": "Q0127",
+      "motivo_depois": "Confiança v3 0.921 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Lei Maria da Penha",
+      "caminho_depois": "Penal > Lei Maria da Penha",
+      "confianca_antes": 0.8980678959210311,
+      "confianca_depois": 0.8124497829895304,
+      "depois": "revisar",
+      "id": "Q0136",
+      "motivo_depois": "Confiança v3 0.812 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Lei Processual no Tempo e no Espaço",
+      "caminho_depois": "Processo Penal > Lei Processual no Tempo e no Espaço",
+      "confianca_antes": 0.9098978846573261,
+      "confianca_depois": 0.7596933106613463,
+      "depois": "revisar",
+      "id": "Q0143",
+      "motivo_depois": "Confiança v3 0.760 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Prisões em Espécie",
+      "caminho_depois": "Processo Penal > Prisões em Espécie",
+      "confianca_antes": 0.7860483058722495,
+      "confianca_depois": 0.8587501904011999,
+      "depois": "publicar",
+      "id": "Q0151",
+      "motivo_depois": "Confiança v3 0.859 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra o Patrimônio",
+      "caminho_depois": "Penal > Dos Crimes Contra o Patrimônio",
+      "confianca_antes": 0.6792000259668702,
+      "confianca_depois": 0.8542608816587124,
+      "depois": "publicar",
+      "id": "Q0159",
+      "motivo_depois": "Confiança v3 0.854 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Inquérito Policial",
+      "caminho_depois": "Processo Penal > Inquérito Policial",
+      "confianca_antes": 0.8700914168534551,
+      "confianca_depois": 0.5301490649440177,
+      "depois": "revisar",
+      "id": "Q0197",
+      "motivo_depois": "Confiança v3 0.530 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Recursos em Espécies",
+      "caminho_depois": "Processo Penal > Recursos em Espécies",
+      "confianca_antes": 0.7862029196537587,
+      "confianca_depois": 0.8695082165089443,
+      "depois": "publicar",
+      "id": "Q0205",
+      "motivo_depois": "Confiança v3 0.870 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "caminho_depois": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "confianca_antes": 0.6590771248817902,
+      "confianca_depois": 0.8629937557201603,
+      "depois": "publicar",
+      "id": "Q0213",
+      "motivo_depois": "Confiança v3 0.863 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Prisões em Espécie",
+      "caminho_depois": "Processo Penal > Prisões em Espécie",
+      "confianca_antes": 0.7261136150357718,
+      "confianca_depois": 0.968078886257644,
+      "depois": "publicar",
+      "id": "Q0218",
+      "motivo_depois": "Confiança v3 0.968 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Teoria da Pena",
+      "caminho_depois": "Penal > Teoria da Pena",
+      "confianca_antes": 0.8170229399844906,
+      "confianca_depois": 0.886178126516394,
+      "depois": "publicar",
+      "id": "Q0224",
+      "motivo_depois": "Confiança v3 0.886 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Correspondência com o escopo concentrada nas alternativas.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Dignidade Sexual",
+      "caminho_depois": "Penal > Dos Crimes Contra a Dignidade Sexual",
+      "confianca_antes": 0.7141509480285754,
+      "confianca_depois": 0.8576885144756653,
+      "depois": "publicar",
+      "id": "Q0227",
+      "motivo_depois": "Confiança v3 0.858 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Judicial",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Judicial",
+      "confianca_antes": 0.7700964388212227,
+      "confianca_depois": 0.8934122981259194,
+      "depois": "publicar",
+      "id": "Q0232",
+      "motivo_depois": "Confiança v3 0.893 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Recursos em Espécies",
+      "caminho_depois": "Processo Penal > Recursos em Espécies",
+      "confianca_antes": 0.8621555177541248,
+      "confianca_depois": 0.7574957446307248,
+      "depois": "revisar",
+      "id": "Q0235",
+      "motivo_depois": "Confiança v3 0.757 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Iter Criminis",
+      "caminho_depois": "Penal > Iter Criminis",
+      "confianca_antes": 0.6555772083434913,
+      "confianca_depois": 0.9023439188261825,
+      "depois": "publicar",
+      "id": "Q0243",
+      "motivo_depois": "Confiança v3 0.902 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Inquérito Policial",
+      "caminho_depois": "Processo Penal > Inquérito Policial",
+      "confianca_antes": 0.7771976787610843,
+      "confianca_depois": 0.9458532024205122,
+      "depois": "publicar",
+      "id": "Q0247",
+      "motivo_depois": "Confiança v3 0.946 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Correspondência com o escopo concentrada nas alternativas.",
+        "Há referência normativa sem associação documental ao candidato.",
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Medida de Segurança",
+      "caminho_depois": "Penal > Medida de Segurança",
+      "confianca_antes": 0.8300192911910612,
+      "confianca_depois": 0.5557580557971668,
+      "depois": "revisar",
+      "id": "Q0262",
+      "motivo_depois": "Confiança v3 0.556 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Dignidade Sexual",
+      "caminho_depois": "Penal > Dos Crimes Contra a Dignidade Sexual",
+      "confianca_antes": 0.8385585634777687,
+      "confianca_depois": 0.6945837549312067,
+      "depois": "revisar",
+      "id": "Q0264",
+      "motivo_depois": "Confiança v3 0.695 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Procedimento do Tribunal do Júri",
+      "caminho_depois": "Processo Penal > Procedimento do Tribunal do Júri",
+      "confianca_antes": 0.8464860098385633,
+      "confianca_depois": 0.7430047825942854,
+      "depois": "revisar",
+      "id": "Q0266",
+      "motivo_depois": "Confiança v3 0.743 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "caminho_depois": "Direito Penal - Legislação Especial > Tráfico de Drogas",
+      "confianca_antes": 0.5219645579657326,
+      "confianca_depois": 0.8702862414105416,
+      "depois": "publicar",
+      "id": "Q0267",
+      "motivo_depois": "Confiança v3 0.870 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.649934856677527,
+      "confianca_depois": 0.9273833829224414,
+      "depois": "publicar",
+      "id": "Q0270",
+      "motivo_depois": "Confiança v3 0.927 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Criminologia > Política Criminal",
+      "caminho_depois": "Criminologia > Política Criminal",
+      "confianca_antes": 0.6621444500219702,
+      "confianca_depois": 0.9307269345979018,
+      "depois": "publicar",
+      "id": "Q0285",
+      "motivo_depois": "Confiança v3 0.931 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Teoria do Crime: Ilicitude",
+      "caminho_depois": "Penal > Teoria do Crime: Ilicitude",
+      "confianca_antes": 0.8828522985488666,
+      "confianca_depois": 0.38656059440011004,
+      "depois": "revisar",
+      "id": "Q0287",
+      "motivo_depois": "Confiança v3 0.387 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Teoria do Crime: Culpabilidade",
+      "caminho_depois": "Penal > Teoria do Crime: Culpabilidade",
+      "confianca_antes": 0.8388750612552911,
+      "confianca_depois": 0.8178738891787971,
+      "depois": "revisar",
+      "id": "Q0294",
+      "motivo_depois": "Confiança v3 0.818 < corte 0.835; variante referencias_fixa. Confiança próxima do corte."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro",
+      "caminho_depois": "Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro",
+      "confianca_antes": 0.8831942302561531,
+      "confianca_depois": 0.7894337407020503,
+      "depois": "revisar",
+      "id": "Q0297",
+      "motivo_depois": "Confiança v3 0.789 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Crimes previstos no CDC",
+      "caminho_depois": "Direito Penal - Legislação Especial > Crimes previstos no CDC",
+      "confianca_antes": 0.9472241802754438,
+      "confianca_depois": 0.8016196689810304,
+      "depois": "revisar",
+      "id": "Q0298",
+      "motivo_depois": "Confiança v3 0.802 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Judicial",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Judicial",
+      "confianca_antes": 0.7454432355701044,
+      "confianca_depois": 0.8657253356245119,
+      "depois": "publicar",
+      "id": "Q0300",
+      "motivo_depois": "Confiança v3 0.866 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Punibilidade",
+      "caminho_depois": "Penal > Punibilidade",
+      "confianca_antes": 0.7330155137404639,
+      "confianca_depois": 0.8407929164993647,
+      "depois": "publicar",
+      "id": "Q0317",
+      "motivo_depois": "Confiança v3 0.841 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Correspondência com o escopo concentrada nas alternativas."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Ações Autônomas de Impugnação",
+      "caminho_depois": "Processo Penal > Ações Autônomas de Impugnação",
+      "confianca_antes": 0.7969940761220186,
+      "confianca_depois": 0.9839315914811305,
+      "depois": "publicar",
+      "id": "Q0331",
+      "motivo_depois": "Confiança v3 0.984 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Criminologia > Teoria Geral da Criminologia",
+      "caminho_depois": "Criminologia > Teoria Geral da Criminologia",
+      "confianca_antes": 0.7485782509135378,
+      "confianca_depois": 0.8426777966050861,
+      "depois": "publicar",
+      "id": "Q0334",
+      "motivo_depois": "Confiança v3 0.843 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Abuso de Autoridade",
+      "caminho_depois": "Penal > Abuso de Autoridade",
+      "confianca_antes": 0.9474001655881178,
+      "confianca_depois": 0.8079474736140445,
+      "depois": "revisar",
+      "id": "Q0337",
+      "motivo_depois": "Confiança v3 0.808 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Teoria da Pena",
+      "caminho_depois": "Penal > Teoria da Pena",
+      "confianca_antes": 0.7818124187196268,
+      "confianca_depois": 0.9032335460777488,
+      "depois": "publicar",
+      "id": "Q0347",
+      "motivo_depois": "Confiança v3 0.903 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Lavagem de Dinheiro",
+      "caminho_depois": "Direito Penal - Legislação Especial > Lavagem de Dinheiro",
+      "confianca_antes": 0.9474001655881178,
+      "confianca_depois": 0.8286968373339964,
+      "depois": "revisar",
+      "id": "Q0350",
+      "motivo_depois": "Confiança v3 0.829 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Tráfico de Drogas",
+      "caminho_depois": "Penal > Tráfico de Drogas",
+      "confianca_antes": 0.6710645208130103,
+      "confianca_depois": 0.9875271169810128,
+      "depois": "publicar",
+      "id": "Q0355",
+      "motivo_depois": "Confiança v3 0.988 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra o Patrimônio",
+      "caminho_depois": "Penal > Dos Crimes Contra o Patrimônio",
+      "confianca_antes": 0.6207348240360305,
+      "confianca_depois": 0.8777721448553835,
+      "depois": "publicar",
+      "id": "Q0357",
+      "motivo_depois": "Confiança v3 0.878 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Teoria do Crime: Culpabilidade",
+      "caminho_depois": "Penal > Teoria do Crime: Culpabilidade",
+      "confianca_antes": 0.7144633262660369,
+      "confianca_depois": 0.9260931526836436,
+      "depois": "publicar",
+      "id": "Q0361",
+      "motivo_depois": "Confiança v3 0.926 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Provas em Espécies",
+      "caminho_depois": "Processo Penal > Provas em Espécies",
+      "confianca_antes": 0.7287563140954204,
+      "confianca_depois": 0.9019671798401657,
+      "depois": "publicar",
+      "id": "Q0362",
+      "motivo_depois": "Confiança v3 0.902 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Lavagem de Dinheiro",
+      "caminho_depois": "Penal > Lavagem de Dinheiro",
+      "confianca_antes": 0.9474001655881178,
+      "confianca_depois": 0.7587586174335584,
+      "depois": "revisar",
+      "id": "Q0369",
+      "motivo_depois": "Confiança v3 0.759 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental",
+      "caminho_depois": "Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental",
+      "confianca_antes": 0.759272546974591,
+      "confianca_depois": 0.8380441148895994,
+      "depois": "publicar",
+      "id": "Q0378",
+      "motivo_depois": "Confiança v3 0.838 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Lavagem de Dinheiro",
+      "caminho_depois": "Penal > Lavagem de Dinheiro",
+      "confianca_antes": 0.8916450448567543,
+      "confianca_depois": 0.5621795739832934,
+      "depois": "revisar",
+      "id": "Q0383",
+      "motivo_depois": "Confiança v3 0.562 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Provas em Espécies",
+      "caminho_depois": "Processo Penal > Provas em Espécies",
+      "confianca_antes": 0.6416396885728317,
+      "confianca_depois": 0.8984497523672813,
+      "depois": "publicar",
+      "id": "Q0385",
+      "motivo_depois": "Confiança v3 0.898 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Teoria Geral das Provas",
+      "caminho_depois": "Processo Penal > Teoria Geral das Provas",
+      "confianca_antes": 0.6842039839962196,
+      "confianca_depois": 0.8453066525130172,
+      "depois": "publicar",
+      "id": "Q0387",
+      "motivo_depois": "Confiança v3 0.845 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Teoria do Crime: Fato Típico",
+      "caminho_depois": "Penal > Teoria do Crime: Fato Típico",
+      "confianca_antes": 0.7016146451038028,
+      "confianca_depois": 0.9362942475889061,
+      "depois": "publicar",
+      "id": "Q0389",
+      "motivo_depois": "Confiança v3 0.936 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Teoria da Pena",
+      "caminho_depois": "Penal > Teoria da Pena",
+      "confianca_antes": 0.7422370713432447,
+      "confianca_depois": 0.9197043882441347,
+      "depois": "publicar",
+      "id": "Q0401",
+      "motivo_depois": "Confiança v3 0.920 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Das Questões e Processos Incidentes",
+      "caminho_depois": "Processo Penal > Das Questões e Processos Incidentes",
+      "confianca_antes": 0.7551765712811337,
+      "confianca_depois": 0.8528848390443371,
+      "depois": "publicar",
+      "id": "Q0408",
+      "motivo_depois": "Confiança v3 0.853 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.754954200862581,
+      "confianca_depois": 0.9226161988968181,
+      "depois": "publicar",
+      "id": "Q0412",
+      "motivo_depois": "Confiança v3 0.923 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade",
+      "caminho_depois": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade",
+      "confianca_antes": 0.7545765946242206,
+      "confianca_depois": 0.9323690093120942,
+      "depois": "publicar",
+      "id": "Q0419",
+      "motivo_depois": "Confiança v3 0.932 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Ação Penal",
+      "caminho_depois": "Processo Penal > Ação Penal",
+      "confianca_antes": 0.48303187990079244,
+      "confianca_depois": 0.8884301181566452,
+      "depois": "publicar",
+      "id": "Q0421",
+      "motivo_depois": "Confiança v3 0.888 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Vida",
+      "caminho_depois": "Penal > Dos Crimes Contra a Vida",
+      "confianca_antes": 0.7272429455801646,
+      "confianca_depois": 0.8965950617447842,
+      "depois": "publicar",
+      "id": "Q0429",
+      "motivo_depois": "Confiança v3 0.897 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Inquérito Policial",
+      "caminho_depois": "Processo Penal > Inquérito Policial",
+      "confianca_antes": 0.8725404157214967,
+      "confianca_depois": 0.779302010439448,
+      "depois": "revisar",
+      "id": "Q0434",
+      "motivo_depois": "Confiança v3 0.779 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Provas em Espécies",
+      "caminho_depois": "Processo Penal > Provas em Espécies",
+      "confianca_antes": 0.8111231690335353,
+      "confianca_depois": 0.8747344582995383,
+      "depois": "publicar",
+      "id": "Q0444",
+      "motivo_depois": "Confiança v3 0.875 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Inquérito Policial",
+      "caminho_depois": "Processo Penal > Inquérito Policial",
+      "confianca_antes": 0.9474001655881178,
+      "confianca_depois": 0.807935935567865,
+      "depois": "revisar",
+      "id": "Q0452",
+      "motivo_depois": "Confiança v3 0.808 < corte 0.835; variante referencias_fixa. Confiança próxima do corte."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Ações Autônomas de Impugnação",
+      "caminho_depois": "Processo Penal > Ações Autônomas de Impugnação",
+      "confianca_antes": 0.7563599728646432,
+      "confianca_depois": 0.9805949137609385,
+      "depois": "publicar",
+      "id": "Q0457",
+      "motivo_depois": "Confiança v3 0.981 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.6973242002227596,
+      "confianca_depois": 0.9414891704264933,
+      "depois": "publicar",
+      "id": "Q0463",
+      "motivo_depois": "Confiança v3 0.941 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Ação Penal",
+      "caminho_depois": "Processo Penal > Ação Penal",
+      "confianca_antes": 0.7584590960667473,
+      "confianca_depois": 0.843914526264436,
+      "depois": "publicar",
+      "id": "Q0477",
+      "motivo_depois": "Confiança v3 0.844 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Lei Processual no Tempo e no Espaço",
+      "caminho_depois": "Processo Penal > Lei Processual no Tempo e no Espaço",
+      "confianca_antes": 0.9474001655881178,
+      "confianca_depois": 0.8127767478757906,
+      "depois": "revisar",
+      "id": "Q0482",
+      "motivo_depois": "Confiança v3 0.813 < corte 0.835; variante referencias_fixa. Confiança próxima do corte."
+    },
+    {
+      "alertas": [
+        "Correspondência com o escopo concentrada nas alternativas."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Iter Criminis",
+      "caminho_depois": "Penal > Iter Criminis",
+      "confianca_antes": 0.7327233540536765,
+      "confianca_depois": 0.9776486950862404,
+      "depois": "publicar",
+      "id": "Q0483",
+      "motivo_depois": "Confiança v3 0.978 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.7705362228519239,
+      "confianca_depois": 0.8709622520094507,
+      "depois": "publicar",
+      "id": "Q0502",
+      "motivo_depois": "Confiança v3 0.871 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Criminologia > Processos de Criminalização e Cifras Criminais",
+      "caminho_depois": "Criminologia > Processos de Criminalização e Cifras Criminais",
+      "confianca_antes": 0.8395620809121144,
+      "confianca_depois": 0.8163820452907301,
+      "depois": "revisar",
+      "id": "Q0503",
+      "motivo_depois": "Confiança v3 0.816 < corte 0.835; variante referencias_fixa. Confiança próxima do corte."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Interceptação Telefônica",
+      "caminho_depois": "Direito Penal - Legislação Especial > Interceptação Telefônica",
+      "confianca_antes": 0.9474001655881178,
+      "confianca_depois": 0.754683415397984,
+      "depois": "revisar",
+      "id": "Q0508",
+      "motivo_depois": "Confiança v3 0.755 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro",
+      "caminho_depois": "Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro",
+      "confianca_antes": 0.9459775222718653,
+      "confianca_depois": 0.8093868048662678,
+      "depois": "revisar",
+      "id": "Q0514",
+      "motivo_depois": "Confiança v3 0.809 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro",
+      "caminho_depois": "Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro",
+      "confianca_antes": 0.9388368841961753,
+      "confianca_depois": 0.7290912534331379,
+      "depois": "revisar",
+      "id": "Q0516",
+      "motivo_depois": "Confiança v3 0.729 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Ação Penal",
+      "caminho_depois": "Processo Penal > Ação Penal",
+      "confianca_antes": 0.8258159642942143,
+      "confianca_depois": 0.7949088011209388,
+      "depois": "revisar",
+      "id": "Q0531",
+      "motivo_depois": "Confiança v3 0.795 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Provas em Espécies",
+      "caminho_depois": "Processo Penal > Provas em Espécies",
+      "confianca_antes": 0.5815186753173904,
+      "confianca_depois": 0.9079781709478825,
+      "depois": "publicar",
+      "id": "Q0536",
+      "motivo_depois": "Confiança v3 0.908 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra o Patrimônio",
+      "caminho_depois": "Penal > Dos Crimes Contra o Patrimônio",
+      "confianca_antes": 0.6364420047458265,
+      "confianca_depois": 0.8406499485439717,
+      "depois": "publicar",
+      "id": "Q0539",
+      "motivo_depois": "Confiança v3 0.841 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.8272742151470497,
+      "confianca_depois": 0.8328594153425072,
+      "depois": "revisar",
+      "id": "Q0546",
+      "motivo_depois": "Confiança v3 0.833 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [
+        "Correspondência com o escopo concentrada nas alternativas.",
+        "Há referência normativa sem associação documental ao candidato.",
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro",
+      "caminho_depois": "Direito Penal - Legislação Especial > Crimes contra o Sistema Financeiro",
+      "confianca_antes": 0.8671673541418162,
+      "confianca_depois": 0.7696866631908497,
+      "depois": "revisar",
+      "id": "Q0547",
+      "motivo_depois": "Confiança v3 0.770 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Ação Penal",
+      "caminho_depois": "Processo Penal > Ação Penal",
+      "confianca_antes": 0.835700229948038,
+      "confianca_depois": 0.7374059220306883,
+      "depois": "revisar",
+      "id": "Q0551",
+      "motivo_depois": "Confiança v3 0.737 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Sistemas e Princípios Processuais Penais",
+      "caminho_depois": "Processo Penal > Sistemas e Princípios Processuais Penais",
+      "confianca_antes": 0.5722535940180729,
+      "confianca_depois": 0.9232562425494959,
+      "depois": "publicar",
+      "id": "Q0558",
+      "motivo_depois": "Confiança v3 0.923 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.805143211922214,
+      "confianca_depois": 0.9641665820203491,
+      "depois": "publicar",
+      "id": "Q0559",
+      "motivo_depois": "Confiança v3 0.964 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.8454621554116402,
+      "confianca_depois": 0.7789877076560017,
+      "depois": "revisar",
+      "id": "Q0562",
+      "motivo_depois": "Confiança v3 0.779 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade",
+      "caminho_depois": "Criminologia > Teorias Sociológicas Explicativas da Criminalidade",
+      "confianca_antes": 0.6722491111100468,
+      "confianca_depois": 0.8861618511591554,
+      "depois": "publicar",
+      "id": "Q0564",
+      "motivo_depois": "Confiança v3 0.886 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Recursos em Espécies",
+      "caminho_depois": "Processo Penal > Recursos em Espécies",
+      "confianca_antes": 0.8159006185176241,
+      "confianca_depois": 0.8862885986099057,
+      "depois": "publicar",
+      "id": "Q0570",
+      "motivo_depois": "Confiança v3 0.886 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Teoria do Crime: Ilicitude",
+      "caminho_depois": "Penal > Teoria do Crime: Ilicitude",
+      "confianca_antes": 0.6375874641596454,
+      "confianca_depois": 0.8495558704567654,
+      "depois": "publicar",
+      "id": "Q0590",
+      "motivo_depois": "Confiança v3 0.850 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.8308156067899903,
+      "confianca_depois": 0.7752781150346241,
+      "depois": "revisar",
+      "id": "Q0592",
+      "motivo_depois": "Confiança v3 0.775 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra o Patrimônio",
+      "caminho_depois": "Penal > Dos Crimes Contra o Patrimônio",
+      "confianca_antes": 0.3934044555760585,
+      "confianca_depois": 0.8837248767074973,
+      "depois": "publicar",
+      "id": "Q0593",
+      "motivo_depois": "Confiança v3 0.884 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Lei Penal no Tempo e no Espaço",
+      "caminho_depois": "Penal > Lei Penal no Tempo e no Espaço",
+      "confianca_antes": 0.9218660297218175,
+      "confianca_depois": 0.7324135720541353,
+      "depois": "revisar",
+      "id": "Q0608",
+      "motivo_depois": "Confiança v3 0.732 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Crimes Tributários",
+      "caminho_depois": "Direito Penal - Legislação Especial > Crimes Tributários",
+      "confianca_antes": 0.8892849139183849,
+      "confianca_depois": 0.7338530040184633,
+      "depois": "revisar",
+      "id": "Q0609",
+      "motivo_depois": "Confiança v3 0.734 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+    },
+    {
+      "alertas": [
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Interceptação Telefônica",
+      "caminho_depois": "Direito Penal - Legislação Especial > Interceptação Telefônica",
+      "confianca_antes": 0.8180996943928375,
+      "confianca_depois": 0.9660779161958061,
+      "depois": "publicar",
+      "id": "Q0610",
+      "motivo_depois": "Confiança v3 0.966 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental",
+      "caminho_depois": "Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental",
+      "confianca_antes": 0.8054320391718068,
+      "confianca_depois": 0.9358027005675951,
+      "depois": "publicar",
+      "id": "Q0611",
+      "motivo_depois": "Confiança v3 0.936 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Dos Crimes contra as Finanças Públicas",
+      "caminho_depois": "Penal > Dos Crimes contra as Finanças Públicas",
+      "confianca_antes": 0.9425103031328175,
+      "confianca_depois": 0.8218177935375727,
+      "depois": "revisar",
+      "id": "Q0620",
+      "motivo_depois": "Confiança v3 0.822 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Lei Penal no Tempo e no Espaço",
+      "caminho_depois": "Penal > Lei Penal no Tempo e no Espaço",
+      "confianca_antes": 0.869336101883506,
+      "confianca_depois": 0.7614728106215112,
+      "depois": "revisar",
+      "id": "Q0622",
+      "motivo_depois": "Confiança v3 0.761 < corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Processo Penal > Provas em Espécies",
+      "caminho_depois": "Processo Penal > Provas em Espécies",
+      "confianca_antes": 0.5479521600530236,
+      "confianca_depois": 0.9019802767555345,
+      "depois": "publicar",
+      "id": "Q0623",
+      "motivo_depois": "Confiança v3 0.902 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.8026681050328565,
+      "confianca_depois": 0.9310314995012087,
+      "depois": "publicar",
+      "id": "Q0625",
+      "motivo_depois": "Confiança v3 0.931 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Incolumidade Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Incolumidade Pública",
+      "confianca_antes": 0.9393363872538101,
+      "confianca_depois": 0.8096859623613418,
+      "depois": "revisar",
+      "id": "Q0627",
+      "motivo_depois": "Confiança v3 0.810 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra o Patrimônio",
+      "caminho_depois": "Penal > Dos Crimes Contra o Patrimônio",
+      "confianca_antes": 0.5117377654739707,
+      "confianca_depois": 0.8382469687046049,
+      "depois": "publicar",
+      "id": "Q0633",
+      "motivo_depois": "Confiança v3 0.838 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Direito Penal - Legislação Especial > Tortura",
+      "caminho_depois": "Direito Penal - Legislação Especial > Tortura",
+      "confianca_antes": 0.8999906208951288,
+      "confianca_depois": 0.8064494389263446,
+      "depois": "revisar",
+      "id": "Q0639",
+      "motivo_depois": "Confiança v3 0.806 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [],
+      "antes": "revisar",
+      "caminho_antes": "Penal > Dos Crimes Contra a Administração Pública",
+      "caminho_depois": "Penal > Dos Crimes Contra a Administração Pública",
+      "confianca_antes": 0.7582022035793962,
+      "confianca_depois": 0.9450296573135126,
+      "depois": "publicar",
+      "id": "Q0641",
+      "motivo_depois": "Confiança v3 0.945 >= corte 0.835; variante referencias_fixa."
+    },
+    {
+      "alertas": [
+        "Correspondência com o escopo concentrada nas alternativas."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Processo Penal > Procedimento Sumário",
+      "caminho_depois": "Processo Penal > Procedimento Sumário",
+      "confianca_antes": 0.8321339933385461,
+      "confianca_depois": 0.7576232534250801,
+      "depois": "revisar",
+      "id": "Q0652",
+      "motivo_depois": "Confiança v3 0.758 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas."
+    },
+    {
+      "alertas": [
+        "Há referência normativa sem associação documental ao candidato.",
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Abuso de Autoridade",
+      "caminho_depois": "Penal > Abuso de Autoridade",
+      "confianca_antes": 0.9474001655881178,
+      "confianca_depois": 0.8147437690289697,
+      "depois": "revisar",
+      "id": "Q0657",
+      "motivo_depois": "Confiança v3 0.815 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato."
+    },
+    {
+      "alertas": [
+        "Confiança próxima do corte."
+      ],
+      "antes": "publicar",
+      "caminho_antes": "Penal > Lavagem de Dinheiro",
+      "caminho_depois": "Penal > Lavagem de Dinheiro",
+      "confianca_antes": 0.9474001655881178,
+      "confianca_depois": 0.8342403209275303,
+      "depois": "revisar",
+      "id": "Q0659",
+      "motivo_depois": "Confiança v3 0.834 < corte 0.835; variante referencias_fixa. Confiança próxima do corte."
+    }
+  ],
+  "nota": "Sem rótulos oficiais para estas questões. Liberação ou bloqueio não demonstra acerto jurídico.",
+  "questoes": 559
+}

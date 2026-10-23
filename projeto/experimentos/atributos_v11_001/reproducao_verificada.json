@@ -1,0 +1,8 @@
+{
+  "questoes": 559,
+  "variante": "sem_apoio_duplo",
+  "politica": "preservar",
+  "tema_decisao_confianca_iguais": true,
+  "rotulos_bloqueados": true,
+  "rede_bloqueada": true
+}

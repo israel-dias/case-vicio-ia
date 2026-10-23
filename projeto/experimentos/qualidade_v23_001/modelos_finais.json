@@ -1,0 +1,81 @@
+{
+  "modelos": {
+    "margens": {
+      "modelo": {
+        "dimensao": 3,
+        "media": [
+          0.1936460373894898,
+          0.002415279100071894,
+          0.9023137449919
+        ],
+        "escala": [
+          0.311801836847306,
+          0.011324205243422513,
+          0.014754955630624587
+        ],
+        "coeficientes": [
+          0.7067203270180044,
+          0.25177167932210426,
+          0.12402111831403609
+        ],
+        "intercepto": 1.1648310736404146
+      },
+      "politica": {
+        "ativa": true,
+        "limiar": 0.8668438984772394,
+        "suporte_interno": 24,
+        "acertos_internos": 23
+      },
+      "atributos": [
+        "margem_lexica",
+        "margem_semantica",
+        "apoio_semantico"
+      ]
+    },
+    "evidencias": {
+      "modelo": {
+        "dimensao": 6,
+        "media": [
+          0.19364603738948982,
+          0.002415279100071894,
+          0.9023137449919002,
+          0.8427222222222223,
+          0.7097311565700237,
+          0.23
+        ],
+        "escala": [
+          0.31180183684730595,
+          0.01132420524342251,
+          0.01475495563062459,
+          0.28769700174804536,
+          0.3680311607444418,
+          0.42083250825001617
+        ],
+        "coeficientes": [
+          0.691006117461784,
+          0.18970051434086663,
+          -0.028913568576470795,
+          0.21579289397846774,
+          0.2664277587300066,
+          0.7917937988444806
+        ],
+        "intercepto": 1.2984011372117623
+      },
+      "politica": {
+        "ativa": true,
+        "limiar": 0.8892219128790722,
+        "suporte_interno": 25,
+        "acertos_internos": 24
+      },
+      "atributos": [
+        "margem_lexica",
+        "margem_semantica",
+        "apoio_semantico",
+        "posicao_lexica",
+        "posicao_semantica",
+        "identificador_comando"
+      ]
+    }
+  },
+  "selecionado": "evidencias"
+}

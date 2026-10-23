@@ -1,0 +1,235 @@
+{
+  "controle_atual": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 39,
+      "revisar": 61,
+      "fora": 0,
+      "cobertura": 0.39,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 57,
+        "homonimo_sem_escopo_resolvido": 4
+      },
+      "acertos_top1": 74,
+      "acertos_publicadas": 36,
+      "erros_publicadas": 3,
+      "precisao_desenvolvimento": 0.9230769230769231,
+      "fora_oficial_publicadas": 2,
+      "brier": 0.17096089972879294,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 8,
+      "publicacoes_anteriores_perdidas": 19,
+      "publicadas_com_tema_trocado": 1,
+      "novas_corretas": 6,
+      "novas_erradas": 2,
+      "acertos_perdidos": 18,
+      "erros_retidos": 1,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 58,
+        "cobertura": 0.58,
+        "precisao_desenvolvimento": 0.9310344827586207,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas": {
+      "temas_trocados": 0,
+      "erros_corrigidos": 0,
+      "acertos_prejudicados": 0,
+      "ids_corrigidos": [],
+      "ids_prejudicados": [],
+      "ativacoes_comando": 23,
+      "narrativas_excluidas": 23
+    }
+  },
+  "ambiguidades_contextuais": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 32,
+      "revisar": 68,
+      "fora": 0,
+      "cobertura": 0.32,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 46,
+        "homonimo_sem_escopo_resolvido": 2,
+        "sem_politica_com_suporte": 20
+      },
+      "acertos_top1": 74,
+      "acertos_publicadas": 26,
+      "erros_publicadas": 6,
+      "precisao_desenvolvimento": 0.8125,
+      "fora_oficial_publicadas": 3,
+      "brier": 0.16991726745910873,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 9,
+      "publicacoes_anteriores_perdidas": 27,
+      "publicadas_com_tema_trocado": 2,
+      "novas_corretas": 4,
+      "novas_erradas": 5,
+      "acertos_perdidos": 27,
+      "erros_retidos": 1,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 59,
+        "cobertura": 0.59,
+        "precisao_desenvolvimento": 0.8813559322033898,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas": {
+      "temas_trocados": 8,
+      "erros_corrigidos": 2,
+      "acertos_prejudicados": 2,
+      "ids_corrigidos": [
+        "Q0188",
+        "Q0106"
+      ],
+      "ids_prejudicados": [
+        "Q0315",
+        "Q0052"
+      ],
+      "ativacoes_comando": 23,
+      "narrativas_excluidas": 23
+    }
+  },
+  "campos_sem_amplificar": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 16,
+      "revisar": 84,
+      "fora": 0,
+      "cobertura": 0.16,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 23,
+        "homonimo_sem_escopo_resolvido": 3,
+        "sem_politica_com_suporte": 58
+      },
+      "acertos_top1": 74,
+      "acertos_publicadas": 13,
+      "erros_publicadas": 3,
+      "precisao_desenvolvimento": 0.8125,
+      "fora_oficial_publicadas": 1,
+      "brier": 0.17611792248639235,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 5,
+      "publicacoes_anteriores_perdidas": 39,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 2,
+      "novas_erradas": 3,
+      "acertos_perdidos": 37,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 55,
+        "cobertura": 0.55,
+        "precisao_desenvolvimento": 0.9090909090909091,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas": {
+      "temas_trocados": 1,
+      "erros_corrigidos": 0,
+      "acertos_prejudicados": 0,
+      "ids_corrigidos": [],
+      "ids_prejudicados": [],
+      "ativacoes_comando": 23,
+      "narrativas_excluidas": 23
+    }
+  },
+  "escopos_contextuais": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 15,
+      "revisar": 85,
+      "fora": 0,
+      "cobertura": 0.15,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 23,
+        "homonimo_sem_escopo_resolvido": 4,
+        "sem_politica_com_suporte": 58
+      },
+      "acertos_top1": 74,
+      "acertos_publicadas": 13,
+      "erros_publicadas": 2,
+      "precisao_desenvolvimento": 0.8666666666666667,
+      "fora_oficial_publicadas": 1,
+      "brier": 0.17344918395277173,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 4,
+      "publicacoes_anteriores_perdidas": 39,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 2,
+      "novas_erradas": 2,
+      "acertos_perdidos": 37,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 54,
+        "cobertura": 0.54,
+        "precisao_desenvolvimento": 0.9259259259259259,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas": {
+      "temas_trocados": 0,
+      "erros_corrigidos": 0,
+      "acertos_prejudicados": 0,
+      "ids_corrigidos": [],
+      "ids_prejudicados": [],
+      "ativacoes_comando": 23,
+      "narrativas_excluidas": 23
+    }
+  },
+  "selecionado_internamente": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 46,
+      "revisar": 54,
+      "fora": 0,
+      "cobertura": 0.46,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 52,
+        "homonimo_sem_escopo_resolvido": 2
+      },
+      "acertos_top1": 74,
+      "acertos_publicadas": 39,
+      "erros_publicadas": 7,
+      "precisao_desenvolvimento": 0.8478260869565217,
+      "fora_oficial_publicadas": 3,
+      "brier": 0.1769694889439846,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 13,
+      "publicacoes_anteriores_perdidas": 17,
+      "publicadas_com_tema_trocado": 2,
+      "novas_corretas": 7,
+      "novas_erradas": 6,
+      "acertos_perdidos": 17,
+      "erros_retidos": 1,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 63,
+        "cobertura": 0.63,
+        "precisao_desenvolvimento": 0.873015873015873,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas": {
+      "temas_trocados": 4,
+      "erros_corrigidos": 1,
+      "acertos_prejudicados": 1,
+      "ids_corrigidos": [
+        "Q0106"
+      ],
+      "ids_prejudicados": [
+        "Q0052"
+      ],
+      "ativacoes_comando": 23,
+      "narrativas_excluidas": 23
+    }
+  }
+}

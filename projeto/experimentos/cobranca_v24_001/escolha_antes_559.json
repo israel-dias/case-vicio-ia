@@ -1,0 +1,7 @@
+{
+  "variante": "cobranca_com_apoio",
+  "modo": "revalidar_cobranca",
+  "cumpre_meta_na_referencia": true,
+  "criterio": "Somente desenvolvimento exposto antes da aplicação às 559.",
+  "calibracao_global_independente": false
+}

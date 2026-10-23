@@ -1,0 +1,44 @@
+Preparando somente as 559 questões; rede e rótulos bloqueados.
+12 configurações congeladas executadas. Diagnosticando revisões e conflitos.
+{
+  "recorte": {
+    "total": 559,
+    "antigas_259": 259,
+    "recentes_300": 300,
+    "rotuladas_incluidas": 0
+  },
+  "base_resultados": {
+    "total_559": {
+      "questoes": 559,
+      "publicar": 392,
+      "revisar": 167,
+      "fora": 0,
+      "cobertura": 0.7012522361359571,
+      "precisao_real": null
+    },
+    "antigas_259": {
+      "questoes": 259,
+      "publicar": 174,
+      "revisar": 85,
+      "fora": 0,
+      "cobertura": 0.6718146718146718,
+      "precisao_real": null
+    },
+    "recentes_300": {
+      "questoes": 300,
+      "publicar": 218,
+      "revisar": 82,
+      "fora": 0,
+      "cobertura": 0.7266666666666667,
+      "precisao_real": null
+    }
+  },
+  "motivos_primarios_revisao": {
+    "confianca_abaixo_de_70": 150,
+    "homonimo_com_escopo_nao_resolvido": 17
+  },
+  "candidatas_concordantes_sem_liberacao": 7,
+  "publicacoes_preservadas_com_alerta_do_foco": 120,
+  "reproducao_exata_12_configuracoes": true,
+  "segundos": 122.37963454300007
+}

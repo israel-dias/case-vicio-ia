@@ -1,0 +1,50 @@
+{
+  "referencia_v11": {
+    "100": {
+      "questoes": 100,
+      "publicar": 40,
+      "revisar": 60,
+      "cobertura": 0.4,
+      "acertos_publicadas": 39,
+      "erros_publicadas": 1,
+      "precisao_publicadas": 0.975,
+      "acertos_top1": 71,
+      "brier": 0.15796873432898054,
+      "meta_95_na_amostra": true
+    },
+    "559": {
+      "questoes": 559,
+      "publicar": 361,
+      "revisar": 198,
+      "cobertura": 0.6457960644007156,
+      "precisao_real": null
+    }
+  },
+  "referencia_v11_corte70": {
+    "100": {
+      "questoes": 100,
+      "publicar": 51,
+      "revisar": 49,
+      "cobertura": 0.51,
+      "acertos_publicadas": 48,
+      "erros_publicadas": 3,
+      "precisao_publicadas": 0.9411764705882353,
+      "acertos_top1": 71,
+      "brier": 0.15796873432898054,
+      "meta_95_na_amostra": false,
+      "novas_publicacoes": 11,
+      "publicacoes_anteriores_perdidas": 0,
+      "novas_corretas": 9,
+      "novas_erradas": 2
+    },
+    "559": {
+      "questoes": 559,
+      "publicar": 368,
+      "revisar": 191,
+      "cobertura": 0.6583184257602862,
+      "precisao_real": null,
+      "novas_publicacoes": 7,
+      "publicacoes_anteriores_perdidas": 0
+    }
+  }
+}

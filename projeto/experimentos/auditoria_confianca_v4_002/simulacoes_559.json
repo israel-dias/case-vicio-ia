@@ -1,0 +1,78 @@
+{
+  "nota": "Volume nas 559 não seleciona a variante nem demonstra acerto. Nenhum rótulo jurídico foi criado.",
+  "variante_previamente_selecionada": "sem_formato",
+  "variantes": {
+    "controle_v3": {
+      "cobertura": 0.31305903398926654,
+      "precisao_real": null,
+      "previsao_media_publicadas": 0.9289923518329778,
+      "publicar": 175,
+      "questoes": 559,
+      "revisar": 384
+    },
+    "direto_top1_enxuto": {
+      "cobertura": 0.09481216457960644,
+      "precisao_real": null,
+      "previsao_media_publicadas": 0.9499586779205539,
+      "publicar": 53,
+      "questoes": 559,
+      "revisar": 506
+    },
+    "evidencias_enxutas": {
+      "cobertura": 0.29874776386404295,
+      "precisao_real": null,
+      "previsao_media_publicadas": 0.9175415291181691,
+      "publicar": 167,
+      "questoes": 559,
+      "revisar": 392
+    },
+    "sem_apoio_duplo": {
+      "cobertura": 0.41323792486583183,
+      "precisao_real": null,
+      "previsao_media_publicadas": 0.896889734199325,
+      "publicar": 231,
+      "questoes": 559,
+      "revisar": 328
+    },
+    "sem_citacao_ausente": {
+      "cobertura": 0.31305903398926654,
+      "precisao_real": null,
+      "previsao_media_publicadas": 0.9289406016841875,
+      "publicar": 175,
+      "questoes": 559,
+      "revisar": 384
+    },
+    "sem_formato": {
+      "cobertura": 0.41323792486583183,
+      "precisao_real": null,
+      "previsao_media_publicadas": 0.904374570497827,
+      "publicar": 231,
+      "questoes": 559,
+      "revisar": 328
+    },
+    "sem_metadados": {
+      "cobertura": 0.35241502683363146,
+      "precisao_real": null,
+      "previsao_media_publicadas": 0.9037230934148095,
+      "publicar": 197,
+      "questoes": 559,
+      "revisar": 362
+    },
+    "sem_origem_formato_apoio": {
+      "cobertura": 0.33810375670840787,
+      "precisao_real": null,
+      "previsao_media_publicadas": 0.9162036790146876,
+      "publicar": 189,
+      "questoes": 559,
+      "revisar": 370
+    },
+    "sem_sinais_normativos": {
+      "cobertura": 0.20930232558139536,
+      "precisao_real": null,
+      "previsao_media_publicadas": 0.9155474306824163,
+      "publicar": 117,
+      "questoes": 559,
+      "revisar": 442
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "questoes": 559,
+  "publicar": 77,
+  "revisar": 482,
+  "fora": 0,
+  "variante": "e5_query",
+  "rotulos_lidos": false,
+  "retreino": false,
+  "encoder_carregado": false,
+  "chamadas_llm": 0,
+  "segundos": 15.132160978999309,
+  "precisao_real_559": null,
+  "promove_entrega": false
+}

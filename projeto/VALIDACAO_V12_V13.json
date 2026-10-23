@@ -1,0 +1,9 @@
+{
+  "testes_v12_passaram": 13,
+  "testes_corte50_v13_passaram": 8,
+  "testes_v11_regressao_passaram": 12,
+  "arquivos_v11_preservados": 511,
+  "variantes_559_reproduzidas_sem_rotulos_ou_rede": 6,
+  "corte50_reproduz_resumo_e_csv_exatos": true,
+  "entrega_anterior_substituida": false
+}

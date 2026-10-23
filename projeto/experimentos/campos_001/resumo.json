@@ -1,0 +1,358 @@
+{
+  "experimento": "comparacao_campos_v1.1",
+  "tipo_avaliacao": "desenvolvimento; várias configurações, sem teste cego",
+  "particao": {
+    "desenvolvimento": 60,
+    "calibracao_reservada": 20,
+    "teste_reservado": 20
+  },
+  "resultados": {
+    "baseline_001": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 28,
+      "acerto_top1_total": 0.4666666666666667,
+      "acerto_top1_com_tema": 0.5,
+      "acerto_top5_com_tema": 0.6607142857142857
+    },
+    "campos_separados": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 21,
+      "acerto_top1_total": 0.35,
+      "acerto_top1_com_tema": 0.375,
+      "acerto_top5_com_tema": 0.625
+    },
+    "catalogo_limpo": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 21,
+      "acerto_top1_total": 0.35,
+      "acerto_top1_com_tema": 0.375,
+      "acerto_top5_com_tema": 0.6071428571428571
+    },
+    "morfologia": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 21,
+      "acerto_top1_total": 0.35,
+      "acerto_top1_com_tema": 0.375,
+      "acerto_top5_com_tema": 0.6428571428571429
+    },
+    "introducao_atenuada": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 21,
+      "acerto_top1_total": 0.35,
+      "acerto_top1_com_tema": 0.375,
+      "acerto_top5_com_tema": 0.6428571428571429
+    },
+    "texto_l0_s0_c0_m0_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 28,
+      "acerto_top1_total": 0.4666666666666667,
+      "acerto_top1_com_tema": 0.5,
+      "acerto_top5_com_tema": 0.6607142857142857
+    },
+    "texto_l0_s0_c0_m0_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 28,
+      "acerto_top1_total": 0.4666666666666667,
+      "acerto_top1_com_tema": 0.5,
+      "acerto_top5_com_tema": 0.6964285714285714
+    },
+    "texto_l0_s0_c25_m0_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 28,
+      "acerto_top1_total": 0.4666666666666667,
+      "acerto_top1_com_tema": 0.5,
+      "acerto_top5_com_tema": 0.6785714285714286
+    },
+    "texto_l0_s0_c0_m20_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 32,
+      "acerto_top1_total": 0.5333333333333333,
+      "acerto_top1_com_tema": 0.5714285714285714,
+      "acerto_top5_com_tema": 0.6785714285714286
+    },
+    "texto_l0_s0_c0_m20_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 33,
+      "acerto_top1_total": 0.55,
+      "acerto_top1_com_tema": 0.5892857142857143,
+      "acerto_top5_com_tema": 0.7678571428571429
+    },
+    "texto_l0_s0_c0_m40_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 23,
+      "acerto_top1_total": 0.38333333333333336,
+      "acerto_top1_com_tema": 0.4107142857142857,
+      "acerto_top5_com_tema": 0.625
+    },
+    "texto_l0_s0_c25_m20_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 32,
+      "acerto_top1_total": 0.5333333333333333,
+      "acerto_top1_com_tema": 0.5714285714285714,
+      "acerto_top5_com_tema": 0.7142857142857143
+    },
+    "texto_l0_s0_c25_m20_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 33,
+      "acerto_top1_total": 0.55,
+      "acerto_top1_com_tema": 0.5892857142857143,
+      "acerto_top5_com_tema": 0.7857142857142857
+    },
+    "texto_l0_s1_c0_m0_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 26,
+      "acerto_top1_total": 0.43333333333333335,
+      "acerto_top1_com_tema": 0.4642857142857143,
+      "acerto_top5_com_tema": 0.6607142857142857
+    },
+    "texto_l0_s1_c0_m0_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 28,
+      "acerto_top1_total": 0.4666666666666667,
+      "acerto_top1_com_tema": 0.5,
+      "acerto_top5_com_tema": 0.7678571428571429
+    },
+    "texto_l0_s1_c25_m0_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 28,
+      "acerto_top1_total": 0.4666666666666667,
+      "acerto_top1_com_tema": 0.5,
+      "acerto_top5_com_tema": 0.6964285714285714
+    },
+    "texto_l0_s1_c0_m20_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 29,
+      "acerto_top1_total": 0.48333333333333334,
+      "acerto_top1_com_tema": 0.5178571428571429,
+      "acerto_top5_com_tema": 0.7321428571428571
+    },
+    "texto_l0_s1_c0_m20_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 31,
+      "acerto_top1_total": 0.5166666666666667,
+      "acerto_top1_com_tema": 0.5535714285714286,
+      "acerto_top5_com_tema": 0.8571428571428571
+    },
+    "texto_l0_s1_c0_m40_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 27,
+      "acerto_top1_total": 0.45,
+      "acerto_top1_com_tema": 0.48214285714285715,
+      "acerto_top5_com_tema": 0.6964285714285714
+    },
+    "texto_l0_s1_c25_m20_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 30,
+      "acerto_top1_total": 0.5,
+      "acerto_top1_com_tema": 0.5357142857142857,
+      "acerto_top5_com_tema": 0.7142857142857143
+    },
+    "texto_l0_s1_c25_m20_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 33,
+      "acerto_top1_total": 0.55,
+      "acerto_top1_com_tema": 0.5892857142857143,
+      "acerto_top5_com_tema": 0.8392857142857143
+    },
+    "texto_l1_s0_c0_m0_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 29,
+      "acerto_top1_total": 0.48333333333333334,
+      "acerto_top1_com_tema": 0.5178571428571429,
+      "acerto_top5_com_tema": 0.6964285714285714
+    },
+    "texto_l1_s0_c0_m0_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 30,
+      "acerto_top1_total": 0.5,
+      "acerto_top1_com_tema": 0.5357142857142857,
+      "acerto_top5_com_tema": 0.7142857142857143
+    },
+    "texto_l1_s0_c25_m0_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 29,
+      "acerto_top1_total": 0.48333333333333334,
+      "acerto_top1_com_tema": 0.5178571428571429,
+      "acerto_top5_com_tema": 0.6607142857142857
+    },
+    "texto_l1_s0_c0_m20_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 33,
+      "acerto_top1_total": 0.55,
+      "acerto_top1_com_tema": 0.5892857142857143,
+      "acerto_top5_com_tema": 0.7142857142857143
+    },
+    "texto_l1_s0_c0_m20_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 34,
+      "acerto_top1_total": 0.5666666666666667,
+      "acerto_top1_com_tema": 0.6071428571428571,
+      "acerto_top5_com_tema": 0.7678571428571429
+    },
+    "texto_l1_s0_c0_m40_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 26,
+      "acerto_top1_total": 0.43333333333333335,
+      "acerto_top1_com_tema": 0.4642857142857143,
+      "acerto_top5_com_tema": 0.6785714285714286
+    },
+    "texto_l1_s0_c25_m20_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 33,
+      "acerto_top1_total": 0.55,
+      "acerto_top1_com_tema": 0.5892857142857143,
+      "acerto_top5_com_tema": 0.7142857142857143
+    },
+    "texto_l1_s0_c25_m20_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 35,
+      "acerto_top1_total": 0.5833333333333334,
+      "acerto_top1_com_tema": 0.625,
+      "acerto_top5_com_tema": 0.7678571428571429
+    },
+    "texto_l1_s1_c0_m0_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 27,
+      "acerto_top1_total": 0.45,
+      "acerto_top1_com_tema": 0.48214285714285715,
+      "acerto_top5_com_tema": 0.6785714285714286
+    },
+    "texto_l1_s1_c0_m0_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 29,
+      "acerto_top1_total": 0.48333333333333334,
+      "acerto_top1_com_tema": 0.5178571428571429,
+      "acerto_top5_com_tema": 0.8035714285714286
+    },
+    "texto_l1_s1_c25_m0_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 28,
+      "acerto_top1_total": 0.4666666666666667,
+      "acerto_top1_com_tema": 0.5,
+      "acerto_top5_com_tema": 0.7321428571428571
+    },
+    "texto_l1_s1_c0_m20_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 30,
+      "acerto_top1_total": 0.5,
+      "acerto_top1_com_tema": 0.5357142857142857,
+      "acerto_top5_com_tema": 0.7321428571428571
+    },
+    "texto_l1_s1_c0_m20_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 32,
+      "acerto_top1_total": 0.5333333333333333,
+      "acerto_top1_com_tema": 0.5714285714285714,
+      "acerto_top5_com_tema": 0.8571428571428571
+    },
+    "texto_l1_s1_c0_m40_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 29,
+      "acerto_top1_total": 0.48333333333333334,
+      "acerto_top1_com_tema": 0.5178571428571429,
+      "acerto_top5_com_tema": 0.7142857142857143
+    },
+    "texto_l1_s1_c25_m20_p0": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 30,
+      "acerto_top1_total": 0.5,
+      "acerto_top1_com_tema": 0.5357142857142857,
+      "acerto_top5_com_tema": 0.7321428571428571
+    },
+    "texto_l1_s1_c25_m20_p1": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 32,
+      "acerto_top1_total": 0.5333333333333333,
+      "acerto_top1_com_tema": 0.5714285714285714,
+      "acerto_top5_com_tema": 0.8214285714285714
+    }
+  },
+  "divergencias_controle_lexical": [],
+  "tempo_execucao_segundos": 3.833,
+  "observacoes": [
+    "Mesmos IDs de desenvolvimento do manifesto inicial; divisão não recalculada.",
+    "Calibração, teste e outras 559 questões não recebem previsões.",
+    "Nenhum rótulo foi alterado, inclusive as marcações oficiais de fora.",
+    "Sem treino supervisionado, inferência de LLM ou acesso à rede.",
+    "IDs e disciplina_origem não participam dos escores.",
+    "Nas variantes m20/m40, assunto_origem é sinal auxiliar; não é verdade nem filtro obrigatório.",
+    "Nas variantes p1, um subtema é substituído pelo pai ativo, perdendo especificidade.",
+    "Pesos são hipóteses de engenharia; similaridade não é probabilidade.",
+    "Melhora no desenvolvimento precisa de validação posterior.",
+    "Não há decisão de publicação, detector de fora ou publicacao.csv nesta etapa."
+  ]
+}

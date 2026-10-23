@@ -1,0 +1,14 @@
+{
+  "questoes": 16,
+  "publicar": 3,
+  "revisar": 13,
+  "fora": 0,
+  "variante": "evidencias",
+  "rotulos_lidos": false,
+  "retreino": false,
+  "encoder_carregado": false,
+  "chamadas_llm": 0,
+  "segundos": 9.874766880002426,
+  "precisao_real_559": null,
+  "promove_entrega": false
+}

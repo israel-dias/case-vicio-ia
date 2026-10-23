@@ -1,0 +1,15 @@
+{
+  "variantes": [
+    "original_v8",
+    "contexto_v15",
+    "sem_cabecalho_informativo",
+    "comando_sem_antecedente"
+  ],
+  "codigo_sha256": "3fc60bb63282f8b6f49b97acf12c3356dc813b90102c6f1166efdc4e5ccf3447",
+  "leitor_sha256": "868012330857bdaf26d18d44046155c3d7c1680737b3975f3cb7b1339a3e3612",
+  "comparacao": "Mesmo recuperador V8. As duas retiradas são controles negativos, não propostas de promoção.",
+  "somente_100": true,
+  "mede_confianca": false,
+  "promove_entrega": false,
+  "avaliacao": "Desenvolvimento reutilizado e exposto. Não é teste cego."
+}

@@ -1,0 +1,32 @@
+{
+  "comando_extraido_v18_001": {
+    "recentes": 300,
+    "cobrancas_extraidas": 133,
+    "identificadores_fortes": 65,
+    "cabecalhos_separados": 0
+  },
+  "comando_foco_v18_001": {
+    "recentes": 300,
+    "cobrancas_extraidas": 129,
+    "identificadores_fortes": 62,
+    "cabecalhos_separados": 3
+  },
+  "comando_seguro_v18_001": {
+    "recentes": 300,
+    "cobrancas_extraidas": 126,
+    "identificadores_fortes": 51,
+    "cabecalhos_separados": 6
+  },
+  "comando_integral_v18_001": {
+    "recentes": 300,
+    "cobrancas_extraidas": 127,
+    "identificadores_fortes": 51,
+    "cabecalhos_separados": 5
+  },
+  "conceitos_v18_001": {
+    "recentes": 300,
+    "cobrancas_extraidas": 127,
+    "identificadores_fortes": 51,
+    "cabecalhos_separados": 5
+  }
+}

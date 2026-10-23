@@ -1,0 +1,3 @@
+Correção sobre Q0308: os registros v7/v8 consultados já sugerem Inquérito Policial (5498), aceito como pai do rótulo oficial 5501. Na avaliação por grupos v8 ela ficou em revisão (70,87% abaixo do corte do grupo 1, 82,30%). Na reprodução final, ajustada com os 100 rótulos, ficou publicar (82,70% acima de 70,10%). O relato anterior confundiu o erro do baseline antigo com o estado atual; não houve mudança de classificação nesta correção documental.
+
+Conferência em publicacao.csv (controle v5), historico/v3_antes_flexibilizacao/publicacao.csv, previsoes v7 e v8 por grupos e conferencia_pacote_v8/classificacoes_experimentais.csv. Código, pesos, previsões e decisões não foram alterados.

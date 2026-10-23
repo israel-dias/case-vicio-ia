@@ -1,0 +1,11 @@
+{
+  "arquivos_sha256": {
+    "base_v2/escopos.json": "1b636c43fd0844ca6e485d15e209e1f444abf3487e09aebebc1b33add1387f00",
+    "base_v2/manifesto_modelo.json": "4b24b63595cdb9bc58be35cca2e5535b078351999ad7222b85b9a1084ae6ec2c",
+    "base_v2/modelo.json": "47164ffa64deeb7e5332b95937b8a687f4c670003f04465bd9e22793ea74218a",
+    "base_v2/temas.csv": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc",
+    "base_v2/vocabulario_autorado.tsv": "66f90e91004724af1ad72e8768db89db448219fe2c27b1f337ab57e9758b213e",
+    "modelo.json": "7e483b48a62f64aa49567c02368d1816141aa25a328759de784122e36ef931e0",
+    "referencias_normativas_v1.json": "6a368d34d0e121872d21957edcbc50238a5709650fb1d5eb0f2c8c1b4cbfd8be"
+  }
+}

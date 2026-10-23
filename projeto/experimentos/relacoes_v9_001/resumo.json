@@ -1,0 +1,86 @@
+{
+  "controle_v8": {
+    "avaliadas": 100,
+    "acertos_top1": 70,
+    "publicar": 16,
+    "acertos_publicadas": 16,
+    "precisao_publicadas": 1.0,
+    "regras_acionadas": 0,
+    "acertos_regra": 0,
+    "precisao_regra": null,
+    "publicou_fora_oficial": 0,
+    "correcoes_tema": 0,
+    "regressoes_tema": 0,
+    "simulacao_559": {
+      "publicar": 287,
+      "revisar": 272,
+      "cobertura": 0.5134168157423972,
+      "recentes_300_publicadas": 158,
+      "mudancas_tema": 0,
+      "precisao_real": null
+    }
+  },
+  "titulos_diretos": {
+    "avaliadas": 100,
+    "acertos_top1": 69,
+    "publicar": 38,
+    "acertos_publicadas": 33,
+    "precisao_publicadas": 0.868421052631579,
+    "regras_acionadas": 26,
+    "acertos_regra": 21,
+    "precisao_regra": 0.8076923076923077,
+    "publicou_fora_oficial": 1,
+    "correcoes_tema": 1,
+    "regressoes_tema": 2,
+    "simulacao_559": {
+      "publicar": 360,
+      "revisar": 199,
+      "cobertura": 0.6440071556350626,
+      "recentes_300_publicadas": 201,
+      "mudancas_tema": 54,
+      "precisao_real": null
+    }
+  },
+  "relacoes_diretas": {
+    "avaliadas": 100,
+    "acertos_top1": 65,
+    "publicar": 44,
+    "acertos_publicadas": 35,
+    "precisao_publicadas": 0.7954545454545454,
+    "regras_acionadas": 32,
+    "acertos_regra": 23,
+    "precisao_regra": 0.71875,
+    "publicou_fora_oficial": 1,
+    "correcoes_tema": 1,
+    "regressoes_tema": 6,
+    "simulacao_559": {
+      "publicar": 366,
+      "revisar": 193,
+      "cobertura": 0.6547406082289803,
+      "recentes_300_publicadas": 203,
+      "mudancas_tema": 56,
+      "precisao_real": null
+    }
+  },
+  "relacoes_alternativas": {
+    "avaliadas": 100,
+    "acertos_top1": 62,
+    "publicar": 54,
+    "acertos_publicadas": 38,
+    "precisao_publicadas": 0.7037037037037037,
+    "regras_acionadas": 46,
+    "acertos_regra": 30,
+    "precisao_regra": 0.6521739130434783,
+    "publicou_fora_oficial": 2,
+    "correcoes_tema": 1,
+    "regressoes_tema": 9,
+    "simulacao_559": {
+      "publicar": 401,
+      "revisar": 158,
+      "cobertura": 0.7173524150268337,
+      "recentes_300_publicadas": 221,
+      "mudancas_tema": 86,
+      "precisao_real": null
+    }
+  }
+}

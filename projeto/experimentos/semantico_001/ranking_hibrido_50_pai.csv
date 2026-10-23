@@ -1,0 +1,61 @@
+id,tema_previsto,caminho_previsto,score_ordenacao_nao_calibrado,acerto_top1,acerto_top5,fora_referencia,candidatos_top5
+Q0003,5560,Processo Penal > Recursos em Espécies,0.82776468,True,True,False,5560;5512;5466;5543;5530
+Q0005,5530,Processo Penal > Procedimento Ordinário,0.96548527,False,False,False,5530;5572;5185;5191;5560
+Q0018,5539,Processo Penal > Procedimento Sumaríssimo,0.87307995,True,True,False,5539;5480;6732;6733;5530
+Q0023,5524,Processo Penal > Procedimento do Tribunal do Júri,0.84981699,True,True,False,5524;5530;5560;5543;5191
+Q0028,5487,Processo Penal > Comunicação dos Atos Processuais,0.91571146,False,False,False,5487;5530;5466;5191;5063
+Q0034,5498,Processo Penal > Inquérito Policial,0.79325742,False,True,False,5498;5476;5490;5530;5466
+Q0040,5560,Processo Penal > Recursos em Espécies,0.97441463,True,True,False,5560;5572;5530;5524;5512
+Q0041,5184,Penal > Medida de Segurança,0.86557201,True,True,False,5184;5191;5185;5530;5476
+Q0043,5199,Penal > Teoria da Pena,0.86884411,False,False,True,5199;6727;6726;5530;5572
+Q0057,5175,Penal > Iter Criminis,0.91421366,True,True,False,5175;5530;5063;6734;5480
+Q0061,5560,Processo Penal > Recursos em Espécies,0.85207554,False,False,False,5560;6726;5185;5530;6727
+Q0067,5087,Penal > Dos Crimes Contra a Administração Pública,0.96896086,True,True,False,5087;6718;6719;5079;5066
+Q0068,5087,Penal > Dos Crimes Contra a Administração Pública,0.81428857,True,True,False,5087;5116;5191;5185;5466
+Q0077,5185,Penal > Prescrição,0.85683716,False,False,False,5185;5530;5191;5476;5071
+Q0080,4368,Criminologia > Criminologia no Estado Democrático de Direito,0.77564018,True,True,False,4368;5185;5191;5155;5466
+Q0086,5087,Penal > Dos Crimes Contra a Administração Pública,0.88296758,True,True,False,5087;5066;5191;5185;5134
+Q0087,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,0.8599869,False,False,True,4703;6734;5517;5560;5530
+Q0091,5199,Penal > Teoria da Pena,0.83912702,False,False,False,5199;5530;6727;6726;5572
+Q0103,5476,Processo Penal > Ações Autônomas de Impugnação,0.9084756,True,True,False,5476;5560;5530;5191;5512
+Q0110,5480,Processo Penal > Competência,0.94295896,True,True,False,5480;5560;5466;6733;6732
+Q0111,4384,Criminologia > Teorias Legitimidoras da Pena,1.0,False,False,False,4384;5199;4380;4385;6727
+Q0115,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,0.85003651,True,True,False,4385;5199;5191;5185;6726
+Q0117,5199,Penal > Teoria da Pena,0.90077311,False,True,False,5199;4384;6726;6727;5530
+Q0124,5199,Penal > Teoria da Pena,0.82323034,False,True,False,5199;4384;5530;5185;5543
+Q0134,5087,Penal > Dos Crimes Contra a Administração Pública,0.84818999,True,True,False,5087;5466;5185;5530;6719
+Q0137,5498,Processo Penal > Inquérito Policial,0.87982173,True,True,False,5498;5191;5476;5560;5543
+Q0138,5199,Penal > Teoria da Pena,0.92406457,True,True,False,5199;5530;5185;6727;6726
+Q0144,5524,Processo Penal > Procedimento do Tribunal do Júri,0.88309008,True,True,False,5524;5560;5476;5530;5512
+Q0150,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,0.86795615,True,True,False,4708;5560;5476;6728;5480
+Q0160,5199,Penal > Teoria da Pena,0.86937497,True,True,False,5199;6727;5530;6726;5191
+Q0167,5487,Processo Penal > Comunicação dos Atos Processuais,0.88892414,False,False,False,5487;5466;5480;5191;5560
+Q0179,5125,Penal > Dos Crimes Contra a Incolumidade Pública,0.85203627,False,True,False,5125;4368;5155;4377;5466
+Q0186,5199,Penal > Teoria da Pena,0.86766153,True,True,False,5199;5530;5543;5560;5191
+Q0201,5102,Penal > Dos Crimes Contra a Dignidade Sexual,0.92882241,True,True,False,5102;5191;5066;5185;5543
+Q0202,5191,Penal > Punibilidade,0.90398559,False,True,False,5191;5218;5543;5102;5185
+Q0208,5191,Penal > Punibilidade,0.90012445,False,False,False,5191;5149;5185;5543;5066
+Q0215,5199,Penal > Teoria da Pena,0.84689235,True,True,False,5199;5572;5530;5185;5191
+Q0221,5199,Penal > Teoria da Pena,0.86544541,True,True,False,5199;5530;5185;5191;5184
+Q0231,5218,Penal > Teoria do Crime: Fato Típico,0.87144078,True,True,False,5218;6728;4708;5191;5211
+Q0244,5087,Penal > Dos Crimes Contra a Administração Pública,0.90726843,True,True,False,5087;5079;5466;5063;5102
+Q0249,5466,Processo Penal > Ação Penal,0.9032052,False,False,False,5466;6732;5063;6733;5480
+Q0251,5185,Penal > Prescrição,0.83517531,True,True,False,5185;5191;5530;5476;5063
+Q0259,5228,Penal > Teoria do Crime: Ilicitude,0.83902962,False,False,False,5228;5211;5191;5218;5185
+Q0275,5487,Processo Penal > Comunicação dos Atos Processuais,0.92991898,False,True,False,5487;5530;4701;5191;5560
+Q0277,6722,Penal > Estatuto do Idoso - Crimes,0.86294787,False,True,False,6722;4696;5111;5087;5079
+Q0279,5175,Penal > Iter Criminis,0.86932913,True,True,False,5175;5191;5530;5157;5185
+Q0286,5066,Penal > Concurso de Crimes,0.80363816,False,True,False,5066;5185;5543;5199;5530
+Q0290,5466,Processo Penal > Ação Penal,0.87282958,False,False,False,5466;5530;5063;5191;5487
+Q0291,6728,Penal > Tráfico de Drogas,0.90239393,False,False,True,6728;4708;5498;5191;5185
+Q0303,5466,Processo Penal > Ação Penal,0.91104792,False,False,True,5466;5199;5063;5530;5191
+Q0308,5498,Processo Penal > Inquérito Policial,0.89584411,True,True,False,5498;5185;5490;5466;5063
+Q0311,5487,Processo Penal > Comunicação dos Atos Processuais,0.937361,True,True,False,5487;5530;5466;5063;5191
+Q0314,5476,Processo Penal > Ações Autônomas de Impugnação,1.0,True,True,False,5476;5063;5560;5128;5480
+Q0316,5191,Penal > Punibilidade,0.81020616,False,False,False,5191;5066;5466;5185;5199
+Q0320,5543,Processo Penal > Provas em Espécies,0.82867487,True,True,False,5543;5498;5530;5079;5191
+Q0323,5530,Processo Penal > Procedimento Ordinário,0.94266696,False,False,False,5530;5543;5466;5487;5580
+Q0324,5530,Processo Penal > Procedimento Ordinário,0.91949018,False,False,False,5530;6727;6726;5199;5543
+Q0338,5543,Processo Penal > Provas em Espécies,0.92303054,False,False,False,5543;5580;5191;5063;5560
+Q0341,5066,Penal > Concurso de Crimes,0.88000978,True,True,False,5066;5157;5071;5185;5191
+Q0345,5102,Penal > Dos Crimes Contra a Dignidade Sexual,0.88150586,True,True,False,5102;5191;5185;6716;5466

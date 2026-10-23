@@ -1,0 +1,26 @@
+{
+  "variantes": {
+    "controle_fusao": {
+      "questoes": 559,
+      "publicar": 216,
+      "reproducao_exata": true
+    },
+    "comando_estrito": {
+      "questoes": 559,
+      "publicar": 142,
+      "reproducao_exata": true
+    },
+    "passagens_apoio": {
+      "questoes": 559,
+      "publicar": 125,
+      "reproducao_exata": true
+    }
+  },
+  "previsoes_conferidas": 1677,
+  "rede_rotulos_avaliador_treino_recalibracao_bloqueados": true,
+  "selecionada_pelo_comando_publico": "controle_fusao",
+  "entrada_sha256": "3e22b72926d964154e8449cc1a38cd8f05af79af2d08337dc2526cb6aaea5d20",
+  "csv_resultante_sha256": "6139dff16ae9d1f057f0d61dd4acd8b01c256e5a104e4b268a1f7091c6eba8b2",
+  "precisao_real_559": null,
+  "promove_entrega": false
+}

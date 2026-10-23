@@ -1,0 +1,15 @@
+test_contribuicoes_casos_reais_reproduzem_registro (test_auditoria_confianca.TestAuditoriaConfianca.test_contribuicoes_casos_reais_reproduzem_registro) ... ok
+test_decomposicao_reconstroi_probabilidade_calibrada (test_auditoria_confianca.TestAuditoriaConfianca.test_decomposicao_reconstroi_probabilidade_calibrada) ... ok
+test_direcao_da_contribuicao_depende_do_valor_centralizado (test_auditoria_confianca.TestAuditoriaConfianca.test_direcao_da_contribuicao_depende_do_valor_centralizado) ... ok
+test_id_nao_altera_probabilidade (test_auditoria_confianca.TestAuditoriaConfianca.test_id_nao_altera_probabilidade) ... ok
+test_otimizacao_preserva_modelo_e_probabilidades_originais (test_auditoria_confianca.TestAuditoriaConfianca.test_otimizacao_preserva_modelo_e_probabilidades_originais) ... ok
+test_remover_grupo_preserva_scores_e_nao_muda_original (test_auditoria_confianca.TestAuditoriaConfianca.test_remover_grupo_preserva_scores_e_nao_muda_original) ... ok
+test_selecao_usa_suporte_interno_e_favorece_controle_no_empate (test_auditoria_confianca.TestAuditoriaConfianca.test_selecao_usa_suporte_interno_e_favorece_controle_no_empate) ... ok
+test_sinais_preservam_candidato_mesmo_que_peso_prefira_outro (test_auditoria_confianca.TestAuditoriaConfianca.test_sinais_preservam_candidato_mesmo_que_peso_prefira_outro) ... ok
+test_treino_rejeita_rotulo_externo (test_auditoria_confianca.TestAuditoriaConfianca.test_treino_rejeita_rotulo_externo) ... ok
+test_variantes_rejeitam_coluna_inventada_e_duplicada (test_auditoria_confianca.TestAuditoriaConfianca.test_variantes_rejeitam_coluna_inventada_e_duplicada) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.032s
+
+OK

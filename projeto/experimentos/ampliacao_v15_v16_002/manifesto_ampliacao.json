@@ -1,0 +1,9 @@
+{
+  "projeto_sha256": {
+    "ampliar_multivista_v16.py": "e46e8bde772bedaac4ab8b17e65d45f25ffa8de6f7527ef966860747f0811776",
+    "classificar_ampliacao_v16.py": "457171cd3004a9802f8d7a5ddf4fcdf73b35864ed6ca9e7bc3bbe49392745845",
+    "experimentos/roteamento_v15_002/modelos_finais.json": "68b1eccb99d4064f3217992397afb689339d19b0e0ba9144876fcb487f60aa49"
+  },
+  "base_v16_manifesto_sha256": "08f9baa1af2e5933c3d79aee49078d61d44dc1755d08c12bfbf3faf93e2d6117",
+  "promove_entrega": false
+}

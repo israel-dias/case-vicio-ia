@@ -1,0 +1,17 @@
+{
+  "revisoes_perto_corte_65_70": 15,
+  "revisoes_com_confianca_70_ou_mais": 2,
+  "revisoes_sem_comando_util": 146,
+  "revisoes_sem_comando_com_bloco_cmd_negativo": 0,
+  "revisoes_certo_errado": 37,
+  "revisoes_certo_errado_com_bloco_alt_negativo": 37,
+  "revisoes_sem_itens": 155,
+  "revisoes_sem_itens_com_bloco_itens_negativo": 155,
+  "limite_hipotetico_delta_confianca_bloco_alt_ce": 0.004401319465719552,
+  "limite_hipotetico_delta_confianca_bloco_itens_ausentes": 0.0003438042135215772,
+  "preservadas_com_outro_ramo_sugerido_pelo_foco": 115,
+  "media_confianca_publicadas": 0.8858743794490092,
+  "media_confianca_revisadas": 0.45901624910929056,
+  "medias_sao_descritivas_nao_precisao_medida": true,
+  "nao_altera_decisoes": true
+}

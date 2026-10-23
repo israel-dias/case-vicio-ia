@@ -1,0 +1,88 @@
+{
+  "diagnostico": {
+    "avaliadas": 100,
+    "com_artigo_vinculado": 15,
+    "com_norma_extraida": 39,
+    "sem_rotulo_classificadas": 0,
+    "top5_legacy_com_referencia": 85,
+    "uniao_candidatos_com_referencia": 88
+  },
+  "metodos": {
+    "candidatos_proximos": {
+      "acertos_publicadas": 0,
+      "acertos_top1": 70,
+      "avaliadas": 100,
+      "brier": 0.214920619216438,
+      "cobertura": 0.0,
+      "erros_publicadas": 0,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": false,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": null,
+      "publicar": 0,
+      "revisar": 100
+    },
+    "controle_v2": {
+      "acertos_publicadas": 20,
+      "acertos_top1": 66,
+      "avaliadas": 100,
+      "brier": 0.18305451205493564,
+      "cobertura": 0.2,
+      "erros_publicadas": 0,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": true,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 1.0,
+      "publicar": 20,
+      "revisar": 80
+    },
+    "ranking_hibrido": {
+      "acertos_publicadas": 9,
+      "acertos_top1": 71,
+      "avaliadas": 100,
+      "brier": 0.18056156724312689,
+      "cobertura": 0.11,
+      "erros_publicadas": 2,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": false,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 0.8181818181818182,
+      "publicar": 11,
+      "revisar": 89
+    },
+    "referencias_fixa": {
+      "acertos_publicadas": 22,
+      "acertos_top1": 66,
+      "avaliadas": 100,
+      "brier": 0.16763171440779687,
+      "cobertura": 0.23,
+      "erros_publicadas": 1,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": true,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 0.9565217391304348,
+      "publicar": 23,
+      "revisar": 77
+    },
+    "selecionado_internamente": {
+      "acertos_publicadas": 25,
+      "acertos_top1": 67,
+      "avaliadas": 100,
+      "brier": 0.15781784320095898,
+      "cobertura": 0.26,
+      "erros_publicadas": 1,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": true,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 0.9615384615384616,
+      "publicar": 26,
+      "revisar": 74
+    }
+  },
+  "segundos": 77.14639909700009
+}

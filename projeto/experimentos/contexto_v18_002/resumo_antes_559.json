@@ -1,0 +1,353 @@
+{
+  "controle_fusao": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 24,
+      "revisar": 76,
+      "fora": 0,
+      "cobertura": 0.24,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 32,
+        "homonimo_sem_escopo_resolvido": 5,
+        "sem_politica_com_suporte": 39
+      },
+      "acertos_top1": 72,
+      "acertos_publicadas": 23,
+      "erros_publicadas": 1,
+      "precisao_desenvolvimento": 0.9583333333333334,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.16995001878619778,
+      "meta_95_na_amostra": true,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 1,
+      "publicacoes_anteriores_perdidas": 27,
+      "publicadas_com_tema_trocado": 1,
+      "novas_corretas": 0,
+      "novas_erradas": 1,
+      "acertos_perdidos": 26,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 51,
+        "cobertura": 0.51,
+        "precisao_desenvolvimento": 0.9411764705882353,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas_vs_primeiro_fusao": {
+      "temas_trocados": 0,
+      "erros_corrigidos": 0,
+      "acertos_prejudicados": 0,
+      "ids_corrigidos": [],
+      "ids_prejudicados": [],
+      "ativacoes_comando": 16,
+      "narrativas_excluidas": 0
+    },
+    "diagnostico_recuperacao_100": {
+      "com_tema": 92,
+      "aceito_top5": 89,
+      "aceito_conjunto_candidatos": 89
+    }
+  },
+  "comando_estrito": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 39,
+      "revisar": 61,
+      "fora": 0,
+      "cobertura": 0.39,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 57,
+        "homonimo_sem_escopo_resolvido": 4
+      },
+      "acertos_top1": 74,
+      "acertos_publicadas": 37,
+      "erros_publicadas": 2,
+      "precisao_desenvolvimento": 0.9487179487179487,
+      "fora_oficial_publicadas": 1,
+      "brier": 0.16598622921322867,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 7,
+      "publicacoes_anteriores_perdidas": 18,
+      "publicadas_com_tema_trocado": 1,
+      "novas_corretas": 6,
+      "novas_erradas": 1,
+      "acertos_perdidos": 17,
+      "erros_retidos": 1,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 57,
+        "cobertura": 0.57,
+        "precisao_desenvolvimento": 0.9473684210526315,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas_vs_primeiro_fusao": {
+      "temas_trocados": 4,
+      "erros_corrigidos": 2,
+      "acertos_prejudicados": 0,
+      "ids_corrigidos": [
+        "Q0208",
+        "Q0316"
+      ],
+      "ids_prejudicados": [],
+      "ativacoes_comando": 16,
+      "narrativas_excluidas": 16
+    },
+    "diagnostico_recuperacao_100": {
+      "com_tema": 92,
+      "aceito_top5": 90,
+      "aceito_conjunto_candidatos": 90
+    }
+  },
+  "passagens_apoio": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 11,
+      "revisar": 89,
+      "fora": 0,
+      "cobertura": 0.11,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "sem_politica_com_suporte": 41,
+        "abaixo_do_limiar_calibrado": 48
+      },
+      "acertos_top1": 69,
+      "acertos_publicadas": 10,
+      "erros_publicadas": 1,
+      "precisao_desenvolvimento": 0.9090909090909091,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.17302256216508327,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 0,
+      "publicacoes_anteriores_perdidas": 39,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 0,
+      "novas_erradas": 0,
+      "acertos_perdidos": 38,
+      "erros_retidos": 1,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 50,
+        "cobertura": 0.5,
+        "precisao_desenvolvimento": 0.96,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas_vs_primeiro_fusao": {
+      "temas_trocados": 10,
+      "erros_corrigidos": 2,
+      "acertos_prejudicados": 5,
+      "ids_corrigidos": [
+        "Q0028",
+        "Q0316"
+      ],
+      "ids_prejudicados": [
+        "Q0274",
+        "Q0279",
+        "Q0086",
+        "Q0215",
+        "Q0311"
+      ],
+      "ativacoes_comando": 16,
+      "narrativas_excluidas": 0
+    },
+    "diagnostico_recuperacao_100": {
+      "com_tema": 92,
+      "aceito_top5": 90,
+      "aceito_conjunto_candidatos": 91
+    }
+  },
+  "passagens_pares": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 0,
+      "revisar": 100,
+      "fora": 0,
+      "cobertura": 0.0,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "sem_politica_com_suporte": 100
+      },
+      "acertos_top1": 70,
+      "acertos_publicadas": 0,
+      "erros_publicadas": 0,
+      "precisao_desenvolvimento": null,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.2052920616807824,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 0,
+      "publicacoes_anteriores_perdidas": 50,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 0,
+      "novas_erradas": 0,
+      "acertos_perdidos": 48,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 50,
+        "cobertura": 0.5,
+        "precisao_desenvolvimento": 0.96,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas_vs_primeiro_fusao": {
+      "temas_trocados": 12,
+      "erros_corrigidos": 3,
+      "acertos_prejudicados": 5,
+      "ids_corrigidos": [
+        "Q0202",
+        "Q0028",
+        "Q0316"
+      ],
+      "ids_prejudicados": [
+        "Q0274",
+        "Q0124",
+        "Q0150",
+        "Q0215",
+        "Q0319"
+      ],
+      "ativacoes_comando": 16,
+      "narrativas_excluidas": 0
+    },
+    "diagnostico_recuperacao_100": {
+      "com_tema": 92,
+      "aceito_top5": 90,
+      "aceito_conjunto_candidatos": 91
+    }
+  },
+  "estrito_pares": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 7,
+      "revisar": 93,
+      "fora": 0,
+      "cobertura": 0.07,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "sem_politica_com_suporte": 61,
+        "abaixo_do_limiar_calibrado": 32
+      },
+      "acertos_top1": 70,
+      "acertos_publicadas": 6,
+      "erros_publicadas": 1,
+      "precisao_desenvolvimento": 0.8571428571428571,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.20501142768201222,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 1,
+      "publicacoes_anteriores_perdidas": 44,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 0,
+      "novas_erradas": 1,
+      "acertos_perdidos": 42,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 51,
+        "cobertura": 0.51,
+        "precisao_desenvolvimento": 0.9411764705882353,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas_vs_primeiro_fusao": {
+      "temas_trocados": 16,
+      "erros_corrigidos": 4,
+      "acertos_prejudicados": 6,
+      "ids_corrigidos": [
+        "Q0028",
+        "Q0208",
+        "Q0313",
+        "Q0316"
+      ],
+      "ids_prejudicados": [
+        "Q0274",
+        "Q0117",
+        "Q0124",
+        "Q0150",
+        "Q0215",
+        "Q0179"
+      ],
+      "ativacoes_comando": 16,
+      "narrativas_excluidas": 16
+    },
+    "diagnostico_recuperacao_100": {
+      "com_tema": 92,
+      "aceito_top5": 90,
+      "aceito_conjunto_candidatos": 91
+    }
+  },
+  "selecionado_internamente": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 43,
+      "revisar": 57,
+      "fora": 0,
+      "cobertura": 0.43,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 52,
+        "homonimo_sem_escopo_resolvido": 5
+      },
+      "acertos_top1": 73,
+      "acertos_publicadas": 40,
+      "erros_publicadas": 3,
+      "precisao_desenvolvimento": 0.9302325581395349,
+      "fora_oficial_publicadas": 1,
+      "brier": 0.16820405432641294,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 7,
+      "publicacoes_anteriores_perdidas": 14,
+      "publicadas_com_tema_trocado": 2,
+      "novas_corretas": 5,
+      "novas_erradas": 2,
+      "acertos_perdidos": 14,
+      "erros_retidos": 1,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 57,
+        "cobertura": 0.57,
+        "precisao_desenvolvimento": 0.9298245614035088,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas_vs_primeiro_fusao": {
+      "temas_trocados": 2,
+      "erros_corrigidos": 1,
+      "acertos_prejudicados": 0,
+      "ids_corrigidos": [
+        "Q0316"
+      ],
+      "ids_prejudicados": [],
+      "ativacoes_comando": 16,
+      "narrativas_excluidas": 8
+    },
+    "diagnostico_recuperacao_100": {
+      "com_tema": 92,
+      "aceito_top5": 90,
+      "aceito_conjunto_candidatos": 90
+    }
+  },
+  "controle_v16": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 50,
+      "revisar": 50,
+      "fora": 0,
+      "cobertura": 0.5,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "": 50
+      },
+      "acertos_top1": 70,
+      "acertos_publicadas": 48,
+      "erros_publicadas": 2,
+      "precisao_desenvolvimento": 0.96,
+      "fora_oficial_publicadas": 1,
+      "brier": 0.1643579895838777,
+      "meta_95_na_amostra": true,
+      "prova_de_minimo_95_populacional": false
+    }
+  }
+}

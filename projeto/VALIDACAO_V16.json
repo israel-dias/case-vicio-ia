@@ -1,0 +1,32 @@
+{
+  "testes_novos_aprovados": 18,
+  "configs_iniciais": 18,
+  "composicoes_adaptativas": 12,
+  "arquivos_anteriores_verificados": 675,
+  "alteracao_arquivo_anterior": "README.md, com anterior arquivado",
+  "reproducao_ampliacao": {
+    "questoes": 559,
+    "excluidos": 100,
+    "configuracao": "busca_multivista/calibrado/preservar_v15",
+    "decisoes_temas_confiancas_reproduzidos": true,
+    "base_v15_recalculada_igual": true,
+    "rede_rotulos_treino_calibracao_bloqueados": true,
+    "publicar": 394,
+    "revisar": 165,
+    "recentes_publicadas": 218,
+    "novas_publicacoes": [
+      "Q0095",
+      "Q0256"
+    ],
+    "publicacoes_anteriores_perdidas": 0,
+    "precisao_real": null,
+    "promove_entrega": false
+  },
+  "codigo_sha256": {
+    "multivista_v16/catalogo.py": "d69b2e0282e241669abc5d13487e5092e82e5f01be05fe576db5ec9e1800fe78",
+    "multivista_v16/modelo.py": "498c6ad7051c00a2b55af4576f1a02dc53dc4416a918d97b22ba21a7e13a0ecb",
+    "testar_multivista_v16.py": "958704353105b5a84726b2708c73cda7094b37de677e39d6c346fc8fb71a9860",
+    "ampliar_multivista_v16.py": "e46e8bde772bedaac4ab8b17e65d45f25ffa8de6f7527ef966860747f0811776",
+    "classificar_ampliacao_v16.py": "457171cd3004a9802f8d7a5ddf4fcdf73b35864ed6ca9e7bc3bbe49392745845"
+  }
+}

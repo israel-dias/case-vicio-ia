@@ -1,0 +1,29 @@
+Fold externo 1/5: ajuste e seleção somente nos outros folds.
+Fold externo 2/5: ajuste e seleção somente nos outros folds.
+Fold externo 3/5: ajuste e seleção somente nos outros folds.
+Fold externo 4/5: ajuste e seleção somente nos outros folds.
+Fold externo 5/5: ajuste e seleção somente nos outros folds.
+test_adaptador_preserva_arquivos_e_altera_apenas_evidencia_preparada (test_melhoria_folha.TestMelhoriaFolha.test_adaptador_preserva_arquivos_e_altera_apenas_evidencia_preparada) ... ok
+test_adaptador_rejeita_configuracao_ambigua (test_melhoria_folha.TestMelhoriaFolha.test_adaptador_rejeita_configuracao_ambigua) ... ok
+test_arvore_invalida_rejeitada (test_melhoria_folha.TestMelhoriaFolha.test_arvore_invalida_rejeitada) ... ok
+test_citacoes_literais_nao_confundem_cp_cpp (test_melhoria_folha.TestMelhoriaFolha.test_citacoes_literais_nao_confundem_cp_cpp) ... ok
+test_confianca_nao_e_similaridade_e_json_preserva_modelo (test_melhoria_folha.TestMelhoriaFolha.test_confianca_nao_e_similaridade_e_json_preserva_modelo) ... ok
+test_dois_sinais_altos_nao_exigem_margem (test_melhoria_folha.TestMelhoriaFolha.test_dois_sinais_altos_nao_exigem_margem) ... ok
+test_erro_em_fora_e_contado_e_nao_ajusta_previsao (test_melhoria_folha.TestMelhoriaFolha.test_erro_em_fora_e_contado_e_nao_ajusta_previsao) ... ok
+test_folds_agrupam_duplicatas_e_rejeitam_sobreposicao (test_melhoria_folha.TestMelhoriaFolha.test_folds_agrupam_duplicatas_e_rejeitam_sobreposicao) ... ok
+test_fora_nao_recebe_tema_positivo (test_melhoria_folha.TestMelhoriaFolha.test_fora_nao_recebe_tema_positivo) ... ok
+test_html_preserva_negacao_e_todas_alternativas (test_melhoria_folha.TestMelhoriaFolha.test_html_preserva_negacao_e_todas_alternativas) ... ok
+test_id_nao_e_atributo_e_origem_nao_veta_ramo (test_melhoria_folha.TestMelhoriaFolha.test_id_nao_e_atributo_e_origem_nao_veta_ramo) ... ok
+test_integracao_so_100_sem_rede_parametros_antes_do_holdout (test_melhoria_folha.TestMelhoriaFolha.test_integracao_so_100_sem_rede_parametros_antes_do_holdout) ... ok
+test_poucos_acertos_nao_ativam_publicacao (test_melhoria_folha.TestMelhoriaFolha.test_poucos_acertos_nao_ativam_publicacao) ... ok
+test_regua_pais_filhos_extras_e_irmaos (test_melhoria_folha.TestMelhoriaFolha.test_regua_pais_filhos_extras_e_irmaos) ... ok
+test_relatorio_identifica_controle_com_escopos (test_melhoria_folha.TestMelhoriaFolha.test_relatorio_identifica_controle_com_escopos) ... ok
+test_saida_existente_preservada (test_melhoria_folha.TestMelhoriaFolha.test_saida_existente_preservada) ... ok
+test_treino_rejeita_rotulo_do_holdout (test_melhoria_folha.TestMelhoriaFolha.test_treino_rejeita_rotulo_do_holdout) ... ok
+test_vizinhos_excluem_texto_identico_mesmo_com_outro_id (test_melhoria_folha.TestMelhoriaFolha.test_vizinhos_excluem_texto_identico_mesmo_com_outro_id) ... ok
+test_zero_publicadas_nao_significa_cem_porcento (test_melhoria_folha.TestMelhoriaFolha.test_zero_publicadas_nao_significa_cem_porcento) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 8.460s
+
+OK

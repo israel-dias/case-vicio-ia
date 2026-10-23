@@ -1,0 +1,5033 @@
+[
+  {
+    "id": "Q0001",
+    "tema_central_id": "5524",
+    "sinal": 5.57756462528173,
+    "elegivel": true,
+    "confianca": 0.5705654103478773,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0004",
+    "tema_central_id": "5480",
+    "sinal": 9.653559260960765,
+    "elegivel": true,
+    "confianca": 0.7793737670290874,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0006",
+    "tema_central_id": "5157",
+    "sinal": 15.699934874878483,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0007",
+    "tema_central_id": "5466",
+    "sinal": 23.125593495007415,
+    "elegivel": true,
+    "confianca": 0.9889483780235351,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0008",
+    "tema_central_id": "5087",
+    "sinal": 8.94450691447788,
+    "elegivel": true,
+    "confianca": 0.748741899062944,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0009",
+    "tema_central_id": "5157",
+    "sinal": 16.812909757581448,
+    "elegivel": true,
+    "confianca": 0.951644139879796,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0010",
+    "tema_central_id": "6717",
+    "sinal": 13.11659847715094,
+    "elegivel": true,
+    "confianca": 0.8902043717024439,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0011",
+    "tema_central_id": "6723",
+    "sinal": 0.5170472731721185,
+    "elegivel": true,
+    "confianca": 0.2829453077788846,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0013",
+    "tema_central_id": "5498",
+    "sinal": 9.646376039626233,
+    "elegivel": true,
+    "confianca": 0.7790773007311406,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0014",
+    "tema_central_id": "5476",
+    "sinal": 7.640059514960515,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0015",
+    "tema_central_id": "5498",
+    "sinal": 7.738152185437765,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0016",
+    "tema_central_id": "5517",
+    "sinal": 9.89578961258454,
+    "elegivel": true,
+    "confianca": 0.7892039390701203,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0019",
+    "tema_central_id": "5466",
+    "sinal": 18.769846152450192,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0020",
+    "tema_central_id": "5560",
+    "sinal": -6.074478043157151,
+    "elegivel": true,
+    "confianca": 0.07507285615291015,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0021",
+    "tema_central_id": "5498",
+    "sinal": 12.4772539786693,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0022",
+    "tema_central_id": "5087",
+    "sinal": 16.343192256005313,
+    "elegivel": true,
+    "confianca": 0.9461864790401187,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0024",
+    "tema_central_id": "4385",
+    "sinal": 8.590813796185145,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0025",
+    "tema_central_id": "5087",
+    "sinal": 15.513234606789716,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0026",
+    "tema_central_id": "6724",
+    "sinal": 21.102223555656327,
+    "elegivel": true,
+    "confianca": 0.9821658142318508,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0027",
+    "tema_central_id": "5087",
+    "sinal": 12.454480281328603,
+    "elegivel": true,
+    "confianca": 0.8736896367331364,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0029",
+    "tema_central_id": "6716",
+    "sinal": 4.894340846008526,
+    "elegivel": true,
+    "confianca": 0.5300257696297674,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0030",
+    "tema_central_id": "5134",
+    "sinal": 15.039352109674226,
+    "elegivel": true,
+    "confianca": 0.9278493896807628,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0032",
+    "tema_central_id": "5498",
+    "sinal": 4.618165777114846,
+    "elegivel": true,
+    "confianca": 0.51349453416899,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0033",
+    "tema_central_id": "5517",
+    "sinal": 15.196326255773858,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0036",
+    "tema_central_id": "6724",
+    "sinal": 22.016522016654474,
+    "elegivel": true,
+    "confianca": 0.9856279016343114,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0037",
+    "tema_central_id": "5128",
+    "sinal": 13.350844655997495,
+    "elegivel": true,
+    "confianca": 0.8955778941748873,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0038",
+    "tema_central_id": "5498",
+    "sinal": 11.614354856440912,
+    "elegivel": true,
+    "confianca": 0.8497230569194556,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0042",
+    "tema_central_id": "5218",
+    "sinal": 6.994306483791335,
+    "elegivel": true,
+    "confianca": 0.6511380984373825,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0044",
+    "tema_central_id": "5466",
+    "sinal": -1.3228539218530937,
+    "elegivel": true,
+    "confianca": 0.20240910399785494,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0045",
+    "tema_central_id": "5087",
+    "sinal": 17.66152073028059,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0046",
+    "tema_central_id": "5509",
+    "sinal": 3.212859613512852,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0047",
+    "tema_central_id": "5466",
+    "sinal": 6.477216789700591,
+    "elegivel": true,
+    "confianca": 0.6224574106114562,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0048",
+    "tema_central_id": "5199",
+    "sinal": -0.7501162082625994,
+    "elegivel": true,
+    "confianca": 0.22549943729174624,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0050",
+    "tema_central_id": "4708",
+    "sinal": 15.279654301009874,
+    "elegivel": true,
+    "confianca": 0.9316148649010481,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0051",
+    "tema_central_id": "5466",
+    "sinal": 5.110394416975287,
+    "elegivel": true,
+    "confianca": 0.5429143223109164,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0053",
+    "tema_central_id": "5539",
+    "sinal": 6.23025429973993,
+    "elegivel": true,
+    "confianca": 0.6084362096296463,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0054",
+    "tema_central_id": "4367",
+    "sinal": 5.026114716736678,
+    "elegivel": true,
+    "confianca": 0.5378925363047178,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0055",
+    "tema_central_id": "5530",
+    "sinal": 11.28933082326638,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0056",
+    "tema_central_id": "5066",
+    "sinal": 12.469331256964406,
+    "elegivel": true,
+    "confianca": 0.874082297014569,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0059",
+    "tema_central_id": "4384",
+    "sinal": -0.5706467759799576,
+    "elegivel": true,
+    "confianca": 0.23310790818211957,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0062",
+    "tema_central_id": "5155",
+    "sinal": 0.05044476141166143,
+    "elegivel": true,
+    "confianca": 0.2607951181093662,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0063",
+    "tema_central_id": "5498",
+    "sinal": 22.91642198141882,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0064",
+    "tema_central_id": "5185",
+    "sinal": -1.3313148970202047,
+    "elegivel": true,
+    "confianca": 0.20208160320620264,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0065",
+    "tema_central_id": "5157",
+    "sinal": 18.361187175427872,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0069",
+    "tema_central_id": "5170",
+    "sinal": 20.00791686166672,
+    "elegivel": true,
+    "confianca": 0.9769351492179409,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0070",
+    "tema_central_id": "6734",
+    "sinal": -0.2542739739225217,
+    "elegivel": true,
+    "confianca": 0.24695025424922135,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0071",
+    "tema_central_id": "5228",
+    "sinal": -0.8395188769415887,
+    "elegivel": true,
+    "confianca": 0.2217755562833503,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0072",
+    "tema_central_id": "5498",
+    "sinal": 8.355490577159138,
+    "elegivel": true,
+    "confianca": 0.7212366506393896,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0073",
+    "tema_central_id": "5087",
+    "sinal": 19.235169297158052,
+    "elegivel": true,
+    "confianca": 0.9723669938211763,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0074",
+    "tema_central_id": "5199",
+    "sinal": 3.518334016478696,
+    "elegivel": true,
+    "confianca": 0.4477250222431859,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0075",
+    "tema_central_id": "5191",
+    "sinal": 10.738528171543674,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0076",
+    "tema_central_id": "4380",
+    "sinal": 10.083780605157099,
+    "elegivel": true,
+    "confianca": 0.7966090616497224,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0078",
+    "tema_central_id": "4697",
+    "sinal": 20.397111201411285,
+    "elegivel": true,
+    "confianca": 0.9789479622881726,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0081",
+    "tema_central_id": "4371",
+    "sinal": 13.414149688396023,
+    "elegivel": true,
+    "confianca": 0.8969896790472309,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0082",
+    "tema_central_id": "5466",
+    "sinal": 6.376737610649266,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0083",
+    "tema_central_id": "5149",
+    "sinal": 15.671612580985105,
+    "elegivel": true,
+    "confianca": 0.9373678938469134,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0084",
+    "tema_central_id": "6724",
+    "sinal": 19.30732776428466,
+    "elegivel": true,
+    "confianca": 0.9728283560923094,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0085",
+    "tema_central_id": "5087",
+    "sinal": 5.449225835526348,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0088",
+    "tema_central_id": "4389",
+    "sinal": 6.866339745216314,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0089",
+    "tema_central_id": "5218",
+    "sinal": 4.43894862278028,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0092",
+    "tema_central_id": "5487",
+    "sinal": 6.366891323236993,
+    "elegivel": true,
+    "confianca": 0.6162174770869377,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0093",
+    "tema_central_id": "5138",
+    "sinal": 10.451471351789507,
+    "elegivel": true,
+    "confianca": 0.81052820122737,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0094",
+    "tema_central_id": "5524",
+    "sinal": 0.7922582357580312,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0095",
+    "tema_central_id": "5066",
+    "sinal": 1.337939189500732,
+    "elegivel": true,
+    "confianca": 0.3245454600908277,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0096",
+    "tema_central_id": "5480",
+    "sinal": 9.96945477367311,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0097",
+    "tema_central_id": "6728",
+    "sinal": 6.218974873907633,
+    "elegivel": true,
+    "confianca": 0.6077913341361316,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0098",
+    "tema_central_id": "5543",
+    "sinal": 7.734752359589144,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0100",
+    "tema_central_id": "5218",
+    "sinal": 3.227722492513684,
+    "elegivel": true,
+    "confianca": 0.4305550934963274,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0101",
+    "tema_central_id": "6724",
+    "sinal": 28.51900813288481,
+    "elegivel": true,
+    "confianca": 0.9969452144336157,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0102",
+    "tema_central_id": "5572",
+    "sinal": 9.690085125000746,
+    "elegivel": true,
+    "confianca": 0.780876849725811,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0104",
+    "tema_central_id": "5498",
+    "sinal": 5.029817089443571,
+    "elegivel": true,
+    "confianca": 0.5381133103965421,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0105",
+    "tema_central_id": "4385",
+    "sinal": 2.5546241476254865,
+    "elegivel": true,
+    "confianca": 0.39148646900105355,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0107",
+    "tema_central_id": "5116",
+    "sinal": 9.929373355953203,
+    "elegivel": true,
+    "confianca": 0.790541186680123,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0108",
+    "tema_central_id": "5560",
+    "sinal": 10.532804577865821,
+    "elegivel": true,
+    "confianca": 0.8135066326327482,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0109",
+    "tema_central_id": "5199",
+    "sinal": 7.240700169870874,
+    "elegivel": true,
+    "confianca": 0.664443018025314,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0112",
+    "tema_central_id": "6725",
+    "sinal": 24.677506263689875,
+    "elegivel": true,
+    "confianca": 0.9923576671707076,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0113",
+    "tema_central_id": "5498",
+    "sinal": 3.5314080635832896,
+    "elegivel": true,
+    "confianca": 0.4485007186016452,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0114",
+    "tema_central_id": "5498",
+    "sinal": 3.863960208671963,
+    "elegivel": true,
+    "confianca": 0.46830544289567577,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0116",
+    "tema_central_id": "4708",
+    "sinal": 4.422138299332308,
+    "elegivel": true,
+    "confianca": 0.5017406816956631,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0118",
+    "tema_central_id": "5517",
+    "sinal": 8.371267510386357,
+    "elegivel": true,
+    "confianca": 0.7219970051530253,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0119",
+    "tema_central_id": "5180",
+    "sinal": -1.2736697724845296,
+    "elegivel": true,
+    "confianca": 0.20432072656889538,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0120",
+    "tema_central_id": "5580",
+    "sinal": 7.3341778685546535,
+    "elegivel": true,
+    "confianca": 0.669424509245271,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0121",
+    "tema_central_id": "5466",
+    "sinal": 11.07285916765732,
+    "elegivel": true,
+    "confianca": 0.8323705238433144,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0122",
+    "tema_central_id": "4703",
+    "sinal": 4.879002711199189,
+    "elegivel": true,
+    "confianca": 0.5291090528242275,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0123",
+    "tema_central_id": "4385",
+    "sinal": 2.5677129674694994,
+    "elegivel": true,
+    "confianca": 0.39223477504481974,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0125",
+    "tema_central_id": "6734",
+    "sinal": 4.389027606155785,
+    "elegivel": true,
+    "confianca": 0.49975481151435974,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0126",
+    "tema_central_id": "5116",
+    "sinal": 2.2506990834881444,
+    "elegivel": true,
+    "confianca": 0.37426048227010994,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0127",
+    "tema_central_id": "6728",
+    "sinal": 16.588839282622455,
+    "elegivel": true,
+    "confianca": 0.9491094812267968,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0128",
+    "tema_central_id": "5184",
+    "sinal": -4.266250089206816,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0129",
+    "tema_central_id": "5530",
+    "sinal": 9.52900868797579,
+    "elegivel": true,
+    "confianca": 0.7741929191066678,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0130",
+    "tema_central_id": "5199",
+    "sinal": 13.824974896121986,
+    "elegivel": true,
+    "confianca": 0.9057468226149605,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0131",
+    "tema_central_id": "5071",
+    "sinal": 8.288591297921844,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0132",
+    "tema_central_id": "4366",
+    "sinal": -3.3383267227928517,
+    "elegivel": true,
+    "confianca": 0.1353065329400025,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0133",
+    "tema_central_id": "5524",
+    "sinal": -1.2829602937571547,
+    "elegivel": true,
+    "confianca": 0.2039586100233853,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0135",
+    "tema_central_id": "5157",
+    "sinal": 9.635738887284571,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0136",
+    "tema_central_id": "6724",
+    "sinal": 6.1591855063406316,
+    "elegivel": true,
+    "confianca": 0.6043667778343939,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0140",
+    "tema_central_id": "5157",
+    "sinal": 4.50348023466402,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0141",
+    "tema_central_id": "4385",
+    "sinal": 16.372415170926363,
+    "elegivel": true,
+    "confianca": 0.9465423377623513,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0142",
+    "tema_central_id": "5111",
+    "sinal": 1.2931133769757999,
+    "elegivel": true,
+    "confianca": 0.32219246459320317,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0143",
+    "tema_central_id": "5505",
+    "sinal": 7.225199999830225,
+    "elegivel": true,
+    "confianca": 0.6636134161003627,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0145",
+    "tema_central_id": "5157",
+    "sinal": 6.944233556750256,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0146",
+    "tema_central_id": "5228",
+    "sinal": 6.081350870545072,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0148",
+    "tema_central_id": "5199",
+    "sinal": 28.25702031367805,
+    "elegivel": true,
+    "confianca": 0.9967476944688164,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0149",
+    "tema_central_id": "5498",
+    "sinal": 9.23027801081179,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0151",
+    "tema_central_id": "5517",
+    "sinal": 8.055601016545072,
+    "elegivel": true,
+    "confianca": 0.706544109604399,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0152",
+    "tema_central_id": "5063",
+    "sinal": -7.8829905682907535,
+    "elegivel": true,
+    "confianca": 0.049967095464527364,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0153",
+    "tema_central_id": "5218",
+    "sinal": 2.068830310446109,
+    "elegivel": true,
+    "confianca": 0.36409974630233,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0154",
+    "tema_central_id": "5134",
+    "sinal": 7.329575131941927,
+    "elegivel": true,
+    "confianca": 0.6691801022048252,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0155",
+    "tema_central_id": "5184",
+    "sinal": -2.3563662828784504,
+    "elegivel": true,
+    "confianca": 0.16530799638600416,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0156",
+    "tema_central_id": "5199",
+    "sinal": 8.317193100556327,
+    "elegivel": true,
+    "confianca": 0.7193856423642376,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0157",
+    "tema_central_id": "5498",
+    "sinal": 5.922061551187357,
+    "elegivel": true,
+    "confianca": 0.590686930187933,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0158",
+    "tema_central_id": "4707",
+    "sinal": -2.348992646713127,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0159",
+    "tema_central_id": "5087",
+    "sinal": 11.401712101219452,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0161",
+    "tema_central_id": "5517",
+    "sinal": 24.24306363112276,
+    "elegivel": true,
+    "confianca": 0.9915252610736103,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0162",
+    "tema_central_id": "5087",
+    "sinal": 4.67559041076099,
+    "elegivel": true,
+    "confianca": 0.5169354836650522,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0163",
+    "tema_central_id": "5066",
+    "sinal": 2.2967948627488743,
+    "elegivel": true,
+    "confianca": 0.37685390143386116,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0164",
+    "tema_central_id": "5199",
+    "sinal": -1.0203162725946955,
+    "elegivel": true,
+    "confianca": 0.2143798796789721,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0165",
+    "tema_central_id": "5498",
+    "sinal": 18.964203426464337,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0166",
+    "tema_central_id": "6734",
+    "sinal": -0.42453767745695714,
+    "elegivel": true,
+    "confianca": 0.2394327523863575,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0168",
+    "tema_central_id": "5087",
+    "sinal": 5.240512672525882,
+    "elegivel": true,
+    "confianca": 0.5506499335847885,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0170",
+    "tema_central_id": "5185",
+    "sinal": 4.491120463159052,
+    "elegivel": true,
+    "confianca": 0.5058777553352974,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0171",
+    "tema_central_id": "6734",
+    "sinal": 2.327245682127386,
+    "elegivel": true,
+    "confianca": 0.37857099887697127,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0172",
+    "tema_central_id": "5185",
+    "sinal": 5.768861516824489,
+    "elegivel": true,
+    "confianca": 0.5817720221782349,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0173",
+    "tema_central_id": "4703",
+    "sinal": 21.721105879184897,
+    "elegivel": true,
+    "confianca": 0.9845886182110187,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0174",
+    "tema_central_id": "5466",
+    "sinal": 3.8104637368362164,
+    "elegivel": true,
+    "confianca": 0.4651111253049272,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0175",
+    "tema_central_id": "5087",
+    "sinal": 20.420967767851185,
+    "elegivel": true,
+    "confianca": 0.9790655916548427,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0176",
+    "tema_central_id": "5079",
+    "sinal": 16.14544866386303,
+    "elegivel": true,
+    "confianca": 0.9437191733780557,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0177",
+    "tema_central_id": "5543",
+    "sinal": 11.918797320296708,
+    "elegivel": true,
+    "confianca": 0.8588133311132908,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0178",
+    "tema_central_id": "4697",
+    "sinal": 5.381175389511935,
+    "elegivel": true,
+    "confianca": 0.5589848394496307,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0180",
+    "tema_central_id": "5498",
+    "sinal": 3.3641535502481075,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0181",
+    "tema_central_id": "4695",
+    "sinal": 12.100718636861611,
+    "elegivel": true,
+    "confianca": 0.8640229252329288,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0182",
+    "tema_central_id": "5138",
+    "sinal": 9.655983130635796,
+    "elegivel": true,
+    "confianca": 0.779473740726315,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0183",
+    "tema_central_id": "5185",
+    "sinal": 1.3883315949392312,
+    "elegivel": true,
+    "confianca": 0.32720127469592586,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0184",
+    "tema_central_id": "5517",
+    "sinal": 9.086505147230763,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0185",
+    "tema_central_id": "4703",
+    "sinal": 8.718239589798046,
+    "elegivel": true,
+    "confianca": 0.7383925245468971,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0187",
+    "tema_central_id": "5199",
+    "sinal": 3.5878108419639796,
+    "elegivel": true,
+    "confianca": 0.4518499783043932,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0189",
+    "tema_central_id": "5063",
+    "sinal": 2.7949150552988025,
+    "elegivel": true,
+    "confianca": 0.40530216365254274,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0190",
+    "tema_central_id": "4701",
+    "sinal": 26.986092715100614,
+    "elegivel": true,
+    "confianca": 0.9955933681631168,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0192",
+    "tema_central_id": "5087",
+    "sinal": 9.982215399078964,
+    "elegivel": true,
+    "confianca": 0.792632621741565,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0193",
+    "tema_central_id": "5543",
+    "sinal": 6.455033488275684,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0195",
+    "tema_central_id": "4371",
+    "sinal": 12.891530544381208,
+    "elegivel": true,
+    "confianca": 0.8848145700114284,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0196",
+    "tema_central_id": "4385",
+    "sinal": 9.268144100499764,
+    "elegivel": true,
+    "confianca": 0.7630648721816066,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0197",
+    "tema_central_id": "5498",
+    "sinal": 5.021983884567384,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0198",
+    "tema_central_id": "5071",
+    "sinal": 9.543193680508846,
+    "elegivel": true,
+    "confianca": 0.7747872858579794,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0199",
+    "tema_central_id": "5218",
+    "sinal": 7.197269946092038,
+    "elegivel": true,
+    "confianca": 0.6621159932085467,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0200",
+    "tema_central_id": "4705",
+    "sinal": 22.53525924899563,
+    "elegivel": true,
+    "confianca": 0.9872882994866917,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0203",
+    "tema_central_id": "6723",
+    "sinal": 13.327227431038466,
+    "elegivel": true,
+    "confianca": 0.8950468359767162,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0204",
+    "tema_central_id": "5505",
+    "sinal": 13.140076006321149,
+    "elegivel": true,
+    "confianca": 0.8907536806630945,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0205",
+    "tema_central_id": "5560",
+    "sinal": 11.365674467290273,
+    "elegivel": true,
+    "confianca": 0.8419448208741003,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0206",
+    "tema_central_id": "5583",
+    "sinal": 17.75334557943767,
+    "elegivel": true,
+    "confianca": 0.9610302994886467,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0207",
+    "tema_central_id": "4703",
+    "sinal": 4.781335254240816,
+    "elegivel": true,
+    "confianca": 0.5232673970560328,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0209",
+    "tema_central_id": "5498",
+    "sinal": 4.855050302547078,
+    "elegivel": true,
+    "confianca": 0.5276770947676864,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0210",
+    "tema_central_id": "4697",
+    "sinal": 21.360119435872036,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0211",
+    "tema_central_id": "5079",
+    "sinal": 5.060245144891652,
+    "elegivel": true,
+    "confianca": 0.539927174531348,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0212",
+    "tema_central_id": "4700",
+    "sinal": -1.808765328745066,
+    "elegivel": true,
+    "confianca": 0.1842403279535438,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0213",
+    "tema_central_id": "5466",
+    "sinal": 12.95262362428904,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0214",
+    "tema_central_id": "5490",
+    "sinal": 9.281262123657807,
+    "elegivel": true,
+    "confianca": 0.7636333894541091,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0217",
+    "tema_central_id": "5170",
+    "sinal": -2.6870842911721096,
+    "elegivel": true,
+    "confianca": 0.15464895934285283,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0218",
+    "tema_central_id": "5517",
+    "sinal": 24.731947207564183,
+    "elegivel": true,
+    "confianca": 0.9924560850445037,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0219",
+    "tema_central_id": "5071",
+    "sinal": 6.165416792233839,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0220",
+    "tema_central_id": "5498",
+    "sinal": 16.274547496053334,
+    "elegivel": true,
+    "confianca": 0.9453417591250041,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0222",
+    "tema_central_id": "5170",
+    "sinal": 6.685226657259519,
+    "elegivel": true,
+    "confianca": 0.6341112270977188,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0223",
+    "tema_central_id": "5079",
+    "sinal": 9.862003418357737,
+    "elegivel": true,
+    "confianca": 0.7878523272115932,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0224",
+    "tema_central_id": "5199",
+    "sinal": 12.18834503220452,
+    "elegivel": true,
+    "confianca": 0.8664739253337702,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0225",
+    "tema_central_id": "5560",
+    "sinal": 4.953106362115689,
+    "elegivel": true,
+    "confianca": 0.5335360896197384,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0227",
+    "tema_central_id": "5102",
+    "sinal": 13.42694492234213,
+    "elegivel": true,
+    "confianca": 0.8972729690641165,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0228",
+    "tema_central_id": "5199",
+    "sinal": 7.077289706530828,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0229",
+    "tema_central_id": "5517",
+    "sinal": 4.440357041905588,
+    "elegivel": true,
+    "confianca": 0.5028333623757356,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0232",
+    "tema_central_id": "5079",
+    "sinal": 15.26916918223596,
+    "elegivel": true,
+    "confianca": 0.9314544343284897,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0233",
+    "tema_central_id": "5175",
+    "sinal": 22.988299478136074,
+    "elegivel": true,
+    "confianca": 0.9885825249730564,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0234",
+    "tema_central_id": "4380",
+    "sinal": 1.9482175163690636,
+    "elegivel": true,
+    "confianca": 0.3574268831986413,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0235",
+    "tema_central_id": "5480",
+    "sinal": 9.926303047647789,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0236",
+    "tema_central_id": "5498",
+    "sinal": 3.8641168337121625,
+    "elegivel": true,
+    "confianca": 0.4683147990472288,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0237",
+    "tema_central_id": "5175",
+    "sinal": 32.517273646187036,
+    "elegivel": true,
+    "confianca": 0.9988272154687695,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0238",
+    "tema_central_id": "4694",
+    "sinal": 5.172928111862393,
+    "elegivel": true,
+    "confianca": 0.5466348064946174,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0239",
+    "tema_central_id": "5199",
+    "sinal": 12.776946672739065,
+    "elegivel": true,
+    "confianca": 0.8819831233509448,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0241",
+    "tema_central_id": "5218",
+    "sinal": 15.285119829076919,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0242",
+    "tema_central_id": "5560",
+    "sinal": 7.7720124943830635,
+    "elegivel": true,
+    "confianca": 0.6922422961224834,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0243",
+    "tema_central_id": "5175",
+    "sinal": 15.039181481371394,
+    "elegivel": true,
+    "confianca": 0.9278466492408238,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0247",
+    "tema_central_id": "5498",
+    "sinal": 18.926129978871423,
+    "elegivel": true,
+    "confianca": 0.9703035504071117,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0248",
+    "tema_central_id": "5087",
+    "sinal": 15.20796206381377,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0250",
+    "tema_central_id": "5199",
+    "sinal": 6.92702630640071,
+    "elegivel": true,
+    "confianca": 0.647462659529515,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0254",
+    "tema_central_id": "4704",
+    "sinal": 17.346680397563702,
+    "elegivel": true,
+    "confianca": 0.9572075849240959,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0255",
+    "tema_central_id": "5211",
+    "sinal": 8.171354464648157,
+    "elegivel": true,
+    "confianca": 0.7122687541078875,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0256",
+    "tema_central_id": "5218",
+    "sinal": 3.9642942201534774,
+    "elegivel": true,
+    "confianca": 0.4743032733311931,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0257",
+    "tema_central_id": "5218",
+    "sinal": 3.786525008328515,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0258",
+    "tema_central_id": "5543",
+    "sinal": 8.076536972499252,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0260",
+    "tema_central_id": "4374",
+    "sinal": 0.7376531263003097,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0261",
+    "tema_central_id": "5466",
+    "sinal": 3.7731047518927747,
+    "elegivel": true,
+    "confianca": 0.4628820702889256,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0262",
+    "tema_central_id": "5184",
+    "sinal": 4.369794349922286,
+    "elegivel": true,
+    "confianca": 0.4986012637674242,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0263",
+    "tema_central_id": "5583",
+    "sinal": 6.403358496705208,
+    "elegivel": true,
+    "confianca": 0.618284385856995,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0264",
+    "tema_central_id": "5102",
+    "sinal": 7.911863116893014,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0266",
+    "tema_central_id": "5524",
+    "sinal": 8.233060343991113,
+    "elegivel": true,
+    "confianca": 0.7152930975072868,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0267",
+    "tema_central_id": "5498",
+    "sinal": 13.012818353308294,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0268",
+    "tema_central_id": "5120",
+    "sinal": 11.046875716645566,
+    "elegivel": true,
+    "confianca": 0.8314989436440601,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0269",
+    "tema_central_id": "5170",
+    "sinal": 0.9719590859899103,
+    "elegivel": true,
+    "confianca": 0.3056020028366644,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0270",
+    "tema_central_id": "5087",
+    "sinal": 18.816683847118874,
+    "elegivel": true,
+    "confianca": 0.9695375521180781,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0271",
+    "tema_central_id": "5512",
+    "sinal": 4.81786276816072,
+    "elegivel": true,
+    "confianca": 0.525453000865348,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0272",
+    "tema_central_id": "4703",
+    "sinal": -1.2707039913709366,
+    "elegivel": true,
+    "confianca": 0.20443642435222686,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0273",
+    "tema_central_id": "5087",
+    "sinal": 8.382421043252293,
+    "elegivel": true,
+    "confianca": 0.7225337690210212,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0278",
+    "tema_central_id": "5199",
+    "sinal": 7.736468604718575,
+    "elegivel": true,
+    "confianca": 0.6904226538461259,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0280",
+    "tema_central_id": "5120",
+    "sinal": 8.136930027316328,
+    "elegivel": true,
+    "confianca": 0.7105732399317494,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0281",
+    "tema_central_id": "5580",
+    "sinal": 1.2987338633144532,
+    "elegivel": true,
+    "confianca": 0.32248700430308624,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0282",
+    "tema_central_id": "6724",
+    "sinal": 16.437302915189434,
+    "elegivel": true,
+    "confianca": 0.9473245770041595,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0283",
+    "tema_central_id": "5476",
+    "sinal": 0.5086237150176913,
+    "elegivel": true,
+    "confianca": 0.2825354776647509,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0284",
+    "tema_central_id": "5524",
+    "sinal": 8.712951569031397,
+    "elegivel": true,
+    "confianca": 0.7381473891564482,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0285",
+    "tema_central_id": "4374",
+    "sinal": 16.6326251142293,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0287",
+    "tema_central_id": "5228",
+    "sinal": 13.55865971913952,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0288",
+    "tema_central_id": "5066",
+    "sinal": 6.731749082898468,
+    "elegivel": true,
+    "confianca": 0.6366968602809353,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0289",
+    "tema_central_id": "6724",
+    "sinal": 38.35196771060334,
+    "elegivel": true,
+    "confianca": 0.9997104777218158,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0292",
+    "tema_central_id": "4374",
+    "sinal": 5.577034287002973,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0293",
+    "tema_central_id": "5185",
+    "sinal": 14.1591541197751,
+    "elegivel": true,
+    "confianca": 0.9123720175332728,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0294",
+    "tema_central_id": "5211",
+    "sinal": 5.976641234424295,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0295",
+    "tema_central_id": "5487",
+    "sinal": 9.820304073479662,
+    "elegivel": true,
+    "confianca": 0.78617543464639,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0296",
+    "tema_central_id": "5063",
+    "sinal": 2.0473931751413668,
+    "elegivel": true,
+    "confianca": 0.36290983154992096,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0297",
+    "tema_central_id": "4689",
+    "sinal": 11.80218035761186,
+    "elegivel": true,
+    "confianca": 0.8553868254960901,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0298",
+    "tema_central_id": "4694",
+    "sinal": 10.660145489565785,
+    "elegivel": true,
+    "confianca": 0.8180971684244766,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0299",
+    "tema_central_id": "4368",
+    "sinal": 2.2007065146900766,
+    "elegivel": true,
+    "confianca": 0.37145596916745627,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0300",
+    "tema_central_id": "5157",
+    "sinal": 0.5280023811126853,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0301",
+    "tema_central_id": "5191",
+    "sinal": 3.880065006868638,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0302",
+    "tema_central_id": "5211",
+    "sinal": 15.996891897698468,
+    "elegivel": true,
+    "confianca": 0.9417960109815978,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0305",
+    "tema_central_id": "5466",
+    "sinal": 15.231633994778228,
+    "elegivel": true,
+    "confianca": 0.9308772542118293,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0306",
+    "tema_central_id": "4708",
+    "sinal": 1.7433021957931176,
+    "elegivel": true,
+    "confianca": 0.3462168186510699,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0307",
+    "tema_central_id": "5498",
+    "sinal": -3.6325794903313944,
+    "elegivel": true,
+    "confianca": 0.12725774597019346,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0309",
+    "tema_central_id": "5199",
+    "sinal": 7.8674515129685085,
+    "elegivel": true,
+    "confianca": 0.6970986555490126,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0310",
+    "tema_central_id": "5505",
+    "sinal": 24.574771327481407,
+    "elegivel": true,
+    "confianca": 0.992168460417017,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0312",
+    "tema_central_id": "4384",
+    "sinal": 2.1209833988485522,
+    "elegivel": true,
+    "confianca": 0.3670015427040285,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0317",
+    "tema_central_id": "5191",
+    "sinal": 12.237730920499555,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0318",
+    "tema_central_id": "5175",
+    "sinal": 12.83596145138944,
+    "elegivel": true,
+    "confianca": 0.8834488725684746,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0321",
+    "tema_central_id": "6728",
+    "sinal": 9.415311459583574,
+    "elegivel": true,
+    "confianca": 0.7693887978352814,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0322",
+    "tema_central_id": "5560",
+    "sinal": 19.39960025803944,
+    "elegivel": true,
+    "confianca": 0.9734074231339613,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0326",
+    "tema_central_id": "6728",
+    "sinal": 2.793250875940706,
+    "elegivel": true,
+    "confianca": 0.4052059352886986,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0327",
+    "tema_central_id": "5199",
+    "sinal": 21.602986438761633,
+    "elegivel": true,
+    "confianca": 0.984152667342818,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0328",
+    "tema_central_id": "4374",
+    "sinal": 4.318209591622119,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0329",
+    "tema_central_id": "5543",
+    "sinal": -1.9192886684933352,
+    "elegivel": true,
+    "confianca": 0.1802884927806231,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0330",
+    "tema_central_id": "5498",
+    "sinal": 15.634399221462264,
+    "elegivel": true,
+    "confianca": 0.9368416993444125,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0331",
+    "tema_central_id": "5476",
+    "sinal": 24.291247057280707,
+    "elegivel": true,
+    "confianca": 0.9916218453645458,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0332",
+    "tema_central_id": "5199",
+    "sinal": 3.77412038085813,
+    "elegivel": true,
+    "confianca": 0.46294264943232727,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0333",
+    "tema_central_id": "5175",
+    "sinal": 6.270037556177832,
+    "elegivel": true,
+    "confianca": 0.6107076926106891,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0334",
+    "tema_central_id": "4380",
+    "sinal": 12.126264526216115,
+    "elegivel": true,
+    "confianca": 0.8647413593148553,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0335",
+    "tema_central_id": "5218",
+    "sinal": 4.360793864279027,
+    "elegivel": true,
+    "confianca": 0.4980614484688999,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0337",
+    "tema_central_id": "6716",
+    "sinal": 11.943411978442047,
+    "elegivel": true,
+    "confianca": 0.8595278437087462,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0340",
+    "tema_central_id": "5071",
+    "sinal": 22.572523626497034,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0342",
+    "tema_central_id": "5543",
+    "sinal": 0.3068165170195023,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0343",
+    "tema_central_id": "5466",
+    "sinal": 1.8135696283148635,
+    "elegivel": true,
+    "confianca": 0.35004239729810555,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0344",
+    "tema_central_id": "5466",
+    "sinal": 2.6779043633763786,
+    "elegivel": true,
+    "confianca": 0.39855434297950876,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0346",
+    "tema_central_id": "4694",
+    "sinal": 7.120903152896921,
+    "elegivel": true,
+    "confianca": 0.6580051583815661,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0347",
+    "tema_central_id": "5199",
+    "sinal": 15.146093099932212,
+    "elegivel": true,
+    "confianca": 0.929545042573486,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0348",
+    "tema_central_id": "5087",
+    "sinal": 17.692018494661397,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0349",
+    "tema_central_id": "4703",
+    "sinal": -6.756396615583766,
+    "elegivel": true,
+    "confianca": 0.06447360753624833,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0350",
+    "tema_central_id": "4702",
+    "sinal": 11.053045371308183,
+    "elegivel": true,
+    "confianca": 0.8317062230616638,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0351",
+    "tema_central_id": "5116",
+    "sinal": 25.08566446690943,
+    "elegivel": true,
+    "confianca": 0.9930655916043476,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0352",
+    "tema_central_id": "5560",
+    "sinal": 7.415921321578135,
+    "elegivel": true,
+    "confianca": 0.673749795981778,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0353",
+    "tema_central_id": "5185",
+    "sinal": 1.241095022074222,
+    "elegivel": true,
+    "confianca": 0.31947318252417656,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0354",
+    "tema_central_id": "5218",
+    "sinal": 8.983535140203752,
+    "elegivel": true,
+    "confianca": 0.7504992628233835,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0355",
+    "tema_central_id": "6728",
+    "sinal": 5.881647645931685,
+    "elegivel": true,
+    "confianca": 0.5883407220814639,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0357",
+    "tema_central_id": "5157",
+    "sinal": 13.18569530162268,
+    "elegivel": true,
+    "confianca": 0.8918141533299406,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0358",
+    "tema_central_id": "5184",
+    "sinal": 0.6543432355404315,
+    "elegivel": true,
+    "confianca": 0.2896755891632387,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0359",
+    "tema_central_id": "4694",
+    "sinal": 6.736596282328079,
+    "elegivel": true,
+    "confianca": 0.6369658079492028,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0360",
+    "tema_central_id": "4389",
+    "sinal": 9.630213219389905,
+    "elegivel": true,
+    "confianca": 0.778409184796948,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0361",
+    "tema_central_id": "5211",
+    "sinal": 15.21201971503898,
+    "elegivel": true,
+    "confianca": 0.9305738577429309,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0362",
+    "tema_central_id": "5543",
+    "sinal": 17.151980294100508,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0363",
+    "tema_central_id": "5087",
+    "sinal": 14.617820505143335,
+    "elegivel": true,
+    "confianca": 0.9207794656125188,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0364",
+    "tema_central_id": "5211",
+    "sinal": 5.952526790669645,
+    "elegivel": true,
+    "confianca": 0.59245285411692,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0365",
+    "tema_central_id": "5191",
+    "sinal": 3.1918553112394674,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0366",
+    "tema_central_id": "5543",
+    "sinal": 5.823419509949354,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0367",
+    "tema_central_id": "5530",
+    "sinal": 8.364289581257037,
+    "elegivel": true,
+    "confianca": 0.7216608677284327,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0368",
+    "tema_central_id": "5498",
+    "sinal": 6.918136133535154,
+    "elegivel": true,
+    "confianca": 0.6469756800970222,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0369",
+    "tema_central_id": "6723",
+    "sinal": 7.789588859591233,
+    "elegivel": true,
+    "confianca": 0.6931399061501322,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0370",
+    "tema_central_id": "5517",
+    "sinal": 12.831421340593671,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0371",
+    "tema_central_id": "5466",
+    "sinal": 3.1977716016166875,
+    "elegivel": true,
+    "confianca": 0.4287942701768625,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0372",
+    "tema_central_id": "5543",
+    "sinal": 21.475409242570922,
+    "elegivel": true,
+    "confianca": 0.983668177042528,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0373",
+    "tema_central_id": "5180",
+    "sinal": 7.4190341735737695,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0374",
+    "tema_central_id": "5147",
+    "sinal": 13.922199959842523,
+    "elegivel": true,
+    "confianca": 0.9077193125898425,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0375",
+    "tema_central_id": "5218",
+    "sinal": 22.252158321026393,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0376",
+    "tema_central_id": "5218",
+    "sinal": 4.739160324882218,
+    "elegivel": true,
+    "confianca": 0.5207427797352144,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0377",
+    "tema_central_id": "5476",
+    "sinal": 8.206512114409435,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0378",
+    "tema_central_id": "5116",
+    "sinal": 14.60352262287844,
+    "elegivel": true,
+    "confianca": 0.9205288915647813,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0379",
+    "tema_central_id": "6724",
+    "sinal": 20.443607116328373,
+    "elegivel": true,
+    "confianca": 0.9791766243543099,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0380",
+    "tema_central_id": "5487",
+    "sinal": 3.6064052896242975,
+    "elegivel": true,
+    "confianca": 0.45295510907945685,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0381",
+    "tema_central_id": "5498",
+    "sinal": 25.899954302877408,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0382",
+    "tema_central_id": "5218",
+    "sinal": 4.756980870798187,
+    "elegivel": true,
+    "confianca": 0.5218096653698809,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0383",
+    "tema_central_id": "6723",
+    "sinal": 7.641528281987656,
+    "elegivel": true,
+    "confianca": 0.6855333401290407,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0384",
+    "tema_central_id": "5560",
+    "sinal": 19.46135821254561,
+    "elegivel": true,
+    "confianca": 0.9737882684810797,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0385",
+    "tema_central_id": "5543",
+    "sinal": 13.615452480544448,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0386",
+    "tema_central_id": "5156",
+    "sinal": 1.6674601666892563,
+    "elegivel": true,
+    "confianca": 0.3421099528164093,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0387",
+    "tema_central_id": "5590",
+    "sinal": 11.884190962471301,
+    "elegivel": true,
+    "confianca": 0.8578036466703116,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0388",
+    "tema_central_id": "5530",
+    "sinal": 8.045457636499656,
+    "elegivel": true,
+    "confianca": 0.7060393006499671,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0389",
+    "tema_central_id": "5218",
+    "sinal": 15.707913166077521,
+    "elegivel": true,
+    "confianca": 0.9378772376600595,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0390",
+    "tema_central_id": "4374",
+    "sinal": 3.971315597751736,
+    "elegivel": true,
+    "confianca": 0.4747232996807427,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0391",
+    "tema_central_id": "5466",
+    "sinal": 7.72822317799871,
+    "elegivel": true,
+    "confianca": 0.6899996883527686,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0392",
+    "tema_central_id": "5199",
+    "sinal": 7.60914636996466,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0393",
+    "tema_central_id": "5157",
+    "sinal": -5.730871623587609,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0394",
+    "tema_central_id": "5480",
+    "sinal": 1.5659815129470118,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0395",
+    "tema_central_id": "5476",
+    "sinal": 3.68329676938285,
+    "elegivel": true,
+    "confianca": 0.45752983621231613,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0396",
+    "tema_central_id": "5087",
+    "sinal": 9.567179103753887,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0397",
+    "tema_central_id": "5466",
+    "sinal": -2.737129746721944,
+    "elegivel": true,
+    "confianca": 0.15308584541899467,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0398",
+    "tema_central_id": "5175",
+    "sinal": 9.359250815797889,
+    "elegivel": true,
+    "confianca": 0.766993837973199,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0399",
+    "tema_central_id": "5087",
+    "sinal": 17.18601857308009,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0400",
+    "tema_central_id": "5211",
+    "sinal": 4.552158165293341,
+    "elegivel": true,
+    "confianca": 0.5095377220979568,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0401",
+    "tema_central_id": "6734",
+    "sinal": -0.6754530710524831,
+    "elegivel": true,
+    "confianca": 0.22864317671440068,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0402",
+    "tema_central_id": "4684",
+    "sinal": 12.672997225709846,
+    "elegivel": true,
+    "confianca": 0.8793624983117408,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0403",
+    "tema_central_id": "5180",
+    "sinal": -2.625243486226989,
+    "elegivel": true,
+    "confianca": 0.15659847277486852,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0404",
+    "tema_central_id": "5116",
+    "sinal": 18.048194520824964,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0405",
+    "tema_central_id": "5524",
+    "sinal": 5.0945802163553475,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0406",
+    "tema_central_id": "5087",
+    "sinal": 17.74417495596572,
+    "elegivel": true,
+    "confianca": 0.9609478196722151,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0407",
+    "tema_central_id": "5572",
+    "sinal": 11.30476530291811,
+    "elegivel": true,
+    "confianca": 0.8399905406929725,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0408",
+    "tema_central_id": "5490",
+    "sinal": 13.536286760744279,
+    "elegivel": true,
+    "confianca": 0.8996658037405075,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0409",
+    "tema_central_id": "5211",
+    "sinal": 14.160353163083382,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0410",
+    "tema_central_id": "5211",
+    "sinal": 17.54825091292826,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0411",
+    "tema_central_id": "5087",
+    "sinal": 10.385947184812753,
+    "elegivel": true,
+    "confianca": 0.8081022921896122,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0412",
+    "tema_central_id": "5087",
+    "sinal": 13.892480715156292,
+    "elegivel": true,
+    "confianca": 0.9071203402578858,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0413",
+    "tema_central_id": "5087",
+    "sinal": 14.416153583737739,
+    "elegivel": true,
+    "confianca": 0.9171776765071553,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0414",
+    "tema_central_id": "4695",
+    "sinal": 10.785917359282177,
+    "elegivel": true,
+    "confianca": 0.822544410820126,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0415",
+    "tema_central_id": "4695",
+    "sinal": 9.527521206114802,
+    "elegivel": true,
+    "confianca": 0.7741305276626091,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0416",
+    "tema_central_id": "5180",
+    "sinal": 1.5900490435292376,
+    "elegivel": true,
+    "confianca": 0.3379423870344446,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0417",
+    "tema_central_id": "5185",
+    "sinal": 3.04363067119617,
+    "elegivel": true,
+    "confianca": 0.4197616822125335,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0418",
+    "tema_central_id": "4704",
+    "sinal": 18.038608708813797,
+    "elegivel": true,
+    "confianca": 0.9635139972087745,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0419",
+    "tema_central_id": "4385",
+    "sinal": 16.701573821516188,
+    "elegivel": true,
+    "confianca": 0.9504000606605056,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0420",
+    "tema_central_id": "6724",
+    "sinal": 17.990671710667208,
+    "elegivel": true,
+    "confianca": 0.9631075391818475,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0421",
+    "tema_central_id": "5466",
+    "sinal": 16.958684664415212,
+    "elegivel": true,
+    "confianca": 0.9532283065711101,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0422",
+    "tema_central_id": "5087",
+    "sinal": 13.096008377226223,
+    "elegivel": true,
+    "confianca": 0.8897206290663423,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0423",
+    "tema_central_id": "4695",
+    "sinal": 9.766826795719485,
+    "elegivel": true,
+    "confianca": 0.7840108132342641,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0424",
+    "tema_central_id": "5498",
+    "sinal": 0.9962092228681083,
+    "elegivel": true,
+    "confianca": 0.30683798780764515,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0425",
+    "tema_central_id": "5572",
+    "sinal": 6.251852043936016,
+    "elegivel": true,
+    "confianca": 0.6096699539602063,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0426",
+    "tema_central_id": "5466",
+    "sinal": 2.1572041320133044,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0427",
+    "tema_central_id": "5572",
+    "sinal": 6.275676108778595,
+    "elegivel": true,
+    "confianca": 0.6110292480525061,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0428",
+    "tema_central_id": "5466",
+    "sinal": 15.524079173776059,
+    "elegivel": true,
+    "confianca": 0.9352574628807224,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0429",
+    "tema_central_id": "5149",
+    "sinal": 15.207040097204072,
+    "elegivel": true,
+    "confianca": 0.9304966363891551,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0430",
+    "tema_central_id": "6724",
+    "sinal": 35.046086436629174,
+    "elegivel": true,
+    "confianca": 0.9993603071389192,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0431",
+    "tema_central_id": "5466",
+    "sinal": 6.347915518479099,
+    "elegivel": true,
+    "confianca": 0.6151402863561339,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0432",
+    "tema_central_id": "5466",
+    "sinal": 11.691799608622148,
+    "elegivel": true,
+    "confianca": 0.8520801713189861,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0433",
+    "tema_central_id": "5071",
+    "sinal": 12.616867745360114,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0434",
+    "tema_central_id": "5498",
+    "sinal": 10.477844679017561,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0435",
+    "tema_central_id": "4689",
+    "sinal": 3.4514150993220776,
+    "elegivel": true,
+    "confianca": 0.4437587172313215,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0436",
+    "tema_central_id": "6724",
+    "sinal": 23.59975123684749,
+    "elegivel": true,
+    "confianca": 0.9901249425006773,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0437",
+    "tema_central_id": "5180",
+    "sinal": 2.2237481761567865,
+    "elegivel": true,
+    "confianca": 0.372747511236131,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0438",
+    "tema_central_id": "5116",
+    "sinal": 1.4540480664634874,
+    "elegivel": true,
+    "confianca": 0.33068139496512783,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0439",
+    "tema_central_id": "5087",
+    "sinal": 8.383708719366691,
+    "elegivel": true,
+    "confianca": 0.7225956973242978,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0440",
+    "tema_central_id": "5498",
+    "sinal": 7.825954664313769,
+    "elegivel": true,
+    "confianca": 0.6949924337975639,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0441",
+    "tema_central_id": "5157",
+    "sinal": -4.938607753786285,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0442",
+    "tema_central_id": "5466",
+    "sinal": 15.315915024994027,
+    "elegivel": true,
+    "confianca": 0.9321670038425033,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0443",
+    "tema_central_id": "5170",
+    "sinal": -3.2916087864867283,
+    "elegivel": true,
+    "confianca": 0.1366232211682902,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0444",
+    "tema_central_id": "5543",
+    "sinal": 13.635626019465228,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0445",
+    "tema_central_id": "6725",
+    "sinal": 12.211312603743565,
+    "elegivel": true,
+    "confianca": 0.8671101398694081,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0446",
+    "tema_central_id": "5498",
+    "sinal": 3.755830649364447,
+    "elegivel": true,
+    "confianca": 0.46185189246706815,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0447",
+    "tema_central_id": "5185",
+    "sinal": 8.597397414021646,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0448",
+    "tema_central_id": "5157",
+    "sinal": 4.956704727820351,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0449",
+    "tema_central_id": "5228",
+    "sinal": 12.952050591539319,
+    "elegivel": true,
+    "confianca": 0.88628608896151,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0450",
+    "tema_central_id": "5560",
+    "sinal": 10.158729672806292,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0451",
+    "tema_central_id": "5498",
+    "sinal": 13.977172719134572,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0452",
+    "tema_central_id": "5498",
+    "sinal": 8.3213259175634,
+    "elegivel": true,
+    "confianca": 0.7195857517469756,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0453",
+    "tema_central_id": "6724",
+    "sinal": 18.577103320663124,
+    "elegivel": true,
+    "confianca": 0.9677934019181351,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0454",
+    "tema_central_id": "5180",
+    "sinal": 3.7226766225887795,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0455",
+    "tema_central_id": "5530",
+    "sinal": 0.4946727452101527,
+    "elegivel": true,
+    "confianca": 0.2818575153613007,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0456",
+    "tema_central_id": "5180",
+    "sinal": 6.401061085056985,
+    "elegivel": true,
+    "confianca": 0.6181542971965195,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0457",
+    "tema_central_id": "5476",
+    "sinal": 19.31630964760035,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0458",
+    "tema_central_id": "5218",
+    "sinal": 11.683252911634135,
+    "elegivel": true,
+    "confianca": 0.8518215509305731,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0459",
+    "tema_central_id": "4695",
+    "sinal": 14.706086655807745,
+    "elegivel": true,
+    "confianca": 0.9223104228161596,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0460",
+    "tema_central_id": "5144",
+    "sinal": 6.488812765045657,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0461",
+    "tema_central_id": "5560",
+    "sinal": 7.449841971689437,
+    "elegivel": true,
+    "confianca": 0.6755360437246284,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0462",
+    "tema_central_id": "5149",
+    "sinal": -0.4601015292468613,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0463",
+    "tema_central_id": "5087",
+    "sinal": 17.438471781504923,
+    "elegivel": true,
+    "confianca": 0.9581005835944563,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0464",
+    "tema_central_id": "4689",
+    "sinal": 9.16984542822313,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0465",
+    "tema_central_id": "5087",
+    "sinal": 5.774485776303922,
+    "elegivel": true,
+    "confianca": 0.5821002893074347,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0466",
+    "tema_central_id": "5218",
+    "sinal": 7.541693006102622,
+    "elegivel": true,
+    "confianca": 0.6803471949249662,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0467",
+    "tema_central_id": "5185",
+    "sinal": 1.024106530993028,
+    "elegivel": true,
+    "confianca": 0.3082633015952378,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0468",
+    "tema_central_id": "5184",
+    "sinal": 5.248644037982843,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0469",
+    "tema_central_id": "4374",
+    "sinal": 9.407800670374431,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0470",
+    "tema_central_id": "6734",
+    "sinal": 21.24103895242071,
+    "elegivel": true,
+    "confianca": 0.9827398805443338,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0471",
+    "tema_central_id": "5191",
+    "sinal": 2.8939945967454994,
+    "elegivel": true,
+    "confianca": 0.41104414228983066,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0472",
+    "tema_central_id": "5116",
+    "sinal": 16.564211664933385,
+    "elegivel": true,
+    "confianca": 0.9488233453116917,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0473",
+    "tema_central_id": "5498",
+    "sinal": 6.152050663434459,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0474",
+    "tema_central_id": "4689",
+    "sinal": -0.39328384388440885,
+    "elegivel": true,
+    "confianca": 0.24080084619882902,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0475",
+    "tema_central_id": "5218",
+    "sinal": -0.15911470804353023,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0476",
+    "tema_central_id": "5524",
+    "sinal": 7.538381759546076,
+    "elegivel": true,
+    "confianca": 0.6801744095598578,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0477",
+    "tema_central_id": "5466",
+    "sinal": 14.544480114428307,
+    "elegivel": true,
+    "confianca": 0.9194864709366062,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0478",
+    "tema_central_id": "5480",
+    "sinal": 6.210133818735485,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0479",
+    "tema_central_id": "5079",
+    "sinal": 4.898673652531765,
+    "elegivel": true,
+    "confianca": 0.5302846927601327,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0480",
+    "tema_central_id": "5199",
+    "sinal": 7.849069234113972,
+    "elegivel": true,
+    "confianca": 0.6961666556476468,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0481",
+    "tema_central_id": "5218",
+    "sinal": 10.947746392456171,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0482",
+    "tema_central_id": "5505",
+    "sinal": 4.86363352114352,
+    "elegivel": true,
+    "confianca": 0.5281902829354251,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0483",
+    "tema_central_id": "5157",
+    "sinal": 18.857765816330957,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0484",
+    "tema_central_id": "4702",
+    "sinal": 6.668037595894774,
+    "elegivel": true,
+    "confianca": 0.633153921851036,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0485",
+    "tema_central_id": "5180",
+    "sinal": 9.321547796541623,
+    "elegivel": true,
+    "confianca": 0.7653734214664131,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0486",
+    "tema_central_id": "5560",
+    "sinal": -3.3109965040695477,
+    "elegivel": true,
+    "confianca": 0.1360754975164398,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0487",
+    "tema_central_id": "5157",
+    "sinal": 8.543456374690688,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0488",
+    "tema_central_id": "5087",
+    "sinal": 22.445022926994362,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0489",
+    "tema_central_id": "5185",
+    "sinal": 3.405131164569828,
+    "elegivel": true,
+    "confianca": 0.44101961076235036,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0490",
+    "tema_central_id": "5211",
+    "sinal": 7.029774307334596,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0491",
+    "tema_central_id": "5157",
+    "sinal": 4.9504413681016795,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0492",
+    "tema_central_id": "5157",
+    "sinal": 5.824945765191241,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0493",
+    "tema_central_id": "5466",
+    "sinal": 12.981978286024287,
+    "elegivel": true,
+    "confianca": 0.8870076950725625,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0494",
+    "tema_central_id": "6716",
+    "sinal": -0.6922473432831842,
+    "elegivel": true,
+    "confianca": 0.22793336407863105,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0495",
+    "tema_central_id": "5498",
+    "sinal": 6.988629350651732,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0496",
+    "tema_central_id": "5191",
+    "sinal": 2.0527776680457928,
+    "elegivel": true,
+    "confianca": 0.36320855231791366,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0497",
+    "tema_central_id": "5560",
+    "sinal": 18.26312958302208,
+    "elegivel": true,
+    "confianca": 0.9653610227803271,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0498",
+    "tema_central_id": "4704",
+    "sinal": 7.962271536214572,
+    "elegivel": true,
+    "confianca": 0.7018803092506075,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0499",
+    "tema_central_id": "5218",
+    "sinal": 7.466691579679057,
+    "elegivel": true,
+    "confianca": 0.6764214452271865,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0500",
+    "tema_central_id": "4695",
+    "sinal": 30.631750898270834,
+    "elegivel": true,
+    "confianca": 0.9981576137604288,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0501",
+    "tema_central_id": "6724",
+    "sinal": 20.745809391314715,
+    "elegivel": true,
+    "confianca": 0.9806046589513542,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0502",
+    "tema_central_id": "5087",
+    "sinal": 13.455764766495928,
+    "elegivel": true,
+    "confianca": 0.8979085224843644,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0503",
+    "tema_central_id": "4377",
+    "sinal": 10.441047096361316,
+    "elegivel": true,
+    "confianca": 0.8101438404702388,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0504",
+    "tema_central_id": "5218",
+    "sinal": 5.217175690870115,
+    "elegivel": true,
+    "confianca": 0.5492642271320008,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0505",
+    "tema_central_id": "5087",
+    "sinal": 28.419452093140084,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0506",
+    "tema_central_id": "5180",
+    "sinal": 8.41491517680942,
+    "elegivel": true,
+    "confianca": 0.7240939048538418,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0507",
+    "tema_central_id": "5218",
+    "sinal": 11.765588750692775,
+    "elegivel": true,
+    "confianca": 0.8542975186157412,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0508",
+    "tema_central_id": "4700",
+    "sinal": 5.215848436812917,
+    "elegivel": true,
+    "confianca": 0.5491853940822022,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0509",
+    "tema_central_id": "5498",
+    "sinal": 13.893884824157851,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0510",
+    "tema_central_id": "5590",
+    "sinal": 2.8825038808099555,
+    "elegivel": true,
+    "confianca": 0.41037694288374776,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0511",
+    "tema_central_id": "5063",
+    "sinal": -0.2610906707169658,
+    "elegivel": true,
+    "confianca": 0.24664625574140772,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0512",
+    "tema_central_id": "5480",
+    "sinal": 4.1604187828161985,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0513",
+    "tema_central_id": "4688",
+    "sinal": 0.3372632828384736,
+    "elegivel": true,
+    "confianca": 0.2742769604874332,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0514",
+    "tema_central_id": "5071",
+    "sinal": 12.158010481429809,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0515",
+    "tema_central_id": "6724",
+    "sinal": 22.50032025673761,
+    "elegivel": true,
+    "confianca": 0.9871826719640464,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0516",
+    "tema_central_id": "4689",
+    "sinal": 5.740789143696817,
+    "elegivel": true,
+    "confianca": 0.5801324642951936,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0517",
+    "tema_central_id": "5466",
+    "sinal": 20.62595865515727,
+    "elegivel": true,
+    "confianca": 0.9800501747568023,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0518",
+    "tema_central_id": "5087",
+    "sinal": 19.73445685489241,
+    "elegivel": true,
+    "confianca": 0.9754096938304422,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0519",
+    "tema_central_id": "5498",
+    "sinal": 9.871009061444436,
+    "elegivel": true,
+    "confianca": 0.7882132146477955,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0520",
+    "tema_central_id": "4694",
+    "sinal": 4.5325994802072715,
+    "elegivel": true,
+    "confianca": 0.5083650290204325,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0521",
+    "tema_central_id": "4384",
+    "sinal": 5.614232331328416,
+    "elegivel": true,
+    "confianca": 0.5727194714254509,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0522",
+    "tema_central_id": "5157",
+    "sinal": -0.007394769723624073,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0523",
+    "tema_central_id": "5191",
+    "sinal": 3.6073663421384046,
+    "elegivel": true,
+    "confianca": 0.4530122403749836,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0524",
+    "tema_central_id": "5185",
+    "sinal": 6.972211937361263,
+    "elegivel": true,
+    "confianca": 0.6499330544370752,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0525",
+    "tema_central_id": "5199",
+    "sinal": 9.070255147692926,
+    "elegivel": true,
+    "confianca": 0.754374626429588,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0526",
+    "tema_central_id": "4689",
+    "sinal": -0.8491287881884197,
+    "elegivel": true,
+    "confianca": 0.22137790411168806,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0527",
+    "tema_central_id": "5199",
+    "sinal": 8.38121367318907,
+    "elegivel": true,
+    "confianca": 0.7224756951474245,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0528",
+    "tema_central_id": "5180",
+    "sinal": 2.54183316698568,
+    "elegivel": true,
+    "confianca": 0.3907556833351158,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0529",
+    "tema_central_id": "5087",
+    "sinal": 6.36274925120449,
+    "elegivel": true,
+    "confianca": 0.61598244287133,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0530",
+    "tema_central_id": "6728",
+    "sinal": 4.280687853023152,
+    "elegivel": true,
+    "confianca": 0.4932573360914914,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0531",
+    "tema_central_id": "5466",
+    "sinal": 9.630531539288096,
+    "elegivel": true,
+    "confianca": 0.7784223569987551,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0532",
+    "tema_central_id": "5157",
+    "sinal": 8.282473763289161,
+    "elegivel": true,
+    "confianca": 0.7177011113238592,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0533",
+    "tema_central_id": "5134",
+    "sinal": 12.514939156231911,
+    "elegivel": true,
+    "confianca": 0.8752816444411421,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0534",
+    "tema_central_id": "4377",
+    "sinal": 11.47399980672083,
+    "elegivel": true,
+    "confianca": 0.8453724987591661,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0535",
+    "tema_central_id": "4704",
+    "sinal": 16.723678047504592,
+    "elegivel": true,
+    "confianca": 0.9506494454462688,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0536",
+    "tema_central_id": "5543",
+    "sinal": 12.583951007004352,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0537",
+    "tema_central_id": "5149",
+    "sinal": 7.214527262500245,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0538",
+    "tema_central_id": "5228",
+    "sinal": 10.059870637489244,
+    "elegivel": true,
+    "confianca": 0.7956780860608614,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0539",
+    "tema_central_id": "5157",
+    "sinal": 12.57254536445317,
+    "elegivel": true,
+    "confianca": 0.8767824972319914,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0540",
+    "tema_central_id": "5218",
+    "sinal": 2.7440846857900167,
+    "elegivel": true,
+    "confianca": 0.4023662988488715,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0541",
+    "tema_central_id": "5199",
+    "sinal": 2.5479581752955474,
+    "elegivel": true,
+    "confianca": 0.3911055618152055,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0542",
+    "tema_central_id": "5517",
+    "sinal": 7.378987632570666,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0543",
+    "tema_central_id": "5560",
+    "sinal": -0.17189295766842605,
+    "elegivel": true,
+    "confianca": 0.25064400558154054,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0544",
+    "tema_central_id": "5149",
+    "sinal": 3.4312948261313645,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0545",
+    "tema_central_id": "5111",
+    "sinal": 2.1234843463458377,
+    "elegivel": true,
+    "confianca": 0.367140939848022,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0546",
+    "tema_central_id": "5087",
+    "sinal": 11.497724649628662,
+    "elegivel": true,
+    "confianca": 0.8461150531218701,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0547",
+    "tema_central_id": "4689",
+    "sinal": 13.026411204873884,
+    "elegivel": true,
+    "confianca": 0.8880716743157521,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0548",
+    "tema_central_id": "5560",
+    "sinal": 8.052452638495648,
+    "elegivel": true,
+    "confianca": 0.7063874774793131,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0549",
+    "tema_central_id": "4703",
+    "sinal": 2.707959556581298,
+    "elegivel": true,
+    "confianca": 0.4002840139068023,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0550",
+    "tema_central_id": "5157",
+    "sinal": 15.667237749373484,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0551",
+    "tema_central_id": "5466",
+    "sinal": 10.372466555186946,
+    "elegivel": true,
+    "confianca": 0.8076002698985261,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0552",
+    "tema_central_id": "5509",
+    "sinal": 11.53742375297228,
+    "elegivel": true,
+    "confianca": 0.8473510512983545,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0553",
+    "tema_central_id": "5530",
+    "sinal": 5.5519705261643635,
+    "elegivel": true,
+    "confianca": 0.5690602829020179,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0554",
+    "tema_central_id": "5476",
+    "sinal": 15.5966815173187,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0555",
+    "tema_central_id": "5199",
+    "sinal": 13.655462148747517,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0556",
+    "tema_central_id": "4385",
+    "sinal": 3.0307190003358047,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0557",
+    "tema_central_id": "5498",
+    "sinal": 11.716491052982846,
+    "elegivel": true,
+    "confianca": 0.8528252315347697,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0558",
+    "tema_central_id": "5580",
+    "sinal": 18.62641824368216,
+    "elegivel": true,
+    "confianca": 0.9681601332213225,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0559",
+    "tema_central_id": "5087",
+    "sinal": 21.359828292473512,
+    "elegivel": true,
+    "confianca": 0.9832166857123606,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0560",
+    "tema_central_id": "4697",
+    "sinal": 10.1247393612041,
+    "elegivel": true,
+    "confianca": 0.798196512503231,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0561",
+    "tema_central_id": "5116",
+    "sinal": 19.157410028737797,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0562",
+    "tema_central_id": "5087",
+    "sinal": 10.460866722119178,
+    "elegivel": true,
+    "confianca": 0.8108741140574078,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0563",
+    "tema_central_id": "4385",
+    "sinal": 9.552115366781045,
+    "elegivel": true,
+    "confianca": 0.7751605454113073,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0564",
+    "tema_central_id": "4385",
+    "sinal": 13.112294638521732,
+    "elegivel": true,
+    "confianca": 0.8901034115872186,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0565",
+    "tema_central_id": "5498",
+    "sinal": 4.5866715573153085,
+    "elegivel": true,
+    "confianca": 0.5116068004405044,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0566",
+    "tema_central_id": "5087",
+    "sinal": 13.831533553837534,
+    "elegivel": true,
+    "confianca": 0.9058810634461287,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0567",
+    "tema_central_id": "5199",
+    "sinal": 3.7959011445918973,
+    "elegivel": true,
+    "confianca": 0.46424206538193535,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0568",
+    "tema_central_id": "5180",
+    "sinal": 5.359839808969041,
+    "elegivel": true,
+    "confianca": 0.5577226274020093,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0569",
+    "tema_central_id": "5199",
+    "sinal": -4.539966591651747,
+    "elegivel": true,
+    "confianca": 0.10497636825979006,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0570",
+    "tema_central_id": "5476",
+    "sinal": 13.375666623650275,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0571",
+    "tema_central_id": "5480",
+    "sinal": 5.081185138002678,
+    "elegivel": true,
+    "confianca": 0.5411748292185687,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0572",
+    "tema_central_id": "4697",
+    "sinal": 9.49517546937323,
+    "elegivel": true,
+    "confianca": 0.772770788683684,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0573",
+    "tema_central_id": "5157",
+    "sinal": 12.583690857374886,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0574",
+    "tema_central_id": "4697",
+    "sinal": 3.118219064807355,
+    "elegivel": true,
+    "confianca": 0.4241262070976165,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0575",
+    "tema_central_id": "6723",
+    "sinal": 6.636743772371607,
+    "elegivel": true,
+    "confianca": 0.6314083880912906,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0576",
+    "tema_central_id": "5087",
+    "sinal": 6.219942767522803,
+    "elegivel": true,
+    "confianca": 0.607846686039213,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0577",
+    "tema_central_id": "6724",
+    "sinal": 18.96037939421587,
+    "elegivel": true,
+    "confianca": 0.9705393982811681,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0578",
+    "tema_central_id": "6723",
+    "sinal": 7.040876341595431,
+    "elegivel": true,
+    "confianca": 0.6536717007292273,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0579",
+    "tema_central_id": "5543",
+    "sinal": 8.160407235226767,
+    "elegivel": true,
+    "confianca": 0.7117302101155658,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0580",
+    "tema_central_id": "4690",
+    "sinal": 2.058932819920172,
+    "elegivel": true,
+    "confianca": 0.36355015701404203,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0581",
+    "tema_central_id": "5466",
+    "sinal": -1.5365105859712669,
+    "elegivel": true,
+    "confianca": 0.19426013832287542,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0582",
+    "tema_central_id": "5157",
+    "sinal": 2.032808653025927,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0583",
+    "tema_central_id": "5185",
+    "sinal": 6.183575933025922,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0584",
+    "tema_central_id": "5185",
+    "sinal": 8.581997242130619,
+    "elegivel": true,
+    "confianca": 0.7320296701660568,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0585",
+    "tema_central_id": "5175",
+    "sinal": 8.604829957775639,
+    "elegivel": true,
+    "confianca": 0.7331028298684031,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0586",
+    "tema_central_id": "5517",
+    "sinal": 8.938615613730946,
+    "elegivel": true,
+    "confianca": 0.7484759122195316,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0587",
+    "tema_central_id": "5185",
+    "sinal": 2.409829963879564,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0588",
+    "tema_central_id": "4385",
+    "sinal": 15.457772628399702,
+    "elegivel": true,
+    "confianca": 0.9342875569082317,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0589",
+    "tema_central_id": "5087",
+    "sinal": 3.31959507527644,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0590",
+    "tema_central_id": "5228",
+    "sinal": 14.874137731208624,
+    "elegivel": true,
+    "confianca": 0.925150533836461,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0591",
+    "tema_central_id": "5560",
+    "sinal": 15.670499283825102,
+    "elegivel": true,
+    "confianca": 0.9373522114283891,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0592",
+    "tema_central_id": "5087",
+    "sinal": 9.257762851394997,
+    "elegivel": true,
+    "confianca": 0.7626142951499152,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0593",
+    "tema_central_id": "5157",
+    "sinal": 16.813124552968087,
+    "elegivel": true,
+    "confianca": 0.9516465111587534,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0594",
+    "tema_central_id": "5530",
+    "sinal": 1.8122745053474523,
+    "elegivel": true,
+    "confianca": 0.34997171013377554,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0595",
+    "tema_central_id": "5498",
+    "sinal": 6.375074811663697,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0596",
+    "tema_central_id": "5180",
+    "sinal": 6.315320239097436,
+    "elegivel": true,
+    "confianca": 0.6132873332115466,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0597",
+    "tema_central_id": "5530",
+    "sinal": -1.3440952359207348,
+    "elegivel": true,
+    "confianca": 0.20158766243163495,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0598",
+    "tema_central_id": "4380",
+    "sinal": 6.7992863892352675,
+    "elegivel": true,
+    "confianca": 0.640436410690037,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0599",
+    "tema_central_id": "5466",
+    "sinal": -1.732965829813585,
+    "elegivel": true,
+    "confianca": 0.18698914776047534,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0600",
+    "tema_central_id": "5191",
+    "sinal": 0.7735427043181353,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0601",
+    "tema_central_id": "5539",
+    "sinal": 9.934656638729624,
+    "elegivel": true,
+    "confianca": 0.7907509894169106,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0602",
+    "tema_central_id": "5466",
+    "sinal": 5.456145087671566,
+    "elegivel": true,
+    "confianca": 0.5634138961188817,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0603",
+    "tema_central_id": "5087",
+    "sinal": 16.06298706926676,
+    "elegivel": true,
+    "confianca": 0.9426591536617034,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0604",
+    "tema_central_id": "5087",
+    "sinal": 18.43248087841797,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0605",
+    "tema_central_id": "5530",
+    "sinal": -0.667484413073562,
+    "elegivel": true,
+    "confianca": 0.22898051691279328,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0606",
+    "tema_central_id": "5149",
+    "sinal": 10.954033543552416,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0607",
+    "tema_central_id": "4368",
+    "sinal": 7.141008731181844,
+    "elegivel": true,
+    "confianca": 0.6590897789395314,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0608",
+    "tema_central_id": "5180",
+    "sinal": 7.085990012184701,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0609",
+    "tema_central_id": "4695",
+    "sinal": 4.255372371491338,
+    "elegivel": true,
+    "confianca": 0.49173933455162017,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0610",
+    "tema_central_id": "4700",
+    "sinal": 23.331085369742766,
+    "elegivel": true,
+    "confianca": 0.989474405193249,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0611",
+    "tema_central_id": "5116",
+    "sinal": 18.67417133967562,
+    "elegivel": true,
+    "confianca": 0.9685113993638353,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0612",
+    "tema_central_id": "5466",
+    "sinal": 17.920736577453276,
+    "elegivel": true,
+    "confianca": 0.962506740030294,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0613",
+    "tema_central_id": "4689",
+    "sinal": 3.1301435813541607,
+    "elegivel": true,
+    "confianca": 0.4248250849871396,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0614",
+    "tema_central_id": "5116",
+    "sinal": 6.865755830491529,
+    "elegivel": true,
+    "confianca": 0.6441002564256254,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0615",
+    "tema_central_id": "5191",
+    "sinal": 9.225874110698332,
+    "elegivel": true,
+    "confianca": 0.7612265418083135,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0616",
+    "tema_central_id": "5180",
+    "sinal": 4.1924032752584415,
+    "elegivel": true,
+    "confianca": 0.4879642161769226,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0617",
+    "tema_central_id": "5498",
+    "sinal": 10.66076154830957,
+    "elegivel": true,
+    "confianca": 0.8181191617130286,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0618",
+    "tema_central_id": "5218",
+    "sinal": 14.419256249894307,
+    "elegivel": true,
+    "confianca": 0.9172342021083539,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0619",
+    "tema_central_id": "5560",
+    "sinal": 4.137220872762044,
+    "elegivel": true,
+    "confianca": 0.4846570389249735,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0620",
+    "tema_central_id": "5147",
+    "sinal": 12.487602474297624,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0621",
+    "tema_central_id": "5543",
+    "sinal": 3.8284656322187347,
+    "elegivel": true,
+    "confianca": 0.466185726724723,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0622",
+    "tema_central_id": "5180",
+    "sinal": 8.832208053315956,
+    "elegivel": true,
+    "confianca": 0.743639605667804,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0623",
+    "tema_central_id": "5543",
+    "sinal": 13.499235452096833,
+    "elegivel": true,
+    "confianca": 0.8988605725245041,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0624",
+    "tema_central_id": "6724",
+    "sinal": 21.581383503334234,
+    "elegivel": true,
+    "confianca": 0.9840716336430911,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0625",
+    "tema_central_id": "5087",
+    "sinal": 19.34868585708931,
+    "elegivel": true,
+    "confianca": 0.9730894041682792,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0626",
+    "tema_central_id": "5505",
+    "sinal": -0.09442951311402226,
+    "elegivel": true,
+    "confianca": 0.25415064484470307,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0627",
+    "tema_central_id": "5125",
+    "sinal": 12.419977367034956,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0628",
+    "tema_central_id": "5498",
+    "sinal": 7.752893964181134,
+    "elegivel": true,
+    "confianca": 0.6912642754623353,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0629",
+    "tema_central_id": "4380",
+    "sinal": 1.8244896730706115,
+    "elegivel": true,
+    "confianca": 0.3506386695686012,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0630",
+    "tema_central_id": "5079",
+    "sinal": 23.910650508714113,
+    "elegivel": true,
+    "confianca": 0.9908281865806984,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0631",
+    "tema_central_id": "5087",
+    "sinal": 11.461820816365222,
+    "elegivel": true,
+    "confianca": 0.8449901775220166,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0632",
+    "tema_central_id": "5087",
+    "sinal": 26.900894793332785,
+    "elegivel": true,
+    "confianca": 0.9955027806511074,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0633",
+    "tema_central_id": "5087",
+    "sinal": 5.889736880495005,
+    "elegivel": true,
+    "confianca": 0.5888106635567751,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0634",
+    "tema_central_id": "5498",
+    "sinal": 4.994881143051642,
+    "elegivel": true,
+    "confianca": 0.5360294816685159,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0635",
+    "tema_central_id": "4691",
+    "sinal": -4.554184087734271,
+    "elegivel": true,
+    "confianca": 0.10465632543691804,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0636",
+    "tema_central_id": "4695",
+    "sinal": 7.097769854061277,
+    "elegivel": true,
+    "confianca": 0.6567551571985055,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0637",
+    "tema_central_id": "5087",
+    "sinal": 17.719787030904026,
+    "elegivel": true,
+    "confianca": 0.9607276610677163,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0638",
+    "tema_central_id": "5087",
+    "sinal": 8.235049811197776,
+    "elegivel": true,
+    "confianca": 0.7153902867723746,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0639",
+    "tema_central_id": "4707",
+    "sinal": 7.474217459098134,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0640",
+    "tema_central_id": "5218",
+    "sinal": 9.254246944006944,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0641",
+    "tema_central_id": "5087",
+    "sinal": 19.81602335886989,
+    "elegivel": true,
+    "confianca": 0.975874713864657,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0642",
+    "tema_central_id": "6724",
+    "sinal": 30.63419888305646,
+    "elegivel": true,
+    "confianca": 0.998158693466597,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0643",
+    "tema_central_id": "4703",
+    "sinal": -2.8797949140829493,
+    "elegivel": true,
+    "confianca": 0.14870085838855707,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0644",
+    "tema_central_id": "5157",
+    "sinal": 3.1062994050848163,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0645",
+    "tema_central_id": "5218",
+    "sinal": 4.462777819085216,
+    "elegivel": true,
+    "confianca": 0.5041780245080391,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0646",
+    "tema_central_id": "4374",
+    "sinal": 0.49091317762159736,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0647",
+    "tema_central_id": "5487",
+    "sinal": 8.742960262706625,
+    "elegivel": true,
+    "confianca": 0.739536527087521,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0648",
+    "tema_central_id": "5498",
+    "sinal": 8.53856759271088,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0649",
+    "tema_central_id": "5199",
+    "sinal": 10.717407659302108,
+    "elegivel": true,
+    "confianca": 0.8201325965640804,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0650",
+    "tema_central_id": "5199",
+    "sinal": -1.23850677155861,
+    "elegivel": true,
+    "confianca": 0.20569559947855517,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0651",
+    "tema_central_id": "6724",
+    "sinal": 29.24624156946137,
+    "elegivel": true,
+    "confianca": 0.9974330210324646,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0652",
+    "tema_central_id": "5087",
+    "sinal": 10.136679040055313,
+    "elegivel": true,
+    "confianca": 0.9259259259259259,
+    "decisao": "publicar",
+    "via": "identificador"
+  },
+  {
+    "id": "Q0653",
+    "tema_central_id": "6724",
+    "sinal": 2.125402735204827,
+    "elegivel": true,
+    "confianca": 0.3672478815582343,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0654",
+    "tema_central_id": "5583",
+    "sinal": 5.84225461574933,
+    "elegivel": true,
+    "confianca": 0.5860499081174653,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0655",
+    "tema_central_id": "4380",
+    "sinal": 3.807813674344673,
+    "elegivel": true,
+    "confianca": 0.4649529601264681,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0656",
+    "tema_central_id": "6724",
+    "sinal": 20.81736473564387,
+    "elegivel": true,
+    "confianca": 0.9809284751649612,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0657",
+    "tema_central_id": "6716",
+    "sinal": 12.064649691259238,
+    "elegivel": true,
+    "confianca": 0.8630030759918393,
+    "decisao": "publicar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0658",
+    "tema_central_id": "4380",
+    "sinal": 3.874520205673627,
+    "elegivel": true,
+    "confianca": 0.46893630431883754,
+    "decisao": "revisar",
+    "via": "modelo"
+  },
+  {
+    "id": "Q0659",
+    "tema_central_id": "6723",
+    "sinal": 12.530902480583357,
+    "elegivel": true,
+    "confianca": 0.8756991107091081,
+    "decisao": "publicar",
+    "via": "modelo"
+  }
+]

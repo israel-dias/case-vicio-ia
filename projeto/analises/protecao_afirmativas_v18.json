@@ -1,0 +1,15 @@
+{
+  "mudancas_de_preparacao_vs_seguro": [
+    "Q0526"
+  ],
+  "mudancas_nas_100": [],
+  "perdas_de_marcadores_vf": [],
+  "resguardos": [
+    {
+      "id": "Q0526",
+      "marcadores_antes": 3,
+      "marcadores_depois": 3,
+      "afirmativas_preservadas": true
+    }
+  ]
+}

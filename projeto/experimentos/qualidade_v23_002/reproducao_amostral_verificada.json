@@ -1,0 +1,27 @@
+{
+  "amostra": 16,
+  "ids": [
+    "Q0001",
+    "Q0053",
+    "Q0104",
+    "Q0152",
+    "Q0195",
+    "Q0239",
+    "Q0292",
+    "Q0344",
+    "Q0381",
+    "Q0416",
+    "Q0451",
+    "Q0486",
+    "Q0521",
+    "Q0556",
+    "Q0591",
+    "Q0626"
+  ],
+  "previsoes_conferidas": 80,
+  "v22_variantes": 4,
+  "v23_variante": "evidencias",
+  "reproducao_exata": true,
+  "rotulos_rede_treino_avaliador_recalibracao_encoder_bloqueados": true,
+  "escopo": "Amostra determinística, não conferência de todas as 559 nem avaliação de acerto jurídico."
+}

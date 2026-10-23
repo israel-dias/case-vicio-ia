@@ -1,0 +1,17 @@
+id,decisao,tema_central_id,extras_ids,confianca,motivo
+Q0001,revisar,5524,,0.8404888139147954,abaixo_do_limiar_estimado
+Q0053,revisar,5539,,0.6126375306351581,abaixo_do_limiar_estimado
+Q0104,publicar,5498,,0.9141000713965607,
+Q0152,revisar,5466,,0.8405781151545574,abaixo_do_limiar_estimado
+Q0195,revisar,4371,,0.8202874244698913,abaixo_do_limiar_estimado
+Q0239,revisar,5199,,0.5912360022453568,abaixo_do_limiar_estimado
+Q0292,revisar,4374,,0.5719089236045184,abaixo_do_limiar_estimado
+Q0344,revisar,5466,,0.6867795111816931,abaixo_do_limiar_estimado
+Q0381,revisar,5498,,0.8592972958342299,abaixo_do_limiar_estimado
+Q0416,revisar,5180,,0.502069748203091,abaixo_do_limiar_estimado
+Q0451,publicar,5498,,0.9467696514147511,
+Q0486,revisar,5560,,0.36526598753940365,abaixo_do_limiar_estimado
+Q0521,revisar,4384,,0.5451164118726812,abaixo_do_limiar_estimado
+Q0556,revisar,4385,,0.35888834113680324,abaixo_do_limiar_estimado
+Q0591,publicar,5560,,0.891547671414697,
+Q0626,revisar,5147,,0.1577630060515115,abaixo_do_limiar_estimado

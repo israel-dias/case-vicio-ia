@@ -1,0 +1,9 @@
+{
+  "questoes": 559,
+  "variante": "fusao_conservadora",
+  "corte": "70",
+  "politica": "substituir",
+  "tema_decisao_confianca_iguais": true,
+  "rotulos_bloqueados": true,
+  "rede_bloqueada": true
+}

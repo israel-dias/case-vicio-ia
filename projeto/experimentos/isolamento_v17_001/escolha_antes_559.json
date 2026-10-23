@@ -1,0 +1,13 @@
+{
+  "variante_final": "primeiro_fusao_v15",
+  "politica_ja_fixada": {
+    "ativa": true,
+    "limiar": 0.759185694722967,
+    "suporte_interno": 49,
+    "acertos_internos": 47
+  },
+  "procedimento_aninhado_melhora_controle_na_amostra": false,
+  "fonte": "Somente referências de desenvolvimento; nada escolhido pelo volume das 559.",
+  "controle_para_entrega": "V16 preservado; nenhuma promoção automática",
+  "promove_entrega": false
+}

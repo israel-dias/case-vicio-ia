@@ -1,0 +1,251 @@
+{
+  "lexical_bm25": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 16,
+      "revisar": 84,
+      "fora": 0,
+      "cobertura": 0.16,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 59,
+        "empate_entre_candidatos": 4,
+        "sem_politica_com_suporte": 21
+      },
+      "acertos_top1": 67,
+      "acertos_publicadas": 15,
+      "erros_publicadas": 1,
+      "precisao_desenvolvimento": 0.9375,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.1911027862688913,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 2,
+      "publicacoes_anteriores_perdidas": 36,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 1,
+      "novas_erradas": 1,
+      "acertos_perdidos": 34,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 52,
+        "cobertura": 0.52,
+        "precisao_desenvolvimento": 0.9423076923076923,
+        "politica_calibrada_para_uniao": false
+      }
+    }
+  },
+  "e5_query": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 10,
+      "revisar": 90,
+      "fora": 0,
+      "cobertura": 0.1,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "sem_politica_com_suporte": 40,
+        "empate_entre_candidatos": 3,
+        "abaixo_do_limiar_calibrado": 47
+      },
+      "acertos_top1": 63,
+      "acertos_publicadas": 9,
+      "erros_publicadas": 1,
+      "precisao_desenvolvimento": 0.9,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.16817943991573664,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 2,
+      "publicacoes_anteriores_perdidas": 42,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 1,
+      "novas_erradas": 1,
+      "acertos_perdidos": 40,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 52,
+        "cobertura": 0.52,
+        "precisao_desenvolvimento": 0.9423076923076923,
+        "politica_calibrada_para_uniao": false
+      }
+    }
+  },
+  "e5_passage": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 10,
+      "revisar": 90,
+      "fora": 0,
+      "cobertura": 0.1,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "sem_politica_com_suporte": 39,
+        "abaixo_do_limiar_calibrado": 50,
+        "empate_entre_candidatos": 1
+      },
+      "acertos_top1": 39,
+      "acertos_publicadas": 9,
+      "erros_publicadas": 1,
+      "precisao_desenvolvimento": 0.9,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.09033546207753393,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 4,
+      "publicacoes_anteriores_perdidas": 44,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 3,
+      "novas_erradas": 1,
+      "acertos_perdidos": 42,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 54,
+        "cobertura": 0.54,
+        "precisao_desenvolvimento": 0.9444444444444444,
+        "politica_calibrada_para_uniao": false
+      }
+    }
+  },
+  "hibrido_25": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 16,
+      "revisar": 84,
+      "fora": 0,
+      "cobertura": 0.16,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 59,
+        "empate_entre_candidatos": 4,
+        "sem_politica_com_suporte": 21
+      },
+      "acertos_top1": 71,
+      "acertos_publicadas": 15,
+      "erros_publicadas": 1,
+      "precisao_desenvolvimento": 0.9375,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.19280020514865462,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 2,
+      "publicacoes_anteriores_perdidas": 36,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 1,
+      "novas_erradas": 1,
+      "acertos_perdidos": 34,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 52,
+        "cobertura": 0.52,
+        "precisao_desenvolvimento": 0.9423076923076923,
+        "politica_calibrada_para_uniao": false
+      }
+    }
+  },
+  "hibrido_50": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 16,
+      "revisar": 84,
+      "fora": 0,
+      "cobertura": 0.16,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 59,
+        "empate_entre_candidatos": 4,
+        "sem_politica_com_suporte": 21
+      },
+      "acertos_top1": 70,
+      "acertos_publicadas": 15,
+      "erros_publicadas": 1,
+      "precisao_desenvolvimento": 0.9375,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.1909269092774284,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 2,
+      "publicacoes_anteriores_perdidas": 36,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 1,
+      "novas_erradas": 1,
+      "acertos_perdidos": 34,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 52,
+        "cobertura": 0.52,
+        "precisao_desenvolvimento": 0.9423076923076923,
+        "politica_calibrada_para_uniao": false
+      }
+    }
+  },
+  "comparador": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 0,
+      "revisar": 100,
+      "fora": 0,
+      "cobertura": 0.0,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "sem_politica_com_suporte": 100
+      },
+      "acertos_top1": 75,
+      "acertos_publicadas": 0,
+      "erros_publicadas": 0,
+      "precisao_desenvolvimento": null,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.19524084996083155,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 0,
+      "publicacoes_anteriores_perdidas": 50,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 0,
+      "novas_erradas": 0,
+      "acertos_perdidos": 48,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 50,
+        "cobertura": 0.5,
+        "precisao_desenvolvimento": 0.96,
+        "politica_calibrada_para_uniao": false
+      }
+    }
+  },
+  "selecionado_internamente": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 19,
+      "revisar": 81,
+      "fora": 0,
+      "cobertura": 0.19,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 77,
+        "empate_entre_candidatos": 4
+      },
+      "acertos_top1": 63,
+      "acertos_publicadas": 17,
+      "erros_publicadas": 2,
+      "precisao_desenvolvimento": 0.8947368421052632,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.16905504816640815,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 5,
+      "publicacoes_anteriores_perdidas": 36,
+      "publicadas_com_tema_trocado": 0,
+      "novas_corretas": 3,
+      "novas_erradas": 2,
+      "acertos_perdidos": 34,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 55,
+        "cobertura": 0.55,
+        "precisao_desenvolvimento": 0.9272727272727272,
+        "politica_calibrada_para_uniao": false
+      }
+    }
+  }
+}

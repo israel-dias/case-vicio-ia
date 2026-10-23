@@ -1,0 +1,30 @@
+{
+  "original_v8": {
+    "questoes": 100,
+    "acertos_top1": 70,
+    "corrigidas": [],
+    "acertos_perdidos": []
+  },
+  "contexto_v15": {
+    "questoes": 100,
+    "acertos_top1": 71,
+    "corrigidas": [
+      "Q0319"
+    ],
+    "acertos_perdidos": []
+  },
+  "sem_cabecalho_informativo": {
+    "questoes": 100,
+    "acertos_top1": 70,
+    "corrigidas": [],
+    "acertos_perdidos": []
+  },
+  "comando_sem_antecedente": {
+    "questoes": 100,
+    "acertos_top1": 71,
+    "corrigidas": [
+      "Q0319"
+    ],
+    "acertos_perdidos": []
+  }
+}

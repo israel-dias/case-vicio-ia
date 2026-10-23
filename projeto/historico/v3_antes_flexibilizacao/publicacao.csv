@@ -1,0 +1,660 @@
+id,decisao,tema_central_id,extras_ids,confianca,motivo
+Q0001,revisar,5524,,0.64937574,Confiança v3 0.649 < corte 0.835; variante referencias_fixa.
+Q0002,revisar,4384,,0.11817772,Confiança v3 0.118 < corte 0.835; variante referencias_fixa.
+Q0003,revisar,5560,,0.71055495,Confiança v3 0.711 < corte 0.835; variante referencias_fixa.
+Q0004,revisar,5480,,0.72273078,Confiança v3 0.723 < corte 0.835; variante referencias_fixa.
+Q0005,revisar,5199,,0.62960042,Confiança v3 0.630 < corte 0.835; variante referencias_fixa.
+Q0006,publicar,5157,,0.91092405,Confiança v3 0.911 >= corte 0.835; variante referencias_fixa.
+Q0007,publicar,5466,,0.98761986,Confiança v3 0.988 >= corte 0.835; variante referencias_fixa.
+Q0008,revisar,5087,,0.77172252,Confiança v3 0.772 < corte 0.835; variante referencias_fixa.
+Q0009,publicar,5157,,0.93836287,Confiança v3 0.938 >= corte 0.835; variante referencias_fixa.
+Q0010,publicar,6717,,0.94606356,Confiança v3 0.946 >= corte 0.835; variante referencias_fixa.
+Q0011,revisar,6723,,0.26738691,Confiança v3 0.267 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0012,publicar,5560,,0.97237520,Confiança v3 0.972 >= corte 0.835; variante referencias_fixa.
+Q0013,revisar,5498,,0.83299834,Confiança v3 0.833 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0014,revisar,5476,,0.46698936,Confiança v3 0.467 < corte 0.835; variante referencias_fixa.
+Q0015,revisar,5498,,0.78669795,Confiança v3 0.787 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0016,revisar,5517,,0.46675356,Confiança v3 0.467 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0017,revisar,5530,,0.29674746,Confiança v3 0.297 < corte 0.835; variante referencias_fixa.
+Q0018,revisar,5539,,0.80522943,Confiança v3 0.805 < corte 0.835; variante referencias_fixa.
+Q0019,publicar,5466,,0.97655721,Confiança v3 0.977 >= corte 0.835; variante referencias_fixa.
+Q0020,revisar,5199,,0.22701040,Confiança v3 0.227 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0021,revisar,5498,,0.82382037,Confiança v3 0.824 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0022,publicar,5087,,0.91824958,Confiança v3 0.918 >= corte 0.835; variante referencias_fixa.
+Q0023,publicar,5524,,0.87061118,Confiança v3 0.871 >= corte 0.835; variante referencias_fixa.
+Q0024,revisar,4385,,0.68952245,Confiança v3 0.690 < corte 0.835; variante referencias_fixa.
+Q0025,publicar,5087,,0.92981859,Confiança v3 0.930 >= corte 0.835; variante referencias_fixa.
+Q0026,publicar,6724,,0.97156441,Confiança v3 0.972 >= corte 0.835; variante referencias_fixa.
+Q0027,revisar,5087,,0.74582627,Confiança v3 0.746 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0028,revisar,5487,,0.36984767,Confiança v3 0.370 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0029,revisar,6716,,0.49760457,Confiança v3 0.498 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0030,publicar,5134,,0.90996589,Confiança v3 0.910 >= corte 0.835; variante referencias_fixa.
+Q0031,revisar,4385,,0.41779331,Confiança v3 0.418 < corte 0.835; variante referencias_fixa.
+Q0032,revisar,5498,,0.43228160,Confiança v3 0.432 < corte 0.835; variante referencias_fixa.
+Q0033,publicar,5517,,0.87994234,Confiança v3 0.880 >= corte 0.835; variante referencias_fixa.
+Q0034,revisar,5498,,0.68279666,Confiança v3 0.683 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0035,revisar,4706,,0.80988214,Confiança v3 0.810 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0036,publicar,6724,,0.95402391,Confiança v3 0.954 >= corte 0.835; variante referencias_fixa.
+Q0037,publicar,5128,,0.89720538,Confiança v3 0.897 >= corte 0.835; variante referencias_fixa.
+Q0038,revisar,5498,,0.79042599,Confiança v3 0.790 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0039,revisar,4687,,0.77804456,Confiança v3 0.778 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0040,revisar,5524,,0.57875493,Confiança v3 0.579 < corte 0.835; variante referencias_fixa.
+Q0041,revisar,5184,,0.74649697,Confiança v3 0.746 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0042,revisar,5218,,0.72511061,Confiança v3 0.725 < corte 0.835; variante referencias_fixa.
+Q0043,revisar,5199,,0.62027999,Confiança v3 0.620 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0044,revisar,5466,,0.20420637,Confiança v3 0.204 < corte 0.835; variante referencias_fixa.
+Q0045,publicar,5087,,0.93848556,Confiança v3 0.938 >= corte 0.835; variante referencias_fixa.
+Q0046,revisar,5580,,0.41857231,Confiança v3 0.419 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0047,revisar,5466,,0.62620949,Confiança v3 0.626 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0048,revisar,5199,,0.27482556,Confiança v3 0.275 < corte 0.835; variante referencias_fixa.
+Q0049,publicar,5149,,0.99754718,Confiança v3 0.998 >= corte 0.835; variante referencias_fixa.
+Q0050,publicar,4708,,0.91954602,Confiança v3 0.920 >= corte 0.835; variante referencias_fixa.
+Q0051,revisar,5066,,0.26670091,Confiança v3 0.267 < corte 0.835; variante referencias_fixa.
+Q0052,revisar,6726,,0.09371420,Confiança v3 0.094 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0053,revisar,5539,,0.60737635,Confiança v3 0.607 < corte 0.835; variante referencias_fixa.
+Q0054,revisar,4367,,0.44314106,Confiança v3 0.443 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0055,revisar,5530,,0.73262014,Confiança v3 0.733 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0056,publicar,5066,,0.84731838,Confiança v3 0.847 >= corte 0.835; variante referencias_fixa.
+Q0057,publicar,5175,,0.92913775,Confiança v3 0.929 >= corte 0.835; variante referencias_fixa.
+Q0058,revisar,5184,,0.25366503,Confiança v3 0.254 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0059,revisar,4384,,0.21801946,Confiança v3 0.218 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0060,publicar,5087,,0.94329024,Confiança v3 0.943 >= corte 0.835; variante referencias_fixa.
+Q0061,revisar,6734,,0.53382536,Confiança v3 0.534 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0062,revisar,5155,,0.20292487,Confiança v3 0.203 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0063,publicar,6724,,0.96401321,Confiança v3 0.964 >= corte 0.835; variante referencias_fixa.
+Q0064,revisar,5530,,0.09835623,Confiança v3 0.098 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0065,publicar,5157,,0.95903797,Confiança v3 0.959 >= corte 0.835; variante referencias_fixa.
+Q0066,publicar,4371,,0.91378725,Confiança v3 0.914 >= corte 0.835; variante referencias_fixa.
+Q0067,publicar,5087,,0.89491722,Confiança v3 0.895 >= corte 0.835; variante referencias_fixa.
+Q0068,revisar,5116,,0.55990564,Confiança v3 0.560 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0069,publicar,5170,,0.96360542,Confiança v3 0.964 >= corte 0.835; variante referencias_fixa.
+Q0070,revisar,6734,,0.24943392,Confiança v3 0.249 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0071,revisar,5228,,0.18933040,Confiança v3 0.189 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0072,revisar,5498,,0.66428900,Confiança v3 0.664 < corte 0.835; variante referencias_fixa.
+Q0073,publicar,5087,,0.97409815,Confiança v3 0.974 >= corte 0.835; variante referencias_fixa.
+Q0074,revisar,5199,,0.37964605,Confiança v3 0.380 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0075,revisar,5191,,0.83261674,Confiança v3 0.833 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0076,revisar,4380,,0.61286567,Confiança v3 0.613 < corte 0.835; variante referencias_fixa.
+Q0077,revisar,4698,,0.38784282,Confiança v3 0.388 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0078,publicar,4697,,0.95954903,Confiança v3 0.960 >= corte 0.835; variante referencias_fixa.
+Q0079,publicar,5580,,0.94537177,Confiança v3 0.945 >= corte 0.835; variante referencias_fixa.
+Q0080,publicar,4368,,0.91917270,Confiança v3 0.919 >= corte 0.835; variante referencias_fixa.
+Q0081,revisar,4371,,0.80223968,Confiança v3 0.802 < corte 0.835; variante referencias_fixa.
+Q0082,revisar,5087,,0.60177184,Confiança v3 0.602 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0083,publicar,5149,,0.92155912,Confiança v3 0.922 >= corte 0.835; variante referencias_fixa.
+Q0084,publicar,6724,,0.96197114,Confiança v3 0.962 >= corte 0.835; variante referencias_fixa.
+Q0085,revisar,5087,,0.46617194,Confiança v3 0.466 < corte 0.835; variante referencias_fixa.
+Q0086,revisar,5087,,0.73633947,Confiança v3 0.736 < corte 0.835; variante referencias_fixa.
+Q0087,revisar,4703,,0.27117607,Confiança v3 0.271 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0088,revisar,4389,,0.58182353,Confiança v3 0.582 < corte 0.835; variante referencias_fixa.
+Q0089,revisar,5218,,0.50509147,Confiança v3 0.505 < corte 0.835; variante referencias_fixa.
+Q0090,revisar,5466,,0.59667990,Confiança v3 0.597 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0091,revisar,5199,,0.56108486,Confiança v3 0.561 < corte 0.835; variante referencias_fixa.
+Q0092,revisar,5487,,0.53120673,Confiança v3 0.531 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0093,revisar,5138,,0.81670341,Confiança v3 0.817 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0094,revisar,5524,,0.24671817,Confiança v3 0.247 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0095,revisar,5066,,0.23085461,Confiança v3 0.231 < corte 0.835; variante referencias_fixa.
+Q0096,revisar,5480,,0.76307769,Confiança v3 0.763 < corte 0.835; variante referencias_fixa.
+Q0097,revisar,6728,,0.72875503,Confiança v3 0.729 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0098,revisar,5543,,0.66356111,Confiança v3 0.664 < corte 0.835; variante referencias_fixa.
+Q0099,revisar,5077,,0.83149010,Confiança v3 0.831 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0100,revisar,5102,,0.73135711,Confiança v3 0.731 < corte 0.835; variante referencias_fixa.
+Q0101,publicar,6724,,0.99560303,Confiança v3 0.996 >= corte 0.835; variante referencias_fixa.
+Q0102,revisar,5572,,0.82397509,Confiança v3 0.824 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0103,revisar,5476,,0.76858496,Confiança v3 0.769 < corte 0.835; variante referencias_fixa.
+Q0104,revisar,5498,,0.55207209,Confiança v3 0.552 < corte 0.835; variante referencias_fixa.
+Q0105,revisar,4385,,0.35928093,Confiança v3 0.359 < corte 0.835; variante referencias_fixa.
+Q0106,revisar,5155,,0.38634490,Confiança v3 0.386 < corte 0.835; variante referencias_fixa.
+Q0107,revisar,5116,,0.67512039,Confiança v3 0.675 < corte 0.835; variante referencias_fixa.
+Q0108,publicar,5560,,0.85369234,Confiança v3 0.854 >= corte 0.835; variante referencias_fixa.
+Q0109,revisar,5199,,0.66918343,Confiança v3 0.669 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0110,revisar,5480,,0.80448219,Confiança v3 0.804 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0111,revisar,4384,,0.18586456,Confiança v3 0.186 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0112,publicar,6725,,0.98742326,Confiança v3 0.987 >= corte 0.835; variante referencias_fixa.
+Q0113,revisar,5498,,0.43577555,Confiança v3 0.436 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0114,revisar,5498,,0.42116855,Confiança v3 0.421 < corte 0.835; variante referencias_fixa.
+Q0115,revisar,4385,,0.70899098,Confiança v3 0.709 < corte 0.835; variante referencias_fixa.
+Q0116,revisar,4708,,0.58668937,Confiança v3 0.587 < corte 0.835; variante referencias_fixa.
+Q0117,revisar,4384,,0.45188536,Confiança v3 0.452 < corte 0.835; variante referencias_fixa.
+Q0118,revisar,5517,,0.73926745,Confiança v3 0.739 < corte 0.835; variante referencias_fixa.
+Q0119,revisar,5180,,0.13480762,Confiança v3 0.135 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0120,revisar,5580,,0.60093707,Confiança v3 0.601 < corte 0.835; variante referencias_fixa.
+Q0121,publicar,5466,,0.84489608,Confiança v3 0.845 >= corte 0.835; variante referencias_fixa.
+Q0122,revisar,6726,,0.05456042,Confiança v3 0.055 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0123,revisar,5155,,0.17354374,Confiança v3 0.174 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0124,revisar,4384,,0.55786474,Confiança v3 0.558 < corte 0.835; variante referencias_fixa.
+Q0125,revisar,6734,,0.40605872,Confiança v3 0.406 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0126,revisar,5466,,0.20725735,Confiança v3 0.207 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0127,publicar,6728,,0.92090153,Confiança v3 0.921 >= corte 0.835; variante referencias_fixa.
+Q0128,revisar,5184,,0.12173442,Confiança v3 0.122 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0129,revisar,5530,,0.68008908,Confiança v3 0.680 < corte 0.835; variante referencias_fixa.
+Q0130,publicar,5199,,0.92141766,Confiança v3 0.921 >= corte 0.835; variante referencias_fixa.
+Q0131,revisar,5071,,0.65788704,Confiança v3 0.658 < corte 0.835; variante referencias_fixa.
+Q0132,revisar,4366,,0.14233926,Confiança v3 0.142 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0133,revisar,5524,,0.39082837,Confiança v3 0.391 < corte 0.835; variante referencias_fixa.
+Q0134,revisar,5087,,0.78011068,Confiança v3 0.780 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0135,revisar,5157,,0.80517762,Confiança v3 0.805 < corte 0.835; variante referencias_fixa.
+Q0136,revisar,6724,,0.81244978,Confiança v3 0.812 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0137,revisar,5498,,0.50212541,Confiança v3 0.502 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0138,publicar,5199,,0.96476084,Confiança v3 0.965 >= corte 0.835; variante referencias_fixa.
+Q0139,publicar,5211,,0.94502923,Confiança v3 0.945 >= corte 0.835; variante referencias_fixa.
+Q0140,revisar,5066,,0.44512205,Confiança v3 0.445 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0141,publicar,4385,,0.90929115,Confiança v3 0.909 >= corte 0.835; variante referencias_fixa.
+Q0142,revisar,5111,,0.11235866,Confiança v3 0.112 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0143,revisar,5505,,0.75969331,Confiança v3 0.760 < corte 0.835; variante referencias_fixa.
+Q0144,publicar,5524,,0.87053680,Confiança v3 0.871 >= corte 0.835; variante referencias_fixa.
+Q0145,revisar,6723,,0.57515079,Confiança v3 0.575 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0146,revisar,4700,,0.50846708,Confiança v3 0.508 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0147,revisar,5498,,0.81520743,Confiança v3 0.815 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0148,publicar,5199,,0.99637035,Confiança v3 0.996 >= corte 0.835; variante referencias_fixa.
+Q0149,revisar,5498,,0.67253439,Confiança v3 0.673 < corte 0.835; variante referencias_fixa.
+Q0150,publicar,4708,,0.98654212,Confiança v3 0.987 >= corte 0.835; variante referencias_fixa.
+Q0151,publicar,5517,,0.85875019,Confiança v3 0.859 >= corte 0.835; variante referencias_fixa.
+Q0152,revisar,5063,,0.05679201,Confiança v3 0.057 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0153,revisar,5218,,0.40762260,Confiança v3 0.408 < corte 0.835; variante referencias_fixa.
+Q0154,revisar,5134,,0.62798120,Confiança v3 0.628 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0155,revisar,5184,,0.12696143,Confiança v3 0.127 < corte 0.835; variante referencias_fixa.
+Q0156,revisar,5199,,0.74560095,Confiança v3 0.746 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0157,revisar,5498,,0.43773256,Confiança v3 0.438 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0158,revisar,5199,,0.14450869,Confiança v3 0.145 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0159,publicar,5157,,0.85426088,Confiança v3 0.854 >= corte 0.835; variante referencias_fixa.
+Q0160,revisar,5199,,0.45952018,Confiança v3 0.460 < corte 0.835; variante referencias_fixa.
+Q0161,publicar,5517,,0.99403714,Confiança v3 0.994 >= corte 0.835; variante referencias_fixa.
+Q0162,revisar,5087,,0.41013374,Confiança v3 0.410 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0163,revisar,5066,,0.32557376,Confiança v3 0.326 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0164,revisar,5199,,0.18193993,Confiança v3 0.182 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0165,publicar,6725,,0.95936877,Confiança v3 0.959 >= corte 0.835; variante referencias_fixa.
+Q0166,revisar,6734,,0.22858269,Confiança v3 0.229 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0167,revisar,5524,,0.54724169,Confiança v3 0.547 < corte 0.835; variante referencias_fixa.
+Q0168,revisar,5087,,0.46072111,Confiança v3 0.461 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0169,revisar,5490,,0.71875529,Confiança v3 0.719 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0170,revisar,5185,,0.50714932,Confiança v3 0.507 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0171,revisar,5199,,0.36710927,Confiança v3 0.367 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0172,revisar,5063,,0.34407129,Confiança v3 0.344 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0173,publicar,4703,,0.99292234,Confiança v3 0.993 >= corte 0.835; variante referencias_fixa.
+Q0174,revisar,5466,,0.47753921,Confiança v3 0.478 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0175,publicar,5087,,0.97264264,Confiança v3 0.973 >= corte 0.835; variante referencias_fixa.
+Q0176,publicar,5079,,0.92656126,Confiança v3 0.927 >= corte 0.835; variante referencias_fixa.
+Q0177,revisar,5543,,0.82437736,Confiança v3 0.824 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0178,revisar,4697,,0.32221864,Confiança v3 0.322 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0179,revisar,4368,,0.69786046,Confiança v3 0.698 < corte 0.835; variante referencias_fixa.
+Q0180,revisar,5543,,0.50362079,Confiança v3 0.504 < corte 0.835; variante referencias_fixa.
+Q0181,revisar,4695,,0.76349235,Confiança v3 0.763 < corte 0.835; variante referencias_fixa.
+Q0182,revisar,5138,,0.70662314,Confiança v3 0.707 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0183,revisar,5560,,0.60936245,Confiança v3 0.609 < corte 0.835; variante referencias_fixa.
+Q0184,revisar,5517,,0.68574619,Confiança v3 0.686 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0185,revisar,4703,,0.62092649,Confiança v3 0.621 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0186,publicar,5199,,0.97727654,Confiança v3 0.977 >= corte 0.835; variante referencias_fixa.
+Q0187,revisar,5199,,0.45640281,Confiança v3 0.456 < corte 0.835; variante referencias_fixa.
+Q0188,revisar,5228,,0.36833542,Confiança v3 0.368 < corte 0.835; variante referencias_fixa.
+Q0189,revisar,5063,,0.34361481,Confiança v3 0.344 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0190,publicar,4701,,0.99495492,Confiança v3 0.995 >= corte 0.835; variante referencias_fixa.
+Q0191,publicar,5560,,0.98529736,Confiança v3 0.985 >= corte 0.835; variante referencias_fixa.
+Q0192,revisar,5087,,0.81013881,Confiança v3 0.810 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0193,revisar,5498,,0.48715621,Confiança v3 0.487 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0194,publicar,5087,,0.88636239,Confiança v3 0.886 >= corte 0.835; variante referencias_fixa.
+Q0195,revisar,4371,,0.82974312,Confiança v3 0.830 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0196,revisar,4385,,0.72149555,Confiança v3 0.721 < corte 0.835; variante referencias_fixa.
+Q0197,revisar,5498,,0.53014906,Confiança v3 0.530 < corte 0.835; variante referencias_fixa.
+Q0198,revisar,5071,,0.69850399,Confiança v3 0.699 < corte 0.835; variante referencias_fixa.
+Q0199,revisar,5218,,0.45136121,Confiança v3 0.451 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0200,publicar,4705,,0.98710045,Confiança v3 0.987 >= corte 0.835; variante referencias_fixa.
+Q0201,publicar,5102,,0.95417056,Confiança v3 0.954 >= corte 0.835; variante referencias_fixa.
+Q0202,publicar,5102,,0.89530850,Confiança v3 0.895 >= corte 0.835; variante referencias_fixa.
+Q0203,publicar,6723,,0.91553433,Confiança v3 0.916 >= corte 0.835; variante referencias_fixa.
+Q0204,publicar,5505,,0.93326735,Confiança v3 0.933 >= corte 0.835; variante referencias_fixa.
+Q0205,publicar,5560,,0.86950822,Confiança v3 0.870 >= corte 0.835; variante referencias_fixa.
+Q0206,revisar,5560,,0.58091893,Confiança v3 0.581 < corte 0.835; variante referencias_fixa.
+Q0207,revisar,4703,,0.40141494,Confiança v3 0.401 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0208,revisar,5066,,0.20159205,Confiança v3 0.202 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0209,revisar,5498,,0.51857289,Confiança v3 0.519 < corte 0.835; variante referencias_fixa.
+Q0210,publicar,4697,,0.95063475,Confiança v3 0.951 >= corte 0.835; variante referencias_fixa.
+Q0211,revisar,5079,,0.52414765,Confiança v3 0.524 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0212,revisar,4700,,0.26578523,Confiança v3 0.266 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0213,publicar,4708,,0.86299376,Confiança v3 0.863 >= corte 0.835; variante referencias_fixa.
+Q0214,revisar,5490,,0.70212650,Confiança v3 0.702 < corte 0.835; variante referencias_fixa.
+Q0215,revisar,5199,,0.68839996,Confiança v3 0.688 < corte 0.835; variante referencias_fixa.
+Q0216,publicar,4701,,0.99369105,Confiança v3 0.994 >= corte 0.835; variante referencias_fixa.
+Q0217,revisar,5170,,0.12160137,Confiança v3 0.122 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0218,publicar,5517,,0.96807889,Confiança v3 0.968 >= corte 0.835; variante referencias_fixa.
+Q0219,revisar,5071,,0.55896514,Confiança v3 0.559 < corte 0.835; variante referencias_fixa.
+Q0220,publicar,5498,,0.95667536,Confiança v3 0.957 >= corte 0.835; variante referencias_fixa.
+Q0221,revisar,5199,,0.81281208,Confiança v3 0.813 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0222,revisar,5170,,0.69846632,Confiança v3 0.698 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0223,revisar,5079,,0.75712224,Confiança v3 0.757 < corte 0.835; variante referencias_fixa.
+Q0224,publicar,5199,,0.88617813,Confiança v3 0.886 >= corte 0.835; variante referencias_fixa.
+Q0225,revisar,5560,,0.56354637,Confiança v3 0.564 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0226,revisar,5543,,0.56257318,Confiança v3 0.563 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0227,publicar,5102,,0.85768851,Confiança v3 0.858 >= corte 0.835; variante referencias_fixa.
+Q0228,revisar,5560,,0.76421003,Confiança v3 0.764 < corte 0.835; variante referencias_fixa.
+Q0229,revisar,5517,,0.54199490,Confiança v3 0.542 < corte 0.835; variante referencias_fixa.
+Q0230,revisar,5071,,0.68298391,Confiança v3 0.683 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0231,publicar,5218,,0.84616468,Confiança v3 0.846 >= corte 0.835; variante referencias_fixa.
+Q0232,publicar,5079,,0.89341230,Confiança v3 0.893 >= corte 0.835; variante referencias_fixa.
+Q0233,publicar,5175,,0.97378559,Confiança v3 0.974 >= corte 0.835; variante referencias_fixa.
+Q0234,revisar,4380,,0.31264867,Confiança v3 0.313 < corte 0.835; variante referencias_fixa.
+Q0235,revisar,5560,,0.75749574,Confiança v3 0.757 < corte 0.835; variante referencias_fixa.
+Q0236,revisar,5498,,0.44011951,Confiança v3 0.440 < corte 0.835; variante referencias_fixa.
+Q0237,publicar,5175,,0.99845256,Confiança v3 0.998 >= corte 0.835; variante referencias_fixa.
+Q0238,revisar,4694,,0.45698541,Confiança v3 0.457 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0239,revisar,5199,,0.83338828,Confiança v3 0.833 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0240,revisar,5498,,0.40482273,Confiança v3 0.405 < corte 0.835; variante referencias_fixa.
+Q0241,publicar,5218,,0.84730976,Confiança v3 0.847 >= corte 0.835; variante referencias_fixa.
+Q0242,revisar,5560,,0.70678271,Confiança v3 0.707 < corte 0.835; variante referencias_fixa.
+Q0243,publicar,5175,,0.90234392,Confiança v3 0.902 >= corte 0.835; variante referencias_fixa.
+Q0244,publicar,5087,,0.98204220,Confiança v3 0.982 >= corte 0.835; variante referencias_fixa.
+Q0245,revisar,5185,,0.83199493,Confiança v3 0.832 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0246,revisar,5524,,0.58164681,Confiança v3 0.582 < corte 0.835; variante referencias_fixa.
+Q0247,publicar,5498,,0.94585320,Confiança v3 0.946 >= corte 0.835; variante referencias_fixa.
+Q0248,publicar,5087,,0.83922762,Confiança v3 0.839 >= corte 0.835; variante referencias_fixa.
+Q0249,revisar,5583,,0.34360805,Confiança v3 0.344 < corte 0.835; variante referencias_fixa.
+Q0250,revisar,5199,,0.57147491,Confiança v3 0.571 < corte 0.835; variante referencias_fixa.
+Q0251,publicar,5191,,0.94536185,Confiança v3 0.945 >= corte 0.835; variante referencias_fixa.
+Q0252,revisar,5199,,0.75710819,Confiança v3 0.757 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0253,publicar,4371,,0.86303687,Confiança v3 0.863 >= corte 0.835; variante referencias_fixa.
+Q0254,publicar,4704,,0.86605812,Confiança v3 0.866 >= corte 0.835; variante referencias_fixa.
+Q0255,revisar,5211,,0.72049106,Confiança v3 0.720 < corte 0.835; variante referencias_fixa.
+Q0256,revisar,5218,,0.51622271,Confiança v3 0.516 < corte 0.835; variante referencias_fixa.
+Q0257,revisar,5218,,0.48918486,Confiança v3 0.489 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0258,revisar,5524,,0.59762929,Confiança v3 0.598 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0259,publicar,5157,,0.86731021,Confiança v3 0.867 >= corte 0.835; variante referencias_fixa.
+Q0260,revisar,5155,,0.26324097,Confiança v3 0.263 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0261,revisar,5466,,0.43194978,Confiança v3 0.432 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0262,revisar,5184,,0.55575806,Confiança v3 0.556 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0263,revisar,5583,,0.58933713,Confiança v3 0.589 < corte 0.835; variante referencias_fixa.
+Q0264,revisar,5102,,0.69458375,Confiança v3 0.695 < corte 0.835; variante referencias_fixa.
+Q0265,revisar,5066,,0.50474924,Confiança v3 0.505 < corte 0.835; variante referencias_fixa.
+Q0266,revisar,5524,,0.74300478,Confiança v3 0.743 < corte 0.835; variante referencias_fixa.
+Q0267,publicar,4708,,0.87028624,Confiança v3 0.870 >= corte 0.835; variante referencias_fixa.
+Q0268,revisar,5120,,0.81269354,Confiança v3 0.813 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0269,revisar,5170,,0.28716022,Confiança v3 0.287 < corte 0.835; variante referencias_fixa.
+Q0270,publicar,5087,,0.92738338,Confiança v3 0.927 >= corte 0.835; variante referencias_fixa.
+Q0271,revisar,5512,,0.49657241,Confiança v3 0.497 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0272,revisar,4703,,0.37496743,Confiança v3 0.375 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0273,revisar,5087,,0.69152887,Confiança v3 0.692 < corte 0.835; variante referencias_fixa.
+Q0274,revisar,5157,,0.40442924,Confiança v3 0.404 < corte 0.835; variante referencias_fixa.
+Q0275,publicar,4701,,0.88023774,Confiança v3 0.880 >= corte 0.835; variante referencias_fixa.
+Q0276,publicar,5543,,0.87998869,Confiança v3 0.880 >= corte 0.835; variante referencias_fixa.
+Q0277,revisar,4696,,0.64449538,Confiança v3 0.644 < corte 0.835; variante referencias_fixa.
+Q0278,revisar,5199,,0.64664313,Confiança v3 0.647 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0279,revisar,5185,,0.48157582,Confiança v3 0.482 < corte 0.835; variante referencias_fixa.
+Q0280,revisar,5120,,0.64251612,Confiança v3 0.643 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0281,revisar,5580,,0.34341127,Confiança v3 0.343 < corte 0.835; variante referencias_fixa.
+Q0282,publicar,6724,,0.91240390,Confiança v3 0.912 >= corte 0.835; variante referencias_fixa.
+Q0283,revisar,5476,,0.31443068,Confiança v3 0.314 < corte 0.835; variante referencias_fixa.
+Q0284,revisar,5530,,0.34595670,Confiança v3 0.346 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0285,publicar,4374,,0.93072693,Confiança v3 0.931 >= corte 0.835; variante referencias_fixa.
+Q0286,revisar,5066,,0.64189918,Confiança v3 0.642 < corte 0.835; variante referencias_fixa.
+Q0287,revisar,5228,,0.38656059,Confiança v3 0.387 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0288,revisar,5066,,0.61848763,Confiança v3 0.618 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0289,publicar,6724,,0.99958710,Confiança v3 1.000 >= corte 0.835; variante referencias_fixa.
+Q0290,revisar,5466,,0.69140774,Confiança v3 0.691 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0291,revisar,6728,,0.11711771,Confiança v3 0.117 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0292,revisar,4374,,0.38970994,Confiança v3 0.390 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0293,publicar,5185,,0.91742779,Confiança v3 0.917 >= corte 0.835; variante referencias_fixa.
+Q0294,revisar,5211,,0.81787389,Confiança v3 0.818 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0295,revisar,5487,,0.72573747,Confiança v3 0.726 < corte 0.835; variante referencias_fixa.
+Q0296,revisar,5063,,0.32815262,Confiança v3 0.328 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0297,revisar,4689,,0.78943374,Confiança v3 0.789 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0298,revisar,4694,,0.80161967,Confiança v3 0.802 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0299,revisar,4384,,0.36037730,Confiança v3 0.360 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0300,publicar,5079,,0.86572534,Confiança v3 0.866 >= corte 0.835; variante referencias_fixa.
+Q0301,revisar,4691,,0.56663347,Confiança v3 0.567 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0302,publicar,5211,,0.90727274,Confiança v3 0.907 >= corte 0.835; variante referencias_fixa.
+Q0303,revisar,5180,,0.51386281,Confiança v3 0.514 < corte 0.835; variante referencias_fixa.
+Q0304,publicar,5539,,0.92116082,Confiança v3 0.921 >= corte 0.835; variante referencias_fixa.
+Q0305,publicar,5466,,0.86456173,Confiança v3 0.865 >= corte 0.835; variante referencias_fixa.
+Q0306,revisar,4708,,0.32289446,Confiança v3 0.323 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0307,revisar,5517,,0.36228909,Confiança v3 0.362 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0308,revisar,5498,,0.77333779,Confiança v3 0.773 < corte 0.835; variante referencias_fixa.
+Q0309,revisar,5199,,0.39753487,Confiança v3 0.398 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0310,publicar,5505,,0.98557168,Confiança v3 0.986 >= corte 0.835; variante referencias_fixa.
+Q0311,revisar,5487,,0.74960410,Confiança v3 0.750 < corte 0.835; variante referencias_fixa.
+Q0312,revisar,4384,,0.35864882,Confiança v3 0.359 < corte 0.835; variante referencias_fixa.
+Q0313,revisar,5572,,0.60463710,Confiança v3 0.605 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0314,publicar,5476,,0.99394454,Confiança v3 0.994 >= corte 0.835; variante referencias_fixa.
+Q0315,revisar,4691,,0.24705794,Confiança v3 0.247 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0316,revisar,5066,,0.42141267,Confiança v3 0.421 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0317,publicar,5191,,0.84079292,Confiança v3 0.841 >= corte 0.835; variante referencias_fixa.
+Q0318,revisar,5175,,0.82243350,Confiança v3 0.822 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0319,revisar,5218,,0.80386109,Confiança v3 0.804 < corte 0.835; variante referencias_fixa.
+Q0320,revisar,5498,,0.40989427,Confiança v3 0.410 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0321,revisar,5071,,0.78970141,Confiança v3 0.790 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0322,publicar,5560,,0.98480017,Confiança v3 0.985 >= corte 0.835; variante referencias_fixa.
+Q0323,revisar,5530,,0.47512024,Confiança v3 0.475 < corte 0.835; variante referencias_fixa.
+Q0324,revisar,5184,,0.42150416,Confiança v3 0.422 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0325,revisar,6724,,0.43618255,Confiança v3 0.436 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0326,revisar,6728,,0.63216263,Confiança v3 0.632 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0327,publicar,5199,,0.98128256,Confiança v3 0.981 >= corte 0.835; variante referencias_fixa.
+Q0328,revisar,4380,,0.51713954,Confiança v3 0.517 < corte 0.835; variante referencias_fixa.
+Q0329,revisar,5543,,0.20989199,Confiança v3 0.210 < corte 0.835; variante referencias_fixa.
+Q0330,publicar,5498,,0.90378103,Confiança v3 0.904 >= corte 0.835; variante referencias_fixa.
+Q0331,publicar,5476,,0.98393159,Confiança v3 0.984 >= corte 0.835; variante referencias_fixa.
+Q0332,revisar,5199,,0.40980024,Confiança v3 0.410 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0333,revisar,5175,,0.59839037,Confiança v3 0.598 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0334,publicar,4380,,0.84267780,Confiança v3 0.843 >= corte 0.835; variante referencias_fixa.
+Q0335,revisar,5218,,0.52935912,Confiança v3 0.529 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0336,revisar,5157,,0.83288073,Confiança v3 0.833 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0337,revisar,6716,,0.80794747,Confiança v3 0.808 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0338,revisar,5543,,0.31085651,Confiança v3 0.311 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0339,revisar,5572,,0.80912353,Confiança v3 0.809 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0340,publicar,5071,,0.96711176,Confiança v3 0.967 >= corte 0.835; variante referencias_fixa.
+Q0341,revisar,5157,,0.77670081,Confiança v3 0.777 < corte 0.835; variante referencias_fixa.
+Q0342,revisar,5543,,0.45262013,Confiança v3 0.453 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0343,revisar,5466,,0.36295886,Confiança v3 0.363 < corte 0.835; variante referencias_fixa.
+Q0344,revisar,5466,,0.43405822,Confiança v3 0.434 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0345,publicar,5102,,0.95912509,Confiança v3 0.959 >= corte 0.835; variante referencias_fixa.
+Q0346,revisar,4694,,0.52225848,Confiança v3 0.522 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0347,publicar,5199,,0.90323355,Confiança v3 0.903 >= corte 0.835; variante referencias_fixa.
+Q0348,publicar,5087,,0.95998557,Confiança v3 0.960 >= corte 0.835; variante referencias_fixa.
+Q0349,revisar,5066,,0.33133448,Confiança v3 0.331 < corte 0.835; variante referencias_fixa.
+Q0350,revisar,4702,,0.82869684,Confiança v3 0.829 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0351,publicar,5116,,0.98879350,Confiança v3 0.989 >= corte 0.835; variante referencias_fixa.
+Q0352,revisar,5560,,0.62856257,Confiança v3 0.629 < corte 0.835; variante referencias_fixa.
+Q0353,revisar,5466,,0.34606066,Confiança v3 0.346 < corte 0.835; variante referencias_fixa.
+Q0354,revisar,5218,,0.74301100,Confiança v3 0.743 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0355,publicar,6728,,0.98752712,Confiança v3 0.988 >= corte 0.835; variante referencias_fixa.
+Q0356,publicar,5066,,0.85817842,Confiança v3 0.858 >= corte 0.835; variante referencias_fixa.
+Q0357,publicar,5157,,0.87777214,Confiança v3 0.878 >= corte 0.835; variante referencias_fixa.
+Q0358,revisar,5184,,0.30861553,Confiança v3 0.309 < corte 0.835; variante referencias_fixa.
+Q0359,revisar,4694,,0.56580949,Confiança v3 0.566 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0360,revisar,4389,,0.78626521,Confiança v3 0.786 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0361,publicar,5211,,0.92609315,Confiança v3 0.926 >= corte 0.835; variante referencias_fixa.
+Q0362,publicar,5543,,0.90196718,Confiança v3 0.902 >= corte 0.835; variante referencias_fixa.
+Q0363,publicar,5087,,0.91406039,Confiança v3 0.914 >= corte 0.835; variante referencias_fixa.
+Q0364,revisar,5211,,0.49280213,Confiança v3 0.493 < corte 0.835; variante referencias_fixa.
+Q0365,revisar,5191,,0.41425974,Confiança v3 0.414 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0366,revisar,5199,,0.48223115,Confiança v3 0.482 < corte 0.835; variante referencias_fixa.
+Q0367,revisar,5530,,0.61530901,Confiança v3 0.615 < corte 0.835; variante referencias_fixa.
+Q0368,revisar,5498,,0.64168710,Confiança v3 0.642 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0369,revisar,6723,,0.75875862,Confiança v3 0.759 < corte 0.835; variante referencias_fixa.
+Q0370,revisar,5517,,0.75960538,Confiança v3 0.760 < corte 0.835; variante referencias_fixa.
+Q0371,revisar,5466,,0.30649552,Confiança v3 0.306 < corte 0.835; variante referencias_fixa.
+Q0372,publicar,5543,,0.98044737,Confiança v3 0.980 >= corte 0.835; variante referencias_fixa.
+Q0373,revisar,5180,,0.64849880,Confiança v3 0.648 < corte 0.835; variante referencias_fixa.
+Q0374,publicar,5147,,0.88790944,Confiança v3 0.888 >= corte 0.835; variante referencias_fixa.
+Q0375,publicar,5218,,0.98328377,Confiança v3 0.983 >= corte 0.835; variante referencias_fixa.
+Q0376,revisar,5218,,0.47212830,Confiança v3 0.472 < corte 0.835; variante referencias_fixa.
+Q0377,revisar,5476,,0.58256579,Confiança v3 0.583 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0378,publicar,5116,,0.83804411,Confiança v3 0.838 >= corte 0.835; variante referencias_fixa.
+Q0379,publicar,6724,,0.95448758,Confiança v3 0.954 >= corte 0.835; variante referencias_fixa.
+Q0380,revisar,5505,,0.49256405,Confiança v3 0.493 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0381,publicar,5498,,0.98430995,Confiança v3 0.984 >= corte 0.835; variante referencias_fixa.
+Q0382,revisar,5218,,0.59350738,Confiança v3 0.594 < corte 0.835; variante referencias_fixa.
+Q0383,revisar,6723,,0.56217957,Confiança v3 0.562 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0384,publicar,5560,,0.95673455,Confiança v3 0.957 >= corte 0.835; variante referencias_fixa.
+Q0385,publicar,5543,,0.89844975,Confiança v3 0.898 >= corte 0.835; variante referencias_fixa.
+Q0386,revisar,5156,,0.35017181,Confiança v3 0.350 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0387,publicar,5590,,0.84530665,Confiança v3 0.845 >= corte 0.835; variante referencias_fixa.
+Q0388,revisar,5530,,0.81153834,Confiança v3 0.812 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0389,publicar,5218,,0.93629425,Confiança v3 0.936 >= corte 0.835; variante referencias_fixa.
+Q0390,revisar,4374,,0.41517153,Confiança v3 0.415 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0391,revisar,5466,,0.75403866,Confiança v3 0.754 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0392,revisar,5199,,0.72941462,Confiança v3 0.729 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0393,revisar,5157,,0.30200831,Confiança v3 0.302 < corte 0.835; variante referencias_fixa.
+Q0394,revisar,5524,,0.50182672,Confiança v3 0.502 < corte 0.835; variante referencias_fixa.
+Q0395,revisar,5476,,0.76636781,Confiança v3 0.766 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0396,revisar,5087,,0.80128803,Confiança v3 0.801 < corte 0.835; variante referencias_fixa.
+Q0397,revisar,5466,,0.14966370,Confiança v3 0.150 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0398,revisar,5175,,0.78482035,Confiança v3 0.785 < corte 0.835; variante referencias_fixa.
+Q0399,publicar,5087,,0.99757237,Confiança v3 0.998 >= corte 0.835; variante referencias_fixa.
+Q0400,revisar,5211,,0.48728942,Confiança v3 0.487 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0401,publicar,5199,,0.91970439,Confiança v3 0.920 >= corte 0.835; variante referencias_fixa.
+Q0402,publicar,4684,,0.94544271,Confiança v3 0.945 >= corte 0.835; variante referencias_fixa.
+Q0403,revisar,5180,,0.68988329,Confiança v3 0.690 < corte 0.835; variante referencias_fixa.
+Q0404,publicar,5116,,0.97436831,Confiança v3 0.974 >= corte 0.835; variante referencias_fixa.
+Q0405,revisar,5560,,0.17296710,Confiança v3 0.173 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0406,publicar,5087,,0.95584162,Confiança v3 0.956 >= corte 0.835; variante referencias_fixa.
+Q0407,revisar,5572,,0.76811558,Confiança v3 0.768 < corte 0.835; variante referencias_fixa.
+Q0408,publicar,5490,,0.85288484,Confiança v3 0.853 >= corte 0.835; variante referencias_fixa.
+Q0409,publicar,5211,,0.92366100,Confiança v3 0.924 >= corte 0.835; variante referencias_fixa.
+Q0410,publicar,5211,,0.96986201,Confiança v3 0.970 >= corte 0.835; variante referencias_fixa.
+Q0411,revisar,5087,,0.80523240,Confiança v3 0.805 < corte 0.835; variante referencias_fixa.
+Q0412,publicar,5087,,0.92261620,Confiança v3 0.923 >= corte 0.835; variante referencias_fixa.
+Q0413,publicar,5087,,0.90748177,Confiança v3 0.907 >= corte 0.835; variante referencias_fixa.
+Q0414,revisar,4695,,0.74148067,Confiança v3 0.741 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0415,revisar,4695,,0.71879191,Confiança v3 0.719 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0416,revisar,5180,,0.13628426,Confiança v3 0.136 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0417,revisar,5185,,0.27959128,Confiança v3 0.280 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0418,publicar,4704,,0.92690036,Confiança v3 0.927 >= corte 0.835; variante referencias_fixa.
+Q0419,publicar,4385,,0.93236901,Confiança v3 0.932 >= corte 0.835; variante referencias_fixa.
+Q0420,publicar,6724,,0.94557321,Confiança v3 0.946 >= corte 0.835; variante referencias_fixa.
+Q0421,publicar,5466,,0.88843012,Confiança v3 0.888 >= corte 0.835; variante referencias_fixa.
+Q0422,publicar,5087,,0.92099067,Confiança v3 0.921 >= corte 0.835; variante referencias_fixa.
+Q0423,publicar,4695,,0.89284599,Confiança v3 0.893 >= corte 0.835; variante referencias_fixa.
+Q0424,revisar,5466,,0.38520530,Confiança v3 0.385 < corte 0.835; variante referencias_fixa.
+Q0425,revisar,5572,,0.65341727,Confiança v3 0.653 < corte 0.835; variante referencias_fixa.
+Q0426,revisar,5191,,0.35903339,Confiança v3 0.359 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0427,revisar,5572,,0.59650871,Confiança v3 0.597 < corte 0.835; variante referencias_fixa.
+Q0428,publicar,5466,,0.88863912,Confiança v3 0.889 >= corte 0.835; variante referencias_fixa.
+Q0429,publicar,5149,,0.89659506,Confiança v3 0.897 >= corte 0.835; variante referencias_fixa.
+Q0430,publicar,6724,,0.99847824,Confiança v3 0.998 >= corte 0.835; variante referencias_fixa.
+Q0431,revisar,5466,,0.73236068,Confiança v3 0.732 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0432,publicar,5466,,0.92496620,Confiança v3 0.925 >= corte 0.835; variante referencias_fixa.
+Q0433,publicar,5071,,0.88617943,Confiança v3 0.886 >= corte 0.835; variante referencias_fixa.
+Q0434,revisar,5498,,0.77930201,Confiança v3 0.779 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0435,revisar,4689,,0.45357993,Confiança v3 0.454 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0436,publicar,6724,,0.97879857,Confiança v3 0.979 >= corte 0.835; variante referencias_fixa.
+Q0437,revisar,5180,,0.39880969,Confiança v3 0.399 < corte 0.835; variante referencias_fixa.
+Q0438,revisar,5116,,0.47361964,Confiança v3 0.474 < corte 0.835; variante referencias_fixa.
+Q0439,revisar,5087,,0.65606871,Confiança v3 0.656 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0440,publicar,5498,,0.86755346,Confiança v3 0.868 >= corte 0.835; variante referencias_fixa.
+Q0441,revisar,5199,,0.69691857,Confiança v3 0.697 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0442,publicar,5466,,0.95822451,Confiança v3 0.958 >= corte 0.835; variante referencias_fixa.
+Q0443,publicar,5211,,0.92954506,Confiança v3 0.930 >= corte 0.835; variante referencias_fixa.
+Q0444,publicar,5543,,0.87473446,Confiança v3 0.875 >= corte 0.835; variante referencias_fixa.
+Q0445,revisar,6725,,0.83150207,Confiança v3 0.832 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0446,revisar,5517,,0.78958537,Confiança v3 0.790 < corte 0.835; variante referencias_fixa.
+Q0447,revisar,5185,,0.61676893,Confiança v3 0.617 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0448,revisar,5572,,0.53045863,Confiança v3 0.530 < corte 0.835; variante referencias_fixa.
+Q0449,publicar,5228,,0.87416369,Confiança v3 0.874 >= corte 0.835; variante referencias_fixa.
+Q0450,publicar,5560,,0.83971619,Confiança v3 0.840 >= corte 0.835; variante referencias_fixa.
+Q0451,publicar,5498,,0.95691592,Confiança v3 0.957 >= corte 0.835; variante referencias_fixa.
+Q0452,revisar,5498,,0.80793594,Confiança v3 0.808 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0453,publicar,6724,,0.94996574,Confiança v3 0.950 >= corte 0.835; variante referencias_fixa.
+Q0454,revisar,5180,,0.55599579,Confiança v3 0.556 < corte 0.835; variante referencias_fixa.
+Q0455,revisar,5530,,0.34741797,Confiança v3 0.347 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0456,revisar,5180,,0.52074368,Confiança v3 0.521 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0457,publicar,5476,,0.98059491,Confiança v3 0.981 >= corte 0.835; variante referencias_fixa.
+Q0458,revisar,5218,,0.83300973,Confiança v3 0.833 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0459,publicar,4695,,0.84828920,Confiança v3 0.848 >= corte 0.835; variante referencias_fixa.
+Q0460,publicar,5144,,0.85300619,Confiança v3 0.853 >= corte 0.835; variante referencias_fixa.
+Q0461,revisar,5572,,0.53896066,Confiança v3 0.539 < corte 0.835; variante referencias_fixa.
+Q0462,revisar,5071,,0.32501781,Confiança v3 0.325 < corte 0.835; variante referencias_fixa.
+Q0463,publicar,5087,,0.94148917,Confiança v3 0.941 >= corte 0.835; variante referencias_fixa.
+Q0464,publicar,4689,,0.84459421,Confiança v3 0.845 >= corte 0.835; variante referencias_fixa.
+Q0465,revisar,5087,,0.63338655,Confiança v3 0.633 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0466,revisar,5218,,0.63221510,Confiança v3 0.632 < corte 0.835; variante referencias_fixa.
+Q0467,revisar,5490,,0.34116195,Confiança v3 0.341 < corte 0.835; variante referencias_fixa.
+Q0468,revisar,5184,,0.44661091,Confiança v3 0.447 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0469,revisar,4374,,0.61219090,Confiança v3 0.612 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0470,publicar,6734,,0.97350947,Confiança v3 0.974 >= corte 0.835; variante referencias_fixa.
+Q0471,revisar,5191,,0.35353293,Confiança v3 0.354 < corte 0.835; variante referencias_fixa.
+Q0472,publicar,5116,,0.93115099,Confiança v3 0.931 >= corte 0.835; variante referencias_fixa.
+Q0473,revisar,5498,,0.76704333,Confiança v3 0.767 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0474,revisar,4689,,0.28201616,Confiança v3 0.282 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0475,revisar,5175,,0.82377911,Confiança v3 0.824 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0476,revisar,5524,,0.56832249,Confiança v3 0.568 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0477,publicar,5466,,0.84391453,Confiança v3 0.844 >= corte 0.835; variante referencias_fixa.
+Q0478,revisar,5480,,0.71595279,Confiança v3 0.716 < corte 0.835; variante referencias_fixa.
+Q0479,revisar,5079,,0.22393338,Confiança v3 0.224 < corte 0.835; variante referencias_fixa.
+Q0480,revisar,5199,,0.73246974,Confiança v3 0.732 < corte 0.835; variante referencias_fixa.
+Q0481,revisar,5170,,0.76295135,Confiança v3 0.763 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0482,revisar,5505,,0.81277675,Confiança v3 0.813 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0483,publicar,5175,,0.97764870,Confiança v3 0.978 >= corte 0.835; variante referencias_fixa.
+Q0484,revisar,4702,,0.52784192,Confiança v3 0.528 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0485,revisar,5180,,0.57310339,Confiança v3 0.573 < corte 0.835; variante referencias_fixa.
+Q0486,revisar,5560,,0.15848952,Confiança v3 0.158 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0487,revisar,5157,,0.76460499,Confiança v3 0.765 < corte 0.835; variante referencias_fixa.
+Q0488,publicar,5087,,0.98542649,Confiança v3 0.985 >= corte 0.835; variante referencias_fixa.
+Q0489,revisar,5185,,0.53377114,Confiança v3 0.534 < corte 0.835; variante referencias_fixa.
+Q0490,revisar,5211,,0.71923544,Confiança v3 0.719 < corte 0.835; variante referencias_fixa.
+Q0491,revisar,5157,,0.77120258,Confiança v3 0.771 < corte 0.835; variante referencias_fixa.
+Q0492,revisar,5066,,0.44790495,Confiança v3 0.448 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0493,revisar,5466,,0.83169244,Confiança v3 0.832 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0494,revisar,5498,,0.66814670,Confiança v3 0.668 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0495,revisar,5087,,0.62582451,Confiança v3 0.626 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0496,revisar,5191,,0.36074742,Confiança v3 0.361 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0497,publicar,5560,,0.96159452,Confiança v3 0.962 >= corte 0.835; variante referencias_fixa.
+Q0498,revisar,4704,,0.59210989,Confiança v3 0.592 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0499,revisar,5218,,0.70559412,Confiança v3 0.706 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0500,publicar,4695,,0.99432967,Confiança v3 0.994 >= corte 0.835; variante referencias_fixa.
+Q0501,publicar,6724,,0.97020277,Confiança v3 0.970 >= corte 0.835; variante referencias_fixa.
+Q0502,publicar,5087,,0.87096225,Confiança v3 0.871 >= corte 0.835; variante referencias_fixa.
+Q0503,revisar,4377,,0.81638205,Confiança v3 0.816 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0504,revisar,5218,,0.48516806,Confiança v3 0.485 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0505,publicar,5087,,0.99181452,Confiança v3 0.992 >= corte 0.835; variante referencias_fixa.
+Q0506,revisar,5180,,0.72064133,Confiança v3 0.721 < corte 0.835; variante referencias_fixa.
+Q0507,revisar,5211,,0.48890591,Confiança v3 0.489 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0508,revisar,4700,,0.75468342,Confiança v3 0.755 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0509,publicar,5498,,0.95459574,Confiança v3 0.955 >= corte 0.835; variante referencias_fixa.
+Q0510,revisar,5590,,0.44146750,Confiança v3 0.441 < corte 0.835; variante referencias_fixa.
+Q0511,revisar,5063,,0.25098735,Confiança v3 0.251 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0512,revisar,4689,,0.57861982,Confiança v3 0.579 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0513,revisar,4688,,0.33172767,Confiança v3 0.332 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0514,revisar,4689,,0.80938680,Confiança v3 0.809 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0515,publicar,6724,,0.97843574,Confiança v3 0.978 >= corte 0.835; variante referencias_fixa.
+Q0516,revisar,4689,,0.72909125,Confiança v3 0.729 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0517,publicar,5466,,0.98009202,Confiança v3 0.980 >= corte 0.835; variante referencias_fixa.
+Q0518,publicar,5087,,0.94518195,Confiança v3 0.945 >= corte 0.835; variante referencias_fixa.
+Q0519,revisar,5498,,0.72788516,Confiança v3 0.728 < corte 0.835; variante referencias_fixa.
+Q0520,revisar,4694,,0.43820928,Confiança v3 0.438 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0521,revisar,4384,,0.51747023,Confiança v3 0.517 < corte 0.835; variante referencias_fixa.
+Q0522,revisar,5530,,0.64076129,Confiança v3 0.641 < corte 0.835; variante referencias_fixa.
+Q0523,revisar,5191,,0.41146555,Confiança v3 0.411 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0524,revisar,5066,,0.58294946,Confiança v3 0.583 < corte 0.835; variante referencias_fixa.
+Q0525,revisar,5199,,0.79792364,Confiança v3 0.798 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0526,revisar,4689,,0.17644828,Confiança v3 0.176 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0527,revisar,5199,,0.46446770,Confiança v3 0.464 < corte 0.835; variante referencias_fixa.
+Q0528,revisar,5180,,0.36166593,Confiança v3 0.362 < corte 0.835; variante referencias_fixa.
+Q0529,revisar,5572,,0.44569887,Confiança v3 0.446 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0530,revisar,6728,,0.46699112,Confiança v3 0.467 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0531,revisar,5466,,0.79490880,Confiança v3 0.795 < corte 0.835; variante referencias_fixa.
+Q0532,publicar,5157,,0.83812886,Confiança v3 0.838 >= corte 0.835; variante referencias_fixa.
+Q0533,publicar,5134,,0.93226948,Confiança v3 0.932 >= corte 0.835; variante referencias_fixa.
+Q0534,revisar,4377,,0.77462270,Confiança v3 0.775 < corte 0.835; variante referencias_fixa.
+Q0535,publicar,4704,,0.93730702,Confiança v3 0.937 >= corte 0.835; variante referencias_fixa.
+Q0536,publicar,5543,,0.90797817,Confiança v3 0.908 >= corte 0.835; variante referencias_fixa.
+Q0537,revisar,5480,,0.68694332,Confiança v3 0.687 < corte 0.835; variante referencias_fixa.
+Q0538,revisar,5228,,0.74717267,Confiança v3 0.747 < corte 0.835; variante referencias_fixa.
+Q0539,publicar,5157,,0.84064995,Confiança v3 0.841 >= corte 0.835; variante referencias_fixa.
+Q0540,revisar,5218,,0.39568481,Confiança v3 0.396 < corte 0.835; variante referencias_fixa.
+Q0541,publicar,5087,,0.92172099,Confiança v3 0.922 >= corte 0.835; variante referencias_fixa.
+Q0542,revisar,5517,,0.70110883,Confiança v3 0.701 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0543,revisar,5560,,0.23434371,Confiança v3 0.234 < corte 0.835; variante referencias_fixa.
+Q0544,revisar,5480,,0.43546450,Confiança v3 0.435 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0545,revisar,5111,,0.28269200,Confiança v3 0.283 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0546,revisar,5087,,0.83285942,Confiança v3 0.833 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0547,revisar,4689,,0.76968666,Confiança v3 0.770 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0548,revisar,5560,,0.80410438,Confiança v3 0.804 < corte 0.835; variante referencias_fixa.
+Q0549,revisar,4703,,0.53725054,Confiança v3 0.537 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0550,publicar,5157,,0.92769165,Confiança v3 0.928 >= corte 0.835; variante referencias_fixa.
+Q0551,revisar,5466,,0.73740592,Confiança v3 0.737 < corte 0.835; variante referencias_fixa.
+Q0552,revisar,5560,,0.16291921,Confiança v3 0.163 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0553,revisar,5530,,0.60795063,Confiança v3 0.608 < corte 0.835; variante referencias_fixa.
+Q0554,revisar,5128,,0.83000390,Confiança v3 0.830 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.
+Q0555,revisar,6734,,0.31749934,Confiança v3 0.317 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0556,revisar,4385,,0.37317462,Confiança v3 0.373 < corte 0.835; variante referencias_fixa.
+Q0557,revisar,5498,,0.77103391,Confiança v3 0.771 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0558,publicar,5580,,0.92325624,Confiança v3 0.923 >= corte 0.835; variante referencias_fixa.
+Q0559,publicar,5087,,0.96416658,Confiança v3 0.964 >= corte 0.835; variante referencias_fixa.
+Q0560,revisar,4697,,0.70369238,Confiança v3 0.704 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0561,publicar,5116,,0.97483135,Confiança v3 0.975 >= corte 0.835; variante referencias_fixa.
+Q0562,revisar,5087,,0.77898771,Confiança v3 0.779 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0563,revisar,4385,,0.67889091,Confiança v3 0.679 < corte 0.835; variante referencias_fixa.
+Q0564,publicar,4385,,0.88616185,Confiança v3 0.886 >= corte 0.835; variante referencias_fixa.
+Q0565,revisar,5466,,0.47501417,Confiança v3 0.475 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0566,publicar,5087,,0.89639209,Confiança v3 0.896 >= corte 0.835; variante referencias_fixa.
+Q0567,revisar,5199,,0.28879146,Confiança v3 0.289 < corte 0.835; variante referencias_fixa.
+Q0568,revisar,5180,,0.60707398,Confiança v3 0.607 < corte 0.835; variante referencias_fixa.
+Q0569,revisar,5199,,0.08836133,Confiança v3 0.088 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0570,publicar,5560,,0.88628860,Confiança v3 0.886 >= corte 0.835; variante referencias_fixa.
+Q0571,revisar,5480,,0.52802404,Confiança v3 0.528 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0572,revisar,4697,,0.72688149,Confiança v3 0.727 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0573,revisar,5157,,0.76236005,Confiança v3 0.762 < corte 0.835; variante referencias_fixa.
+Q0574,revisar,4697,,0.42661517,Confiança v3 0.427 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0575,revisar,6723,,0.47580267,Confiança v3 0.476 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0576,revisar,5087,,0.50962372,Confiança v3 0.510 < corte 0.835; variante referencias_fixa.
+Q0577,publicar,6724,,0.94182541,Confiança v3 0.942 >= corte 0.835; variante referencias_fixa.
+Q0578,publicar,6723,,0.86063817,Confiança v3 0.861 >= corte 0.835; variante referencias_fixa.
+Q0579,revisar,5543,,0.34735560,Confiança v3 0.347 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0580,revisar,4690,,0.27400116,Confiança v3 0.274 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0581,revisar,5505,,0.55594885,Confiança v3 0.556 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0582,revisar,4697,,0.29926831,Confiança v3 0.299 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0583,revisar,5199,,0.51309961,Confiança v3 0.513 < corte 0.835; variante referencias_fixa.
+Q0584,revisar,5185,,0.71932964,Confiança v3 0.719 < corte 0.835; variante referencias_fixa.
+Q0585,revisar,5175,,0.69701327,Confiança v3 0.697 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0586,revisar,5517,,0.77620214,Confiança v3 0.776 < corte 0.835; variante referencias_fixa.
+Q0587,revisar,5185,,0.34699601,Confiança v3 0.347 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0588,publicar,4385,,0.93964435,Confiança v3 0.940 >= corte 0.835; variante referencias_fixa.
+Q0589,revisar,5087,,0.59766123,Confiança v3 0.598 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0590,publicar,5228,,0.84955587,Confiança v3 0.850 >= corte 0.835; variante referencias_fixa.
+Q0591,publicar,5560,,0.94532516,Confiança v3 0.945 >= corte 0.835; variante referencias_fixa.
+Q0592,revisar,5087,,0.77527812,Confiança v3 0.775 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0593,publicar,5157,,0.88372488,Confiança v3 0.884 >= corte 0.835; variante referencias_fixa.
+Q0594,revisar,5530,,0.35190409,Confiança v3 0.352 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0595,revisar,5498,,0.70854244,Confiança v3 0.709 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0596,revisar,5180,,0.45558896,Confiança v3 0.456 < corte 0.835; variante referencias_fixa.
+Q0597,revisar,5530,,0.24007600,Confiança v3 0.240 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0598,revisar,4380,,0.61225170,Confiança v3 0.612 < corte 0.835; variante referencias_fixa.
+Q0599,revisar,5466,,0.06435039,Confiança v3 0.064 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0600,revisar,5185,,0.32258825,Confiança v3 0.323 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0601,revisar,5539,,0.79341862,Confiança v3 0.793 < corte 0.835; variante referencias_fixa.
+Q0602,revisar,5466,,0.48801805,Confiança v3 0.488 < corte 0.835; variante referencias_fixa.
+Q0603,publicar,5087,,0.94691893,Confiança v3 0.947 >= corte 0.835; variante referencias_fixa.
+Q0604,publicar,5087,,0.96638361,Confiança v3 0.966 >= corte 0.835; variante referencias_fixa.
+Q0605,revisar,5530,,0.24545604,Confiança v3 0.245 < corte 0.835; variante referencias_fixa.
+Q0606,revisar,5087,,0.78275141,Confiança v3 0.783 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0607,revisar,4368,,0.59714205,Confiança v3 0.597 < corte 0.835; variante referencias_fixa.
+Q0608,revisar,5180,,0.73241357,Confiança v3 0.732 < corte 0.835; variante referencias_fixa.
+Q0609,revisar,4695,,0.73385300,Confiança v3 0.734 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0610,publicar,4700,,0.96607792,Confiança v3 0.966 >= corte 0.835; variante referencias_fixa.
+Q0611,publicar,5116,,0.93580270,Confiança v3 0.936 >= corte 0.835; variante referencias_fixa.
+Q0612,publicar,5466,,0.97833314,Confiança v3 0.978 >= corte 0.835; variante referencias_fixa.
+Q0613,revisar,4689,,0.43227949,Confiança v3 0.432 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0614,revisar,5116,,0.58348580,Confiança v3 0.583 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0615,revisar,5191,,0.65949620,Confiança v3 0.659 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0616,revisar,5180,,0.31350765,Confiança v3 0.314 < corte 0.835; variante referencias_fixa.
+Q0617,revisar,5498,,0.66967197,Confiança v3 0.670 < corte 0.835; variante referencias_fixa.
+Q0618,revisar,5218,,0.79563560,Confiança v3 0.796 < corte 0.835; variante referencias_fixa.
+Q0619,revisar,4689,,0.71058620,Confiança v3 0.711 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0620,revisar,5147,,0.82181779,Confiança v3 0.822 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0621,revisar,5543,,0.44677410,Confiança v3 0.447 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0622,revisar,5180,,0.76147281,Confiança v3 0.761 < corte 0.835; variante referencias_fixa.
+Q0623,publicar,5543,,0.90198028,Confiança v3 0.902 >= corte 0.835; variante referencias_fixa.
+Q0624,publicar,6724,,0.95964385,Confiança v3 0.960 >= corte 0.835; variante referencias_fixa.
+Q0625,publicar,5087,,0.93103150,Confiança v3 0.931 >= corte 0.835; variante referencias_fixa.
+Q0626,revisar,5505,,0.21122087,Confiança v3 0.211 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0627,revisar,5125,,0.80968596,Confiança v3 0.810 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0628,revisar,5498,,0.63137037,Confiança v3 0.631 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0629,revisar,4380,,0.48255353,Confiança v3 0.483 < corte 0.835; variante referencias_fixa.
+Q0630,publicar,5079,,0.99059582,Confiança v3 0.991 >= corte 0.835; variante referencias_fixa.
+Q0631,revisar,5087,,0.71183340,Confiança v3 0.712 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0632,publicar,5087,,0.99197858,Confiança v3 0.992 >= corte 0.835; variante referencias_fixa.
+Q0633,publicar,5157,,0.83824697,Confiança v3 0.838 >= corte 0.835; variante referencias_fixa.
+Q0634,revisar,5487,,0.68523358,Confiança v3 0.685 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0635,revisar,5543,,0.30459659,Confiança v3 0.305 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0636,revisar,4695,,0.70881464,Confiança v3 0.709 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0637,publicar,5087,,0.98253553,Confiança v3 0.983 >= corte 0.835; variante referencias_fixa.
+Q0638,revisar,5087,,0.76045271,Confiança v3 0.760 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0639,revisar,4707,,0.80644944,Confiança v3 0.806 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0640,revisar,5218,,0.77147731,Confiança v3 0.771 < corte 0.835; variante referencias_fixa.
+Q0641,publicar,5087,,0.94502966,Confiança v3 0.945 >= corte 0.835; variante referencias_fixa.
+Q0642,publicar,6724,,0.99763630,Confiança v3 0.998 >= corte 0.835; variante referencias_fixa.
+Q0643,revisar,4374,,0.56818702,Confiança v3 0.568 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0644,revisar,5087,,0.38432176,Confiança v3 0.384 < corte 0.835; variante referencias_fixa.
+Q0645,revisar,5218,,0.39226657,Confiança v3 0.392 < corte 0.835; variante referencias_fixa.
+Q0646,revisar,4374,,0.25185398,Confiança v3 0.252 < corte 0.835; variante referencias_fixa.
+Q0647,revisar,5487,,0.76741651,Confiança v3 0.767 < corte 0.835; variante referencias_fixa.
+Q0648,revisar,4705,,0.62856047,Confiança v3 0.629 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0649,revisar,5199,,0.61641112,Confiança v3 0.616 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0650,revisar,5199,,0.08437000,Confiança v3 0.084 < corte 0.835; variante referencias_fixa.
+Q0651,publicar,6724,,0.99265013,Confiança v3 0.993 >= corte 0.835; variante referencias_fixa.
+Q0652,revisar,5538,,0.75762325,Confiança v3 0.758 < corte 0.835; variante referencias_fixa. Correspondência com o escopo concentrada nas alternativas.
+Q0653,revisar,6724,,0.17964099,Confiança v3 0.180 < corte 0.835; variante referencias_fixa. Disciplina de origem diverge da do candidato; metadado usado como apoio fraco.
+Q0654,revisar,5583,,0.26269195,Confiança v3 0.263 < corte 0.835; variante referencias_fixa.
+Q0655,revisar,4380,,0.55539390,Confiança v3 0.555 < corte 0.835; variante referencias_fixa.
+Q0656,publicar,6724,,0.98670405,Confiança v3 0.987 >= corte 0.835; variante referencias_fixa.
+Q0657,revisar,6716,,0.81474377,Confiança v3 0.815 < corte 0.835; variante referencias_fixa. Há referência normativa sem associação documental ao candidato.
+Q0658,revisar,4380,,0.50514460,Confiança v3 0.505 < corte 0.835; variante referencias_fixa.
+Q0659,revisar,6723,,0.83424032,Confiança v3 0.834 < corte 0.835; variante referencias_fixa. Confiança próxima do corte.

@@ -1,0 +1,10 @@
+precisao_prevista: 0.92899235
+precisao_intervalo: 0.78051339-1.00000000
+cobertura_prevista: 0.31305903
+cobertura_intervalo: 0.31305903-0.31305903
+
+Candidata experimental v3. A precisão prevista é a média das probabilidades congeladas nas publicadas fora da folha-verdade. Não foi ajustada para atingir artificialmente 95%.
+O intervalo de precisão é uma faixa de sensibilidade descritiva de validação cruzada, não um intervalo de confiança válido para as 559 questões. Todos os rótulos de desenvolvimento já eram conhecidos.
+A cobertura é a fração calculada das decisões nesta população de 559, não uma previsão para semanas futuras.
+A seleção final e os cortes usaram somente sinais OOF dos 100 exemplos oficiais. Não houve uso dos 559 para escolher pesos, modelos ou limiares.
+O sistema não chama LLM durante a classificação e não usa decisões por ID. A precisão real nas 559 e a meta de 95% permanecem não comprovadas.

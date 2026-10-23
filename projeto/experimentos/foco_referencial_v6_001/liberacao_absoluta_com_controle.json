@@ -1,0 +1,188 @@
+{
+  "uso": "Diagnóstico aritmético: regra absoluta nos marcadores; controle v5 nos demais. Sem probabilidade calibrada.",
+  "publicar": 36,
+  "corretas": 26,
+  "precisao": 0.7222222222222222,
+  "questoes": [
+    {
+      "id": "Q0005",
+      "correto": 0,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0012",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0049",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0060",
+      "correto": 1,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0066",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0067",
+      "correto": 0,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0079",
+      "correto": 1,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0091",
+      "correto": 0,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0103",
+      "correto": 1,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0124",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0138",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0139",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0150",
+      "correto": 0,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0169",
+      "correto": 1,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0186",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0191",
+      "correto": 0,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0194",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0201",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0208",
+      "correto": 0,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0216",
+      "correto": 1,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0221",
+      "correto": 1,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0230",
+      "correto": 0,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0240",
+      "correto": 1,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0244",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0245",
+      "correto": 1,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0251",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0275",
+      "correto": 0,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0290",
+      "correto": 1,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0304",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0314",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0325",
+      "correto": 0,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0336",
+      "correto": 1,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0339",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0341",
+      "correto": 1,
+      "origem": "controle sem marcador"
+    },
+    {
+      "id": "Q0345",
+      "correto": 0,
+      "origem": "marcador substitui a decisão"
+    },
+    {
+      "id": "Q0356",
+      "correto": 1,
+      "origem": "marcador substitui a decisão"
+    }
+  ]
+}

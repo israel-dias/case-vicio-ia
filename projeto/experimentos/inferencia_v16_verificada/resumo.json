@@ -1,0 +1,11 @@
+{
+  "questoes": 559,
+  "publicar": 382,
+  "revisar": 177,
+  "fora": 0,
+  "precisao_real": null,
+  "rotulos_lidos": false,
+  "retreino": false,
+  "chamadas_llm": 0,
+  "promove_entrega": false
+}

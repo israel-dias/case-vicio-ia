@@ -1,0 +1,5518 @@
+{
+  "Q0001": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que se refere ao",
+        "retomada_textual": false,
+        "trecho": "Tribunal do Júri"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Tribunal do Júri"
+  },
+  "Q0002": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0003": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0004": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0005": {
+    "marcadores": [
+      {
+        "inicio": 566,
+        "limite_janela": false,
+        "marcador": "Considerando-se",
+        "retomada_textual": false,
+        "trecho": "a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é"
+      },
+      {
+        "inicio": 686,
+        "limite_janela": false,
+        "marcador": "em relação ao",
+        "retomada_textual": false,
+        "trecho": "crime de furto qualificado praticado em 15/5/2022, Carlos é"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é crime de furto qualificado praticado em 15/5/2022, Carlos é"
+  },
+  "Q0006": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0007": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0008": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0009": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0010": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0011": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0012": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0013": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0014": {
+    "marcadores": [
+      {
+        "inicio": 29,
+        "limite_janela": false,
+        "marcador": "em relação à",
+        "retomada_textual": false,
+        "trecho": "internação de Pedro seja questionada em juízo, ela não pode ser sanada pela via do habeas corpus, pois tal instrumento processual não se aplica às situações que envolvam decisões tomadas por vara da infância e da juventude em detrimento da liberdade de criança ou adolescente"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "internação de Pedro seja questionada em juízo, ela não pode ser sanada pela via do habeas corpus, pois tal instrumento processual não se aplica às situações que envolvam decisões tomadas por vara da infância e da juventude em detrimento da liberdade de criança ou adolescente"
+  },
+  "Q0015": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0016": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0017": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0018": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0019": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "as relações entre as esferas criminal e cível e a ação civil ex delicto"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as relações entre as esferas criminal e cível e a ação civil ex delicto"
+  },
+  "Q0020": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0021": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0022": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0023": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0024": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0025": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A conduta",
+        "retomada_textual": false,
+        "trecho": "do particular de solicitar vantagem de contribuinte autuado pela fiscalização, a pretexto ilusório de influir em ato praticado por auditor fiscal, configura corrupção ativa"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "do particular de solicitar vantagem de contribuinte autuado pela fiscalização, a pretexto ilusório de influir em ato praticado por auditor fiscal, configura corrupção ativa"
+  },
+  "Q0026": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0027": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0028": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0029": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0030": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0031": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0032": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0033": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0034": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0035": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0036": {
+    "marcadores": [
+      {
+        "inicio": 149,
+        "limite_janela": false,
+        "marcador": "a prática",
+        "retomada_textual": true,
+        "trecho": "Em uma Vara de Violência Doméstica e Familiar contra a Mulher, o Juiz de Direito recebeu os autos de inquérito policial concluído, no qual se apurou de crime de lesão corporal leve (Art. 129, §9º, do Código Penal) supostamente cometido por Tício contra sua companheira, Ana"
+      },
+      {
+        "inicio": 884,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a situação hipotética e o entendimento consolidado pelo Superior Tribunal de Justiça"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Em uma Vara de Violência Doméstica e Familiar contra a Mulher, o Juiz de Direito recebeu os autos de inquérito policial concluído, no qual se apurou de crime de lesão corporal leve (Art. 129, §9º, do Código Penal) supostamente cometido por Tício contra sua companheira, Ana a situação hipotética e o entendimento consolidado pelo Superior Tribunal de Justiça"
+  },
+  "Q0037": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0038": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que diz respeito ao",
+        "retomada_textual": false,
+        "trecho": "ofendido e às suas prerrogativas no processo penal brasileiro, é correto afirmar que poderá"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "ofendido e às suas prerrogativas no processo penal brasileiro, é correto afirmar que poderá"
+  },
+  "Q0039": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0040": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0041": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0042": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0043": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0044": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0045": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0046": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0047": {
+    "marcadores": [
+      {
+        "inicio": 408,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições do Código Penal, é correto afirmar que Caio responderá, em concurso, pelos crimes de"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições do Código Penal, é correto afirmar que Caio responderá, em concurso, pelos crimes de"
+  },
+  "Q0048": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0049": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0050": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0051": {
+    "marcadores": [
+      {
+        "inicio": 634,
+        "limite_janela": false,
+        "marcador": "em relação a",
+        "retomada_textual": false,
+        "trecho": "determinados indivíduos"
+      },
+      {
+        "inicio": 672,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a narrativa fática, é correto afirmar que a lei penal brasileira"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "determinados indivíduos a narrativa fática, é correto afirmar que a lei penal brasileira"
+  },
+  "Q0052": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0053": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0054": {
+    "marcadores": [
+      {
+        "inicio": 57,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "algumas das classificações existentes, a alternativa que prevê delito de mera atividade, delito de lesão, delito plurissubjetivo e delito pluriofensivo, respectivamente, é"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "algumas das classificações existentes, a alternativa que prevê delito de mera atividade, delito de lesão, delito plurissubjetivo e delito pluriofensivo, respectivamente, é"
+  },
+  "Q0055": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0056": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0057": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0058": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0059": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0060": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito dos",
+        "retomada_textual": false,
+        "trecho": "crimes praticados em detrimento da administração pública"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "crimes praticados em detrimento da administração pública"
+  },
+  "Q0061": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0062": {
+    "marcadores": [
+      {
+        "inicio": 75,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "o princípio da extraterritorialidade incondicionada, previsto no Código Penal brasileiro, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o princípio da extraterritorialidade incondicionada, previsto no Código Penal brasileiro, é correto afirmar que"
+  },
+  "Q0063": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0064": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0065": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0066": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0067": {
+    "marcadores": [
+      {
+        "inicio": 367,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "Analise abaixo, caracterizando-a com um dos tipos de crime contra a Administração Pública"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Analise abaixo, caracterizando-a com um dos tipos de crime contra a Administração Pública"
+  },
+  "Q0068": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0069": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0070": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0071": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0072": {
+    "marcadores": [
+      {
+        "inicio": 35,
+        "limite_janela": false,
+        "marcador": "a respeito de",
+        "retomada_textual": false,
+        "trecho": "fato submetido a julgamento, o juiz"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "fato submetido a julgamento, o juiz"
+  },
+  "Q0073": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0074": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0075": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0076": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0077": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0078": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0079": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação aos",
+        "retomada_textual": false,
+        "trecho": "sistemas processuais penais e aos seus princípios reitores"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "sistemas processuais penais e aos seus princípios reitores"
+  },
+  "Q0080": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0081": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0082": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0083": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0084": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0085": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0086": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0087": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0088": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0089": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0090": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0091": {
+    "marcadores": [
+      {
+        "inicio": 184,
+        "limite_janela": false,
+        "marcador": "a respeito de",
+        "retomada_textual": false,
+        "trecho": "aplicação de pena, cominação de penas, regime de penas, medidas de segurança e livramento condicional"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "aplicação de pena, cominação de penas, regime de penas, medidas de segurança e livramento condicional"
+  },
+  "Q0092": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0093": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0094": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0095": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0096": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0097": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0098": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0099": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0100": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0101": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0102": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0103": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "revisão criminal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "revisão criminal"
+  },
+  "Q0104": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que se refere à",
+        "retomada_textual": false,
+        "trecho": "legislação processual e à jurisprudência pátrias"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "legislação processual e à jurisprudência pátrias"
+  },
+  "Q0105": {
+    "marcadores": [
+      {
+        "inicio": 325,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "essa situação hipotética e as perspectivas da criminologia"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "essa situação hipotética e as perspectivas da criminologia"
+  },
+  "Q0106": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0107": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0108": {
+    "marcadores": [
+      {
+        "inicio": 79,
+        "limite_janela": false,
+        "marcador": "a prática",
+        "retomada_textual": true,
+        "trecho": "Durante a realização de audiência de instrução e julgamento, em que se apurava por Caio, do crime de roubo simples, a defesa técnica do acusado requereu o reconhecimento da prescrição da pretensão punitiva estatal, em observância aos prazos prescricionais estipulados em lei"
+      },
+      {
+        "inicio": 506,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições do Código de Processo Penal, Maria, na qualidade de Defensora Pública, deverá interpor um(a)"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Durante a realização de audiência de instrução e julgamento, em que se apurava por Caio, do crime de roubo simples, a defesa técnica do acusado requereu o reconhecimento da prescrição da pretensão punitiva estatal, em observância aos prazos prescricionais estipulados em lei as disposições do Código de Processo Penal, Maria, na qualidade de Defensora Pública, deverá interpor um(a)"
+  },
+  "Q0109": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0110": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0111": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0112": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0113": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0114": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0115": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0116": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação à",
+        "retomada_textual": false,
+        "trecho": "Lei Federal no 11.343/06, que estabelece o Sistema Nacional de Políticas Públicas sobre Drogas, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Lei Federal no 11.343/06, que estabelece o Sistema Nacional de Políticas Públicas sobre Drogas, é correto afirmar que"
+  },
+  "Q0117": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0118": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0119": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0120": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0121": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0122": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0123": {
+    "marcadores": [
+      {
+        "inicio": 402,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "I – A partir da teoria do etiquetamento (labeling approach), pode-se afirmar que parcela significativa do conteúdo da norma penal incriminadora seja determinada pelos órgãos encarregados de sua aplicação (polícias, Ministério Público e Poder Judiciário) com base em suas particulares concepções jurídicas acerca da fronteira entre o que seja delitiva e a não delitiva"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "I – A partir da teoria do etiquetamento (labeling approach), pode-se afirmar que parcela significativa do conteúdo da norma penal incriminadora seja determinada pelos órgãos encarregados de sua aplicação (polícias, Ministério Público e Poder Judiciário) com base em suas particulares concepções jurídicas acerca da fronteira entre o que seja delitiva e a não delitiva"
+  },
+  "Q0124": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0125": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0126": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0127": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0128": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0129": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0130": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0131": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito do",
+        "retomada_textual": false,
+        "trecho": "direito penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "direito penal"
+  },
+  "Q0132": {
+    "marcadores": [
+      {
+        "inicio": 345,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições dessa Resolução, avalie as afirmativas a seguir"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições dessa Resolução, avalie as afirmativas a seguir"
+  },
+  "Q0133": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito dos",
+        "retomada_textual": false,
+        "trecho": "procedimentos"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "procedimentos"
+  },
+  "Q0134": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0135": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0136": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0137": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0138": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0139": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0140": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0141": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0142": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0143": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que diz respeito à",
+        "retomada_textual": false,
+        "trecho": "norma processual penal, aos sistemas processuais penais e à investigação criminal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "norma processual penal, aos sistemas processuais penais e à investigação criminal"
+  },
+  "Q0144": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0145": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "as alterações provocadas pela Lei nº 12.683, de 09 de julho de 2012, no tocante aos crimes de lavagem de capitais e, ainda, aos crimes contra a ordem tributária"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as alterações provocadas pela Lei nº 12.683, de 09 de julho de 2012, no tocante aos crimes de lavagem de capitais e, ainda, aos crimes contra a ordem tributária"
+  },
+  "Q0146": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0147": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0148": {
+    "marcadores": [
+      {
+        "inicio": 239,
+        "limite_janela": false,
+        "marcador": "à prática",
+        "retomada_textual": true,
+        "trecho": "Ao proferir uma sentença condenatória em uma ação penal, o juiz vislumbra que o réu confessou em juízo a autoria do delito e que constam em sua folha de antecedentes criminais duas anotações, assinalando condenações anteriores definitivas do crime objeto do processo, cujas penas foram cumpridas um e quatro anos antes, respectivamente, do cometimento do crime em julgamento"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Ao proferir uma sentença condenatória em uma ação penal, o juiz vislumbra que o réu confessou em juízo a autoria do delito e que constam em sua folha de antecedentes criminais duas anotações, assinalando condenações anteriores definitivas do crime objeto do processo, cujas penas foram cumpridas um e quatro anos antes, respectivamente, do cometimento do crime em julgamento"
+  },
+  "Q0149": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0150": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "o entendimento sumulado dos Tribunais Superiores"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o entendimento sumulado dos Tribunais Superiores"
+  },
+  "Q0151": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que diz respeito às",
+        "retomada_textual": false,
+        "trecho": "prisões e medidas cautelares no processo penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "prisões e medidas cautelares no processo penal"
+  },
+  "Q0152": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0153": {
+    "marcadores": [
+      {
+        "inicio": 173,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "O agente que imagina já ter obtido o resultado pensado por ele, sem tê-lo alcançado, e, por isso, pratica outra conduta que efetivamente alcança o objetivo primário realiza em dolo"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "O agente que imagina já ter obtido o resultado pensado por ele, sem tê-lo alcançado, e, por isso, pratica outra conduta que efetivamente alcança o objetivo primário realiza em dolo"
+  },
+  "Q0154": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0155": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0156": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0157": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0158": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0159": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0160": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0161": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0162": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0163": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0164": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0165": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0166": {
+    "marcadores": [
+      {
+        "inicio": 814,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "os referidos dados, a Defensoria Pública do Estado poderia postular ao Juízo da Execução Criminal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "os referidos dados, a Defensoria Pública do Estado poderia postular ao Juízo da Execução Criminal"
+  },
+  "Q0167": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0168": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0169": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito das",
+        "retomada_textual": false,
+        "trecho": "causas de impedimento e suspeição do juiz, de acordo com o Código de Processo Penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "causas de impedimento e suspeição do juiz, de acordo com o Código de Processo Penal"
+  },
+  "Q0170": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0171": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0172": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0173": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0174": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0175": {
+    "marcadores": [
+      {
+        "inicio": 530,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições do Código Penal, João responderá pelo(s) crime(s) de"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições do Código Penal, João responderá pelo(s) crime(s) de"
+  },
+  "Q0176": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0177": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0178": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0179": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0180": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0181": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0182": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0183": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0184": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0185": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0186": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0187": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0188": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0189": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0190": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a temática dos Juizados Especiais Criminais"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a temática dos Juizados Especiais Criminais"
+  },
+  "Q0191": {
+    "marcadores": [
+      {
+        "inicio": 34,
+        "limite_janela": false,
+        "marcador": "a respeito dos",
+        "retomada_textual": false,
+        "trecho": "recursos no Código de Processo Penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "recursos no Código de Processo Penal"
+  },
+  "Q0192": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0193": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0194": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0195": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação ao",
+        "retomada_textual": false,
+        "trecho": "conceito de crime, de criminoso e de pena nas diversas correntes do pensamento criminológico e ao desenvolvimento científico de seus modelos teóricos, é correto afirmar"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "conceito de crime, de criminoso e de pena nas diversas correntes do pensamento criminológico e ao desenvolvimento científico de seus modelos teóricos, é correto afirmar"
+  },
+  "Q0196": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0197": {
+    "marcadores": [
+      {
+        "inicio": 78,
+        "limite_janela": false,
+        "marcador": "em relação ao",
+        "retomada_textual": false,
+        "trecho": "inquérito policial e suas peculiaridades, às atribuições da Polícia Federal e ao sistema probatório no processo penal brasileiro"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "inquérito policial e suas peculiaridades, às atribuições da Polícia Federal e ao sistema probatório no processo penal brasileiro"
+  },
+  "Q0198": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0199": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0200": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que diz respeito às",
+        "retomada_textual": false,
+        "trecho": "organizações criminosas"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "organizações criminosas"
+  },
+  "Q0201": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0202": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0203": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0204": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação à",
+        "retomada_textual": false,
+        "trecho": "lei processual penal no tempo, vigora o princípio do efeito imediato, segundo o qual tempus regit actum"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "lei processual penal no tempo, vigora o princípio do efeito imediato, segundo o qual tempus regit actum"
+  },
+  "Q0205": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0206": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0207": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0208": {
+    "marcadores": [
+      {
+        "inicio": 1207,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a situação hipotética acima descrita"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a situação hipotética acima descrita"
+  },
+  "Q0209": {
+    "marcadores": [
+      {
+        "inicio": 218,
+        "limite_janela": false,
+        "marcador": "referentes à",
+        "retomada_textual": false,
+        "trecho": "instauração de inquérito nos atestados de antecedentes que lhe forem solicitados"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "instauração de inquérito nos atestados de antecedentes que lhe forem solicitados"
+  },
+  "Q0210": {
+    "marcadores": [
+      {
+        "inicio": 123,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "casos concretos de réus denunciados por esses delitos e conforme entendimento das Cortes Superiores, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "casos concretos de réus denunciados por esses delitos e conforme entendimento das Cortes Superiores, é correto afirmar que"
+  },
+  "Q0211": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0212": {
+    "marcadores": [
+      {
+        "inicio": 27,
+        "limite_janela": false,
+        "marcador": "em relação à",
+        "retomada_textual": false,
+        "trecho": "prova, ao instituto da interceptação telefônica e à citação por hora certa"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "prova, ao instituto da interceptação telefônica e à citação por hora certa"
+  },
+  "Q0213": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0214": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0215": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0216": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "o sistema de juizados especiais criminais, previsto na Lei n.° 9.099/1995, e a jurisprudência do STJ e STF sobre a matéria"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o sistema de juizados especiais criminais, previsto na Lei n.° 9.099/1995, e a jurisprudência do STJ e STF sobre a matéria"
+  },
+  "Q0217": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0218": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0219": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "essa situação hipotética"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "essa situação hipotética"
+  },
+  "Q0220": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0221": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito das",
+        "retomada_textual": false,
+        "trecho": "penas e das medidas de segurança"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "penas e das medidas de segurança"
+  },
+  "Q0222": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0223": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0224": {
+    "marcadores": [
+      {
+        "inicio": 39,
+        "limite_janela": false,
+        "marcador": "a prática",
+        "retomada_textual": true,
+        "trecho": "Em ação penal na qual se imputa ao réu do crime de roubo, na modalidade tentada, constam de sua Folha de Antecedentes Criminais as seguintes anotações, devidamente esclarecidas por certidões cartorárias"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Em ação penal na qual se imputa ao réu do crime de roubo, na modalidade tentada, constam de sua Folha de Antecedentes Criminais as seguintes anotações, devidamente esclarecidas por certidões cartorárias"
+  },
+  "Q0225": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0226": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0227": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0228": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0229": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0230": {
+    "marcadores": [
+      {
+        "inicio": 25,
+        "limite_janela": false,
+        "marcador": "em relação às",
+        "retomada_textual": false,
+        "trecho": "causas de exclusão de culpabilidade, ao concurso de pessoas, às finalidades das penas e às medidas de segurança"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "causas de exclusão de culpabilidade, ao concurso de pessoas, às finalidades das penas e às medidas de segurança"
+  },
+  "Q0231": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0232": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0233": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0234": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0235": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0236": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0237": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0238": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0239": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0240": {
+    "marcadores": [
+      {
+        "inicio": 464,
+        "limite_janela": true,
+        "marcador": "Considerando-se",
+        "retomada_textual": false,
+        "trecho": "o prazo legal que o promotor tem para oferecer a denúncia e que esse prazo venceria em um dia útil, o trâmite do inquérito, o prazo utilizado pelo delegado, o recebimento e a vista do inquérito pelo promotor e a denúncia contra Pedro, somando-se todos esses atos e prazos, desde a prisão, teria que ser oferecida em"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o prazo legal que o promotor tem para oferecer a denúncia e que esse prazo venceria em um dia útil, o trâmite do inquérito, o prazo utilizado pelo delegado, o recebimento e a vista do inquérito pelo promotor e a denúncia contra Pedro, somando-se todos esses atos e prazos, desde a prisão, teria que ser oferecida em"
+  },
+  "Q0241": {
+    "marcadores": [
+      {
+        "inicio": 305,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "O erro sobre objeto é irrelevante para o Direito Penal, já que o agente, mesmo quando realiza que recai sobre coisa alheia, responderá criminalmente pelo crime cometido nos limites do tipo penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "O erro sobre objeto é irrelevante para o Direito Penal, já que o agente, mesmo quando realiza que recai sobre coisa alheia, responderá criminalmente pelo crime cometido nos limites do tipo penal"
+  },
+  "Q0242": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0243": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0244": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0245": {
+    "marcadores": [
+      {
+        "inicio": 25,
+        "limite_janela": false,
+        "marcador": "a respeito da",
+        "retomada_textual": false,
+        "trecho": "prescrição"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "prescrição"
+  },
+  "Q0246": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0247": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0248": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0249": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0250": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0251": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0252": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0253": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0254": {
+    "marcadores": [
+      {
+        "inicio": 250,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições da Lei nº 11.340/2016, avalie as afirmativas a seguir e"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições da Lei nº 11.340/2016, avalie as afirmativas a seguir e"
+  },
+  "Q0255": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que diz respeito à",
+        "retomada_textual": false,
+        "trecho": "imputabilidade penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "imputabilidade penal"
+  },
+  "Q0256": {
+    "marcadores": [
+      {
+        "inicio": 6,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "Tanto do agente que age imprudentemente, por desconhecimento invencível de algum elemento do tipo quanto a conduta do agente que age acreditando estar autorizado a fazê-lo ensejam como consequência a exclusão do dolo e, por conseguinte, a do próprio crime"
+      },
+      {
+        "inicio": 115,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "Tanto a conduta do agente que age imprudentemente, por desconhecimento invencível de algum elemento do tipo quanto do agente que age acreditando estar autorizado a fazê-lo ensejam como consequência a exclusão do dolo e, por conseguinte, a do próprio crime"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Tanto do agente que age imprudentemente, por desconhecimento invencível de algum elemento do tipo quanto a conduta do agente que age acreditando estar autorizado a fazê-lo ensejam como consequência a exclusão do dolo e, por conseguinte, a do próprio crime Tanto a conduta do agente que age imprudentemente, por desconhecimento invencível de algum elemento do tipo quanto do agente que age acreditando estar autorizado a fazê-lo ensejam como consequência a exclusão do dolo e, por conseguinte, a do próprio crime"
+  },
+  "Q0257": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0258": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0259": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0260": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0261": {
+    "marcadores": [
+      {
+        "inicio": 188,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "que Honorato não possuía expressa autorização do autor do programa para o ato, é correto afirmar que sua conduta"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "que Honorato não possuía expressa autorização do autor do programa para o ato, é correto afirmar que sua conduta"
+  },
+  "Q0262": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0263": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0264": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0265": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0266": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0267": {
+    "marcadores": [
+      {
+        "inicio": 464,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições da Lei n o 11.343/2006, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições da Lei n o 11.343/2006, é correto afirmar que"
+  },
+  "Q0268": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0269": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0270": {
+    "marcadores": [
+      {
+        "inicio": 227,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições do Código Penal, Caio responderá pelo crime de"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições do Código Penal, Caio responderá pelo crime de"
+  },
+  "Q0271": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0272": {
+    "marcadores": [
+      {
+        "inicio": 16,
+        "limite_janela": false,
+        "marcador": "à prática",
+        "retomada_textual": true,
+        "trecho": "No que concerne de falta grave no curso da execução penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "No que concerne de falta grave no curso da execução penal"
+  },
+  "Q0273": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0274": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0275": {
+    "marcadores": [
+      {
+        "inicio": 140,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições da Lei nº 9.099/1995, caso Tício não seja encontrado para ser citado, o juiz"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições da Lei nº 9.099/1995, caso Tício não seja encontrado para ser citado, o juiz"
+  },
+  "Q0276": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0277": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0278": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0279": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0280": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0281": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0282": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0283": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0284": {
+    "marcadores": [
+      {
+        "inicio": 1937,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a narrativa fática e a legislação penal vigente, é correto sustentar na defesa de Bernardo, em sede de alegações finais, que ele agiu em legítima defesa"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a narrativa fática e a legislação penal vigente, é correto sustentar na defesa de Bernardo, em sede de alegações finais, que ele agiu em legítima defesa"
+  },
+  "Q0285": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0286": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0287": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0288": {
+    "marcadores": [
+      {
+        "inicio": 398,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "No caso de concurso formal impróprio, como deriva de desígnios autônomos, a pena é aplicada pelo sistema da exasperação"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "No caso de concurso formal impróprio, como deriva de desígnios autônomos, a pena é aplicada pelo sistema da exasperação"
+  },
+  "Q0289": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0290": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que diz respeito ao",
+        "retomada_textual": false,
+        "trecho": "preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais"
+  },
+  "Q0291": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0292": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a atual conjuntura da política criminal brasileira, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a atual conjuntura da política criminal brasileira, é correto afirmar que"
+  },
+  "Q0293": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0294": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "culpabilidade"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "culpabilidade"
+  },
+  "Q0295": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0296": {
+    "marcadores": [
+      {
+        "inicio": 27,
+        "limite_janela": false,
+        "marcador": "em relação ao",
+        "retomada_textual": false,
+        "trecho": "processo civil, no processo penal não se admite que, em caso de morte da vítima, os familiares assumam o lugar dela, no pólo ativo da ação penal privada, para efeito de apresentação de queixa"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "processo civil, no processo penal não se admite que, em caso de morte da vítima, os familiares assumam o lugar dela, no pólo ativo da ação penal privada, para efeito de apresentação de queixa"
+  },
+  "Q0297": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0298": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0299": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0300": {
+    "marcadores": [
+      {
+        "inicio": 63,
+        "limite_janela": false,
+        "marcador": "a prática",
+        "retomada_textual": true,
+        "trecho": "Àquele que oculta uma arma de fogo utilizada por terceiro para anterior de um roubo, consignando-se não haver qualquer vínculo de parentesco entre ambos, pode-se atribuir o crime de ______"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Àquele que oculta uma arma de fogo utilizada por terceiro para anterior de um roubo, consignando-se não haver qualquer vínculo de parentesco entre ambos, pode-se atribuir o crime de ______"
+  },
+  "Q0301": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0302": {
+    "marcadores": [
+      {
+        "inicio": 349,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "Sobre de César, trata-se de caso de exclusão"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Sobre de César, trata-se de caso de exclusão"
+  },
+  "Q0303": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0304": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0305": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0306": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0307": {
+    "marcadores": [
+      {
+        "inicio": 153,
+        "limite_janela": false,
+        "marcador": "a prática",
+        "retomada_textual": true,
+        "trecho": "Lá, com o objetivo de fazer Luciano confessar dos atos que ensejaram sua prisão, o policial responsável por seu interrogatório cobriu sua cabeça com um saco plástico e amarrou-o no seu pescoço, asfixiando-o"
+      },
+      {
+        "inicio": 676,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "Em depoimento posterior, Luciano afirmou que do policial lhe provocara intenso sofrimento físico e mental"
+      },
+      {
+        "inicio": 748,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a situação hipotética acima e o disposto na Lei Federal n.º 9.455/1997"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Lá, com o objetivo de fazer Luciano confessar dos atos que ensejaram sua prisão, o policial responsável por seu interrogatório cobriu sua cabeça com um saco plástico e amarrou-o no seu pescoço, asfixiando-o Em depoimento posterior, Luciano afirmou que do policial lhe provocara intenso sofrimento físico e mental a situação hipotética acima e o disposto na Lei Federal n.º 9.455/1997"
+  },
+  "Q0308": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0309": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0310": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0311": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0312": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0313": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0314": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0315": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0316": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0317": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0318": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0319": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0320": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0321": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0322": {
+    "marcadores": [
+      {
+        "inicio": 81,
+        "limite_janela": false,
+        "marcador": "a prática",
+        "retomada_textual": true,
+        "trecho": "Delegado Mário foi denunciado pelo delito de abuso de autoridade, tendo em vista de conduta que se enquadra na seguinte descrição típica"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Delegado Mário foi denunciado pelo delito de abuso de autoridade, tendo em vista de conduta que se enquadra na seguinte descrição típica"
+  },
+  "Q0323": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0324": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0325": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "as afirmativas abaixo, é CORRETO afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as afirmativas abaixo, é CORRETO afirmar que"
+  },
+  "Q0326": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0327": {
+    "marcadores": [
+      {
+        "inicio": 121,
+        "limite_janela": false,
+        "marcador": "a prática",
+        "retomada_textual": true,
+        "trecho": "Em uma ação penal por crime ocorrido em 04/03/2023, o réu, ao ser interrogado, confessa espontaneamente, perante o juiz, do delito que lhe é imputado"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Em uma ação penal por crime ocorrido em 04/03/2023, o réu, ao ser interrogado, confessa espontaneamente, perante o juiz, do delito que lhe é imputado"
+  },
+  "Q0328": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0329": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0330": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0331": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0332": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0333": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0334": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0335": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito das",
+        "retomada_textual": false,
+        "trecho": "leis penais em branco e da teoria geral do delito"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "leis penais em branco e da teoria geral do delito"
+  },
+  "Q0336": {
+    "marcadores": [
+      {
+        "inicio": 806,
+        "limite_janela": false,
+        "marcador": "em relação à",
+        "retomada_textual": false,
+        "trecho": "conduta de Diogo, pode-se afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "conduta de Diogo, pode-se afirmar que"
+  },
+  "Q0337": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0338": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0339": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0340": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0341": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0342": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0343": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0344": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0345": {
+    "marcadores": [
+      {
+        "inicio": 359,
+        "limite_janela": false,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "adequação típica da conduta e da incidência da agravante prevista no Art. 61, inciso II, alínea f, do Código Penal (Art. 61"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "adequação típica da conduta e da incidência da agravante prevista no Art. 61, inciso II, alínea f, do Código Penal (Art. 61"
+  },
+  "Q0346": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0347": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0348": {
+    "marcadores": [
+      {
+        "inicio": 147,
+        "limite_janela": false,
+        "marcador": "a prática",
+        "retomada_textual": true,
+        "trecho": "João foi acusado de corrupção ativa em transação internacional porque deu, em outro país, vantagem indevida a funcionário público estrangeiro para de ato de ofício relacionado a transação comercial internacional"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "João foi acusado de corrupção ativa em transação internacional porque deu, em outro país, vantagem indevida a funcionário público estrangeiro para de ato de ofício relacionado a transação comercial internacional"
+  },
+  "Q0349": {
+    "marcadores": [
+      {
+        "inicio": 181,
+        "limite_janela": false,
+        "marcador": "a respeito de",
+        "retomada_textual": false,
+        "trecho": "execução penal, lei penal no tempo, concurso de crimes, crime impossível e arrependimento posterior"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "execução penal, lei penal no tempo, concurso de crimes, crime impossível e arrependimento posterior"
+  },
+  "Q0350": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0351": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0352": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0353": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0354": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0355": {
+    "marcadores": [
+      {
+        "inicio": 75,
+        "limite_janela": false,
+        "marcador": "a respeito do",
+        "retomada_textual": false,
+        "trecho": "Art. 28 da Lei nº 11.343/2006, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Art. 28 da Lei nº 11.343/2006, é correto afirmar que"
+  },
+  "Q0356": {
+    "marcadores": [
+      {
+        "inicio": 516,
+        "limite_janela": false,
+        "marcador": "No que diz respeito ao",
+        "retomada_textual": false,
+        "trecho": "concurso formal impróprio ou imperfeito, tal como no concurso material, serão somadas as penas de todos os crimes praticados pelo agente. ( ) De acordo com o Código Penal brasileiro, no concurso de crimes, as penas de multa são aplicadas distinta e integralmente para cada crime"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "concurso formal impróprio ou imperfeito, tal como no concurso material, serão somadas as penas de todos os crimes praticados pelo agente. ( ) De acordo com o Código Penal brasileiro, no concurso de crimes, as penas de multa são aplicadas distinta e integralmente para cada crime"
+  },
+  "Q0357": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0358": {
+    "marcadores": [
+      {
+        "inicio": 23,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "a Lei de Acesso à Informação, o Marco Civil da Internet e os demais instrumentos normativos que regulam a publicidade e a segurança de redes de comunicação no Brasil"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a Lei de Acesso à Informação, o Marco Civil da Internet e os demais instrumentos normativos que regulam a publicidade e a segurança de redes de comunicação no Brasil"
+  },
+  "Q0359": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0360": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0361": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0362": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0363": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0364": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0365": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0366": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0367": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0368": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0369": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito de",
+        "retomada_textual": false,
+        "trecho": "lavagem de dinheiro e crimes contra o sistema financeiro nacional"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "lavagem de dinheiro e crimes contra o sistema financeiro nacional"
+  },
+  "Q0370": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0371": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0372": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0373": {
+    "marcadores": [
+      {
+        "inicio": 165,
+        "limite_janela": false,
+        "marcador": "a respeito do",
+        "retomada_textual": false,
+        "trecho": "local onde o crime foi praticado ou da nacionalidade do agente, denomina-se princípio"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "local onde o crime foi praticado ou da nacionalidade do agente, denomina-se princípio"
+  },
+  "Q0374": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A conduta",
+        "retomada_textual": false,
+        "trecho": "do gestor público competente, consistente em deixar de ordenar, de autorizar ou de promover o cancelamento do montante de restos a pagar inscrito em valor superior ao permitido em lei, é considerada"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "do gestor público competente, consistente em deixar de ordenar, de autorizar ou de promover o cancelamento do montante de restos a pagar inscrito em valor superior ao permitido em lei, é considerada"
+  },
+  "Q0375": {
+    "marcadores": [
+      {
+        "inicio": 649,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "Neste caso, sobre de Luís"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Neste caso, sobre de Luís"
+  },
+  "Q0376": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0377": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0378": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0379": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0380": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0381": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0382": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0383": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0384": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0385": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": true,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a orientação firmada pelo Supremo Tribunal Federal acerca da utilização da colaboração premiada, nos termos da Lei nº 12.850/2013, no âmbito civil, em ação civil pública por ato de improbidade administrativa movida pelo Ministério Público, na seara do microssistema legal de proteção ao patrimônio público e de combate"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a orientação firmada pelo Supremo Tribunal Federal acerca da utilização da colaboração premiada, nos termos da Lei nº 12.850/2013, no âmbito civil, em ação civil pública por ato de improbidade administrativa movida pelo Ministério Público, na seara do microssistema legal de proteção ao patrimônio público e de combate"
+  },
+  "Q0386": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0387": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0388": {
+    "marcadores": [
+      {
+        "inicio": 36,
+        "limite_janela": false,
+        "marcador": "a respeito dos",
+        "retomada_textual": false,
+        "trecho": "procedimentos, comum e especial, e instrução criminal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "procedimentos, comum e especial, e instrução criminal"
+  },
+  "Q0389": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0390": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0391": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0392": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0393": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0394": {
+    "marcadores": [
+      {
+        "inicio": 25,
+        "limite_janela": false,
+        "marcador": "a respeito da",
+        "retomada_textual": false,
+        "trecho": "competência no âmbito do direito processual penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "competência no âmbito do direito processual penal"
+  },
+  "Q0395": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito de",
+        "retomada_textual": false,
+        "trecho": "revisão criminal, habeas corpus e suspensão condicional do processo (Lei n.º 9.099/1995)"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "revisão criminal, habeas corpus e suspensão condicional do processo (Lei n.º 9.099/1995)"
+  },
+  "Q0396": {
+    "marcadores": [
+      {
+        "inicio": 638,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "diretamente em sua conta pessoal. Em um dos atendimentos, o contribuinte gravou a conversa na qual o servidor afirmou que, sem o pagamento, a certidão ficaria  principal narrada, distinguindo exigência de vantagem indevida, solicitação ou recebimento de vantagem, apropriação de bem público e retardamento de ato por interesse pessoal"
+      },
+      {
+        "inicio": 824,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "os crimes contra a Administração Pública e o núcleo da conduta praticada pelo servidor"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "diretamente em sua conta pessoal. Em um dos atendimentos, o contribuinte gravou a conversa na qual o servidor afirmou que, sem o pagamento, a certidão ficaria  principal narrada, distinguindo exigência de vantagem indevida, solicitação ou recebimento de vantagem, apropriação de bem público e retardamento de ato por interesse pessoal os crimes contra a Administração Pública e o núcleo da conduta praticada pelo servidor"
+  },
+  "Q0397": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0398": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação ao",
+        "retomada_textual": false,
+        "trecho": "crime tentado e ao arrependimento posterior"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "crime tentado e ao arrependimento posterior"
+  },
+  "Q0399": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que se refere ao",
+        "retomada_textual": false,
+        "trecho": "crime de prevaricação (CP, art. 319)"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "crime de prevaricação (CP, art. 319)"
+  },
+  "Q0400": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0401": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0402": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0403": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0404": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a jurisprudência do STJ e do STF e a legislação a respeito de crimes contra a fé pública"
+      },
+      {
+        "inicio": 61,
+        "limite_janela": false,
+        "marcador": "a respeito de",
+        "retomada_textual": false,
+        "trecho": "crimes contra a fé pública"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a jurisprudência do STJ e do STF e a legislação a respeito de crimes contra a fé pública crimes contra a fé pública"
+  },
+  "Q0405": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0406": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0407": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0408": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0409": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0410": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0411": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0412": {
+    "marcadores": [
+      {
+        "inicio": 389,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições do Código Penal, responderá pelo crime de"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições do Código Penal, responderá pelo crime de"
+  },
+  "Q0413": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0414": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação aos",
+        "retomada_textual": false,
+        "trecho": "crimes contra a ordem tributária, ao compartilhamento de dados bancários e fiscais e à representação fiscal para fins penais"
+      },
+      {
+        "inicio": 167,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "a jurisprudência dos tribunais superiores"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "crimes contra a ordem tributária, ao compartilhamento de dados bancários e fiscais e à representação fiscal para fins penais a jurisprudência dos tribunais superiores"
+  },
+  "Q0415": {
+    "marcadores": [
+      {
+        "inicio": 79,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "a Lei Complementar n.º 123/2006, a Lei Complementar n.º 116/2003 e a Lei n.º 8.137/1990"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a Lei Complementar n.º 123/2006, a Lei Complementar n.º 116/2003 e a Lei n.º 8.137/1990"
+  },
+  "Q0416": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0417": {
+    "marcadores": [
+      {
+        "inicio": 203,
+        "limite_janela": false,
+        "marcador": "como sendo",
+        "retomada_textual": false,
+        "trecho": "uma sociedade na qual o aparato judiciário desempenharia as seguintes funções"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "uma sociedade na qual o aparato judiciário desempenharia as seguintes funções"
+  },
+  "Q0418": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0419": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0420": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0421": {
+    "marcadores": [
+      {
+        "inicio": 196,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a decisão do Supremo Tribunal Federal (STF) no julgamento de mérito das ADIs 6298, 6299 e 6300, que analisaram o Art. 28 do CPP (redação da Lei nº 13.964/2019 – Pacote Anticrime)"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a decisão do Supremo Tribunal Federal (STF) no julgamento de mérito das ADIs 6298, 6299 e 6300, que analisaram o Art. 28 do CPP (redação da Lei nº 13.964/2019 – Pacote Anticrime)"
+  },
+  "Q0422": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0423": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação aos",
+        "retomada_textual": false,
+        "trecho": "crimes contra a ordem tributária"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "crimes contra a ordem tributária"
+  },
+  "Q0424": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0425": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que se refere à",
+        "retomada_textual": false,
+        "trecho": "sentença penal condenatória e a seus efeitos, nos termos da legislação processual penal e da jurisprudência consolidada dos tribunais superiores"
+      },
+      {
+        "inicio": 331,
+        "limite_janela": false,
+        "marcador": "a prática",
+        "retomada_textual": true,
+        "trecho": "Na sentença penal condenatória, é possível a fixação, de ofício, de valor mínimo de indenização por danos materiais, desde que evidenciada do crime e comprovado o nexo de causalidade, ainda que ausentes o pedido específico e a quantificação do dano"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "sentença penal condenatória e a seus efeitos, nos termos da legislação processual penal e da jurisprudência consolidada dos tribunais superiores Na sentença penal condenatória, é possível a fixação, de ofício, de valor mínimo de indenização por danos materiais, desde que evidenciada do crime e comprovado o nexo de causalidade, ainda que ausentes o pedido específico e a quantificação do dano"
+  },
+  "Q0426": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0427": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0428": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0429": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0430": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0431": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação às",
+        "retomada_textual": false,
+        "trecho": "ações penais públicas condicionadas, o Código de Processo Penal prevê a possibilidade de retratação da"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "ações penais públicas condicionadas, o Código de Processo Penal prevê a possibilidade de retratação da"
+  },
+  "Q0432": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0433": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0434": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0435": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0436": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0437": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "aplicação da lei penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "aplicação da lei penal"
+  },
+  "Q0438": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0439": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que se refere ao",
+        "retomada_textual": false,
+        "trecho": "Código Penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Código Penal"
+  },
+  "Q0440": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito do",
+        "retomada_textual": false,
+        "trecho": "inquérito policial"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "inquérito policial"
+  },
+  "Q0441": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito de",
+        "retomada_textual": false,
+        "trecho": "revisão criminal, habeas corpus e suspensão condicional do processo (Lei n.º 9.099/1995)"
+      },
+      {
+        "inicio": 452,
+        "limite_janela": false,
+        "marcador": "referente ao",
+        "retomada_textual": false,
+        "trecho": "arrependimento posterior"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "revisão criminal, habeas corpus e suspensão condicional do processo (Lei n.º 9.099/1995) arrependimento posterior"
+  },
+  "Q0442": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0443": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0444": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0445": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0446": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a jurisprudência do Supremo Tribunal Federal (STF), no que toca à prisão, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a jurisprudência do Supremo Tribunal Federal (STF), no que toca à prisão, é correto afirmar que"
+  },
+  "Q0447": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0448": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0449": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0450": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a jurisprudência do STJ e do STF acerca das ações e dos recursos admitidos pela legislação processual penal"
+      },
+      {
+        "inicio": 149,
+        "limite_janela": false,
+        "marcador": "No que se refere ao",
+        "retomada_textual": false,
+        "trecho": "reconhecimento de repercussão geral para fins de interposição de recurso extraordinário criminal, a invocação de princípios gerais do direito penal não enseja, por si só, a viabilidade, em tese, do mencionado recurso"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a jurisprudência do STJ e do STF acerca das ações e dos recursos admitidos pela legislação processual penal reconhecimento de repercussão geral para fins de interposição de recurso extraordinário criminal, a invocação de princípios gerais do direito penal não enseja, por si só, a viabilidade, em tese, do mencionado recurso"
+  },
+  "Q0451": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito das",
+        "retomada_textual": false,
+        "trecho": "características do inquérito policial"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "características do inquérito policial"
+  },
+  "Q0452": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito do",
+        "retomada_textual": false,
+        "trecho": "inquérito policial"
+      },
+      {
+        "inicio": 76,
+        "limite_janela": false,
+        "marcador": "em relação a",
+        "retomada_textual": false,
+        "trecho": "parte dos investigados em inquérito policial implica arquivamento implícito em relação aos não denunciados"
+      },
+      {
+        "inicio": 165,
+        "limite_janela": false,
+        "marcador": "em relação aos",
+        "retomada_textual": false,
+        "trecho": "não denunciados"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "inquérito policial parte dos investigados em inquérito policial implica arquivamento implícito em relação aos não denunciados não denunciados"
+  },
+  "Q0453": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0454": {
+    "marcadores": [
+      {
+        "inicio": 33,
+        "limite_janela": false,
+        "marcador": "em relação à",
+        "retomada_textual": false,
+        "trecho": "aplicação da lei penal no tempo, de acordo com jurisprudência dos tribunais superiores"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "aplicação da lei penal no tempo, de acordo com jurisprudência dos tribunais superiores"
+  },
+  "Q0455": {
+    "marcadores": [
+      {
+        "inicio": 626,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições do Código de Processo Penal, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições do Código de Processo Penal, é correto afirmar que"
+  },
+  "Q0456": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que se refere aos",
+        "retomada_textual": false,
+        "trecho": "tópicos de Direito Penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "tópicos de Direito Penal"
+  },
+  "Q0457": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0458": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0459": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0460": {
+    "marcadores": [
+      {
+        "inicio": 39,
+        "limite_janela": false,
+        "marcador": "referente aos",
+        "retomada_textual": false,
+        "trecho": "crimes contra a saúde pública"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "crimes contra a saúde pública"
+  },
+  "Q0461": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0462": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito do",
+        "retomada_textual": false,
+        "trecho": "concurso de pessoas e das causas de extinção da punibilidade"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "concurso de pessoas e das causas de extinção da punibilidade"
+  },
+  "Q0463": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0464": {
+    "marcadores": [
+      {
+        "inicio": 52,
+        "limite_janela": false,
+        "marcador": "a prática",
+        "retomada_textual": true,
+        "trecho": "No contexto dos crimes contra o sistema financeiro, de \"evasão de divisas\" ocorre quando"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "No contexto dos crimes contra o sistema financeiro, de \"evasão de divisas\" ocorre quando"
+  },
+  "Q0465": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0466": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0467": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a temática do direito processual penal militar relativa às questões prejudiciais, aos atos probatórios e aos processos em espécie"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a temática do direito processual penal militar relativa às questões prejudiciais, aos atos probatórios e aos processos em espécie"
+  },
+  "Q0468": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0469": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0470": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0471": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0472": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0473": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "as normas referentes ao inquérito policial"
+      },
+      {
+        "inicio": 23,
+        "limite_janela": false,
+        "marcador": "referentes ao",
+        "retomada_textual": false,
+        "trecho": "inquérito policial"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as normas referentes ao inquérito policial inquérito policial"
+  },
+  "Q0474": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que se refere à",
+        "retomada_textual": false,
+        "trecho": "seletividade do sistema penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "seletividade do sistema penal"
+  },
+  "Q0475": {
+    "marcadores": [
+      {
+        "inicio": 262,
+        "limite_janela": false,
+        "marcador": "em relação à",
+        "retomada_textual": false,
+        "trecho": "tipicidade do fato, ocorreu"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "tipicidade do fato, ocorreu"
+  },
+  "Q0476": {
+    "marcadores": [
+      {
+        "inicio": 708,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições do Código de Processo Penal, é correto afirmar que os quesitos deverão ser formulados na seguinte ordem, indagando sobre"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições do Código de Processo Penal, é correto afirmar que os quesitos deverão ser formulados na seguinte ordem, indagando sobre"
+  },
+  "Q0477": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0478": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0479": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que se refere à",
+        "retomada_textual": false,
+        "trecho": "organização da justiça militar da União e às medidas que recaem sobre as coisas"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "organização da justiça militar da União e às medidas que recaem sobre as coisas"
+  },
+  "Q0480": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0481": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "os princípios fundamentais do direito penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "os princípios fundamentais do direito penal"
+  },
+  "Q0482": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que se refere à",
+        "retomada_textual": false,
+        "trecho": "lei processual penal no espaço e no tempo"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "lei processual penal no espaço e no tempo"
+  },
+  "Q0483": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0484": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0485": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0486": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "o estabelecido no Código de Processo Penal acerca das relações jurisdicionais com autoridades estrangeiras"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o estabelecido no Código de Processo Penal acerca das relações jurisdicionais com autoridades estrangeiras"
+  },
+  "Q0487": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0488": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0489": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito do",
+        "retomada_textual": false,
+        "trecho": "concurso de pessoas e das causas de extinção da punibilidade"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "concurso de pessoas e das causas de extinção da punibilidade"
+  },
+  "Q0490": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0491": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação aos",
+        "retomada_textual": false,
+        "trecho": "crimes contra o patrimônio, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "crimes contra o patrimônio, é correto afirmar que"
+  },
+  "Q0492": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0493": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0494": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0495": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0496": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0497": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0498": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0499": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0500": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "o quanto disposto na Lei Federal nº. 8.137/1990"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o quanto disposto na Lei Federal nº. 8.137/1990"
+  },
+  "Q0501": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": true,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "Lei Maria da Penha, avaliar se as afirmativas são certas (C) ou erradas (E) e assinalar a sequência correspondente. ( ) A Lei busca proteger e auxiliar todas as mulheres em situação de violência, independentemente de classe, raça, etnia, orientação sexual e renda. ( ) As medidas protetivas de urgência são concedidas i"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Lei Maria da Penha, avaliar se as afirmativas são certas (C) ou erradas (E) e assinalar a sequência correspondente. ( ) A Lei busca proteger e auxiliar todas as mulheres em situação de violência, independentemente de classe, raça, etnia, orientação sexual e renda. ( ) As medidas protetivas de urgência são concedidas i"
+  },
+  "Q0502": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0503": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0504": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "as normas previstas no Código Penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as normas previstas no Código Penal"
+  },
+  "Q0505": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0506": {
+    "marcadores": [
+      {
+        "inicio": 175,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "o momento do crime, o território em que ocorreu e as particularidades de cada norma"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o momento do crime, o território em que ocorreu e as particularidades de cada norma"
+  },
+  "Q0507": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "o Código Penal brasileiro"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o Código Penal brasileiro"
+  },
+  "Q0508": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "interceptação das comunicações telefônicas"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "interceptação das comunicações telefônicas"
+  },
+  "Q0509": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito do",
+        "retomada_textual": false,
+        "trecho": "inquérito policial"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "inquérito policial"
+  },
+  "Q0510": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0511": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "o estabelecido no Código de Processo Penal acerca das relações jurisdicionais com autoridades estrangeiras"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o estabelecido no Código de Processo Penal acerca das relações jurisdicionais com autoridades estrangeiras"
+  },
+  "Q0512": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que se refere à",
+        "retomada_textual": false,
+        "trecho": "jurisdição e à competência"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "jurisdição e à competência"
+  },
+  "Q0513": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0514": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0515": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0516": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0517": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0518": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0519": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0520": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0521": {
+    "marcadores": [
+      {
+        "inicio": 683,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "as teorias que debatem a pena"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as teorias que debatem a pena"
+  },
+  "Q0522": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0523": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação à",
+        "retomada_textual": false,
+        "trecho": "ação penal e ao acordo de não persecução penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "ação penal e ao acordo de não persecução penal"
+  },
+  "Q0524": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0525": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0526": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0527": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0528": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "aplicação da lei penal, considere"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "aplicação da lei penal, considere"
+  },
+  "Q0529": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0530": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a jurisprudência do STJ sobre a interpretação do artigo 244 do Código de Processo Penal e a configuração da “fundada suspeita”"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a jurisprudência do STJ sobre a interpretação do artigo 244 do Código de Processo Penal e a configuração da “fundada suspeita”"
+  },
+  "Q0531": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0532": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0533": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0534": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0535": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0536": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação à",
+        "retomada_textual": false,
+        "trecho": "cadeia de custódia da prova, é correto afirmar"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "cadeia de custódia da prova, é correto afirmar"
+  },
+  "Q0537": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0538": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0539": {
+    "marcadores": [
+      {
+        "inicio": 322,
+        "limite_janela": false,
+        "marcador": "em relação ao",
+        "retomada_textual": false,
+        "trecho": "valor anotado na carteira profissional"
+      },
+      {
+        "inicio": 376,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a situação retratada e a legislação em vigor"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "valor anotado na carteira profissional a situação retratada e a legislação em vigor"
+  },
+  "Q0540": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0541": {
+    "marcadores": [
+      {
+        "inicio": 150,
+        "limite_janela": false,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "situação narrada, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "situação narrada, é correto afirmar que"
+  },
+  "Q0542": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação às",
+        "retomada_textual": false,
+        "trecho": "regras previstas no Decreto-Lei nº 3.689/1941 - Código de Processo Penal quanto à prisão, a medidas cautelares e à liberdade provisória, assinalar a alternativa CORRETA"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "regras previstas no Decreto-Lei nº 3.689/1941 - Código de Processo Penal quanto à prisão, a medidas cautelares e à liberdade provisória, assinalar a alternativa CORRETA"
+  },
+  "Q0543": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0544": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0545": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0546": {
+    "marcadores": [
+      {
+        "inicio": 397,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "o disposto no Código Penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o disposto no Código Penal"
+  },
+  "Q0547": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0548": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que diz respeito aos",
+        "retomada_textual": false,
+        "trecho": "recursos no processo penal, pode ser afirmado o que segue"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "recursos no processo penal, pode ser afirmado o que segue"
+  },
+  "Q0549": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0550": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0551": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0552": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0553": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0554": {
+    "marcadores": [
+      {
+        "inicio": 82,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "o entendimento adotado pelo STF"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o entendimento adotado pelo STF"
+  },
+  "Q0555": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação ao",
+        "retomada_textual": false,
+        "trecho": "livramento condicional"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "livramento condicional"
+  },
+  "Q0556": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0557": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0558": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0559": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0560": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0561": {
+    "marcadores": [
+      {
+        "inicio": 31,
+        "limite_janela": false,
+        "marcador": "no que diz respeito aos",
+        "retomada_textual": false,
+        "trecho": "crimes contra a fé pública"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "crimes contra a fé pública"
+  },
+  "Q0562": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0563": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0564": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0565": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0566": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0567": {
+    "marcadores": [
+      {
+        "inicio": 535,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a situação da sentenciada, o lapso temporal correto para fins de progressão de regime deve ser"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a situação da sentenciada, o lapso temporal correto para fins de progressão de regime deve ser"
+  },
+  "Q0568": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0569": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0570": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0571": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0572": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito dos",
+        "retomada_textual": false,
+        "trecho": "delitos tipificados na legislação extravagante"
+      },
+      {
+        "inicio": 87,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "a jurisprudência dos tribunais superiores"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "delitos tipificados na legislação extravagante a jurisprudência dos tribunais superiores"
+  },
+  "Q0573": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando-se",
+        "retomada_textual": false,
+        "trecho": "as decisões proferidas pelo Superior Tribunal de Justiça em sede de recursos especiais selecionados como repetitivos envolvendo delitos de furto, é INCORRETO afirmar"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as decisões proferidas pelo Superior Tribunal de Justiça em sede de recursos especiais selecionados como repetitivos envolvendo delitos de furto, é INCORRETO afirmar"
+  },
+  "Q0574": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0575": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0576": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0577": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0578": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0579": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0580": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0581": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0582": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0583": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a jurisprudência do STJ e do STF"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a jurisprudência do STJ e do STF"
+  },
+  "Q0584": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0585": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0586": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0587": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0588": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0589": {
+    "marcadores": [
+      {
+        "inicio": 30,
+        "limite_janela": false,
+        "marcador": "a respeito dos",
+        "retomada_textual": false,
+        "trecho": "efeitos da condenação criminal e de crimes contra a administração pública"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "efeitos da condenação criminal e de crimes contra a administração pública"
+  },
+  "Q0590": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0591": {
+    "marcadores": [
+      {
+        "inicio": 312,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições do Código de Processo Penal, é correto afirmar que, em face da decisão judicial proferida, é cabível a interposição do"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições do Código de Processo Penal, é correto afirmar que, em face da decisão judicial proferida, é cabível a interposição do"
+  },
+  "Q0592": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0593": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0594": {
+    "marcadores": [
+      {
+        "inicio": 337,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a situação apresentada, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a situação apresentada, é correto afirmar que"
+  },
+  "Q0595": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0596": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0597": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0598": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0599": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0600": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "pena criminal e da extinção da punibilidade"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "pena criminal e da extinção da punibilidade"
+  },
+  "Q0601": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0602": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0603": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0604": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0605": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0606": {
+    "marcadores": [
+      {
+        "inicio": 667,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "as disposições do Código Penal, é correto afirmar que Tício responderá pelo crime de"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "as disposições do Código Penal, é correto afirmar que Tício responderá pelo crime de"
+  },
+  "Q0607": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0608": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "aplicação da lei penal, dos princípios da legalidade e da anterioridade e acerca da lei penal no tempo e no espaço"
+      },
+      {
+        "inicio": 206,
+        "limite_janela": false,
+        "marcador": "em relação a",
+        "retomada_textual": false,
+        "trecho": "determinado crime praticado por uma pessoa definitivamente condenada pelo fato, caberá ao juízo da execução, e não ao juízo da condenação, a aplicação da lei mais benigna"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "aplicação da lei penal, dos princípios da legalidade e da anterioridade e acerca da lei penal no tempo e no espaço determinado crime praticado por uma pessoa definitivamente condenada pelo fato, caberá ao juízo da execução, e não ao juízo da condenação, a aplicação da lei mais benigna"
+  },
+  "Q0609": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação aos",
+        "retomada_textual": false,
+        "trecho": "crimes contra a ordem tributária, é correto afirmar"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "crimes contra a ordem tributária, é correto afirmar"
+  },
+  "Q0610": {
+    "marcadores": [
+      {
+        "inicio": 30,
+        "limite_janela": false,
+        "marcador": "a respeito da",
+        "retomada_textual": false,
+        "trecho": "participação do MP no curso das investigações criminais, na instrução processual e na fase recursal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "participação do MP no curso das investigações criminais, na instrução processual e na fase recursal"
+  },
+  "Q0611": {
+    "marcadores": [
+      {
+        "inicio": 268,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "Sobre de João, pode-se afirmar que cometeu o crime de"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Sobre de João, pode-se afirmar que cometeu o crime de"
+  },
+  "Q0612": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0613": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que se refere aos",
+        "retomada_textual": false,
+        "trecho": "crimes contra o SFN"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "crimes contra o SFN"
+  },
+  "Q0614": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0615": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0616": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0617": {
+    "marcadores": [
+      {
+        "inicio": 30,
+        "limite_janela": false,
+        "marcador": "a respeito da",
+        "retomada_textual": false,
+        "trecho": "participação do MP no curso das investigações criminais, na instrução processual e na fase recursal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "participação do MP no curso das investigações criminais, na instrução processual e na fase recursal"
+  },
+  "Q0618": {
+    "marcadores": [
+      {
+        "inicio": 104,
+        "limite_janela": false,
+        "marcador": "em relação a",
+        "retomada_textual": false,
+        "trecho": "Pedro"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Pedro"
+  },
+  "Q0619": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0620": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0621": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0622": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "aplicação da lei penal"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "aplicação da lei penal"
+  },
+  "Q0623": {
+    "marcadores": [
+      {
+        "inicio": 887,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "a situação hipotética e a jurisprudência mais recente do Superior Tribunal de Justiça sobre a matéria, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "a situação hipotética e a jurisprudência mais recente do Superior Tribunal de Justiça sobre a matéria, é correto afirmar que"
+  },
+  "Q0624": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0625": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0626": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "o estabelecido no Código de Processo Penal acerca das relações jurisdicionais com autoridades estrangeiras"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "o estabelecido no Código de Processo Penal acerca das relações jurisdicionais com autoridades estrangeiras"
+  },
+  "Q0627": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0628": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0629": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0630": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0631": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0632": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A conduta",
+        "retomada_textual": false,
+        "trecho": "do funcionário público que, em razão da função exercida, exige, para si, vantagem indevida, sem, contudo, chegar a recebê-la, caracteriza, em tese"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "do funcionário público que, em razão da função exercida, exige, para si, vantagem indevida, sem, contudo, chegar a recebê-la, caracteriza, em tese"
+  },
+  "Q0633": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Considerando",
+        "retomada_textual": false,
+        "trecho": "os crimes previstos no Código Penal brasileiro"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "os crimes previstos no Código Penal brasileiro"
+  },
+  "Q0634": {
+    "marcadores": [
+      {
+        "inicio": 1356,
+        "limite_janela": false,
+        "marcador": "A respeito da",
+        "retomada_textual": false,
+        "trecho": "situação hipotética, nos termos do Código de Processo Penal, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "situação hipotética, nos termos do Código de Processo Penal, é correto afirmar que"
+  },
+  "Q0635": {
+    "marcadores": [
+      {
+        "inicio": 289,
+        "limite_janela": false,
+        "marcador": "referente à",
+        "retomada_textual": false,
+        "trecho": "embriaguez habitual"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "embriaguez habitual"
+  },
+  "Q0636": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0637": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0638": {
+    "marcadores": [
+      {
+        "inicio": 217,
+        "limite_janela": false,
+        "marcador": "em relação à",
+        "retomada_textual": false,
+        "trecho": "conduta típica de “modificar ou alterar, o funcionário, sistema de informações ou programa de informática sem autorização ou solicitação de autoridade competente”"
+      },
+      {
+        "inicio": 424,
+        "limite_janela": false,
+        "marcador": "a prática",
+        "retomada_textual": true,
+        "trecho": "modificar ou alterar, o funcionário, sistema de informações ou programa de informática sem autorização ou solicitação de autoridade competente desta conduta configura o crime de"
+      },
+      {
+        "inicio": 434,
+        "limite_janela": false,
+        "marcador": "desta conduta",
+        "retomada_textual": true,
+        "trecho": "modificar ou alterar, o funcionário, sistema de informações ou programa de informática sem autorização ou solicitação de autoridade competente configura o crime de"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "conduta típica de “modificar ou alterar, o funcionário, sistema de informações ou programa de informática sem autorização ou solicitação de autoridade competente” modificar ou alterar, o funcionário, sistema de informações ou programa de informática sem autorização ou solicitação de autoridade competente desta conduta configura o crime de modificar ou alterar, o funcionário, sistema de informações ou programa de informática sem autorização ou solicitação de autoridade competente configura o crime de"
+  },
+  "Q0639": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0640": {
+    "marcadores": [
+      {
+        "inicio": 254,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "Segundo Zaffaroni e Pierangeli, “a tipicidade penal implica a contrariedade com a ordem normativa, mas não implica a antijuridicidade (a contrariedade com a ordem jurídica), porque pode haver uma causa de justificação (um preceito permissivo) que ampare ”"
+      },
+      {
+        "inicio": 278,
+        "limite_janela": false,
+        "marcador": "considerando",
+        "retomada_textual": false,
+        "trecho": "que a tipicidade é a correspondência entre o fato praticado pelo agente e a descrição de cada infração contida na lei penal incriminadora, pode-se afirmar que a tipicidade"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Segundo Zaffaroni e Pierangeli, “a tipicidade penal implica a contrariedade com a ordem normativa, mas não implica a antijuridicidade (a contrariedade com a ordem jurídica), porque pode haver uma causa de justificação (um preceito permissivo) que ampare ” que a tipicidade é a correspondência entre o fato praticado pelo agente e a descrição de cada infração contida na lei penal incriminadora, pode-se afirmar que a tipicidade"
+  },
+  "Q0641": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0642": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0643": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0644": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0645": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0646": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0647": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "Em relação à",
+        "retomada_textual": false,
+        "trecho": "citação no processo penal, é correto afirmar que"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "citação no processo penal, é correto afirmar que"
+  },
+  "Q0648": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0649": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0650": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0651": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0652": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0653": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0654": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "No que diz respeito ao",
+        "retomada_textual": false,
+        "trecho": "juiz, aos auxiliares da justiça e às partes do processo militar, à organização da justiça militar da União e sua competência e à prisão preventiva"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "juiz, aos auxiliares da justiça e às partes do processo militar, à organização da justiça militar da União e sua competência e à prisão preventiva"
+  },
+  "Q0655": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0656": {
+    "marcadores": [
+      {
+        "inicio": 396,
+        "limite_janela": false,
+        "marcador": "a conduta",
+        "retomada_textual": true,
+        "trecho": "Nessa situação, praticada por Carlos configura crime de violência doméstica e familiar contra a mulher"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "Nessa situação, praticada por Carlos configura crime de violência doméstica e familiar contra a mulher"
+  },
+  "Q0657": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0658": {
+    "marcadores": [],
+    "origem": "enunciado_html exclusivamente",
+    "presente": false,
+    "texto_foco": ""
+  },
+  "Q0659": {
+    "marcadores": [
+      {
+        "inicio": 0,
+        "limite_janela": false,
+        "marcador": "A respeito do",
+        "retomada_textual": false,
+        "trecho": "crime de lavagem de dinheiro e dos crimes contra o sistema financeiro nacional e contra a fé pública"
+      }
+    ],
+    "origem": "enunciado_html exclusivamente",
+    "presente": true,
+    "texto_foco": "crime de lavagem de dinheiro e dos crimes contra o sistema financeiro nacional e contra a fé pública"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "variantes": {
+    "controle_v11": {
+      "grupos": [],
+      "C": 1.0
+    },
+    "palavra_relativa": {
+      "grupos": [
+        "relativa"
+      ],
+      "C": 1.0
+    },
+    "palavra_foco": {
+      "grupos": [
+        "foco"
+      ],
+      "C": 1.0
+    },
+    "alternativas_condicionais": {
+      "grupos": [
+        "alternativas"
+      ],
+      "C": 1.0
+    },
+    "regularizacao_03": {
+      "grupos": [],
+      "C": 0.3
+    },
+    "combinado": {
+      "grupos": [
+        "relativa",
+        "foco",
+        "alternativas"
+      ],
+      "C": 0.3
+    }
+  },
+  "atributos_base": [
+    "media3_completo",
+    "max_completo",
+    "palavra_completo",
+    "char_completo",
+    "palavra_enunciado",
+    "char_enunciado",
+    "palavra_comando",
+    "char_comando",
+    "palavra_alternativas",
+    "char_alternativas",
+    "palavra_alt_max",
+    "palavra_alt_media",
+    "palavra_assunto_origem",
+    "origem_compativel",
+    "origem_reconhecida",
+    "lei_literal",
+    "artigo_literal",
+    "cobertura_vocabulario",
+    "escopo_texto",
+    "escopo_enunciado",
+    "escopo_comando",
+    "escopo_alternativas",
+    "escopo_alternativa_max",
+    "escopo_alternativa_media",
+    "titulo_enunciado",
+    "norma_enunciado",
+    "norma_alternativas",
+    "artigo_enunciado",
+    "artigo_alternativas",
+    "citacao_sem_correspondencia",
+    "ha_norma_explicita",
+    "ha_artigo_vinculado",
+    "posicao_busca",
+    "diferenca_melhor_busca",
+    "similaridade_foco",
+    "diferenca_melhor_foco",
+    "foco_utilizavel",
+    "norma_foco",
+    "artigo_foco"
+  ],
+  "novos_grupos": {
+    "relativa": [
+      "palavra_vantagem_concorrente",
+      "palavra_vantagem_relativa"
+    ],
+    "foco": [
+      "palavra_foco_catalogo",
+      "palavra_foco_menos_completo"
+    ],
+    "alternativas": [
+      "palavra_enunciado_sem_alt_tematicas",
+      "palavra_alt_tematicas"
+    ]
+  },
+  "palavra_completo_preservada": true,
+  "ranking_fixo": "v8 mais identificadores v9; nenhum bônus de confiança ou LLM",
+  "referencia": "V11 sem_apoio_duplo com publicações V9 preservadas",
+  "politicas": [
+    "substituir_com_v9",
+    "preservar_v11"
+  ],
+  "meta_empirica": 0.95,
+  "minimo_interno": 10,
+  "corte_50_testado": false,
+  "avaliacao": "Mesmos 5 folds externos/4 internos; rótulos externos não participam do ajuste/calibração/corte do fold.",
+  "exposicao": "100 rótulos e erros reutilizados; não é teste externo cego.",
+  "sem_rotulos_559": true,
+  "selecionar_por_volume_559": false,
+  "promove_entrega": false,
+  "codigo_sha256": {
+    "testar_palavra_v12.py": "671f2129e443469831b05f5088b17ead30ecb47be522cf20ae8e9ddc8201980a",
+    "experimento_palavra_v12/modelo.py": "11a3809309ee78ddfbc66b4bcca04481b3a11a4d4bb31bb4836f9cebce9f7bb9",
+    "classificar_palavra_v12.py": "c8d3b0fad32056ca1ef56da81963f57bf75e82956e219037099f380f52d36f32",
+    "congelar_palavra_v12.py": "15f311be4a60a6454c3647786c4514ee0aaa177a80ab1e3d2eb7326776b30737"
+  },
+  "dados_sha256": {
+    "questoes.jsonl": "318f1fea970633a4d84eb5a4dd071b2ae76ad3e49288a073ab381f61a09da3f3",
+    "temas.csv": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc",
+    "folha_verdade.csv": "c1412ce8d336ae248a2f0e46d8e34cbc07dd33c78af9ce6bbe1337c516ee8e3b"
+  },
+  "folds_sha256": "499d8bc518d58325a78b21242c4e0c87f044ec18968067d699d95e8df4dcbeaa",
+  "preservados_sha256": {
+    "publicacao.csv": "05921ae3cff5ee7336c08620530c4516825f3f7c69969a8cca3384cd65a70686",
+    "previsao.txt": "052ba667402f327bfef61a9b4c34b98f10b50382e6a39e26f740cfe439eefb03",
+    "experimentos/atributos_v11_001/resumo.json": "3dace20f9b5347044baca4f53efc5a6368336c674e1586b83bf647fdf9fb9e1a"
+  }
+}

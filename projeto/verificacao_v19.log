@@ -1,0 +1,46 @@
+{"questoes": 559, "publicar": 97, "revisar": 462, "fora": 0, "cobertura": 0.1735241502683363, "precisao_real_alvo": null, "motivos_revisao": {"abaixo_do_limiar_calibrado": 395, "homonimo_sem_escopo_resolvido": 66, "sem_evidencia;homonimo_sem_escopo_resolvido": 1}, "variante": "vocabulario_escopos", "confianca_global_recalibrada": false, "precisao_real_559": null, "rotulos_lidos": false, "chamadas_llm": 0, "promove_entrega": false}
+{
+  "variantes": {
+    "controle_atual": {
+      "questoes": 559,
+      "publicar": 139,
+      "reproducao_exata": true
+    },
+    "frases_completas": {
+      "questoes": 559,
+      "publicar": 92,
+      "reproducao_exata": true
+    },
+    "vocabulario_escopos": {
+      "questoes": 559,
+      "publicar": 94,
+      "reproducao_exata": true
+    },
+    "passagem_cobrada": {
+      "questoes": 559,
+      "publicar": 93,
+      "reproducao_exata": true
+    },
+    "guarda_frases_completas": {
+      "questoes": 559,
+      "publicar": 94,
+      "reproducao_exata": true
+    },
+    "guarda_vocabulario_escopos": {
+      "questoes": 559,
+      "publicar": 97,
+      "reproducao_exata": true
+    },
+    "guarda_passagem_cobrada": {
+      "questoes": 559,
+      "publicar": 97,
+      "reproducao_exata": true
+    }
+  },
+  "previsoes_conferidas": 3913,
+  "rotulos_rede_treino_avaliador_recalibracao_bloqueados": true,
+  "confianca_global_das_guardas_recalibrada": false,
+  "precisao_real_559": null,
+  "promove_entrega": false,
+  "entrada_sha256": "3e22b72926d964154e8449cc1a38cd8f05af79af2d08337dc2526cb6aaea5d20"
+}

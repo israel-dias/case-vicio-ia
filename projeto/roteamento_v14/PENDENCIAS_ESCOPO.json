@@ -1,0 +1,157 @@
+{
+  "limite": "Comparação de descrições preparadas; não é validação jurídica dos escopos.",
+  "homonimos": [
+    {
+      "ids": [
+        "4703",
+        "6734"
+      ],
+      "descricoes_preparadas_identicas": true,
+      "descricao_a": "Execução da pena; progressão e regressão de regime, remição, trabalho do preso, faltas disciplinares, estabelecimentos e direitos do condenado; LEP.",
+      "descricao_b": "Execução da pena; progressão e regressão de regime, remição, trabalho do preso, faltas disciplinares, estabelecimentos e direitos do condenado; LEP."
+    },
+    {
+      "ids": [
+        "4704",
+        "6724"
+      ],
+      "descricoes_preparadas_identicas": true,
+      "descricao_a": "Lei Maria da Penha, violência doméstica e familiar contra a mulher; medidas protetivas de urgência; Lei 11.340/2006.",
+      "descricao_b": "Lei Maria da Penha, violência doméstica e familiar contra a mulher; medidas protetivas de urgência; Lei 11.340/2006."
+    }
+  ],
+  "fora_sem_justificativa_no_arquivo": [
+    {
+      "id": "Q0002",
+      "questao": {
+        "id": "Q0002",
+        "enunciado_html": "Segundo Vera Regina Pereira de Andrade, a clientela do sistema penal é constituída de pobres, porque",
+        "comando": "Complete a frase de acordo com o autor.",
+        "alternativas": {
+          "A": " têm uma maior tendência a delinqüir.  ",
+          "B": " possuem uma cultura de nível inferior.  ",
+          "C": " não tiveram a devida educação.  ",
+          "D": " são naturalmente propensos à violência.  ",
+          "E": " têm maiores chances de serem criminalizados. "
+        },
+        "disciplina_origem": "Criminologia",
+        "assunto_origem": "Teorias Legitimidoras da Pena"
+      }
+    },
+    {
+      "id": "Q0017",
+      "questao": {
+        "id": "Q0017",
+        "enunciado_html": "No processo e julgamento dos crimes de responsabilidade dos funcionários públicos,",
+        "comando": "Complete a frase ou responda conforme o contexto do processo penal.",
+        "alternativas": {
+          "A": "nos crimes afiançáveis e inafiançáveis, após a denúncia, o juiz ordenará a notificação do acusado para responder por escrito, dentro do prazo de 15 (quinze) dias.",
+          "B": "nos crimes inafiançáveis, após a denúncia, o juiz ordenará a notificação do acusado para responder por escrito, dentro do prazo de 15 (quinze) dias.",
+          "C": "nos crimes afiançáveis e inafiançáveis, o eventual recebimento da denúncia é feito depois da notificação do acusado e, caso existente, de sua resposta.",
+          "D": "nos crimes afiançáveis, o eventual recebimento da denúncia é feito depois da notificação do acusado e, caso existente, de sua resposta.",
+          "E": "a falta de notificação do acusado para, se quiser, responder à acusação causa nulidade absoluta, conforme súmulas do Superior Tribunal de Justiça e do Supremo Tribunal Federal."
+        },
+        "disciplina_origem": "Processo Penal",
+        "assunto_origem": "Ação Penal (Parte 01)"
+      }
+    },
+    {
+      "id": "Q0039",
+      "questao": {
+        "id": "Q0039",
+        "enunciado_html": "Suponha que todos os revendedores de gás liquefeito de petróleo (GLP) ajustem artificialmente preço final de venda do produto em determinada localidade. A esse respeito, é correto afirmar que",
+        "comando": "Assinale a alternativa correta.",
+        "alternativas": {
+          "A": "o ajuste é comum e em nada influencia na concorrência entre as empresas.",
+          "B": "há, em princípio, um ilícito penal a ser apurado que se subsumi ao crime contra o consumidor.",
+          "C": "o fato descrito encarta-se como crime contra a ordem econômica.",
+          "D": "a relação de consumo é afetada pela conduta descrita; portanto, há contravenção praticada contra a economia popular.",
+          "E": "a investigação a respeito do caso ficará a cargo da Polícia Federal, em virtude de que a União possui o monopólio de distribuição do GLP no Brasil."
+        },
+        "disciplina_origem": "Direito Penal - Legislação Especial",
+        "assunto_origem": "Concurso de Crimes"
+      }
+    },
+    {
+      "id": "Q0043",
+      "questao": {
+        "id": "Q0043",
+        "enunciado_html": "Sobre a fixação da pena, tem-se o seguinte:",
+        "comando": "Complete o estudo sobre a fixação da pena.",
+        "alternativas": {
+          "A": "a existência de circunstância atenuante pode conduzir à redução da pena abaixo do mínimo legal.  ",
+          "B": "pelo critério trifásico, adotado pelo Código Penal, o juiz, na segunda fase, deverá apreciar as causas de  aumento e de diminuição da parte geral e especial.  ",
+          "C": "o estabelecimento do valor de dias-multa independe da condição econômica do condenado.  ",
+          "D": "em caso de reincidência, fixada a pena em patamar inferior a 4 (quatro) anos, o condenado poderá iniciar  o cumprimento da pena em regime semiaberto, desde que as circunstâncias judiciais o recomendem.  "
+        },
+        "disciplina_origem": "Direito Penal",
+        "assunto_origem": "Teoria da Pena (Parte 02)"
+      }
+    },
+    {
+      "id": "Q0087",
+      "questao": {
+        "id": "Q0087",
+        "enunciado_html": "De acordo com a jurisprudência do Superior Tribunal de Justiça, a prisão domiciliar na execução penal",
+        "comando": "Complete a frase ou responda sobre a prisão domiciliar na execução penal conforme a jurisprudência do Superior Tribunal de Justiça.",
+        "alternativas": {
+          "A": "possui rol taxativo previsto no art. 117 da Lei de Execução Penal.",
+          "B": "é cabível apenas para sentenciado que cumpre pena no regime aberto. ",
+          "C": "depende de exame criminológico favorável para condenados reincidentes. ",
+          "D": "deve utilizar o marco etário de 60 anos em razão do disposto no Estatuto do Idoso. ",
+          "E": " é cabível excepcionalmente em regime fechado para mãe cujo cuidado do filho seja imprescindível.  "
+        },
+        "disciplina_origem": "Direito Penal",
+        "assunto_origem": "Legislação Penal Especial"
+      }
+    },
+    {
+      "id": "Q0252",
+      "questao": {
+        "id": "Q0252",
+        "enunciado_html": "João, maior de setenta anos de idade ao tempo do fato, foi condenado pelo crime de estelionato à pena privativa de liberdade de quatro anos e três meses de reclusão em regime inicial semiaberto e, ainda, ao pagamento de cinquenta dias-multa, fixado o valor de um vinte avos do salário mínimo vigente.<br><br>Nessa situação hipotética, conforme o CPP,",
+        "comando": "Assinale a alternativa correta.",
+        "alternativas": {
+          "A": " <span>caso o presidente da República conceda a João graça parcial,\\no benefício não poderá ser recusado.</span> ",
+          "B": " <span>o juiz poderá, a requerimento do réu, demonstradas as\\ncircunstâncias que o justifiquem, permitir que o pagamento da\\npena de multa se faça em parcelas mensais.</span> ",
+          "C": " <span>João terá direito ao livramento condicional, preenchidos os\\nrequisitos, e somente este ou o seu advogado poderá requerê-lo\\nao juízo da execução penal, tendo em vista a natureza\\npersonalíssima da pena.</span> ",
+          "D": " <span>o requisito temporal do livramento condicional será reduzido\\npela metade, em razão de João contar com mais de setenta anos\\nde idade na data do fato.</span> "
+        },
+        "disciplina_origem": "Processo Penal",
+        "assunto_origem": "Ação Penal (Parte 02)"
+      }
+    },
+    {
+      "id": "Q0291",
+      "questao": {
+        "id": "Q0291",
+        "enunciado_html": "Quando se tratar de crimes relativos ao tráfico de drogas, o prazo para a conclusão do inquérito policial é de 30 dias, se o indiciado estiver preso e de 90 dias, se estiver solto, podendo ser duplicados, mediante pedido justificado da autoridade de polícia judiciária.",
+        "comando": "Explique os prazos para a conclusão do inquérito policial em crimes relativos ao tráfico de drogas.",
+        "alternativas": {
+          "C": "Certo",
+          "E": "Errado"
+        },
+        "disciplina_origem": "Direito Penal - Legislação Especial",
+        "assunto_origem": "Ação Penal"
+      }
+    },
+    {
+      "id": "Q0303",
+      "questao": {
+        "id": "Q0303",
+        "enunciado_html": "Com relação à aplicação da lei penal, assinale a opção correta.",
+        "comando": "Assinale a opção correta.",
+        "alternativas": {
+          "A": "As frações de dia são computadas como um dia integral de pena nas penas privativas de liberdade e nas restritivas de direitos.",
+          "B": "O direito penal, quanto ao tempo do crime, considera praticado o crime no momento do seu resultado.",
+          "C": " A sentença estrangeira, quando a aplicação da lei brasileira produz as mesmas consequências, poderá ser homologada no Brasil para todos os efeitos, exceto para obrigar o condenado à reparação do dano. ",
+          "D": " Ficam sujeitos à lei brasileira os crimes contra o patrimônio ou a fé pública do DF, de estado, de município, de empresa pública, sociedade de economia mista, autarquia ou fundação instituída pelo poder público, embora cometidos no estrangeiro, sendo o agente punido segundo a lei brasileira, ainda que absolvido no estrangeiro. ",
+          "E": " Não é aplicável a lei brasileira aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada, ainda que achando-se aquelas em pouso no território nacional ou em vôo no espaço aéreo correspondente, e estas em porto ou mar territorial do Brasil. "
+        },
+        "disciplina_origem": "Direito Penal",
+        "assunto_origem": "Ação Penal"
+      }
+    }
+  ],
+  "perguntas": "Qual fronteira de conteúdo distingue os IDs homônimos? Qual é a justificativa de escopo para cada fora, especialmente Q0043 e Q0303? Não enviar automaticamente."
+}

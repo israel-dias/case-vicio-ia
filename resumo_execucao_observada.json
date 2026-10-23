@@ -1,0 +1,13 @@
+{
+  "questoes": 659,
+  "publicar": 454,
+  "revisar": 205,
+  "fora": 0,
+  "rotulos_lidos": false,
+  "chamadas_llm": 0,
+  "retreino": false,
+  "segundos": 544.4013647149986,
+  "variante": "cobranca_estrita",
+  "modo": "revalidar_cobranca",
+  "precisao_real_alvo": null
+}

@@ -1,0 +1,18 @@
+{
+  "corte": 0.5,
+  "hipotese": "Aumentar publicação com confiança >=50%, sem alterar tema ou probabilidade.",
+  "regra": "Preserva publicar e fora anteriores; somente revisões elegíveis e confiança >=0,5 podem mudar. A política interna ativa/corte V12 não impede essa nova regra experimental.",
+  "retreino": false,
+  "recalibracao": false,
+  "consulta_rotulo_para_decidir": false,
+  "ajuste_por_id": false,
+  "escolha_corte_por_resultado": false,
+  "promove_entrega": false,
+  "limite": "Resultados nas mesmas 100 reutilizadas, sem avaliação independente das 559.",
+  "codigo_sha256": "faf23a30bd9149e471a6fc75901b386c004a732789571c5def45a964a4be2941",
+  "entradas_sha256": {
+    "avaliacao_100.csv": "fea0266b00faccba8d8d9820699b47902d1ea1296706b85b9af554de2453bd26",
+    "simulacao_559.csv": "8a6c0d3c2c9ad15a3043528babd1a33896560e417debee8c13a3ff53a854eddf",
+    "modelos_finais.json": "f1966ce002ceeb5b49ba15e5ec183c5b24ddde2be987c0242a53886c2b805a79"
+  }
+}

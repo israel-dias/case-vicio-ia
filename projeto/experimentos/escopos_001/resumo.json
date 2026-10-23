@@ -1,0 +1,131 @@
+{
+  "experimento": "comparacao_escopos_v1",
+  "avaliacao": "desenvolvimento; múltiplas configurações",
+  "particao": {
+    "desenvolvimento": 60,
+    "calibracao_reservada": 20,
+    "teste_reservado": 20
+  },
+  "escopos": {
+    "candidatos": 371,
+    "com_proposta": 360,
+    "escopo_pendente": 11
+  },
+  "resultados": {
+    "controle_lexical": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 35,
+      "acerto_top1_total": 0.5833333333333334,
+      "acerto_top1_com_tema": 0.625,
+      "acerto_top5_com_tema": 0.7678571428571429
+    },
+    "escopos_juntos": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 33,
+      "acerto_top1_total": 0.55,
+      "acerto_top1_com_tema": 0.5892857142857143,
+      "acerto_top5_com_tema": 0.8392857142857143
+    },
+    "escopos_juntos_sem_meta": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 35,
+      "acerto_top1_total": 0.5833333333333334,
+      "acerto_top1_com_tema": 0.625,
+      "acerto_top5_com_tema": 0.8392857142857143
+    },
+    "escopos_juntos_sem_char": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 34,
+      "acerto_top1_total": 0.5666666666666667,
+      "acerto_top1_com_tema": 0.6071428571428571,
+      "acerto_top5_com_tema": 0.8392857142857143
+    },
+    "escopos_juntos_subtema": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 32,
+      "acerto_top1_total": 0.5333333333333333,
+      "acerto_top1_com_tema": 0.5714285714285714,
+      "acerto_top5_com_tema": 0.7678571428571429
+    },
+    "escopos_com_filhos": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 34,
+      "acerto_top1_total": 0.5666666666666667,
+      "acerto_top1_com_tema": 0.6071428571428571,
+      "acerto_top5_com_tema": 0.8571428571428571
+    },
+    "escopos_separados_10": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 35,
+      "acerto_top1_total": 0.5833333333333334,
+      "acerto_top1_com_tema": 0.625,
+      "acerto_top5_com_tema": 0.7857142857142857
+    },
+    "escopos_separados_25": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 37,
+      "acerto_top1_total": 0.6166666666666667,
+      "acerto_top1_com_tema": 0.6607142857142857,
+      "acerto_top5_com_tema": 0.7857142857142857
+    },
+    "escopos_separados_50": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 37,
+      "acerto_top1_total": 0.6166666666666667,
+      "acerto_top1_com_tema": 0.6607142857142857,
+      "acerto_top5_com_tema": 0.875
+    },
+    "escopos_separados_media2": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 39,
+      "acerto_top1_total": 0.65,
+      "acerto_top1_com_tema": 0.6964285714285714,
+      "acerto_top5_com_tema": 0.8571428571428571
+    },
+    "escopos_separados_media3": {
+      "questoes_avaliadas": 60,
+      "questoes_com_tema": 56,
+      "questoes_fora": 4,
+      "acertos_top1": 40,
+      "acerto_top1_total": 0.6666666666666666,
+      "acerto_top1_com_tema": 0.7142857142857143,
+      "acerto_top5_com_tema": 0.8928571428571429
+    }
+  },
+  "metodo_registrado": "escopos_separados_media3",
+  "transicoes_controle": {
+    "passou_a_acertar": 6,
+    "passou_a_errar": 1
+  },
+  "tempo_segundos": 2.439,
+  "observacoes": [
+    "Somente os 60 IDs de desenvolvimento recebem previsões.",
+    "Rótulos da calibração e teste não são usados para escolher configurações.",
+    "Os 100 rótulos já foram vistos na conversa; não é teste externo cego.",
+    "Descrições são propostas do assistente; não houve validação jurídica independente.",
+    "Não altera IDs, árvore, status, anexos nem marcações oficiais de fora.",
+    "Agregação média escolhe pais de nível 1; há perda de especificidade.",
+    "Resultados de desenvolvimento não medem precisão das futuras publicadas.",
+    "Ainda faltam política de decisão, calibração, teste e entrega das 659 linhas."
+  ]
+}

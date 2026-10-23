@@ -1,0 +1,26 @@
+{
+  "versao": "relacoes_v9_rodada4",
+  "variantes": {
+    "titulos_diretos": {
+      "suporte": 25,
+      "acertos": 24,
+      "probabilidade_suavizada": 0.9259259259259259
+    },
+    "relacoes_diretas": {
+      "suporte": 26,
+      "acertos": 24,
+      "probabilidade_suavizada": 0.8928571428571429
+    },
+    "relacoes_alternativas": {
+      "suporte": 26,
+      "acertos": 24,
+      "probabilidade_suavizada": 0.8928571428571429
+    }
+  },
+  "confianca": "Beta(1,1) agregada nos acionamentos das 100; não é probabilidade individual comprovada nem mínimo de 80%.",
+  "codigo_sha256": {
+    "experimento_relacoes_v9/regras.py": "1a260c927ee753c569d3948851d16a5b351d0677ec588f949d15180954230923",
+    "classificar_relacoes_v9.py": "8f7b41902e7c54869836bcd34abcb6e5e40a3e2c148b91cc3be2a31921558e54"
+  },
+  "promove_entrega": false
+}

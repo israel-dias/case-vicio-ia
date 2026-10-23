@@ -1,0 +1,50 @@
+{
+  "centrais_com_um_exemplo": 42,
+  "com_extras": 39,
+  "disciplinas_distintas_ids": [
+    "Q0012",
+    "Q0018",
+    "Q0138",
+    "Q0275",
+    "Q0304",
+    "Q0324",
+    "Q0325"
+  ],
+  "familias_distintas_ids": [
+    "Q0012",
+    "Q0018",
+    "Q0034",
+    "Q0040",
+    "Q0058",
+    "Q0068",
+    "Q0138",
+    "Q0144",
+    "Q0194",
+    "Q0221",
+    "Q0240",
+    "Q0251",
+    "Q0259",
+    "Q0265",
+    "Q0274",
+    "Q0275",
+    "Q0279",
+    "Q0304",
+    "Q0324",
+    "Q0325",
+    "Q0336",
+    "Q0341"
+  ],
+  "fora_ids": [
+    "Q0002",
+    "Q0017",
+    "Q0039",
+    "Q0043",
+    "Q0087",
+    "Q0252",
+    "Q0291",
+    "Q0303"
+  ],
+  "nota": "Extras oficiais são referências aceitas; não provam equivalência global entre seus ramos.",
+  "rotulos": 100,
+  "temas_centrais_distintos": 61
+}

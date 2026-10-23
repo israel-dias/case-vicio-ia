@@ -1,0 +1,612 @@
+{
+  "versao": "referencias_normativas_v3_1",
+  "preparacao": "2026-10-21",
+  "autoria": "Assistente nesta conversa; organização geral do catálogo, sem decisões por ID de questão.",
+  "limites": [
+    "Associações de escopo propostas: não constituem validação jurídica independente.",
+    "As fontes foram consultadas para preparar o vocabulário; não se afirma auditoria jurídica de cada intervalo.",
+    "Uma citação é evidência auxiliar; não prova o assunto cobrado ou a resposta correta.",
+    "Homônimos preservam seus IDs e podem compartilhar evidência sem equivalência de ramos.",
+    "Artigos são relacionados à norma indicada; artigo isolado não recebe associação por suposição.",
+    "Não se afirma que todos os dispositivos estejam vigentes na data histórica de cada prova."
+  ],
+  "fontes_consultadas": {
+    "cp": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+    "cpp": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
+    "lcp": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+    "lei:7210/1984": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm",
+    "lei:9296/1996": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm",
+    "lei:9099/1995": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm",
+    "lei:11343/2006": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+    "lei:11340/2006": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+  },
+  "normalizacao_lexical": {
+    "intercepcao": "interceptacao",
+    "intercepcoes": "interceptacoes",
+    "estaturo": "estatuto"
+  },
+  "normas": [
+    {
+      "id": "cp",
+      "aliases": [
+        "Código Penal",
+        "CP"
+      ],
+      "numeros": [
+        "2848/1940"
+      ],
+      "temas_ids": []
+    },
+    {
+      "id": "cpp",
+      "aliases": [
+        "Código de Processo Penal",
+        "CPP"
+      ],
+      "numeros": [
+        "3689/1941"
+      ],
+      "temas_ids": []
+    },
+    {
+      "id": "cpm",
+      "aliases": [
+        "Código Penal Militar",
+        "CPM"
+      ],
+      "numeros": [
+        "1001/1969"
+      ],
+      "temas_ids": []
+    },
+    {
+      "id": "cppm",
+      "aliases": [
+        "Código de Processo Penal Militar",
+        "CPPM"
+      ],
+      "numeros": [
+        "1002/1969"
+      ],
+      "temas_ids": []
+    },
+    {
+      "id": "cf",
+      "aliases": [
+        "Constituição Federal",
+        "CF"
+      ],
+      "numeros": [],
+      "temas_ids": []
+    },
+    {
+      "id": "lcp",
+      "aliases": [
+        "Lei das Contravenções Penais",
+        "LCP"
+      ],
+      "numeros": [
+        "3688/1941"
+      ],
+      "temas_ids": [
+        "4686"
+      ]
+    },
+    {
+      "id": "lei:7210/1984",
+      "aliases": [
+        "Lei de Execução Penal",
+        "LEP"
+      ],
+      "numeros": [
+        "7210/1984"
+      ],
+      "temas_ids": [
+        "4703",
+        "6734"
+      ]
+    },
+    {
+      "id": "lei:9296/1996",
+      "aliases": [],
+      "numeros": [
+        "9296/1996"
+      ],
+      "temas_ids": [
+        "4700"
+      ]
+    },
+    {
+      "id": "lei:9099/1995",
+      "aliases": [
+        "Lei dos Juizados Especiais"
+      ],
+      "numeros": [
+        "9099/1995"
+      ],
+      "temas_ids": [
+        "4701",
+        "5539"
+      ]
+    },
+    {
+      "id": "lei:11343/2006",
+      "aliases": [
+        "Lei de Drogas"
+      ],
+      "numeros": [
+        "11343/2006"
+      ],
+      "temas_ids": [
+        "4708",
+        "6728"
+      ]
+    },
+    {
+      "id": "lei:11340/2006",
+      "aliases": [
+        "Lei Maria da Penha"
+      ],
+      "numeros": [
+        "11340/2006"
+      ],
+      "temas_ids": [
+        "4704",
+        "6724"
+      ]
+    }
+  ],
+  "intervalos_artigos": [
+    {
+      "norma": "cp",
+      "inicio": "1",
+      "fim": "12",
+      "temas_ids": [
+        "5180"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "13",
+      "fim": "13",
+      "temas_ids": [
+        "5218"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "14",
+      "fim": "17",
+      "temas_ids": [
+        "5175"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "18",
+      "fim": "20",
+      "temas_ids": [
+        "5218"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "21",
+      "fim": "22",
+      "temas_ids": [
+        "5211"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "23",
+      "fim": "25",
+      "temas_ids": [
+        "5228"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "26",
+      "fim": "28",
+      "temas_ids": [
+        "5211"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "29",
+      "fim": "31",
+      "temas_ids": [
+        "5071"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "32",
+      "fim": "95",
+      "temas_ids": [
+        "5199"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "69",
+      "fim": "76",
+      "temas_ids": [
+        "5066"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "96",
+      "fim": "99",
+      "temas_ids": [
+        "5184"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "100",
+      "fim": "106",
+      "temas_ids": [
+        "5063"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "107",
+      "fim": "108",
+      "temas_ids": [
+        "5191"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "109",
+      "fim": "119",
+      "temas_ids": [
+        "5185"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "121",
+      "fim": "128",
+      "temas_ids": [
+        "5149"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "129",
+      "fim": "129",
+      "temas_ids": [
+        "5077"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "130",
+      "fim": "136",
+      "temas_ids": [
+        "5138"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "138",
+      "fim": "145",
+      "temas_ids": [
+        "5120"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "146",
+      "fim": "154-B",
+      "temas_ids": [
+        "5128"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "155",
+      "fim": "183",
+      "temas_ids": [
+        "5157"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "184",
+      "fim": "212",
+      "temas_ids": [
+        "5134"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "213",
+      "fim": "234-C",
+      "temas_ids": [
+        "5102"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "235",
+      "fim": "249",
+      "temas_ids": [
+        "5111"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "250",
+      "fim": "266",
+      "temas_ids": [
+        "5125"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "267",
+      "fim": "288-A",
+      "temas_ids": [
+        "5144"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "289",
+      "fim": "311-A",
+      "temas_ids": [
+        "5116"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "312",
+      "fim": "337-A",
+      "temas_ids": [
+        "5087"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "338",
+      "fim": "359",
+      "temas_ids": [
+        "5079"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cp",
+      "inicio": "359-A",
+      "fim": "359-H",
+      "temas_ids": [
+        "5147"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "1",
+      "fim": "3",
+      "temas_ids": [
+        "5505"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "3-A",
+      "fim": "3-F",
+      "temas_ids": [
+        "5580"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "4",
+      "fim": "23",
+      "temas_ids": [
+        "5498"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "24",
+      "fim": "62",
+      "temas_ids": [
+        "5466"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "69",
+      "fim": "91",
+      "temas_ids": [
+        "5480"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "92",
+      "fim": "154",
+      "temas_ids": [
+        "5490"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "155",
+      "fim": "157",
+      "temas_ids": [
+        "5590"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "158",
+      "fim": "250",
+      "temas_ids": [
+        "5543"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "251",
+      "fim": "281",
+      "temas_ids": [
+        "5583"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "282",
+      "fim": "350",
+      "temas_ids": [
+        "5517",
+        "5584"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "351",
+      "fim": "372",
+      "temas_ids": [
+        "5487"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "381",
+      "fim": "393",
+      "temas_ids": [
+        "5572"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "394",
+      "fim": "405",
+      "temas_ids": [
+        "5530"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "406",
+      "fim": "497",
+      "temas_ids": [
+        "5524"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "531",
+      "fim": "538",
+      "temas_ids": [
+        "5538"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "563",
+      "fim": "573",
+      "temas_ids": [
+        "5509"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "574",
+      "fim": "580",
+      "temas_ids": [
+        "5512"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "581",
+      "fim": "606",
+      "temas_ids": [
+        "5560"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "609",
+      "fim": "618",
+      "temas_ids": [
+        "5560"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "621",
+      "fim": "631",
+      "temas_ids": [
+        "5476"
+      ],
+      "natureza": "associacao_documental_proposta"
+    },
+    {
+      "norma": "cpp",
+      "inicio": "647",
+      "fim": "667",
+      "temas_ids": [
+        "5476"
+      ],
+      "natureza": "associacao_documental_proposta"
+    }
+  ]
+}

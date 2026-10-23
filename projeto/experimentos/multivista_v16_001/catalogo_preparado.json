@@ -1,0 +1,2050 @@
+{
+  "versao": "catalogo_bm25_v16_1",
+  "origem": "Títulos, árvore e descrições preparadas já existentes; sem questões ou rótulos.",
+  "enriquecimento": "Documentos dos nós e associação explícita a seus pais para recuperação hierárquica. Nenhum novo escopo jurídico ou diferença entre homônimos foi inventado.",
+  "limites_nao_indexados": true,
+  "homonimos": [
+    {
+      "titulo": "abuso de autoridade",
+      "ids": [
+        "4684",
+        "6716"
+      ],
+      "escopo_da_empresa_confirmado": false,
+      "observacao": "IDs e ramos preservados; vocabulário compartilhado não prova equivalência."
+    },
+    {
+      "titulo": "acao penal",
+      "ids": [
+        "5063",
+        "5466"
+      ],
+      "escopo_da_empresa_confirmado": false,
+      "observacao": "IDs e ramos preservados; vocabulário compartilhado não prova equivalência."
+    },
+    {
+      "titulo": "crimes contra o meio ambiente",
+      "ids": [
+        "4688",
+        "6717"
+      ],
+      "escopo_da_empresa_confirmado": false,
+      "observacao": "IDs e ramos preservados; vocabulário compartilhado não prova equivalência."
+    },
+    {
+      "titulo": "lavagem de dinheiro",
+      "ids": [
+        "4702",
+        "6723"
+      ],
+      "escopo_da_empresa_confirmado": false,
+      "observacao": "IDs e ramos preservados; vocabulário compartilhado não prova equivalência."
+    },
+    {
+      "titulo": "lei de execucao penal",
+      "ids": [
+        "4703",
+        "6734"
+      ],
+      "escopo_da_empresa_confirmado": false,
+      "observacao": "IDs e ramos preservados; vocabulário compartilhado não prova equivalência."
+    },
+    {
+      "titulo": "lei maria da penha",
+      "ids": [
+        "4704",
+        "6724"
+      ],
+      "escopo_da_empresa_confirmado": false,
+      "observacao": "IDs e ramos preservados; vocabulário compartilhado não prova equivalência."
+    },
+    {
+      "titulo": "organizacoes criminosas",
+      "ids": [
+        "4705",
+        "6725"
+      ],
+      "escopo_da_empresa_confirmado": false,
+      "observacao": "IDs e ramos preservados; vocabulário compartilhado não prova equivalência."
+    },
+    {
+      "titulo": "trafico de drogas",
+      "ids": [
+        "4708",
+        "6728"
+      ],
+      "escopo_da_empresa_confirmado": false,
+      "observacao": "IDs e ramos preservados; vocabulário compartilhado não prova equivalência."
+    }
+  ],
+  "documentos": [
+    {
+      "tema_id": "4366",
+      "familia_id": "4366",
+      "texto": "Classificação das Vítimas Classificações das vítimas; vítima ideal, inocente, provocadora, culpada; Mendelsohn e von Hentig."
+    },
+    {
+      "tema_id": "4367",
+      "familia_id": "4367",
+      "texto": "Classificação dos Criminosos Tipologias de criminosos, delinquentes e infratores; classificações criminológicas de autores do delito."
+    },
+    {
+      "tema_id": "4368",
+      "familia_id": "4368",
+      "texto": "Criminologia no Estado Democrático de Direito Prevenção da criminalidade, controle social, segurança cidadã, direitos fundamentais e políticas de prevenção do delito."
+    },
+    {
+      "tema_id": "4369",
+      "familia_id": "4368",
+      "texto": "Sistemas de Prevenção Prevenção primária, secundária e terciária; prevenção social e situacional; grupos de risco e reincidência."
+    },
+    {
+      "tema_id": "4370",
+      "familia_id": "4368",
+      "texto": "Modelos de Reação ao Delito Reação social ao delito; modelos dissuasório, ressocializador, integrador e restaurativo; respostas ao crime."
+    },
+    {
+      "tema_id": "4371",
+      "familia_id": "4371",
+      "texto": "Etapas Evolutivas e Escolas Criminológicas História do pensamento criminológico; escolas clássica, positiva, sociológica; Lombroso, Ferri, Garofalo e Beccaria."
+    },
+    {
+      "tema_id": "4372",
+      "familia_id": "4371",
+      "texto": "Etapas Evolutivas da Criminologia (Antiguidade, Idade Média e Idade Moderna) Períodos históricos da criminologia; pensamento antigo, medieval, moderno e fase científica do estudo do crime."
+    },
+    {
+      "tema_id": "4373",
+      "familia_id": "4371",
+      "texto": "Escolas Crimonológicas Escola clássica e escola positiva; livre arbítrio, determinismo, antropologia criminal e positivismo criminológico."
+    },
+    {
+      "tema_id": "4374",
+      "familia_id": "4374",
+      "texto": "Política Criminal Políticas públicas de enfrentamento da criminalidade; estratégias preventivas, repressivas e alternativas penais."
+    },
+    {
+      "tema_id": "4375",
+      "familia_id": "4374",
+      "texto": "Correntes da Política Criminal Movimentos político-criminais; abolicionismo, minimalismo, garantismo, lei e ordem e tolerância zero."
+    },
+    {
+      "tema_id": "4376",
+      "familia_id": "4374",
+      "texto": "Direito Penal do Inimigo Direito penal do inimigo; Jakobs; distinção entre cidadão e inimigo e antecipação da tutela penal."
+    },
+    {
+      "tema_id": "4377",
+      "familia_id": "4377",
+      "texto": "Processos de Criminalização e Cifras Criminais Seleção penal, criminalização, seletividade do controle social e diferença entre criminalidade real e registrada."
+    },
+    {
+      "tema_id": "4378",
+      "familia_id": "4377",
+      "texto": "Criminalização Primária e Secundária Criminalização primária na definição legislativa das condutas e secundária na atuação seletiva das instituições penais."
+    },
+    {
+      "tema_id": "4379",
+      "familia_id": "4377",
+      "texto": "Cifras Criminais Criminalidade oculta, cifra negra, subnotificação, estatísticas criminais e delitos não registrados oficialmente."
+    },
+    {
+      "tema_id": "4380",
+      "familia_id": "4380",
+      "texto": "Teoria Geral da Criminologia Ciência empírica e interdisciplinar; delito, delinquente, vítima e controle social como objetos de estudo."
+    },
+    {
+      "tema_id": "4381",
+      "familia_id": "4380",
+      "texto": "Conceito e objeto da Criminologia Objeto da criminologia; estudo do crime, criminoso, vítima e controle social; diferença de direito penal."
+    },
+    {
+      "tema_id": "4382",
+      "familia_id": "4380",
+      "texto": "Métodos e funções da Criminologia Métodos empírico, indutivo e interdisciplinar; explicação e prevenção da criminalidade; investigação criminológica."
+    },
+    {
+      "tema_id": "4383",
+      "familia_id": "4383",
+      "texto": "Teorias e Síndromes com Enfoque nas Vítimas Síndromes vitimológicas; Estocolmo, Londres e relações entre vítima e agressor; enfoques sobre vitimização."
+    },
+    {
+      "tema_id": "4384",
+      "familia_id": "4384",
+      "texto": "Teorias Legitimidoras da Pena Finalidades e fundamentos da pena; retribuição, prevenção geral, prevenção especial, teorias absolutas, relativas e mistas."
+    },
+    {
+      "tema_id": "4385",
+      "familia_id": "4385",
+      "texto": "Teorias Sociológicas Explicativas da Criminalidade Explicações sociais do crime; anomia, associação diferencial, ecologia criminal, subcultura, etiquetamento e conflito."
+    },
+    {
+      "tema_id": "4386",
+      "familia_id": "4385",
+      "texto": "Teorias de Nível Individual Explicações individuais da delinquência; fatores biológicos, psicológicos, personalidade e aprendizagem individual."
+    },
+    {
+      "tema_id": "4387",
+      "familia_id": "4385",
+      "texto": "Teorias de Nível Sociológico Teorias sociológicas da criminalidade; anomia, associação diferencial, Chicago, desorganização social, conflito e controle."
+    },
+    {
+      "tema_id": "4388",
+      "familia_id": "4385",
+      "texto": "Teorias Criminológicas em Espécie Teorias criminológicas: anomia de Merton, associação diferencial de Sutherland, Chicago, labeling approach, etiquetamento e criminologia crítica."
+    },
+    {
+      "tema_id": "4389",
+      "familia_id": "4389",
+      "texto": "Vitimologia Estudo da vítima, relações com o delito, proteção e assistência; consequências e processos de vitimização."
+    },
+    {
+      "tema_id": "4390",
+      "familia_id": "4389",
+      "texto": "Processo de Vitimização Vitimização primária pelo delito, secundária institucional e terciária social; revitimização e assistência à vítima."
+    },
+    {
+      "tema_id": "4684",
+      "familia_id": "4684",
+      "texto": "Abuso de Autoridade Abuso de autoridade; exercício abusivo de função pública; agentes públicos e garantias do cidadão; Lei 13.869/2019."
+    },
+    {
+      "tema_id": "4685",
+      "familia_id": "4685",
+      "texto": "Biossegurança Biossegurança, organismos geneticamente modificados, células-tronco e infrações penais relacionadas à pesquisa biológica."
+    },
+    {
+      "tema_id": "4686",
+      "familia_id": "4686",
+      "texto": "Contravenções Penais Contravenções penais, prisão simples, infrações de menor gravidade e regras gerais da Lei das Contravenções Penais."
+    },
+    {
+      "tema_id": "4687",
+      "familia_id": "4687",
+      "texto": "Crimes contra a Economia Popular Crimes contra a economia popular; fraudes coletivas, especulação e proteção de interesses econômicos populares."
+    },
+    {
+      "tema_id": "4688",
+      "familia_id": "4688",
+      "texto": "Crimes contra o meio ambiente Crimes ambientais; fauna, flora, poluição, proteção ambiental e responsabilização penal da pessoa jurídica."
+    },
+    {
+      "tema_id": "4689",
+      "familia_id": "4689",
+      "texto": "Crimes contra o Sistema Financeiro Crimes contra o sistema financeiro nacional; gestão fraudulenta, gestão temerária e instituições financeiras."
+    },
+    {
+      "tema_id": "4690",
+      "familia_id": "4690",
+      "texto": "Crimes de Racismo Racismo, discriminação racial, preconceito e crimes da legislação antidiscriminatória; Lei 7.716/1989."
+    },
+    {
+      "tema_id": "4691",
+      "familia_id": "4691",
+      "texto": "Crimes de Trânsito Crimes de trânsito; condução de veículo automotor, embriaguez, homicídio e lesão culposos na direção; CTB."
+    },
+    {
+      "tema_id": "4692",
+      "familia_id": "4692",
+      "texto": "Crimes Eleitorais Crimes eleitorais, propaganda e processo eleitoral; condutas penais ligadas às eleições."
+    },
+    {
+      "tema_id": "4693",
+      "familia_id": "4693",
+      "texto": "Crimes Hediondos Crimes hediondos e equiparados; tratamento penal e execução de condenações na legislação específica."
+    },
+    {
+      "tema_id": "4694",
+      "familia_id": "4694",
+      "texto": "Crimes previstos no CDC Infrações penais do Código de Defesa do Consumidor; relações de consumo, publicidade e produtos ou serviços."
+    },
+    {
+      "tema_id": "4695",
+      "familia_id": "4695",
+      "texto": "Crimes Tributários Crimes contra a ordem tributária, sonegação, tributos, fraude fiscal e Lei 8.137/1990."
+    },
+    {
+      "tema_id": "4696",
+      "familia_id": "4696",
+      "texto": "Estaturo de Idoso - Crimes Estatuto da Pessoa Idosa, Estatuto do Idoso; crimes contra idosos, abandono e apropriação de rendimentos."
+    },
+    {
+      "tema_id": "4697",
+      "familia_id": "4697",
+      "texto": "Estatuto do Desarmamento Estatuto do Desarmamento; arma de fogo, munição, posse, porte, comércio e tráfico de armas; Lei 10.826/2003."
+    },
+    {
+      "tema_id": "4698",
+      "familia_id": "4698",
+      "texto": "Genocídio Genocídio; destruição de grupo nacional, étnico, racial ou religioso; legislação penal especial."
+    },
+    {
+      "tema_id": "4699",
+      "familia_id": "4699",
+      "texto": "Identificação Criminal Identificação criminal; identificação civil, datiloscopia, fotografia e perfil genético na persecução penal."
+    },
+    {
+      "tema_id": "4700",
+      "familia_id": "4700",
+      "texto": "Interceptação Telefônica Interceptação telefônica; captação de comunicações, autorização judicial e Lei 9.296/1996."
+    },
+    {
+      "tema_id": "4701",
+      "familia_id": "4701",
+      "texto": "Juizado Especial Criminal Juizado Especial Criminal, JECRIM, infrações de menor potencial ofensivo; composição civil, transação penal e suspensão condicional do processo."
+    },
+    {
+      "tema_id": "4702",
+      "familia_id": "4702",
+      "texto": "Lavagem de Dinheiro Lavagem de dinheiro; ocultação e dissimulação da origem de bens, direitos e valores; infração antecedente."
+    },
+    {
+      "tema_id": "4703",
+      "familia_id": "4703",
+      "texto": "Lei de Execução Penal Execução da pena; progressão e regressão de regime, remição, trabalho do preso, faltas disciplinares, estabelecimentos e direitos do condenado; LEP."
+    },
+    {
+      "tema_id": "4704",
+      "familia_id": "4704",
+      "texto": "Lei Maria da Penha Lei Maria da Penha, violência doméstica e familiar contra a mulher; medidas protetivas de urgência; Lei 11.340/2006."
+    },
+    {
+      "tema_id": "4705",
+      "familia_id": "4705",
+      "texto": "Organizações Criminosas Organização criminosa; estrutura ordenada, divisão de tarefas, investigação e meios especiais de obtenção de prova; Lei 12.850/2013."
+    },
+    {
+      "tema_id": "4706",
+      "familia_id": "4706",
+      "texto": "Terrorismo Terrorismo; atos de terror e financiamento; legislação especial de prevenção e repressão ao terrorismo."
+    },
+    {
+      "tema_id": "4707",
+      "familia_id": "4707",
+      "texto": "Tortura Tortura; sofrimento físico ou mental imposto nas modalidades previstas pela legislação específica."
+    },
+    {
+      "tema_id": "4708",
+      "familia_id": "4708",
+      "texto": "Tráfico de Drogas Drogas, entorpecentes, tráfico, associação para o tráfico, posse para consumo e procedimento da Lei 11.343/2006."
+    },
+    {
+      "tema_id": "4709",
+      "familia_id": "4709",
+      "texto": "Violência contra Criança e Adolescente Violência contra crianças e adolescentes; proteção infantojuvenil, vítima vulnerável e legislação especial correspondente."
+    },
+    {
+      "tema_id": "5063",
+      "familia_id": "5063",
+      "texto": "Ação Penal Ação penal; iniciativa pública ou privada, legitimidade, condições e exercício da pretensão acusatória."
+    },
+    {
+      "tema_id": "5064",
+      "familia_id": "5063",
+      "texto": "Ação Penal Pública Titularidade do Ministério Público na ação penal pública; representação e requisição como condições quando exigidas."
+    },
+    {
+      "tema_id": "5065",
+      "familia_id": "5063",
+      "texto": "Ação Penal Privada Ação penal privada; iniciativa do ofendido, queixa-crime, disponibilidade e consequências de sua inércia."
+    },
+    {
+      "tema_id": "5066",
+      "familia_id": "5066",
+      "texto": "Concurso de Crimes Pluralidade de crimes; concurso material, formal e continuidade delitiva; aplicação cumulativa ou exasperação de penas."
+    },
+    {
+      "tema_id": "5067",
+      "familia_id": "5066",
+      "texto": "Concurso Material Concurso material de crimes; pluralidade de condutas e cumulação de penas."
+    },
+    {
+      "tema_id": "5068",
+      "familia_id": "5066",
+      "texto": "Concurso Formal Concurso formal de crimes; uma ação ou omissão com pluralidade de resultados criminosos; desígnios autônomos."
+    },
+    {
+      "tema_id": "5069",
+      "familia_id": "5066",
+      "texto": "Crime Continuado Crime continuado; continuidade delitiva e conexão entre infrações da mesma espécie por condições semelhantes."
+    },
+    {
+      "tema_id": "5070",
+      "familia_id": "5066",
+      "texto": "Pena de Multa no Concurso de Crimes Aplicação da pena de multa quando existem vários crimes; cumulação e regras do concurso de infrações."
+    },
+    {
+      "tema_id": "5071",
+      "familia_id": "5071",
+      "texto": "Concurso de Pessoas Concurso de agentes; contribuição de várias pessoas para a infração, vínculo subjetivo e responsabilização."
+    },
+    {
+      "tema_id": "5072",
+      "familia_id": "5071",
+      "texto": "Autores e Partícipes Distinção entre autor e partícipe; domínio do fato, execução do delito e contribuição acessória."
+    },
+    {
+      "tema_id": "5073",
+      "familia_id": "5071",
+      "texto": "Autoria Mediata, Colateral e Coautoria Autoria mediata, coautoria e autoria colateral; divisão de tarefas e atuação por intermédio de outra pessoa."
+    },
+    {
+      "tema_id": "5074",
+      "familia_id": "5071",
+      "texto": "Participação Participação por induzimento, instigação e auxílio; participação de menor importância e contribuição acessória."
+    },
+    {
+      "tema_id": "5075",
+      "familia_id": "5071",
+      "texto": "Cooperação Dolosamente Distinta Cooperação dolosamente distinta; participação em crime menos grave e resultado mais grave de outro agente."
+    },
+    {
+      "tema_id": "5076",
+      "familia_id": "5071",
+      "texto": "Comunicabilidade de Circunstâncias, Condições e Elementares Comunicabilidade de circunstâncias e condições pessoais; elementares do delito no concurso de pessoas."
+    },
+    {
+      "tema_id": "5077",
+      "familia_id": "5077",
+      "texto": "Das Lesões Corporais Lesão corporal; ofensa à integridade física ou saúde, gravidade das lesões e violência doméstica."
+    },
+    {
+      "tema_id": "5079",
+      "familia_id": "5079",
+      "texto": "Dos Crimes Contra a Administração Judicial Crimes que afetam a administração da justiça; investigação, processo, prova e cumprimento de decisões judiciais."
+    },
+    {
+      "tema_id": "5080",
+      "familia_id": "5079",
+      "texto": "Denunciação Caluniosa, Comunicação Falsa de Crime ou Contravenção e Autoacusação Falsa Imputação falsa de crime, provocação indevida de investigação, comunicação falsa e autoacusação falsa."
+    },
+    {
+      "tema_id": "5081",
+      "familia_id": "5079",
+      "texto": "Falso Testemunha ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito Falso testemunho, falsa perícia, falsidade em depoimento e corrupção de testemunha, perito ou intérprete."
+    },
+    {
+      "tema_id": "5082",
+      "familia_id": "5079",
+      "texto": "Exercício Arbitrário das Próprias Razões Justiça pelas próprias mãos; satisfação arbitrária de pretensão e exercício arbitrário das próprias razões."
+    },
+    {
+      "tema_id": "5083",
+      "familia_id": "5079",
+      "texto": "Fraude Processual Fraude processual; alteração artificiosa de lugar, coisa ou pessoa para induzir juiz ou perito a erro."
+    },
+    {
+      "tema_id": "5084",
+      "familia_id": "5079",
+      "texto": "Favorecimento Pessoal e Real Auxílio para fugir da autoridade ou assegurar proveito do crime; favorecimento pessoal e real."
+    },
+    {
+      "tema_id": "5085",
+      "familia_id": "5079",
+      "texto": "Exercício Arbitrário ou Abuso de Poder Exercício arbitrário ou abuso de poder no contexto dos crimes contra a administração judicial."
+    },
+    {
+      "tema_id": "5086",
+      "familia_id": "5079",
+      "texto": "Outros crimes contra a Administração Judicial Outras condutas penais contra a administração da justiça, seus atos, provas e decisões."
+    },
+    {
+      "tema_id": "5087",
+      "familia_id": "5087",
+      "texto": "Dos Crimes Contra a Administração Pública Crimes funcionais e contra a administração pública; peculato, concussão, corrupção, prevaricação e condutas de particulares."
+    },
+    {
+      "tema_id": "5088",
+      "familia_id": "5087",
+      "texto": "Noções gerais dos crimes praticados contra a administração pública Funcionário público para efeitos penais; crimes funcionais próprios e impróprios e bens da administração pública."
+    },
+    {
+      "tema_id": "5089",
+      "familia_id": "5087",
+      "texto": "Peculato e Peculato Mediante Erro de Outrem Apropriação, desvio ou subtração de bens públicos por funcionário; peculato e peculato mediante erro de outrem."
+    },
+    {
+      "tema_id": "5090",
+      "familia_id": "5087",
+      "texto": "Emprego Irregular de Verbas ou Rendas Públicas Emprego irregular de verbas ou rendas públicas; destinação de recursos públicos em desacordo com a lei."
+    },
+    {
+      "tema_id": "5091",
+      "familia_id": "5087",
+      "texto": "Concussão e Excesso de Exação Exigência de vantagem indevida por funcionário público; concussão e excesso de exação na cobrança de tributo."
+    },
+    {
+      "tema_id": "5092",
+      "familia_id": "5087",
+      "texto": "Corrupção Passiva Solicitação, recebimento ou aceitação de promessa de vantagem indevida por funcionário público; corrupção passiva."
+    },
+    {
+      "tema_id": "5093",
+      "familia_id": "5087",
+      "texto": "Corrupção Ativa Oferta ou promessa de vantagem indevida a funcionário público; corrupção ativa."
+    },
+    {
+      "tema_id": "5094",
+      "familia_id": "5087",
+      "texto": "Contrabando ou Descaminho Importação ou exportação proibida e fraude no pagamento de tributos aduaneiros; contrabando e descaminho."
+    },
+    {
+      "tema_id": "5095",
+      "familia_id": "5087",
+      "texto": "Prevaricação Retardar ou deixar de praticar ato de ofício para satisfazer interesse ou sentimento pessoal; prevaricação."
+    },
+    {
+      "tema_id": "5096",
+      "familia_id": "5087",
+      "texto": "Condescendência Criminosa Indulgência do superior em relação à infração de subordinado; condescendência criminosa."
+    },
+    {
+      "tema_id": "5097",
+      "familia_id": "5087",
+      "texto": "Advocacia Administrativa Patrocínio de interesse privado perante a administração pública aproveitando a condição de funcionário; advocacia administrativa."
+    },
+    {
+      "tema_id": "5098",
+      "familia_id": "5087",
+      "texto": "Violência Arbitrária Violência arbitrária relacionada ao exercício de função pública e aos crimes contra a administração pública."
+    },
+    {
+      "tema_id": "5099",
+      "familia_id": "5087",
+      "texto": "Usurpação de Função Pública Exercício indevido de função pública por quem não a detém; usurpação de função pública."
+    },
+    {
+      "tema_id": "5100",
+      "familia_id": "5087",
+      "texto": "Resistência, Desobediência e Desacato Oposição a ato legal, descumprimento de ordem e ofensa a funcionário; resistência, desobediência e desacato."
+    },
+    {
+      "tema_id": "5101",
+      "familia_id": "5087",
+      "texto": "Tráfico de Influência Solicitar ou obter vantagem a pretexto de influir em ato de funcionário público; tráfico de influência."
+    },
+    {
+      "tema_id": "5102",
+      "familia_id": "5102",
+      "texto": "Dos Crimes Contra a Dignidade Sexual Crimes contra a dignidade e liberdade sexual; estupro, vulnerabilidade, fraude, importunação e assédio sexual."
+    },
+    {
+      "tema_id": "5103",
+      "familia_id": "5102",
+      "texto": "Estupro e Estupro de Vulnerável Estupro e estupro de vulnerável; constrangimento sexual, violência, grave ameaça e vulnerabilidade da vítima."
+    },
+    {
+      "tema_id": "5104",
+      "familia_id": "5102",
+      "texto": "Violação Sexual Mediante Fraude Violação sexual mediante fraude; engano que impede ou dificulta a manifestação de vontade da vítima."
+    },
+    {
+      "tema_id": "5105",
+      "familia_id": "5102",
+      "texto": "Importunação Sexual Importunação sexual; ato libidinoso praticado contra alguém sem anuência para satisfação sexual."
+    },
+    {
+      "tema_id": "5106",
+      "familia_id": "5102",
+      "texto": "Assédio Sexual Assédio sexual; constrangimento para obter vantagem sexual em relação de superioridade ou ascendência profissional."
+    },
+    {
+      "tema_id": "5107",
+      "familia_id": "5102",
+      "texto": "Registro Não Autorizado da Intimidade Sexual Registro não autorizado da intimidade sexual; produção de imagem ou vídeo íntimo sem autorização."
+    },
+    {
+      "tema_id": "5108",
+      "familia_id": "5102",
+      "texto": "Corrupção de Menores Corrupção de menores no contexto dos crimes contra a dignidade sexual."
+    },
+    {
+      "tema_id": "5109",
+      "familia_id": "5102",
+      "texto": "Outros Crimes Contra a Dignidade Sexual Outros crimes contra a dignidade sexual; exploração sexual e condutas correlatas previstas no grupo."
+    },
+    {
+      "tema_id": "5110",
+      "familia_id": "5102",
+      "texto": "Disposições Gerais dos Crimes Contra a Dignidade Sexual Regras comuns aos crimes sexuais; ação penal, publicidade e disposições gerais do título."
+    },
+    {
+      "tema_id": "5111",
+      "familia_id": "5111",
+      "texto": "Dos Crimes contra a Família Crimes contra a família; casamento, filiação, assistência familiar e responsabilidades parentais."
+    },
+    {
+      "tema_id": "5112",
+      "familia_id": "5111",
+      "texto": "Dos Crimes Contra o Casamento Crimes contra o casamento; bigamia, impedimentos e condutas relativas à formação do vínculo conjugal."
+    },
+    {
+      "tema_id": "5113",
+      "familia_id": "5111",
+      "texto": "Dos Crimes Contra o Estado de Filiação Crimes contra o estado de filiação; registro de nascimento e alteração de vínculo de filiação."
+    },
+    {
+      "tema_id": "5114",
+      "familia_id": "5111",
+      "texto": "Dos Crimes Contra a Assistência Familiar Abandono material, intelectual e outras violações da assistência familiar."
+    },
+    {
+      "tema_id": "5115",
+      "familia_id": "5111",
+      "texto": "Dos Crimes Contra o Pátrio Poder, a Tutela e a Curatela Crimes contra o poder familiar, tutela e curatela; entrega e subtração de incapazes."
+    },
+    {
+      "tema_id": "5116",
+      "familia_id": "5116",
+      "texto": "Dos Crimes Contra a Fé Pública e de Falsidade Documental Fé pública e falsidades; moeda falsa, documentos, declarações e sinais de autenticidade."
+    },
+    {
+      "tema_id": "5117",
+      "familia_id": "5116",
+      "texto": "Dos Crimes contra a Fé Pública Crimes contra a fé pública; falsificação de moeda, papéis públicos, títulos e sinais de autenticidade."
+    },
+    {
+      "tema_id": "5118",
+      "familia_id": "5116",
+      "texto": "Da Falsidade Documental Falsidade documental; falsificação material, falsidade ideológica e uso de documento falso."
+    },
+    {
+      "tema_id": "5119",
+      "familia_id": "5116",
+      "texto": "De outras falsidades Outras falsidades; falsa identidade, declarações de identidade e fraude na identificação."
+    },
+    {
+      "tema_id": "5120",
+      "familia_id": "5120",
+      "texto": "Dos Crimes Contra a Honra Crimes contra a honra; calúnia, difamação e injúria; honra objetiva e subjetiva."
+    },
+    {
+      "tema_id": "5121",
+      "familia_id": "5120",
+      "texto": "Disposições Gerais e Comuns aos Crimes Contra a Honra Regras comuns aos crimes contra a honra; retratação, exceção da verdade e causas de aumento."
+    },
+    {
+      "tema_id": "5122",
+      "familia_id": "5120",
+      "texto": "Calúnia Calúnia; imputação falsa de fato definido como crime e proteção da honra objetiva."
+    },
+    {
+      "tema_id": "5123",
+      "familia_id": "5120",
+      "texto": "Difamação Difamação; imputação de fato ofensivo à reputação de alguém."
+    },
+    {
+      "tema_id": "5124",
+      "familia_id": "5120",
+      "texto": "Injúria Injúria; ofensa à dignidade ou ao decoro da vítima."
+    },
+    {
+      "tema_id": "5125",
+      "familia_id": "5125",
+      "texto": "Dos Crimes Contra a Incolumidade Pública Crimes de perigo coletivo; incolumidade pública, perigo comum, transportes e serviços públicos."
+    },
+    {
+      "tema_id": "5126",
+      "familia_id": "5125",
+      "texto": "Dos Crimes de Perigo Comum Perigo comum; incêndio, explosão, inundação e condutas que expõem várias pessoas a risco."
+    },
+    {
+      "tema_id": "5127",
+      "familia_id": "5125",
+      "texto": "Dos Crimes Contra a Segurança dos Meios de Comunicação e Transporte e Outros Serviços Públicos Crimes de perigo contra meios de transporte, comunicação e serviços de utilidade pública; segurança coletiva."
+    },
+    {
+      "tema_id": "5128",
+      "familia_id": "5128",
+      "texto": "Dos Crimes Contra a Liberdade Pessoal Liberdade pessoal; ameaças, perseguição, constrangimentos, sequestro e privação da liberdade."
+    },
+    {
+      "tema_id": "5129",
+      "familia_id": "5128",
+      "texto": "Intimidação Sistemática (Bullying) Intimidação sistemática, bullying e cyberbullying; perseguição intimidatória reiterada em ambiente físico ou virtual."
+    },
+    {
+      "tema_id": "5130",
+      "familia_id": "5128",
+      "texto": "Ameaça e Perseguição Ameaça e perseguição; promessa de mal injusto e grave e condutas reiteradas de stalking."
+    },
+    {
+      "tema_id": "5131",
+      "familia_id": "5128",
+      "texto": "Violência Psicológica contra a Mulher Violência psicológica contra a mulher; dano emocional e controle que afetam autodeterminação."
+    },
+    {
+      "tema_id": "5132",
+      "familia_id": "5128",
+      "texto": "Sequestro, Cárcere Privado, Redução à Condição Análoga à de Escravo e Tráfico de Pessoas Sequestro e cárcere privado; trabalho escravo, redução à condição análoga à de escravo e tráfico de pessoas."
+    },
+    {
+      "tema_id": "5133",
+      "familia_id": "5128",
+      "texto": "Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos Violação de domicílio, correspondência e segredos; intimidade, comunicações privadas e inviolabilidade."
+    },
+    {
+      "tema_id": "5134",
+      "familia_id": "5134",
+      "texto": "Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso Crimes contra a organização do trabalho, propriedade intelectual, sentimento religioso e respeito aos mortos."
+    },
+    {
+      "tema_id": "5135",
+      "familia_id": "5134",
+      "texto": "Dos Crimes Contra a Organização do Trabalho Liberdade de trabalho, associação profissional e frustração de direitos trabalhistas em matéria penal."
+    },
+    {
+      "tema_id": "5136",
+      "familia_id": "5134",
+      "texto": "Dos Crimescontra a Propriedade Imaterial Crimes contra a propriedade imaterial; violação de direitos autorais e proteção penal da criação intelectual."
+    },
+    {
+      "tema_id": "5137",
+      "familia_id": "5134",
+      "texto": "Dos Crimes Contra o Sentimento Religioso e Respeito aos Mortos Ultraje a culto, impedimento de cerimônia e desrespeito a sepultura ou cadáver; sentimento religioso e respeito aos mortos."
+    },
+    {
+      "tema_id": "5138",
+      "familia_id": "5138",
+      "texto": "Dos Crimes Contra a Periclitação da Vida e da Saúde Crimes de perigo contra a vida e saúde de pessoas determinadas; abandono, maus-tratos e omissão de socorro."
+    },
+    {
+      "tema_id": "5139",
+      "familia_id": "5138",
+      "texto": "Perigo de Contágio Venéreo e de Moléstia Grave Perigo de contágio de doença venérea ou moléstia grave; exposição da saúde a transmissão de doença."
+    },
+    {
+      "tema_id": "5140",
+      "familia_id": "5138",
+      "texto": "Perigo para a Vida ou a Saúde de Outrem Exposição da vida ou da saúde de outra pessoa a perigo direto e iminente."
+    },
+    {
+      "tema_id": "5141",
+      "familia_id": "5138",
+      "texto": "Abandono de Incapaz e Exposição ou Abandono de Recém-Nascido Abandono de incapaz e exposição ou abandono de recém-nascido; proteção de pessoa sem capacidade de defesa."
+    },
+    {
+      "tema_id": "5142",
+      "familia_id": "5138",
+      "texto": "Omissão de Socorro Omissão de socorro; ausência de assistência possível a pessoa em perigo."
+    },
+    {
+      "tema_id": "5143",
+      "familia_id": "5138",
+      "texto": "Maus-Tratos Maus-tratos; abuso de meios de correção, privação de cuidados e exposição de pessoa sob autoridade a perigo."
+    },
+    {
+      "tema_id": "5144",
+      "familia_id": "5144",
+      "texto": "Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública Saúde pública e paz pública; proteção coletiva contra riscos sanitários e incitação ou associação criminosa."
+    },
+    {
+      "tema_id": "5145",
+      "familia_id": "5144",
+      "texto": "Dos Crimes Contra a Saúde Pública Crimes sanitários, epidemia, infração de medida sanitária e produtos nocivos à saúde pública."
+    },
+    {
+      "tema_id": "5146",
+      "familia_id": "5144",
+      "texto": "Crimes Contra à Paz Pública Incitação ao crime, apologia de crime ou criminoso e associação criminosa; paz pública."
+    },
+    {
+      "tema_id": "5147",
+      "familia_id": "5147",
+      "texto": "Dos Crimes contra as Finanças Públicas Crimes contra as finanças públicas; gestão fiscal, operações de crédito, despesas e recursos públicos."
+    },
+    {
+      "tema_id": "5148",
+      "familia_id": "5148",
+      "texto": "Dos Crimes contra as Instituições Democráticas Crimes contra instituições democráticas e proteção penal de sua organização e funcionamento."
+    },
+    {
+      "tema_id": "5149",
+      "familia_id": "5149",
+      "texto": "Dos Crimes Contra a Vida Crimes contra a vida; homicídio, feminicídio, infanticídio, aborto e participação em suicídio ou automutilação."
+    },
+    {
+      "tema_id": "5150",
+      "familia_id": "5149",
+      "texto": "Homicídio Homicídio; matar alguém, qualificadoras, causas de diminuição e modalidades dolosa e culposa."
+    },
+    {
+      "tema_id": "5151",
+      "familia_id": "5149",
+      "texto": "Feminicídio Feminicídio; morte de mulher por razões da condição do sexo feminino e violência de gênero."
+    },
+    {
+      "tema_id": "5152",
+      "familia_id": "5149",
+      "texto": "Induzimento, Instigação ou Auxílio ao Suicídio Induzimento, instigação ou auxílio a suicídio e automutilação; participação na autolesão da vítima."
+    },
+    {
+      "tema_id": "5153",
+      "familia_id": "5149",
+      "texto": "Infanticídio Infanticídio; morte do próprio filho sob influência do estado puerperal durante ou logo após o parto."
+    },
+    {
+      "tema_id": "5154",
+      "familia_id": "5149",
+      "texto": "Aborto Aborto; interrupção da gestação, consentimento da gestante e hipóteses de exclusão da punição."
+    },
+    {
+      "tema_id": "5155",
+      "familia_id": "5155",
+      "texto": "Dos Crimes contra o Estado Democrático de Direito Proteção penal do Estado Democrático de Direito; instituições, soberania e ordem democrática."
+    },
+    {
+      "tema_id": "5156",
+      "familia_id": "5156",
+      "texto": "Dos Crimes contra o Funcionamento dos Serviços Essenciais Crimes relacionados ao funcionamento e à continuidade de serviços essenciais; recorte específico do catálogo."
+    },
+    {
+      "tema_id": "5157",
+      "familia_id": "5157",
+      "texto": "Dos Crimes Contra o Patrimônio Crimes contra o patrimônio; furto, roubo, extorsão, estelionato, apropriação, dano e receptação."
+    },
+    {
+      "tema_id": "5158",
+      "familia_id": "5157",
+      "texto": "12 Disposições Gerais dos Crimes Contra o Patrimônio Disposições comuns aos crimes patrimoniais; imunidades, escusas absolutórias e relações familiares."
+    },
+    {
+      "tema_id": "5159",
+      "familia_id": "5157",
+      "texto": "Furto Furto; subtração de coisa alheia móvel, qualificadoras, privilégio e distinção de roubo e apropriação."
+    },
+    {
+      "tema_id": "5160",
+      "familia_id": "5157",
+      "texto": "Roubo Roubo; subtração com violência ou grave ameaça, roubo impróprio, majorantes e latrocínio."
+    },
+    {
+      "tema_id": "5161",
+      "familia_id": "5157",
+      "texto": "Extorsão Extorsão; constrangimento mediante violência ou grave ameaça para obter vantagem econômica indevida."
+    },
+    {
+      "tema_id": "5162",
+      "familia_id": "5157",
+      "texto": "Esbulho Possessório Esbulho possessório; invasão e turbação da posse em contexto penal patrimonial."
+    },
+    {
+      "tema_id": "5163",
+      "familia_id": "5157",
+      "texto": "Usurpação Usurpação; alteração de limites e apropriação indevida de imóvel ou águas no contexto patrimonial."
+    },
+    {
+      "tema_id": "5164",
+      "familia_id": "5157",
+      "texto": "Dano Dano; destruir, inutilizar ou deteriorar coisa alheia."
+    },
+    {
+      "tema_id": "5165",
+      "familia_id": "5157",
+      "texto": "Apropriação indébita Apropriação indébita; apropriar-se de bem alheio móvel de que se tem posse ou detenção."
+    },
+    {
+      "tema_id": "5166",
+      "familia_id": "5157",
+      "texto": "Estelionato Estelionato; fraude para obter vantagem ilícita induzindo ou mantendo outra pessoa em erro."
+    },
+    {
+      "tema_id": "5167",
+      "familia_id": "5157",
+      "texto": "Abuso de Incapazes Abuso de incapazes; exploração de necessidade, paixão ou inexperiência para praticar ato prejudicial."
+    },
+    {
+      "tema_id": "5168",
+      "familia_id": "5157",
+      "texto": "Fraude à Execução Fraude à execução; alienação, desvio ou deterioração de bens para frustrar execução patrimonial."
+    },
+    {
+      "tema_id": "5169",
+      "familia_id": "5157",
+      "texto": "Receptação Receptação; aquisição, recebimento ou ocultação de coisa que é produto de crime."
+    },
+    {
+      "tema_id": "5170",
+      "familia_id": "5170",
+      "texto": "Introdução ao Estudo do Direito Penal Fundamentos do direito penal; conceito, fontes, interpretação, classificações e princípios penais."
+    },
+    {
+      "tema_id": "5171",
+      "familia_id": "5170",
+      "texto": "Conceito e Fontes do Direito Penal Conceito de direito penal, fontes materiais e formais, legislação penal e produção normativa."
+    },
+    {
+      "tema_id": "5172",
+      "familia_id": "5170",
+      "texto": "Princípios do Direito Penal Princípios penais; legalidade, anterioridade, ofensividade, insignificância, intervenção mínima e humanidade."
+    },
+    {
+      "tema_id": "5173",
+      "familia_id": "5170",
+      "texto": "Interpretação da Norma Penal Interpretação da lei penal; analogia, interpretação extensiva, restritiva e integração da norma."
+    },
+    {
+      "tema_id": "5174",
+      "familia_id": "5170",
+      "texto": "Classificações dos Crimes Classificações doutrinárias dos crimes; comuns, próprios, materiais, formais, de mera conduta, instantâneos e permanentes."
+    },
+    {
+      "tema_id": "5175",
+      "familia_id": "5175",
+      "texto": "Iter Criminis Caminho do crime; cogitação, preparação, execução, consumação, tentativa e interrupção da execução."
+    },
+    {
+      "tema_id": "5176",
+      "familia_id": "5175",
+      "texto": "Fases do Iter Criminis Fases do iter criminis; atos preparatórios, executórios, consumação e exaurimento."
+    },
+    {
+      "tema_id": "5177",
+      "familia_id": "5175",
+      "texto": "Crime Consumado e Tentado Crime consumado e tentativa; início da execução e resultado não alcançado por circunstâncias alheias à vontade."
+    },
+    {
+      "tema_id": "5178",
+      "familia_id": "5175",
+      "texto": "Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior Desistência voluntária, arrependimento eficaz e posterior; abandono da execução e reparação do dano."
+    },
+    {
+      "tema_id": "5179",
+      "familia_id": "5175",
+      "texto": "Crime Impossível Crime impossível; ineficácia absoluta do meio ou impropriedade absoluta do objeto."
+    },
+    {
+      "tema_id": "5180",
+      "familia_id": "5180",
+      "texto": "Lei Penal no Tempo e no Espaço Aplicação da lei penal no tempo e no espaço; sucessão legislativa, territorialidade e extraterritorialidade."
+    },
+    {
+      "tema_id": "5181",
+      "familia_id": "5180",
+      "texto": "Lei penal no Tempo Lei penal no tempo; retroatividade benéfica, ultratividade, sucessão de leis e tempo do crime."
+    },
+    {
+      "tema_id": "5182",
+      "familia_id": "5180",
+      "texto": "Lei penal no Espaço Lei penal no espaço; territorialidade, extraterritorialidade, lugar do crime e eficácia internacional."
+    },
+    {
+      "tema_id": "5183",
+      "familia_id": "5180",
+      "texto": "Conflito Aparente de Normas Conflito aparente de normas; especialidade, subsidiariedade, consunção, alternatividade e absorção de delitos."
+    },
+    {
+      "tema_id": "5184",
+      "familia_id": "5184",
+      "texto": "Medida de Segurança Medidas de segurança; inimputabilidade, semi-imputabilidade, periculosidade, internação e tratamento ambulatorial."
+    },
+    {
+      "tema_id": "5185",
+      "familia_id": "5185",
+      "texto": "Prescrição Prescrição penal; decurso do tempo, pretensão punitiva ou executória e extinção da punibilidade."
+    },
+    {
+      "tema_id": "5186",
+      "familia_id": "5185",
+      "texto": "Conceito, Regras Gerais e Fundamentos da Prescrição Conceito e fundamentos da prescrição; perda da pretensão estatal em razão do tempo e regras gerais."
+    },
+    {
+      "tema_id": "5187",
+      "familia_id": "5185",
+      "texto": "Contagem dos Prazos e Causas Suspensivas e Interruptivas da Prescrição Prazos de prescrição; termo inicial, marcos interruptivos, causas suspensivas e contagem do tempo."
+    },
+    {
+      "tema_id": "5188",
+      "familia_id": "5185",
+      "texto": "Prescrição da Pretensão Punitiva Prescrição da pretensão punitiva; prescrição antes da execução, pena em abstrato ou concreto e modalidades retroativa e superveniente."
+    },
+    {
+      "tema_id": "5189",
+      "familia_id": "5185",
+      "texto": "Prescrição da Pretensão Executória Prescrição da pretensão executória; prazo para executar pena já imposta por condenação."
+    },
+    {
+      "tema_id": "5190",
+      "familia_id": "5185",
+      "texto": "Outras Prescrições Modalidades especiais e outras questões de prescrição; prescrição de multa e particularidades do instituto."
+    },
+    {
+      "tema_id": "5191",
+      "familia_id": "5191",
+      "texto": "Punibilidade Punibilidade; causas extintivas, morte, prescrição, decadência, anistia, indulto e perdão."
+    },
+    {
+      "tema_id": "5192",
+      "familia_id": "5191",
+      "texto": "Morte do agente Morte do agente como causa de extinção da punibilidade; certidão de óbito e efeitos penais."
+    },
+    {
+      "tema_id": "5193",
+      "familia_id": "5191",
+      "texto": "Anistia, Graça e Indulto Anistia, graça e indulto; clemência estatal, extinção de punibilidade e distinções entre institutos."
+    },
+    {
+      "tema_id": "5194",
+      "familia_id": "5191",
+      "texto": "Abolitio Criminis Abolitio criminis; lei posterior deixa de considerar o fato criminoso e afeta seus efeitos penais."
+    },
+    {
+      "tema_id": "5195",
+      "familia_id": "5191",
+      "texto": "Perempção Perempção; inércia ou abandono no exercício da ação penal de iniciativa privada."
+    },
+    {
+      "tema_id": "5196",
+      "familia_id": "5191",
+      "texto": "Renúncia, Perdão do Ofendido e Retratação Renúncia ao direito de queixa, perdão do ofendido e retratação nos casos legais."
+    },
+    {
+      "tema_id": "5197",
+      "familia_id": "5191",
+      "texto": "Perdão Judicial Perdão judicial; hipótese legal de dispensa da sanção e efeitos sobre a punibilidade."
+    },
+    {
+      "tema_id": "5198",
+      "familia_id": "5191",
+      "texto": "Decadência Decadência; perda do direito de queixa ou representação pelo transcurso do prazo."
+    },
+    {
+      "tema_id": "5199",
+      "familia_id": "5199",
+      "texto": "Teoria da Pena Sanção penal; espécies de penas, aplicação, dosimetria, regimes, substituição e efeitos da condenação."
+    },
+    {
+      "tema_id": "5200",
+      "familia_id": "5199",
+      "texto": "Sanção Penal: Conceito, Finalidade e Modalidades Fundamentos e finalidades da pena; retribuição, prevenção, ressocialização e modalidades de sanção penal."
+    },
+    {
+      "tema_id": "5201",
+      "familia_id": "5199",
+      "texto": "Penas Privativas de Liberdade Penas de reclusão e detenção; regimes fechado, semiaberto e aberto e regras de cumprimento da prisão."
+    },
+    {
+      "tema_id": "5202",
+      "familia_id": "5199",
+      "texto": "Primeira Fase da Dosimetria: Circunstâncias Judiciais Pena-base e primeira fase da dosimetria; circunstâncias judiciais, culpabilidade, antecedentes e consequências do crime."
+    },
+    {
+      "tema_id": "5203",
+      "familia_id": "5199",
+      "texto": "Segunda Fase da Dosimetria: Agravantes e Atenuantes Segunda fase da dosimetria; agravantes, atenuantes, reincidência e confissão."
+    },
+    {
+      "tema_id": "5204",
+      "familia_id": "5199",
+      "texto": "Terceira fase da Dosimetria: Causas de Aumento e de Diminuição Terceira fase da dosimetria; causas de aumento e de diminuição, majorantes e minorantes."
+    },
+    {
+      "tema_id": "5205",
+      "familia_id": "5199",
+      "texto": "Penas Restritivas de Direitos Penas restritivas de direitos; substituição da prisão, prestação de serviços, limitação de fim de semana e prestação pecuniária."
+    },
+    {
+      "tema_id": "5206",
+      "familia_id": "5199",
+      "texto": "Pena de Multa Pena de multa; dias-multa, valor unitário, situação econômica e execução da multa penal."
+    },
+    {
+      "tema_id": "5207",
+      "familia_id": "5199",
+      "texto": "Suspensão Condicional da Pena Suspensão condicional da pena; sursis penal, condições, período de prova, revogação e extinção."
+    },
+    {
+      "tema_id": "5208",
+      "familia_id": "5199",
+      "texto": "Livramento Condicional Livramento condicional; liberdade antecipada mediante requisitos e condições no cumprimento da pena."
+    },
+    {
+      "tema_id": "5209",
+      "familia_id": "5199",
+      "texto": "Efeitos da Condenação Penais e Extrapenais Efeitos penais e extrapenais da condenação; reparação do dano, perda de bens, função e direitos."
+    },
+    {
+      "tema_id": "5210",
+      "familia_id": "5199",
+      "texto": "Reabilitação Criminal Reabilitação criminal; sigilo de registros, efeitos da condenação e reabilitação do condenado."
+    },
+    {
+      "tema_id": "5211",
+      "familia_id": "5211",
+      "texto": "Teoria do Crime: Culpabilidade Culpabilidade; imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa."
+    },
+    {
+      "tema_id": "5212",
+      "familia_id": "5211",
+      "texto": "Conceito e Elementos da Culpabilidade Conceito e elementos da culpabilidade; juízo de reprovação pessoal e pressupostos de responsabilização."
+    },
+    {
+      "tema_id": "5213",
+      "familia_id": "5211",
+      "texto": "Inimputabilidade Inimputabilidade e semi-imputabilidade; doença mental, desenvolvimento mental, menoridade e capacidade de entendimento."
+    },
+    {
+      "tema_id": "5214",
+      "familia_id": "5211",
+      "texto": "Erro de Proibição Erro de proibição; desconhecimento da ilicitude do comportamento, erro evitável e inevitável."
+    },
+    {
+      "tema_id": "5215",
+      "familia_id": "5211",
+      "texto": "Coação Moral Irresistível Coação moral irresistível; inexigibilidade de conduta diversa e responsabilidade do coator."
+    },
+    {
+      "tema_id": "5216",
+      "familia_id": "5211",
+      "texto": "Obediência Hierárquica Obediência hierárquica; cumprimento de ordem superior e análise de sua ilegalidade."
+    },
+    {
+      "tema_id": "5217",
+      "familia_id": "5211",
+      "texto": "Causas Supralegais de Exclusão da Culpabilidade Causas supralegais de exclusão da culpabilidade; inexigibilidade de conduta diversa e conflitos de deveres."
+    },
+    {
+      "tema_id": "5218",
+      "familia_id": "5218",
+      "texto": "Teoria do Crime: Fato Típico Fato típico; conduta, resultado, nexo causal e tipicidade; dolo, culpa e erro de tipo."
+    },
+    {
+      "tema_id": "5219",
+      "familia_id": "5218",
+      "texto": "Conceito, Sujeito e Objeto do Crime Conceito de crime, sujeito ativo e passivo, objeto jurídico e objeto material."
+    },
+    {
+      "tema_id": "5220",
+      "familia_id": "5218",
+      "texto": "Fato Típico Estrutura do fato típico; adequação da conduta ao tipo penal e seus componentes."
+    },
+    {
+      "tema_id": "5221",
+      "familia_id": "5218",
+      "texto": "Conduta Conduta penal; ação e omissão humanas, voluntariedade, teoria causal e finalista."
+    },
+    {
+      "tema_id": "5222",
+      "familia_id": "5218",
+      "texto": "Crime Doloso e Culposo Dolo direto, dolo eventual, culpa consciente e inconsciente; imprudência, negligência e imperícia."
+    },
+    {
+      "tema_id": "5223",
+      "familia_id": "5218",
+      "texto": "Crimes Omissivos e Comissivos Crimes omissivos próprios e impróprios; dever de agir, posição de garantidor e comissão por omissão."
+    },
+    {
+      "tema_id": "5224",
+      "familia_id": "5218",
+      "texto": "Erro de Tipo Erro de tipo; falsa percepção sobre elementar do delito, erro essencial ou acidental e descriminantes putativas."
+    },
+    {
+      "tema_id": "5225",
+      "familia_id": "5218",
+      "texto": "Resultado Resultado naturalístico e jurídico; consequências da conduta na estrutura do delito."
+    },
+    {
+      "tema_id": "5226",
+      "familia_id": "5218",
+      "texto": "Nexo Causal e Imputação Objetiva Relação de causalidade, causa superveniente, concausas e imputação objetiva do resultado."
+    },
+    {
+      "tema_id": "5227",
+      "familia_id": "5218",
+      "texto": "Tipicidade Tipicidade formal e material; adequação ao tipo e relevância da ofensa ao bem jurídico."
+    },
+    {
+      "tema_id": "5228",
+      "familia_id": "5228",
+      "texto": "Teoria do Crime: Ilicitude Ilicitude e antijuridicidade; causas de justificação, legítima defesa, necessidade e cumprimento de dever."
+    },
+    {
+      "tema_id": "5229",
+      "familia_id": "5228",
+      "texto": "Conceito e Elementos da Ilicitude Conceito de ilicitude; contrariedade do fato ao direito e causas de exclusão da antijuridicidade."
+    },
+    {
+      "tema_id": "5230",
+      "familia_id": "5228",
+      "texto": "Estado de Necessidade Estado de necessidade; perigo atual e proteção de bem jurídico mediante sacrifício de outro."
+    },
+    {
+      "tema_id": "5231",
+      "familia_id": "5228",
+      "texto": "Legítima Defesa Legítima defesa; agressão injusta, atual ou iminente, e uso moderado dos meios necessários."
+    },
+    {
+      "tema_id": "5232",
+      "familia_id": "5228",
+      "texto": "Estrito Cumprimento do Dever Legal Estrito cumprimento do dever legal; atuação conforme obrigação imposta pelo ordenamento."
+    },
+    {
+      "tema_id": "5233",
+      "familia_id": "5228",
+      "texto": "Causas Supralegais de Exclusão da Ilicitude Causas supralegais de exclusão da ilicitude; consentimento do ofendido e justificação do fato."
+    },
+    {
+      "tema_id": "5466",
+      "familia_id": "5466",
+      "texto": "Ação Penal Ação penal; iniciativa pública ou privada, legitimidade, condições e exercício da pretensão acusatória."
+    },
+    {
+      "tema_id": "5467",
+      "familia_id": "5466",
+      "texto": "Características e Condições da Ação Penal Legitimidade, interesse e condições para o exercício da ação penal; justa causa e pressupostos da acusação."
+    },
+    {
+      "tema_id": "5468",
+      "familia_id": "5466",
+      "texto": "Classificação da Ação Penal Classificação das ações penais; pública, privada, condicionada e subsidiária da pública."
+    },
+    {
+      "tema_id": "5469",
+      "familia_id": "5466",
+      "texto": "Princípios da Ação Penal Princípios da ação penal; obrigatoriedade, disponibilidade, indivisibilidade, oficialidade e intranscendência."
+    },
+    {
+      "tema_id": "5470",
+      "familia_id": "5466",
+      "texto": "Ação Penal Pública Incondicionada Ação penal pública incondicionada; iniciativa do Ministério Público independente de representação."
+    },
+    {
+      "tema_id": "5471",
+      "familia_id": "5466",
+      "texto": "Ação Penal Pública Condicionada Ação penal pública condicionada; representação da vítima ou requisição e condições de procedibilidade."
+    },
+    {
+      "tema_id": "5472",
+      "familia_id": "5466",
+      "texto": "Ação Penal de Iniciativa Privada Ação penal de iniciativa privada; legitimidade do ofendido e iniciativa acusatória por queixa."
+    },
+    {
+      "tema_id": "5473",
+      "familia_id": "5466",
+      "texto": "Denúncia Denúncia; peça acusatória do Ministério Público, requisitos, narrativa do fato e imputação."
+    },
+    {
+      "tema_id": "5474",
+      "familia_id": "5466",
+      "texto": "Queixa Crime Queixa-crime; peça inicial da ação privada, procuração e requisitos da acusação pelo ofendido."
+    },
+    {
+      "tema_id": "5475",
+      "familia_id": "5466",
+      "texto": "Ação Civil Ex Delicto Ação civil ex delicto; reparação do dano decorrente de crime e efeitos da decisão penal no juízo cível."
+    },
+    {
+      "tema_id": "5476",
+      "familia_id": "5476",
+      "texto": "Ações Autônomas de Impugnação Ações autônomas contra decisões penais; habeas corpus, revisão criminal e mandado de segurança."
+    },
+    {
+      "tema_id": "5477",
+      "familia_id": "5476",
+      "texto": "Habeas Corpus Habeas corpus; liberdade de locomoção, constrangimento ilegal, impetração, cabimento e competência."
+    },
+    {
+      "tema_id": "5478",
+      "familia_id": "5476",
+      "texto": "Revisão Criminal Revisão criminal; desconstituição de condenação transitada em julgado, novas provas e erro judiciário."
+    },
+    {
+      "tema_id": "5479",
+      "familia_id": "5476",
+      "texto": "Mandado de Segurança Mandado de segurança em matéria criminal; direito líquido e certo e controle de atos judiciais."
+    },
+    {
+      "tema_id": "5480",
+      "familia_id": "5480",
+      "texto": "Competência Competência criminal; determinação do órgão julgador, matéria, lugar, função, conexão e continência."
+    },
+    {
+      "tema_id": "5481",
+      "familia_id": "5480",
+      "texto": "Espécies e Fixação de Competência Criminal Critérios de fixação da competência penal; lugar, natureza da infração, distribuição, prevenção e conexão."
+    },
+    {
+      "tema_id": "5482",
+      "familia_id": "5480",
+      "texto": "Competência em Razão da Matéria Competência em razão da matéria; justiça comum, federal, estadual, militar e eleitoral."
+    },
+    {
+      "tema_id": "5483",
+      "familia_id": "5480",
+      "texto": "Comeptência Territorial Competência territorial; lugar da infração, domicílio do acusado e determinação do foro."
+    },
+    {
+      "tema_id": "5484",
+      "familia_id": "5480",
+      "texto": "Competência por Prerrogativa de Função Prerrogativa de função; foro competente para autoridades e vínculo com exercício funcional."
+    },
+    {
+      "tema_id": "5485",
+      "familia_id": "5480",
+      "texto": "Competência de Juízo Competência de juízo; órgão judicial competente dentro da mesma jurisdição e organização judiciária."
+    },
+    {
+      "tema_id": "5486",
+      "familia_id": "5480",
+      "texto": "Prorrogação, Perpetuação e Modificação de Competência Prorrogação e modificação da competência; perpetuação da jurisdição, conexão, continência e desmembramento."
+    },
+    {
+      "tema_id": "5487",
+      "familia_id": "5487",
+      "texto": "Comunicação dos Atos Processuais Comunicação dos atos processuais; citação, intimação, notificações e prazos processuais."
+    },
+    {
+      "tema_id": "5488",
+      "familia_id": "5487",
+      "texto": "Citação e Contagem dos Prazos Citação do acusado; edital, hora certa, comparecimento e contagem de prazos."
+    },
+    {
+      "tema_id": "5489",
+      "familia_id": "5487",
+      "texto": "Intimação e Contagem dos Prazos Intimação de partes, defensor e Ministério Público; ciência dos atos e contagem de prazos."
+    },
+    {
+      "tema_id": "5490",
+      "familia_id": "5490",
+      "texto": "Das Questões e Processos Incidentes Questões e incidentes processuais; exceções, impedimentos, cautelares patrimoniais e incidentes de sanidade ou falsidade."
+    },
+    {
+      "tema_id": "5491",
+      "familia_id": "5490",
+      "texto": "Questões Prejudiciais e Preliminares Questões prejudiciais e preliminares; relação entre questões prévias, mérito e suspensão do processo."
+    },
+    {
+      "tema_id": "5492",
+      "familia_id": "5490",
+      "texto": "Exceção de Suspeição, de Impedimento ou de Incompatibilidade Suspeição, impedimento e incompatibilidade; imparcialidade do juiz e afastamento de sujeitos processuais."
+    },
+    {
+      "tema_id": "5493",
+      "familia_id": "5490",
+      "texto": "Exceção de Incompetência e de Ilegitimidade Exceções de incompetência e ilegitimidade; contestação do juízo ou legitimidade da parte."
+    },
+    {
+      "tema_id": "5494",
+      "familia_id": "5490",
+      "texto": "Exceção de Litispendência e de Coisa Julgada Litispendência e coisa julgada; duplicidade de processos e estabilidade de decisão definitiva."
+    },
+    {
+      "tema_id": "5495",
+      "familia_id": "5490",
+      "texto": "Restituição de Coisas Apreendidas Restituição de coisas apreendidas; devolução de bens e interesse da prova ou de terceiros."
+    },
+    {
+      "tema_id": "5496",
+      "familia_id": "5490",
+      "texto": "Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto Medidas assecuratórias; sequestro, arresto e hipoteca legal para assegurar efeitos patrimoniais da condenação."
+    },
+    {
+      "tema_id": "5497",
+      "familia_id": "5490",
+      "texto": "Incidente de Falsidade e de Insanidade Mental Incidente de falsidade documental e incidente de insanidade mental do acusado."
+    },
+    {
+      "tema_id": "5498",
+      "familia_id": "5498",
+      "texto": "Inquérito Policial Investigação preliminar policial; diligências, indiciamento, instauração, conclusão e arquivamento do inquérito."
+    },
+    {
+      "tema_id": "5499",
+      "familia_id": "5498",
+      "texto": "Conceito, Finalidade e Caractéristas do Inquérito Policial Natureza, finalidade e características do inquérito; procedimento escrito, investigativo e administrativo."
+    },
+    {
+      "tema_id": "5500",
+      "familia_id": "5498",
+      "texto": "Procedimento do Inquérito Policial Procedimento investigatório; instauração, diligências, indiciamento, prazos e condução do inquérito policial."
+    },
+    {
+      "tema_id": "5501",
+      "familia_id": "5498",
+      "texto": "Conclusão e Arquivamento do Inquérito Policial Conclusão e arquivamento da investigação; relatório policial, ausência de justa causa, novas provas e desarquivamento."
+    },
+    {
+      "tema_id": "5502",
+      "familia_id": "5498",
+      "texto": "Acordo de Não Persecução Penal Acordo de não persecução penal; ANPP, negociação com Ministério Público, requisitos e homologação."
+    },
+    {
+      "tema_id": "5503",
+      "familia_id": "5498",
+      "texto": "Juiz das Garantias Juiz das garantias; controle judicial da investigação e proteção de direitos na fase investigatória."
+    },
+    {
+      "tema_id": "5504",
+      "familia_id": "5498",
+      "texto": "Inquérito Civil Inquérito civil; investigação de interesses coletivos e atuação extrapenal do Ministério Público."
+    },
+    {
+      "tema_id": "5505",
+      "familia_id": "5505",
+      "texto": "Lei Processual no Tempo e no Espaço Aplicação da lei processual penal no tempo e no espaço e interpretação das normas processuais."
+    },
+    {
+      "tema_id": "5506",
+      "familia_id": "5505",
+      "texto": "Lei Processual no Espaço Territorialidade e aplicação espacial da lei processual penal; jurisdição nacional e cooperação."
+    },
+    {
+      "tema_id": "5507",
+      "familia_id": "5505",
+      "texto": "Lei processual no Tempo Aplicação temporal da lei processual penal; atos processuais, incidência imediata e normas mistas."
+    },
+    {
+      "tema_id": "5508",
+      "familia_id": "5505",
+      "texto": "Interpretação da Lei processual Penal Interpretação extensiva, analogia e princípios gerais na aplicação da lei processual penal."
+    },
+    {
+      "tema_id": "5509",
+      "familia_id": "5509",
+      "texto": "Nulidades Nulidades processuais; prejuízo, instrumentalidade das formas, convalidação e invalidação dos atos."
+    },
+    {
+      "tema_id": "5510",
+      "familia_id": "5509",
+      "texto": "Nulidade Absoluta e Relativa Nulidade absoluta e relativa; alegação oportuna, preclusão e prejuízo processual."
+    },
+    {
+      "tema_id": "5511",
+      "familia_id": "5509",
+      "texto": "Nulidades em Espécie Hipóteses específicas de nulidade no procedimento penal, defesa, prova e decisão judicial."
+    },
+    {
+      "tema_id": "5512",
+      "familia_id": "5512",
+      "texto": "Parte Geral dos Recursos Teoria geral dos recursos criminais; cabimento, legitimidade, admissibilidade, efeitos e princípios."
+    },
+    {
+      "tema_id": "5513",
+      "familia_id": "5512",
+      "texto": "Princípios Recursais no Processo Penal Princípios recursais; fungibilidade, unirrecorribilidade, voluntariedade e vedação de reformatio in pejus."
+    },
+    {
+      "tema_id": "5514",
+      "familia_id": "5512",
+      "texto": "Pressupostos Objetivos e Subjetivos de Admissibilidade Recursal Admissibilidade recursal; tempestividade, interesse, legitimidade, adequação e pressupostos objetivos e subjetivos."
+    },
+    {
+      "tema_id": "5515",
+      "familia_id": "5512",
+      "texto": "Efeito dos Recursos Efeitos devolutivo, suspensivo, extensivo e regressivo dos recursos criminais."
+    },
+    {
+      "tema_id": "5516",
+      "familia_id": "5512",
+      "texto": "Classificação dos Recursos Classificação dos recursos; ordinários, extraordinários, fundamentação e extensão da impugnação."
+    },
+    {
+      "tema_id": "5517",
+      "familia_id": "5517",
+      "texto": "Prisões em Espécie Espécies de prisão; flagrante, preventiva, temporária, domiciliar e liberdade provisória."
+    },
+    {
+      "tema_id": "5518",
+      "familia_id": "5517",
+      "texto": "Prisão em Flagrante Prisão em flagrante; situações de flagrância, captura, auto de prisão e comunicação da custódia."
+    },
+    {
+      "tema_id": "5519",
+      "familia_id": "5517",
+      "texto": "Prisão Preventiva Prisão preventiva; fundamentos, requisitos, decretação, substituição, revisão e revogação da cautelar."
+    },
+    {
+      "tema_id": "5520",
+      "familia_id": "5517",
+      "texto": "Prisão Temporária Prisão temporária; investigação criminal, hipóteses legais, requisitos e prazos de custódia."
+    },
+    {
+      "tema_id": "5521",
+      "familia_id": "5517",
+      "texto": "Prisão Domiciliar Prisão domiciliar; recolhimento na residência e substituição da prisão em estabelecimento."
+    },
+    {
+      "tema_id": "5522",
+      "familia_id": "5517",
+      "texto": "Medidas Cautelares Diversas da Prisão Medidas cautelares diversas da prisão; comparecimento, proibições, monitoração e proporcionalidade."
+    },
+    {
+      "tema_id": "5523",
+      "familia_id": "5517",
+      "texto": "Liberdade Provisória Liberdade provisória, fiança e dispensa de custódia cautelar na persecução penal."
+    },
+    {
+      "tema_id": "5524",
+      "familia_id": "5524",
+      "texto": "Procedimento do Tribunal do Júri Tribunal do Júri; crimes dolosos contra a vida, procedimento em duas fases, jurados e julgamento em plenário."
+    },
+    {
+      "tema_id": "5525",
+      "familia_id": "5524",
+      "texto": "Princípios Constitucionais do Júri Princípios constitucionais do júri; plenitude de defesa, sigilo das votações e soberania dos veredictos."
+    },
+    {
+      "tema_id": "5526",
+      "familia_id": "5524",
+      "texto": "Procedimento Bifásico do Tribunal do Júri Procedimento bifásico do júri; judicium accusationis, formação da culpa e julgamento pelos jurados."
+    },
+    {
+      "tema_id": "5527",
+      "familia_id": "5524",
+      "texto": "Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia Decisões ao final da primeira fase do júri; pronúncia, impronúncia, absolvição sumária e desclassificação."
+    },
+    {
+      "tema_id": "5528",
+      "familia_id": "5524",
+      "texto": "Organização do Júri e Sessão de Julgamento Organização do júri; alistamento, sorteio, composição do conselho de sentença, debates e quesitação."
+    },
+    {
+      "tema_id": "5529",
+      "familia_id": "5524",
+      "texto": "Sentença do Júri Sentença do juiz-presidente do júri; decisão dos jurados, condenação, absolvição e efeitos do julgamento."
+    },
+    {
+      "tema_id": "5530",
+      "familia_id": "5530",
+      "texto": "Procedimento Ordinário Procedimento comum ordinário; recebimento da acusação, resposta, instrução, alegações e sentença."
+    },
+    {
+      "tema_id": "5531",
+      "familia_id": "5530",
+      "texto": "2 Oferecimento, Rejeição e Recebimento da Peça Acusatória Oferecimento, recebimento e rejeição da denúncia ou queixa; admissibilidade da peça acusatória."
+    },
+    {
+      "tema_id": "5532",
+      "familia_id": "5530",
+      "texto": "Classificação dos Procedimentos Procedimentos ordinário, sumário e sumaríssimo; escolha do rito processual e critérios legais."
+    },
+    {
+      "tema_id": "5533",
+      "familia_id": "5530",
+      "texto": "Defesa Preliminar Resposta à acusação e defesa preliminar; prazo, conteúdo e defesa antes da instrução."
+    },
+    {
+      "tema_id": "5534",
+      "familia_id": "5530",
+      "texto": "Absolvição Sumária Absolvição sumária no procedimento comum; causas que encerram o processo antes da instrução."
+    },
+    {
+      "tema_id": "5535",
+      "familia_id": "5530",
+      "texto": "Audiência de Instrução e Julgamento Audiência de instrução e julgamento; ordem dos atos, testemunhas, interrogatório e debates."
+    },
+    {
+      "tema_id": "5536",
+      "familia_id": "5530",
+      "texto": "Alegações Orais Alegações finais orais; debates após a instrução e memoriais quando cabíveis."
+    },
+    {
+      "tema_id": "5537",
+      "familia_id": "5530",
+      "texto": "Sentença Sentença no procedimento ordinário; julgamento após a instrução, absolvição e condenação."
+    },
+    {
+      "tema_id": "5538",
+      "familia_id": "5538",
+      "texto": "Procedimento Sumário Procedimento comum sumário; rito abreviado, instrução e julgamento."
+    },
+    {
+      "tema_id": "5539",
+      "familia_id": "5539",
+      "texto": "Procedimento Sumaríssimo Procedimento sumaríssimo; juizados criminais, termo circunstanciado, audiência preliminar e soluções consensuais."
+    },
+    {
+      "tema_id": "5540",
+      "familia_id": "5539",
+      "texto": "Competência dos Juizados Especiais Criminais Competência dos juizados criminais; infrações de menor potencial ofensivo e limites do JECRIM."
+    },
+    {
+      "tema_id": "5541",
+      "familia_id": "5539",
+      "texto": "Transação Penal Transação penal; proposta de medida consensual em infrações de menor potencial ofensivo e homologação."
+    },
+    {
+      "tema_id": "5542",
+      "familia_id": "5539",
+      "texto": "Suspensão Condicional do Processo Suspensão condicional do processo; sursis processual, condições, período de prova e revogação."
+    },
+    {
+      "tema_id": "5543",
+      "familia_id": "5543",
+      "texto": "Provas em Espécies Meios de prova e obtenção de prova; perícia, testemunhas, documentos, reconhecimento e diligências probatórias."
+    },
+    {
+      "tema_id": "5544",
+      "familia_id": "5543",
+      "texto": "Cadeia de Custódia Cadeia de custódia; vestígios, coleta, acondicionamento, transporte, rastreamento e integridade da prova."
+    },
+    {
+      "tema_id": "5545",
+      "familia_id": "5543",
+      "texto": "Exame de Corpo de Delito Exame de corpo de delito; infração com vestígios, prova pericial e demonstração de materialidade."
+    },
+    {
+      "tema_id": "5546",
+      "familia_id": "5543",
+      "texto": "Perícia Perícia criminal; laudo pericial, peritos, quesitos e assistente técnico."
+    },
+    {
+      "tema_id": "5547",
+      "familia_id": "5543",
+      "texto": "Interrogatório Judicial Interrogatório do acusado; autodefesa, direito ao silêncio e atos de defesa pessoal."
+    },
+    {
+      "tema_id": "5548",
+      "familia_id": "5543",
+      "texto": "Confissão Confissão; admissão de autoria ou participação e valoração da declaração do acusado."
+    },
+    {
+      "tema_id": "5549",
+      "familia_id": "5543",
+      "texto": "Declaração do Ofendido Declarações da vítima ou ofendido; oitiva e valor probatório do relato."
+    },
+    {
+      "tema_id": "5550",
+      "familia_id": "5543",
+      "texto": "Prova Testemunhal Prova testemunhal; depoimentos, dever de testemunhar, compromisso, contradita e testemunhas."
+    },
+    {
+      "tema_id": "5551",
+      "familia_id": "5543",
+      "texto": "Reconhecimento de Pessoas e Coisas Reconhecimento de pessoas e coisas; procedimento, identificação, formalidades e confiabilidade."
+    },
+    {
+      "tema_id": "5552",
+      "familia_id": "5543",
+      "texto": "Acareação Acareação; divergências entre declarações e confronto entre depoentes."
+    },
+    {
+      "tema_id": "5553",
+      "familia_id": "5543",
+      "texto": "Prova Documental Prova documental; documentos públicos e particulares, juntada, autenticidade e leitura de documentos."
+    },
+    {
+      "tema_id": "5554",
+      "familia_id": "5543",
+      "texto": "Busca e Apreensão Busca e apreensão; mandado, busca domiciliar ou pessoal, objetos e diligências de obtenção da prova."
+    },
+    {
+      "tema_id": "5555",
+      "familia_id": "5543",
+      "texto": "Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos Interceptação e sigilo de dados telefônicos; comunicações, registros, autorização judicial e distinção de dados cadastrais."
+    },
+    {
+      "tema_id": "5556",
+      "familia_id": "5543",
+      "texto": "Captação Ambiental Captação ambiental; registro de sinais acústicos, ópticos ou eletromagnéticos como meio de obtenção de prova."
+    },
+    {
+      "tema_id": "5557",
+      "familia_id": "5543",
+      "texto": "Colaboração Premiada Colaboração premiada; acordo, negociação, homologação, direitos do colaborador e meios de obtenção de prova."
+    },
+    {
+      "tema_id": "5558",
+      "familia_id": "5543",
+      "texto": "Ação Controlada Ação controlada; retardamento da intervenção estatal para acompanhamento e obtenção de prova."
+    },
+    {
+      "tema_id": "5559",
+      "familia_id": "5543",
+      "texto": "Infiltração de Agentes Infiltração de agentes; atuação encoberta, autorização e investigação de organizações criminosas."
+    },
+    {
+      "tema_id": "5560",
+      "familia_id": "5560",
+      "texto": "Recursos em Espécies Espécies de recursos criminais; apelação, recurso em sentido estrito, embargos e agravo em execução."
+    },
+    {
+      "tema_id": "5561",
+      "familia_id": "5560",
+      "texto": "Recurso em sentido estrito (RESE) Recurso em sentido estrito; RESE, cabimento em decisões especificadas no processo penal e retratação."
+    },
+    {
+      "tema_id": "5562",
+      "familia_id": "5560",
+      "texto": "Apelação Apelação criminal; impugnação de sentença, hipóteses de cabimento, extensão e julgamento do recurso."
+    },
+    {
+      "tema_id": "5563",
+      "familia_id": "5560",
+      "texto": "Protesto por novo Júri Protesto por novo júri; recurso histórico do procedimento do júri e sua revogação."
+    },
+    {
+      "tema_id": "5564",
+      "familia_id": "5560",
+      "texto": "Embargos Infringentes Embargos infringentes; decisão não unânime desfavorável ao acusado e divergência no julgamento criminal."
+    },
+    {
+      "tema_id": "5565",
+      "familia_id": "5560",
+      "texto": "Embargos de Declaração Embargos de declaração; obscuridade, ambiguidade, contradição e omissão na decisão judicial."
+    },
+    {
+      "tema_id": "5566",
+      "familia_id": "5560",
+      "texto": "Agravo em Execução Agravo em execução; impugnação de decisões do juízo da execução penal."
+    },
+    {
+      "tema_id": "5567",
+      "familia_id": "5560",
+      "texto": "Carta Testemunhavel Carta testemunhável; obstáculo à interposição ou ao seguimento de recurso criminal."
+    },
+    {
+      "tema_id": "5568",
+      "familia_id": "5560",
+      "texto": "Correição Parcial Correição parcial; correção de inversão ou tumulto processual nos termos da organização judiciária."
+    },
+    {
+      "tema_id": "5569",
+      "familia_id": "5560",
+      "texto": "Recursos no Âmbito dos Juizados Especiais Recursos dos juizados especiais criminais; turma recursal, apelação e embargos de declaração no JECRIM."
+    },
+    {
+      "tema_id": "5570",
+      "familia_id": "5560",
+      "texto": "Recurso Extraordinário Recurso extraordinário ao STF; questão constitucional, repercussão geral e admissibilidade."
+    },
+    {
+      "tema_id": "5571",
+      "familia_id": "5560",
+      "texto": "Recurso Especial Recurso especial ao STJ; interpretação de lei federal, divergência e requisitos de admissibilidade."
+    },
+    {
+      "tema_id": "5572",
+      "familia_id": "5572",
+      "texto": "Sentença Penal Sentença penal; classificação, fundamentação, condenação, absolvição, correlação e efeitos do provimento."
+    },
+    {
+      "tema_id": "5573",
+      "familia_id": "5572",
+      "texto": "Classificação dos Provimentos Judiciais Classificação dos provimentos judiciais; despachos, decisões interlocutórias e sentenças."
+    },
+    {
+      "tema_id": "5574",
+      "familia_id": "5572",
+      "texto": "Sentença Absolutória Sentença absolutória; fundamentos da absolvição e efeitos penais e civis."
+    },
+    {
+      "tema_id": "5575",
+      "familia_id": "5572",
+      "texto": "Sentença Condenatória Sentença condenatória; reconhecimento de responsabilidade penal, requisitos e dispositivo da condenação."
+    },
+    {
+      "tema_id": "5576",
+      "familia_id": "5572",
+      "texto": "Fixação da Pena e do Regime Penitenciário Fixação da pena e do regime inicial na sentença; dosimetria judicial e fundamentação do regime penitenciário."
+    },
+    {
+      "tema_id": "5577",
+      "familia_id": "5572",
+      "texto": "Efeitos Decorrentes da Sentença Penal Condenatória Efeitos da sentença penal condenatória; consequências penais, civis e outros efeitos da condenação."
+    },
+    {
+      "tema_id": "5578",
+      "familia_id": "5572",
+      "texto": "Princípio da Correlação entre Acusação e Sentença Correlação entre acusação e sentença; limites da imputação, congruência e direito de defesa."
+    },
+    {
+      "tema_id": "5579",
+      "familia_id": "5572",
+      "texto": "Emendatio Libelli e Mutatio Libelli Emendatio libelli e mutatio libelli; alteração da definição jurídica e aditamento por fatos ou circunstâncias novos."
+    },
+    {
+      "tema_id": "5580",
+      "familia_id": "5580",
+      "texto": "Sistemas e Princípios Processuais Penais Sistemas processuais e garantias; modelo acusatório, inquisitório, contraditório, defesa e imparcialidade."
+    },
+    {
+      "tema_id": "5581",
+      "familia_id": "5580",
+      "texto": "Sistemas Processuais Penais Sistemas inquisitório, acusatório e misto; separação entre acusar, defender e julgar."
+    },
+    {
+      "tema_id": "5582",
+      "familia_id": "5580",
+      "texto": "Princípios do Processo Penal Princípios processuais penais; devido processo, presunção de inocência, contraditório, ampla defesa e juiz natural."
+    },
+    {
+      "tema_id": "5583",
+      "familia_id": "5583",
+      "texto": "Sujeitos do Processo Sujeitos processuais; juiz, Ministério Público, acusado, defensor, assistente e auxiliares da justiça."
+    },
+    {
+      "tema_id": "5584",
+      "familia_id": "5584",
+      "texto": "Teoria Geral das Prisões Teoria geral da prisão; espécies de custódia, direitos do preso, cautelaridade e controle judicial."
+    },
+    {
+      "tema_id": "5585",
+      "familia_id": "5584",
+      "texto": "Conceitos e Espécies de Prisão Conceito e classificação de prisão; custódia penal e processual, prisão cautelar e definitiva."
+    },
+    {
+      "tema_id": "5586",
+      "familia_id": "5584",
+      "texto": "Imunidades Prisionais e Prisões Especiais Imunidades prisionais e prisão especial; prerrogativas e condições específicas de custódia."
+    },
+    {
+      "tema_id": "5587",
+      "familia_id": "5584",
+      "texto": "Direitos e Garantias sobre a Prisão Direitos do preso; comunicação da prisão, assistência, integridade e garantias na custódia."
+    },
+    {
+      "tema_id": "5588",
+      "familia_id": "5584",
+      "texto": "Relaxamento da Prisão Relaxamento de prisão ilegal; controle de legalidade da custódia e distinção de revogação de cautelar."
+    },
+    {
+      "tema_id": "5589",
+      "familia_id": "5584",
+      "texto": "Audiência de Custódia Audiência de custódia; apresentação da pessoa presa ao juiz, legalidade e necessidade da prisão."
+    },
+    {
+      "tema_id": "5590",
+      "familia_id": "5590",
+      "texto": "Teoria Geral das Provas Teoria geral da prova; produção, admissibilidade, contraditório, valoração, ônus e licitude da prova penal."
+    },
+    {
+      "tema_id": "5591",
+      "familia_id": "5590",
+      "texto": "Finalidade, Sujeitos e Ônus da Prova Finalidade da prova, objeto, sujeitos e ônus probatório; iniciativa e distribuição da carga de provar."
+    },
+    {
+      "tema_id": "5592",
+      "familia_id": "5590",
+      "texto": "Sistemas de Avaliação da Prova Sistemas de avaliação da prova; livre convencimento motivado, íntima convicção e prova tarifada."
+    },
+    {
+      "tema_id": "5593",
+      "familia_id": "5590",
+      "texto": "Prova Emprestada Prova emprestada; uso de prova produzida em outro processo e exigências de contraditório."
+    },
+    {
+      "tema_id": "5594",
+      "familia_id": "5590",
+      "texto": "Prova Ilegal e Prova Ilícita Prova ilícita ou ilegítima; inadmissibilidade, derivação, fonte independente e desentranhamento."
+    },
+    {
+      "tema_id": "5595",
+      "familia_id": "5590",
+      "texto": "Princípios Relativos à Prova Penal Princípios da prova penal; contraditório, comunhão, liberdade probatória, não autoincriminação e nemo tenetur."
+    },
+    {
+      "tema_id": "6716",
+      "familia_id": "6716",
+      "texto": "Abuso de Autoridade Abuso de autoridade; exercício abusivo de função pública; agentes públicos e garantias do cidadão; Lei 13.869/2019."
+    },
+    {
+      "tema_id": "6717",
+      "familia_id": "6717",
+      "texto": "Crimes contra o meio ambiente Crimes ambientais; fauna, flora, poluição, proteção ambiental e responsabilização penal da pessoa jurídica."
+    },
+    {
+      "tema_id": "6718",
+      "familia_id": "6718",
+      "texto": "Dos Crimes Contra a Administração Pública (Parte 1) "
+    },
+    {
+      "tema_id": "6719",
+      "familia_id": "6719",
+      "texto": "Dos Crimes contra a Administração Pública (Parte 2) "
+    },
+    {
+      "tema_id": "6720",
+      "familia_id": "6720",
+      "texto": "Dos Crimes Contra o Patrimônio (Parte 1) "
+    },
+    {
+      "tema_id": "6721",
+      "familia_id": "6721",
+      "texto": "Dos Crimes contra o Patrimônio (Parte 2) "
+    },
+    {
+      "tema_id": "6722",
+      "familia_id": "6722",
+      "texto": "Estatuto do Idoso - Crimes Estatuto da Pessoa Idosa, Estatuto do Idoso; crimes contra idosos, abandono e apropriação de rendimentos."
+    },
+    {
+      "tema_id": "6723",
+      "familia_id": "6723",
+      "texto": "Lavagem de Dinheiro Lavagem de dinheiro; ocultação e dissimulação da origem de bens, direitos e valores; infração antecedente."
+    },
+    {
+      "tema_id": "6724",
+      "familia_id": "6724",
+      "texto": "Lei Maria da Penha Lei Maria da Penha, violência doméstica e familiar contra a mulher; medidas protetivas de urgência; Lei 11.340/2006."
+    },
+    {
+      "tema_id": "6725",
+      "familia_id": "6725",
+      "texto": "Organizações Criminosas Organização criminosa; estrutura ordenada, divisão de tarefas, investigação e meios especiais de obtenção de prova; Lei 12.850/2013."
+    },
+    {
+      "tema_id": "6726",
+      "familia_id": "6726",
+      "texto": "Teoria da Pena (Parte 1) "
+    },
+    {
+      "tema_id": "6727",
+      "familia_id": "6727",
+      "texto": "Teoria da Pena (Parte 2) "
+    },
+    {
+      "tema_id": "6728",
+      "familia_id": "6728",
+      "texto": "Tráfico de Drogas Drogas, entorpecentes, tráfico, associação para o tráfico, posse para consumo e procedimento da Lei 11.343/2006."
+    },
+    {
+      "tema_id": "6732",
+      "familia_id": "6732",
+      "texto": "Competência (Parte 1) "
+    },
+    {
+      "tema_id": "6733",
+      "familia_id": "6733",
+      "texto": "Competência (Parte 2) "
+    },
+    {
+      "tema_id": "6734",
+      "familia_id": "6734",
+      "texto": "Lei de Execução Penal Execução da pena; progressão e regressão de regime, remição, trabalho do preso, faltas disciplinares, estabelecimentos e direitos do condenado; LEP."
+    },
+    {
+      "tema_id": "6735",
+      "familia_id": "6735",
+      "texto": "Provas em Espécie Meios de prova e obtenção de prova; perícia, testemunhas, documentos, reconhecimento e diligências probatórias."
+    },
+    {
+      "tema_id": "6736",
+      "familia_id": "6736",
+      "texto": "Recursos (Parte 03) - Espécies "
+    },
+    {
+      "tema_id": "6737",
+      "familia_id": "6737",
+      "texto": "Sentença Penal (Parte 1) "
+    },
+    {
+      "tema_id": "6738",
+      "familia_id": "6738",
+      "texto": "Sentença Penal (Parte 2) "
+    }
+  ],
+  "familias": [
+    "4366",
+    "4367",
+    "4368",
+    "4371",
+    "4374",
+    "4377",
+    "4380",
+    "4383",
+    "4384",
+    "4385",
+    "4389",
+    "4684",
+    "4685",
+    "4686",
+    "4687",
+    "4688",
+    "4689",
+    "4690",
+    "4691",
+    "4692",
+    "4693",
+    "4694",
+    "4695",
+    "4696",
+    "4697",
+    "4698",
+    "4699",
+    "4700",
+    "4701",
+    "4702",
+    "4703",
+    "4704",
+    "4705",
+    "4706",
+    "4707",
+    "4708",
+    "4709",
+    "5063",
+    "5066",
+    "5071",
+    "5077",
+    "5079",
+    "5087",
+    "5102",
+    "5111",
+    "5116",
+    "5120",
+    "5125",
+    "5128",
+    "5134",
+    "5138",
+    "5144",
+    "5147",
+    "5148",
+    "5149",
+    "5155",
+    "5156",
+    "5157",
+    "5170",
+    "5175",
+    "5180",
+    "5184",
+    "5185",
+    "5191",
+    "5199",
+    "5211",
+    "5218",
+    "5228",
+    "5466",
+    "5476",
+    "5480",
+    "5487",
+    "5490",
+    "5498",
+    "5505",
+    "5509",
+    "5512",
+    "5517",
+    "5524",
+    "5530",
+    "5538",
+    "5539",
+    "5543",
+    "5560",
+    "5572",
+    "5580",
+    "5583",
+    "5584",
+    "5590",
+    "6716",
+    "6717",
+    "6718",
+    "6719",
+    "6720",
+    "6721",
+    "6722",
+    "6723",
+    "6724",
+    "6725",
+    "6726",
+    "6727",
+    "6728",
+    "6732",
+    "6733",
+    "6734",
+    "6735",
+    "6736",
+    "6737",
+    "6738"
+  ],
+  "k1": 1.2,
+  "b": 0.75
+}

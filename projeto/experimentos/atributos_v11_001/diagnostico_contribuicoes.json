@@ -1,0 +1,3685 @@
+{
+  "denominadores": {
+    "publicadas_corretas_modelo": 11,
+    "revisadas_erradas": 28,
+    "revisadas_corretas": 36
+  },
+  "exemplos": [
+    {
+      "id": "Q0012",
+      "grupo": "publicadas_corretas_modelo",
+      "confianca": 0.9232621037779322,
+      "negativos": [
+        [
+          "palavra_alt_media",
+          -1.637110673474771
+        ],
+        [
+          "escopo_alternativa_max",
+          -1.609029779224236
+        ],
+        [
+          "palavra_completo",
+          -1.4558794654376723
+        ],
+        [
+          "escopo_alternativas",
+          -1.3047376897084233
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.27421076081365775
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alternativas",
+          0.5200779516021169
+        ],
+        [
+          "media3_completo",
+          1.0423423122908437
+        ],
+        [
+          "palavra_alt_max",
+          1.1765444063265935
+        ],
+        [
+          "escopo_texto",
+          1.6339201335692957
+        ],
+        [
+          "escopo_alternativa_media",
+          4.178069785094066
+        ]
+      ]
+    },
+    {
+      "id": "Q0061",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6589162634149889,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.6251512531658763
+        ],
+        [
+          "escopo_alternativas",
+          -0.48799506354325045
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.37007315030660215
+        ],
+        [
+          "char_enunciado",
+          -0.13344683580759592
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.10546042909082974
+        ]
+      ],
+      "positivos": [
+        [
+          "titulo_enunciado",
+          0.25163414531533507
+        ],
+        [
+          "media3_completo",
+          0.4411746496200795
+        ],
+        [
+          "palavra_enunciado",
+          0.5717038627278686
+        ],
+        [
+          "escopo_texto",
+          0.8916061662410014
+        ],
+        [
+          "escopo_alternativa_media",
+          0.940227106891009
+        ]
+      ]
+    },
+    {
+      "id": "Q0087",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.3979313729633837,
+      "negativos": [
+        [
+          "palavra_completo",
+          -2.129642847908426
+        ],
+        [
+          "palavra_alt_media",
+          -0.9732595496629474
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.84412654895045
+        ],
+        [
+          "escopo_alternativas",
+          -0.7082062406578152
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.6409538565317718
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alternativas",
+          0.5607218571854083
+        ],
+        [
+          "media3_completo",
+          0.7496490203530859
+        ],
+        [
+          "escopo_texto",
+          1.003709534952723
+        ],
+        [
+          "escopo_alternativa_media",
+          1.0173337665324826
+        ],
+        [
+          "palavra_alt_max",
+          2.4187411398564946
+        ]
+      ]
+    },
+    {
+      "id": "Q0090",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6110636437163577,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.156085958800985
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.872733371378075
+        ],
+        [
+          "palavra_alt_media",
+          -0.821313202715172
+        ],
+        [
+          "escopo_alternativas",
+          -0.6413423518861154
+        ],
+        [
+          "origem_compativel",
+          -0.08536565805466252
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alternativas",
+          0.3108127507369569
+        ],
+        [
+          "media3_completo",
+          0.5022463608280027
+        ],
+        [
+          "escopo_texto",
+          0.9229172961417418
+        ],
+        [
+          "palavra_alt_max",
+          0.9654734687717498
+        ],
+        [
+          "escopo_alternativa_media",
+          1.2637397637158438
+        ]
+      ]
+    },
+    {
+      "id": "Q0115",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.7665035534299887,
+      "negativos": [
+        [
+          "escopo_alternativas",
+          -1.3418190494892241
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.759436363128689
+        ],
+        [
+          "palavra_completo",
+          -0.33048119898061645
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.2620877141455246
+        ],
+        [
+          "palavra_comando",
+          -0.20442826030623804
+        ]
+      ],
+      "positivos": [
+        [
+          "diferenca_melhor_busca",
+          0.21353649284157125
+        ],
+        [
+          "palavra_alt_max",
+          0.2357439388636885
+        ],
+        [
+          "media3_completo",
+          0.7113680975994268
+        ],
+        [
+          "escopo_texto",
+          0.9024526015128175
+        ],
+        [
+          "escopo_alternativa_media",
+          2.300493127993684
+        ]
+      ]
+    },
+    {
+      "id": "Q0169",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6815265072771625,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.6543270069180429
+        ],
+        [
+          "escopo_alternativas",
+          -0.6461690200278227
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.6302443509140279
+        ],
+        [
+          "palavra_alt_media",
+          -0.45871126782440796
+        ],
+        [
+          "similaridade_foco",
+          -0.2930468603092432
+        ]
+      ],
+      "positivos": [
+        [
+          "titulo_enunciado",
+          0.2232558086014328
+        ],
+        [
+          "palavra_alt_max",
+          0.33130741172633843
+        ],
+        [
+          "media3_completo",
+          0.6158613767832242
+        ],
+        [
+          "escopo_texto",
+          1.157951493201264
+        ],
+        [
+          "escopo_alternativa_media",
+          1.3924038170685031
+        ]
+      ]
+    },
+    {
+      "id": "Q0188",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.45950986052662746,
+      "negativos": [
+        [
+          "escopo_alternativa_max",
+          -0.4935399969688976
+        ],
+        [
+          "palavra_completo",
+          -0.43680491537359434
+        ],
+        [
+          "escopo_alternativas",
+          -0.2880233103062266
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.2313668999251004
+        ],
+        [
+          "palavra_alt_max",
+          -0.1120663529898699
+        ]
+      ],
+      "positivos": [
+        [
+          "origem_compativel",
+          0.2129864614790678
+        ],
+        [
+          "diferenca_melhor_busca",
+          0.21353649284157125
+        ],
+        [
+          "escopo_alternativa_media",
+          0.37044681534292184
+        ],
+        [
+          "escopo_texto",
+          0.45230385491404823
+        ],
+        [
+          "media3_completo",
+          0.5609977986859065
+        ]
+      ]
+    },
+    {
+      "id": "Q0191",
+      "grupo": "publicadas_corretas_modelo",
+      "confianca": 0.9325377106299684,
+      "negativos": [
+        [
+          "palavra_alt_media",
+          -2.3836730109341415
+        ],
+        [
+          "palavra_completo",
+          -2.174765410156422
+        ],
+        [
+          "escopo_alternativa_max",
+          -1.5899406123258735
+        ],
+        [
+          "escopo_alternativas",
+          -1.5233586366518432
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.43879415012090867
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alternativas",
+          0.7221891640585931
+        ],
+        [
+          "media3_completo",
+          1.3510268343803131
+        ],
+        [
+          "palavra_alt_max",
+          1.717312392286149
+        ],
+        [
+          "escopo_texto",
+          1.8795718219399737
+        ],
+        [
+          "escopo_alternativa_media",
+          5.07031266481886
+        ]
+      ]
+    },
+    {
+      "id": "Q0202",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6797118953266733,
+      "negativos": [
+        [
+          "artigo_alternativas",
+          -0.6030571290974678
+        ],
+        [
+          "palavra_completo",
+          -0.4469414184608424
+        ],
+        [
+          "palavra_alt_media",
+          -0.3904690693845428
+        ],
+        [
+          "escopo_alternativas",
+          -0.3101354744871432
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.27728724766504004
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alt_max",
+          0.3846287718639917
+        ],
+        [
+          "media3_completo",
+          0.43267388977454635
+        ],
+        [
+          "escopo_texto",
+          0.4788039802826613
+        ],
+        [
+          "artigo_enunciado",
+          0.6073482786975422
+        ],
+        [
+          "escopo_alternativa_media",
+          0.879165610012304
+        ]
+      ]
+    },
+    {
+      "id": "Q0216",
+      "grupo": "publicadas_corretas_modelo",
+      "confianca": 0.866956347806391,
+      "negativos": [
+        [
+          "escopo_alternativas",
+          -0.7216555556942338
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.668570763995396
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.1528184014601536
+        ],
+        [
+          "char_enunciado",
+          -0.11752798802129762
+        ],
+        [
+          "escopo_enunciado",
+          -0.11722967605238781
+        ]
+      ],
+      "positivos": [
+        [
+          "diferenca_melhor_busca",
+          0.21353649284157125
+        ],
+        [
+          "titulo_enunciado",
+          0.5371456792671998
+        ],
+        [
+          "media3_completo",
+          0.6770625524231428
+        ],
+        [
+          "escopo_alternativa_media",
+          1.2201594256154058
+        ],
+        [
+          "escopo_texto",
+          1.4838811927384623
+        ]
+      ]
+    },
+    {
+      "id": "Q0221",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6689158270636105,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.8365477316021428
+        ],
+        [
+          "escopo_alternativa_max",
+          -1.0489860146685956
+        ],
+        [
+          "palavra_alt_media",
+          -0.9588167450866228
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.6382689183394171
+        ],
+        [
+          "escopo_alternativas",
+          -0.5091842615014431
+        ]
+      ],
+      "positivos": [
+        [
+          "titulo_enunciado",
+          0.7189640977511419
+        ],
+        [
+          "escopo_alternativa_media",
+          0.7542425687799046
+        ],
+        [
+          "media3_completo",
+          0.7656328692729459
+        ],
+        [
+          "escopo_texto",
+          1.0753464067455953
+        ],
+        [
+          "palavra_alt_max",
+          2.380605884326749
+        ]
+      ]
+    },
+    {
+      "id": "Q0274",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.5447915554247423,
+      "negativos": [
+        [
+          "palavra_assunto_origem",
+          -0.22394235283394628
+        ],
+        [
+          "palavra_alt_max",
+          -0.1120663529898699
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.08503024074546553
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.05217394001265575
+        ],
+        [
+          "palavra_completo",
+          -0.04984794467115835
+        ]
+      ],
+      "positivos": [
+        [
+          "posicao_busca",
+          0.1117080305792663
+        ],
+        [
+          "origem_compativel",
+          0.2129864614790678
+        ],
+        [
+          "diferenca_melhor_busca",
+          0.21353649284157125
+        ],
+        [
+          "escopo_texto",
+          0.2602794244383427
+        ],
+        [
+          "media3_completo",
+          0.47642003121214616
+        ]
+      ]
+    },
+    {
+      "id": "Q0277",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.7957334217836514,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.3046487061171965
+        ],
+        [
+          "palavra_alt_media",
+          -0.9409064749974679
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.8105842640239558
+        ],
+        [
+          "escopo_alternativas",
+          -0.749673142283753
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.49875533948871964
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_enunciado",
+          0.5176466705539217
+        ],
+        [
+          "media3_completo",
+          0.9260743465170069
+        ],
+        [
+          "palavra_alt_max",
+          1.2979160028346923
+        ],
+        [
+          "escopo_texto",
+          1.357607756401011
+        ],
+        [
+          "escopo_alternativa_media",
+          1.5432763467973563
+        ]
+      ]
+    },
+    {
+      "id": "Q0315",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6041958030263942,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.3776646008559905
+        ],
+        [
+          "palavra_comando",
+          -0.2462955627892962
+        ],
+        [
+          "escopo_alternativas",
+          -0.18617846718712017
+        ],
+        [
+          "palavra_alt_media",
+          -0.12958617612106815
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.10150964506609962
+        ]
+      ],
+      "positivos": [
+        [
+          "origem_compativel",
+          0.2129864614790678
+        ],
+        [
+          "titulo_enunciado",
+          0.21513241952846596
+        ],
+        [
+          "media3_completo",
+          0.26361078737713095
+        ],
+        [
+          "escopo_texto",
+          0.42779971683120505
+        ],
+        [
+          "escopo_alternativa_media",
+          0.5519676393334672
+        ]
+      ]
+    },
+    {
+      "id": "Q0336",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6435110627734846,
+      "negativos": [
+        [
+          "escopo_alternativa_max",
+          -1.0250676845008866
+        ],
+        [
+          "palavra_completo",
+          -0.79717214328861
+        ],
+        [
+          "palavra_alt_media",
+          -0.7021554975530668
+        ],
+        [
+          "escopo_alternativas",
+          -0.6050385365991211
+        ],
+        [
+          "artigo_alternativas",
+          -0.4522524939008387
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alternativas",
+          0.26033174485422644
+        ],
+        [
+          "palavra_alt_max",
+          0.6285275671540186
+        ],
+        [
+          "escopo_texto",
+          0.8171706059581967
+        ],
+        [
+          "media3_completo",
+          0.8524255884516897
+        ],
+        [
+          "escopo_alternativa_media",
+          1.996685211767393
+        ]
+      ]
+    },
+    {
+      "id": "Q0039",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6733453186561814,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.3372597123554264
+        ],
+        [
+          "palavra_alternativas",
+          -1.154572859607562
+        ],
+        [
+          "escopo_alternativas",
+          -0.7692249236465755
+        ],
+        [
+          "char_completo",
+          -0.0892610805408479
+        ],
+        [
+          "titulo_enunciado",
+          -0.028131057836999734
+        ]
+      ],
+      "positivos": [
+        [
+          "max_completo",
+          0.39596334060992444
+        ],
+        [
+          "palavra_alt_media",
+          0.42907632068025475
+        ],
+        [
+          "media3_completo",
+          0.7036864022740249
+        ],
+        [
+          "palavra_alt_max",
+          0.7576678750447126
+        ],
+        [
+          "escopo_texto",
+          1.0597349055307066
+        ]
+      ]
+    },
+    {
+      "id": "Q0040",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6492032213751336,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.8497704886721387
+        ],
+        [
+          "escopo_alternativas",
+          -0.18210488535693567
+        ],
+        [
+          "escopo_enunciado",
+          -0.16027606045158405
+        ],
+        [
+          "char_enunciado",
+          -0.11258404763606525
+        ],
+        [
+          "palavra_alternativas",
+          -0.11035319584124945
+        ]
+      ],
+      "positivos": [
+        [
+          "origem_compativel",
+          0.19839712832982348
+        ],
+        [
+          "max_completo",
+          0.27163769985604547
+        ],
+        [
+          "media3_completo",
+          0.4123021074019454
+        ],
+        [
+          "titulo_enunciado",
+          0.42641023385347526
+        ],
+        [
+          "escopo_texto",
+          0.7438792651292737
+        ]
+      ]
+    },
+    {
+      "id": "Q0049",
+      "grupo": "publicadas_corretas_modelo",
+      "confianca": 0.9405209896341898,
+      "negativos": [
+        [
+          "escopo_alternativas",
+          -1.518167174201374
+        ],
+        [
+          "palavra_completo",
+          -0.747913956346283
+        ],
+        [
+          "palavra_alternativas",
+          -0.6120964434583404
+        ],
+        [
+          "char_completo",
+          -0.06954273291959948
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.06676871012201761
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alt_media",
+          0.6354461893124096
+        ],
+        [
+          "max_completo",
+          0.6738124042182447
+        ],
+        [
+          "media3_completo",
+          0.7833979728393593
+        ],
+        [
+          "escopo_alternativa_media",
+          1.089367810155509
+        ],
+        [
+          "escopo_texto",
+          2.0191478033011263
+        ]
+      ]
+    },
+    {
+      "id": "Q0052",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.703215119994337,
+      "negativos": [
+        [
+          "escopo_enunciado",
+          -0.09404257812515168
+        ],
+        [
+          "palavra_alt_media",
+          -0.04507884492887182
+        ],
+        [
+          "char_alternativas",
+          -0.042240543399737145
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.04062400747420233
+        ],
+        [
+          "palavra_alt_max",
+          -0.03494590032471575
+        ]
+      ],
+      "positivos": [
+        [
+          "escopo_alternativas",
+          0.08589793758874414
+        ],
+        [
+          "diferenca_melhor_busca",
+          0.11416946173754353
+        ],
+        [
+          "origem_compativel",
+          0.19839712832982348
+        ],
+        [
+          "media3_completo",
+          0.2692864049019582
+        ],
+        [
+          "escopo_texto",
+          0.7490384971144382
+        ]
+      ]
+    },
+    {
+      "id": "Q0060",
+      "grupo": "publicadas_corretas_modelo",
+      "confianca": 0.7932387864624866,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.0915616708796565
+        ],
+        [
+          "escopo_alternativas",
+          -0.7959790726647862
+        ],
+        [
+          "palavra_alternativas",
+          -0.7590144087598765
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.32522645729558947
+        ],
+        [
+          "escopo_enunciado",
+          -0.23401210005198314
+        ]
+      ],
+      "positivos": [
+        [
+          "titulo_enunciado",
+          0.49093611885451843
+        ],
+        [
+          "palavra_alt_media",
+          0.7130103365675231
+        ],
+        [
+          "media3_completo",
+          0.720395445354389
+        ],
+        [
+          "escopo_alternativa_media",
+          0.7797713764858801
+        ],
+        [
+          "escopo_texto",
+          1.1842963898272518
+        ]
+      ]
+    },
+    {
+      "id": "Q0077",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6672509200004378,
+      "negativos": [
+        [
+          "escopo_enunciado",
+          -0.15003402497792576
+        ],
+        [
+          "ha_artigo_vinculado",
+          -0.08160016550682289
+        ],
+        [
+          "origem_compativel",
+          -0.07960752521927837
+        ],
+        [
+          "max_completo",
+          -0.06514654838943344
+        ],
+        [
+          "palavra_alt_media",
+          -0.04507884492887182
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_completo",
+          0.12472955140258049
+        ],
+        [
+          "diferenca_melhor_busca",
+          0.14711286766164514
+        ],
+        [
+          "posicao_busca",
+          0.1913650146977577
+        ],
+        [
+          "media3_completo",
+          0.3188440273677217
+        ],
+        [
+          "escopo_texto",
+          0.671047947650168
+        ]
+      ]
+    },
+    {
+      "id": "Q0117",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6403222834675645,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.7720438017879744
+        ],
+        [
+          "escopo_alternativas",
+          -0.47259836887857826
+        ],
+        [
+          "palavra_comando",
+          -0.20550942178365914
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.15792713140511708
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.13723150098699435
+        ]
+      ],
+      "positivos": [
+        [
+          "origem_compativel",
+          0.19839712832982348
+        ],
+        [
+          "max_completo",
+          0.20698499373146587
+        ],
+        [
+          "titulo_enunciado",
+          0.23710014043069408
+        ],
+        [
+          "media3_completo",
+          0.6527660707705418
+        ],
+        [
+          "escopo_texto",
+          1.0737524741516231
+        ]
+      ]
+    },
+    {
+      "id": "Q0124",
+      "grupo": "publicadas_corretas_modelo",
+      "confianca": 0.7798992696106424,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.760004020558371
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.15792713140511708
+        ],
+        [
+          "escopo_enunciado",
+          -0.13606740825272232
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.054676726802809106
+        ],
+        [
+          "palavra_alt_media",
+          -0.04507884492887182
+        ]
+      ],
+      "positivos": [
+        [
+          "max_completo",
+          0.1881999795819978
+        ],
+        [
+          "posicao_busca",
+          0.1913650146977577
+        ],
+        [
+          "origem_compativel",
+          0.19839712832982348
+        ],
+        [
+          "media3_completo",
+          0.8072477897033328
+        ],
+        [
+          "escopo_texto",
+          1.1068060057151532
+        ]
+      ]
+    },
+    {
+      "id": "Q0194",
+      "grupo": "publicadas_corretas_modelo",
+      "confianca": 0.7614232422021496,
+      "negativos": [
+        [
+          "escopo_alternativas",
+          -0.7322689470824206
+        ],
+        [
+          "palavra_alternativas",
+          -0.27640281969326813
+        ],
+        [
+          "palavra_completo",
+          -0.18893660856645697
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.09040615431277367
+        ],
+        [
+          "escopo_enunciado",
+          -0.056683700211369606
+        ]
+      ],
+      "positivos": [
+        [
+          "max_completo",
+          0.20333209305738076
+        ],
+        [
+          "palavra_alt_media",
+          0.22039579004733897
+        ],
+        [
+          "media3_completo",
+          0.3555550168966246
+        ],
+        [
+          "escopo_alternativa_media",
+          0.45102946862255133
+        ],
+        [
+          "escopo_texto",
+          0.7950546723835282
+        ]
+      ]
+    },
+    {
+      "id": "Q0230",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6783317092421077,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.6353959894997517
+        ],
+        [
+          "palavra_alternativas",
+          -0.5121837438989797
+        ],
+        [
+          "escopo_alternativas",
+          -0.38312916613733905
+        ],
+        [
+          "origem_compativel",
+          -0.07960752521927837
+        ],
+        [
+          "char_completo",
+          -0.050353803632297564
+        ]
+      ],
+      "positivos": [
+        [
+          "escopo_alternativa_media",
+          0.261034533935674
+        ],
+        [
+          "media3_completo",
+          0.2817125708162148
+        ],
+        [
+          "max_completo",
+          0.3227569717744055
+        ],
+        [
+          "palavra_alt_media",
+          0.3449520145334868
+        ],
+        [
+          "escopo_texto",
+          0.5627449564327066
+        ]
+      ]
+    },
+    {
+      "id": "Q0279",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.5212251275624296,
+      "negativos": [
+        [
+          "palavra_alternativas",
+          -1.1447437978633597
+        ],
+        [
+          "escopo_alternativas",
+          -1.0808702967651334
+        ],
+        [
+          "palavra_completo",
+          -0.7661296263086844
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.0562550463210173
+        ],
+        [
+          "char_completo",
+          -0.05179738610522688
+        ]
+      ],
+      "positivos": [
+        [
+          "char_alternativas",
+          0.29854307664545016
+        ],
+        [
+          "palavra_alt_media",
+          0.3716607066736698
+        ],
+        [
+          "media3_completo",
+          0.3907389298177352
+        ],
+        [
+          "escopo_texto",
+          0.6918855467682165
+        ],
+        [
+          "palavra_alt_max",
+          0.7341970625692749
+        ]
+      ]
+    },
+    {
+      "id": "Q0286",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6464856217643368,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.597138726195188
+        ],
+        [
+          "palavra_alternativas",
+          -0.4852019016720885
+        ],
+        [
+          "escopo_alternativas",
+          -0.3313350655041607
+        ],
+        [
+          "palavra_comando",
+          -0.11346217122221515
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.10491165311739725
+        ]
+      ],
+      "positivos": [
+        [
+          "max_completo",
+          0.2501672622882518
+        ],
+        [
+          "palavra_alt_media",
+          0.2729309366821507
+        ],
+        [
+          "escopo_alternativa_media",
+          0.2810300590877667
+        ],
+        [
+          "media3_completo",
+          0.43461243171183955
+        ],
+        [
+          "escopo_texto",
+          0.4716471047703313
+        ]
+      ]
+    },
+    {
+      "id": "Q0290",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.7220541629170368,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.27475628762163107
+        ],
+        [
+          "palavra_alternativas",
+          -0.2688190590975623
+        ],
+        [
+          "escopo_alternativas",
+          -0.17521221544598353
+        ],
+        [
+          "escopo_enunciado",
+          -0.174693600775653
+        ],
+        [
+          "char_enunciado",
+          -0.1695335547371818
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alt_max",
+          0.1604664843169812
+        ],
+        [
+          "palavra_alt_media",
+          0.16258155385336726
+        ],
+        [
+          "norma_enunciado",
+          0.5041145792706572
+        ],
+        [
+          "escopo_texto",
+          0.5926461381169639
+        ],
+        [
+          "titulo_enunciado",
+          0.6312521469514107
+        ]
+      ]
+    },
+    {
+      "id": "Q0303",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6269140213374713,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.9544052577505283
+        ],
+        [
+          "palavra_alternativas",
+          -0.606145848423879
+        ],
+        [
+          "escopo_alternativas",
+          -0.5529519817196595
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.2625480100372199
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.1594435860549467
+        ]
+      ],
+      "positivos": [
+        [
+          "escopo_alternativa_media",
+          0.2916972920733495
+        ],
+        [
+          "titulo_enunciado",
+          0.29447923546294485
+        ],
+        [
+          "palavra_alt_media",
+          0.4165378932813871
+        ],
+        [
+          "media3_completo",
+          0.5064207696747398
+        ],
+        [
+          "escopo_texto",
+          1.0278519191024416
+        ]
+      ]
+    },
+    {
+      "id": "Q0323",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6059715985022837,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.7201627178738974
+        ],
+        [
+          "palavra_alternativas",
+          -0.5503407188965816
+        ],
+        [
+          "escopo_alternativas",
+          -0.3520614831286164
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.16322802093210148
+        ],
+        [
+          "escopo_enunciado",
+          -0.15663225201169748
+        ]
+      ],
+      "positivos": [
+        [
+          "escopo_alternativa_media",
+          0.29971591244327517
+        ],
+        [
+          "max_completo",
+          0.32367671596537895
+        ],
+        [
+          "media3_completo",
+          0.3305348395910541
+        ],
+        [
+          "palavra_alt_media",
+          0.42231846901826325
+        ],
+        [
+          "escopo_texto",
+          0.6668691519697629
+        ]
+      ]
+    },
+    {
+      "id": "Q0338",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6727397945800669,
+      "negativos": [
+        [
+          "escopo_alternativas",
+          -0.4515354365355755
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.12619741918697835
+        ],
+        [
+          "palavra_completo",
+          -0.12104719278523013
+        ],
+        [
+          "palavra_alternativas",
+          -0.10905328213562716
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.09360634856457577
+        ]
+      ],
+      "positivos": [
+        [
+          "max_completo",
+          0.1724869082137098
+        ],
+        [
+          "origem_compativel",
+          0.19839712832982348
+        ],
+        [
+          "titulo_enunciado",
+          0.21476338445655777
+        ],
+        [
+          "media3_completo",
+          0.2818812731630195
+        ],
+        [
+          "escopo_texto",
+          0.6967586683591985
+        ]
+      ]
+    },
+    {
+      "id": "Q0003",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6789811388388073,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.743239227389191
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.7549314276479246
+        ],
+        [
+          "palavra_alt_media",
+          -0.6991699215857785
+        ],
+        [
+          "escopo_alternativas",
+          -0.3678118471519528
+        ],
+        [
+          "palavra_alternativas",
+          -0.23706798339523028
+        ]
+      ],
+      "positivos": [
+        [
+          "max_completo",
+          0.36242868883707946
+        ],
+        [
+          "escopo_texto",
+          0.713251087262452
+        ],
+        [
+          "media3_completo",
+          0.8592271015216453
+        ],
+        [
+          "palavra_alt_max",
+          0.8869186999762639
+        ],
+        [
+          "escopo_alternativa_media",
+          1.7295620237841245
+        ]
+      ]
+    },
+    {
+      "id": "Q0028",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.5855627049597225,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.4296725819264048
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.3124055632255891
+        ],
+        [
+          "lei_literal",
+          -0.23822517517964453
+        ],
+        [
+          "char_enunciado",
+          -0.1181721504821474
+        ],
+        [
+          "palavra_alt_max",
+          -0.11127003180664141
+        ]
+      ],
+      "positivos": [
+        [
+          "max_completo",
+          0.24701627631863426
+        ],
+        [
+          "origem_compativel",
+          0.24856183236495316
+        ],
+        [
+          "posicao_busca",
+          0.30346079097387657
+        ],
+        [
+          "escopo_texto",
+          0.45261121943072913
+        ],
+        [
+          "media3_completo",
+          0.5936050400119401
+        ]
+      ]
+    },
+    {
+      "id": "Q0043",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6290509959075606,
+      "negativos": [
+        [
+          "palavra_completo",
+          -2.0177695594575096
+        ],
+        [
+          "palavra_alt_media",
+          -0.7996992801268316
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.7339232672009762
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.5916598766583302
+        ],
+        [
+          "escopo_alternativas",
+          -0.40216397143107663
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_enunciado",
+          0.451236793792124
+        ],
+        [
+          "escopo_texto",
+          0.767106095866946
+        ],
+        [
+          "palavra_alt_max",
+          0.8877475583568735
+        ],
+        [
+          "media3_completo",
+          1.076089910391398
+        ],
+        [
+          "escopo_alternativa_media",
+          1.916762857381172
+        ]
+      ]
+    },
+    {
+      "id": "Q0066",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.8465719893878496,
+      "negativos": [
+        [
+          "escopo_alternativa_max",
+          -0.5592559449956027
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.5517886067227772
+        ],
+        [
+          "escopo_alternativas",
+          -0.4341578016678455
+        ],
+        [
+          "char_enunciado",
+          -0.1786814875904596
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.17813810492363077
+        ]
+      ],
+      "positivos": [
+        [
+          "posicao_busca",
+          0.30346079097387657
+        ],
+        [
+          "escopo_comando",
+          0.3086289168692223
+        ],
+        [
+          "escopo_alternativa_media",
+          0.6483403127037229
+        ],
+        [
+          "media3_completo",
+          0.9422376694101839
+        ],
+        [
+          "escopo_texto",
+          1.5171784606914127
+        ]
+      ]
+    },
+    {
+      "id": "Q0068",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6971144466234167,
+      "negativos": [
+        [
+          "escopo_alternativa_max",
+          -0.7335340803480818
+        ],
+        [
+          "escopo_alternativas",
+          -0.31335446317214805
+        ],
+        [
+          "origem_compativel",
+          -0.09718057921941303
+        ],
+        [
+          "palavra_alt_media",
+          -0.07870805064594155
+        ],
+        [
+          "palavra_enunciado",
+          -0.05047376852535661
+        ]
+      ],
+      "positivos": [
+        [
+          "origem_reconhecida",
+          0.19331773475995093
+        ],
+        [
+          "posicao_busca",
+          0.30346079097387657
+        ],
+        [
+          "media3_completo",
+          0.36119240244466944
+        ],
+        [
+          "escopo_texto",
+          0.6584811169701708
+        ],
+        [
+          "escopo_alternativa_media",
+          0.7838384251677765
+        ]
+      ]
+    },
+    {
+      "id": "Q0086",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.7534524721252497,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.206948081135536
+        ],
+        [
+          "escopo_alternativa_max",
+          -1.11972805136689
+        ],
+        [
+          "escopo_alternativas",
+          -0.662803576886455
+        ],
+        [
+          "palavra_alt_media",
+          -0.5909097839157591
+        ],
+        [
+          "palavra_alternativas",
+          -0.25787339035492096
+        ]
+      ],
+      "positivos": [
+        [
+          "max_completo",
+          0.3399204214478354
+        ],
+        [
+          "media3_completo",
+          0.6142830110917202
+        ],
+        [
+          "escopo_texto",
+          0.8643978886552394
+        ],
+        [
+          "palavra_alt_max",
+          1.2301822498439476
+        ],
+        [
+          "escopo_alternativa_media",
+          1.7221993678363485
+        ]
+      ]
+    },
+    {
+      "id": "Q0091",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.7050402774370396,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.5631579991936274
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.1815763688535498
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.1790700097855869
+        ],
+        [
+          "palavra_alt_max",
+          -0.11127003180664141
+        ],
+        [
+          "char_enunciado",
+          -0.10701087769456932
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_enunciado",
+          0.16184534909993248
+        ],
+        [
+          "diferenca_melhor_busca",
+          0.19138359555755063
+        ],
+        [
+          "posicao_busca",
+          0.30346079097387657
+        ],
+        [
+          "media3_completo",
+          0.8851602973888603
+        ],
+        [
+          "escopo_texto",
+          0.943905813590311
+        ]
+      ]
+    },
+    {
+      "id": "Q0106",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.5967419395213304,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.223432042069437
+        ],
+        [
+          "palavra_comando",
+          -0.27653767185752426
+        ],
+        [
+          "char_enunciado",
+          -0.181928851740277
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.10052099774945474
+        ],
+        [
+          "char_comando",
+          -0.0848378068748793
+        ]
+      ],
+      "positivos": [
+        [
+          "origem_compativel",
+          0.24856183236495316
+        ],
+        [
+          "posicao_busca",
+          0.30346079097387657
+        ],
+        [
+          "palavra_enunciado",
+          0.4774193456285329
+        ],
+        [
+          "escopo_texto",
+          0.482020898565873
+        ],
+        [
+          "media3_completo",
+          0.7200535249524571
+        ]
+      ]
+    },
+    {
+      "id": "Q0111",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.45198089663539726,
+      "negativos": [
+        [
+          "palavra_assunto_origem",
+          -0.7823072358491093
+        ],
+        [
+          "palavra_completo",
+          -0.553591553745429
+        ],
+        [
+          "palavra_alt_media",
+          -0.13595312714136673
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.11819552189586606
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.08514501689316264
+        ]
+      ],
+      "positivos": [
+        [
+          "diferenca_melhor_busca",
+          0.19138359555755063
+        ],
+        [
+          "origem_compativel",
+          0.24856183236495316
+        ],
+        [
+          "posicao_busca",
+          0.30346079097387657
+        ],
+        [
+          "palavra_alt_max",
+          0.4616707172218968
+        ],
+        [
+          "media3_completo",
+          0.787290917004894
+        ]
+      ]
+    },
+    {
+      "id": "Q0150",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.9605410978579393,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.7609376746811585
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.2000568891509458
+        ],
+        [
+          "char_enunciado",
+          -0.19876104094561833
+        ],
+        [
+          "escopo_enunciado",
+          -0.13388903512214823
+        ],
+        [
+          "palavra_alt_max",
+          -0.11127003180664141
+        ]
+      ],
+      "positivos": [
+        [
+          "norma_enunciado",
+          0.3404541329327102
+        ],
+        [
+          "palavra_enunciado",
+          0.4793734259587336
+        ],
+        [
+          "artigo_enunciado",
+          0.8399351993907385
+        ],
+        [
+          "escopo_texto",
+          1.4549953295528029
+        ],
+        [
+          "media3_completo",
+          1.7782106547486853
+        ]
+      ]
+    },
+    {
+      "id": "Q0208",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.5072548459796069,
+      "negativos": [
+        [
+          "palavra_assunto_origem",
+          -0.5197557774656736
+        ],
+        [
+          "palavra_completo",
+          -0.19050657446600286
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.16429233495274803
+        ],
+        [
+          "palavra_alt_max",
+          -0.11127003180664141
+        ],
+        [
+          "palavra_comando",
+          -0.0885124963012115
+        ]
+      ],
+      "positivos": [
+        [
+          "diferenca_melhor_busca",
+          0.19138359555755063
+        ],
+        [
+          "escopo_texto",
+          0.2444529572996461
+        ],
+        [
+          "origem_compativel",
+          0.24856183236495316
+        ],
+        [
+          "posicao_busca",
+          0.30346079097387657
+        ],
+        [
+          "media3_completo",
+          0.4152485190810923
+        ]
+      ]
+    },
+    {
+      "id": "Q0215",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.7741559349180991,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.5995554785895791
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.2961730836673092
+        ],
+        [
+          "escopo_alternativas",
+          -0.27181885613215684
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.21804752455857954
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.11519445912296655
+        ]
+      ],
+      "positivos": [
+        [
+          "posicao_busca",
+          0.30346079097387657
+        ],
+        [
+          "palavra_enunciado",
+          0.3616519501017818
+        ],
+        [
+          "media3_completo",
+          0.5250495757893835
+        ],
+        [
+          "escopo_alternativa_media",
+          0.7755566779232602
+        ],
+        [
+          "escopo_texto",
+          0.9327233111801513
+        ]
+      ]
+    },
+    {
+      "id": "Q0249",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6121749885695147,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.29360102770010854
+        ],
+        [
+          "palavra_comando",
+          -0.24226538788367624
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.1753589360766741
+        ],
+        [
+          "char_comando",
+          -0.171218362149383
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.14520842254695907
+        ]
+      ],
+      "positivos": [
+        [
+          "diferenca_melhor_busca",
+          0.19138359555755063
+        ],
+        [
+          "origem_compativel",
+          0.24856183236495316
+        ],
+        [
+          "posicao_busca",
+          0.30346079097387657
+        ],
+        [
+          "media3_completo",
+          0.41580046465477866
+        ],
+        [
+          "escopo_texto",
+          0.7336263573149526
+        ]
+      ]
+    },
+    {
+      "id": "Q0291",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.4504204923847974,
+      "negativos": [
+        [
+          "palavra_completo",
+          -2.707618672175902
+        ],
+        [
+          "palavra_comando",
+          -0.46843090452801384
+        ],
+        [
+          "char_enunciado",
+          -0.26576291060876084
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.23951996505788012
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.19212716147209583
+        ]
+      ],
+      "positivos": [
+        [
+          "titulo_enunciado",
+          0.413246043460768
+        ],
+        [
+          "max_completo",
+          0.49997942636370885
+        ],
+        [
+          "palavra_enunciado",
+          0.5616273770388593
+        ],
+        [
+          "media3_completo",
+          1.219183199141648
+        ],
+        [
+          "escopo_texto",
+          1.2856409654462657
+        ]
+      ]
+    },
+    {
+      "id": "Q0319",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.7816727517789617,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.0451057455208472
+        ],
+        [
+          "escopo_alternativas",
+          -0.8807130700693737
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.8415335005211403
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.23215595027929814
+        ],
+        [
+          "palavra_alt_media",
+          -0.225430995840601
+        ]
+      ],
+      "positivos": [
+        [
+          "max_completo",
+          0.3818551877769222
+        ],
+        [
+          "palavra_alt_max",
+          0.4392096241373128
+        ],
+        [
+          "media3_completo",
+          0.49686415999462047
+        ],
+        [
+          "escopo_texto",
+          1.116149917674238
+        ],
+        [
+          "escopo_alternativa_media",
+          1.7978914026450346
+        ]
+      ]
+    },
+    {
+      "id": "Q0345",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.8965822163293709,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.5342448773533073
+        ],
+        [
+          "palavra_alt_media",
+          -0.9234349288416397
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.8234342977909356
+        ],
+        [
+          "escopo_alternativas",
+          -0.6866721387143485
+        ],
+        [
+          "palavra_alternativas",
+          -0.29865012628408366
+        ]
+      ],
+      "positivos": [
+        [
+          "max_completo",
+          0.43048613048919465
+        ],
+        [
+          "media3_completo",
+          0.7825606986132813
+        ],
+        [
+          "palavra_alt_max",
+          0.8929777167112213
+        ],
+        [
+          "escopo_texto",
+          1.1059276114133008
+        ],
+        [
+          "escopo_alternativa_media",
+          2.556998376569669
+        ]
+      ]
+    },
+    {
+      "id": "Q0002",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.667263357190099,
+      "negativos": [
+        [
+          "palavra_assunto_origem",
+          -0.046121879542872675
+        ],
+        [
+          "escopo_texto",
+          -0.009369876675227528
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.007482071526116201
+        ],
+        [
+          "palavra_alt_max",
+          -0.004118592597469373
+        ],
+        [
+          "palavra_alternativas",
+          -0.0038657816320495507
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_completo",
+          0.013951124648059922
+        ],
+        [
+          "origem_compativel",
+          0.016548631186077033
+        ],
+        [
+          "posicao_busca",
+          0.01977132826169017
+        ],
+        [
+          "diferenca_melhor_busca",
+          0.020860257518946632
+        ],
+        [
+          "media3_completo",
+          0.027325329842357658
+        ]
+      ]
+    },
+    {
+      "id": "Q0017",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6728555534631903,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.06514576970118469
+        ],
+        [
+          "palavra_alt_media",
+          -0.03247796673477347
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.028229940953798244
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.01732487253427907
+        ],
+        [
+          "palavra_comando",
+          -0.012129104645720902
+        ]
+      ],
+      "positivos": [
+        [
+          "diferenca_melhor_busca",
+          0.020860257518946632
+        ],
+        [
+          "palavra_alternativas",
+          0.024372222828179052
+        ],
+        [
+          "escopo_texto",
+          0.02461038878890011
+        ],
+        [
+          "escopo_alternativa_media",
+          0.03282710726042707
+        ],
+        [
+          "media3_completo",
+          0.040263675081815956
+        ]
+      ]
+    },
+    {
+      "id": "Q0018",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6883509294301211,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.06588956445703677
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.016438350392551416
+        ],
+        [
+          "escopo_enunciado",
+          -0.014944387950035411
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.007333469340908092
+        ],
+        [
+          "palavra_alt_max",
+          -0.004118592597469373
+        ]
+      ],
+      "positivos": [
+        [
+          "diferenca_melhor_busca",
+          0.020860257518946632
+        ],
+        [
+          "max_completo",
+          0.028011499824899373
+        ],
+        [
+          "titulo_enunciado",
+          0.028458297238890543
+        ],
+        [
+          "media3_completo",
+          0.03275070403880203
+        ],
+        [
+          "escopo_texto",
+          0.06864496362640099
+        ]
+      ]
+    },
+    {
+      "id": "Q0035",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6912071918279538,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.13164898909286077
+        ],
+        [
+          "palavra_alt_media",
+          -0.0558148163403243
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.04499274384936591
+        ],
+        [
+          "char_completo",
+          -0.007073793261443664
+        ],
+        [
+          "escopo_alternativas",
+          -0.006893619411780653
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alt_max",
+          0.04388324249914699
+        ],
+        [
+          "palavra_alternativas",
+          0.057580624370862525
+        ],
+        [
+          "escopo_texto",
+          0.06517491566421595
+        ],
+        [
+          "escopo_alternativa_media",
+          0.06696078674373493
+        ],
+        [
+          "media3_completo",
+          0.07509873548431291
+        ]
+      ]
+    },
+    {
+      "id": "Q0041",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6776762866454085,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.18172571806565374
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.1015974570808853
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.06771157530835402
+        ],
+        [
+          "palavra_alt_media",
+          -0.05831021889246932
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.03858584441186871
+        ]
+      ],
+      "positivos": [
+        [
+          "escopo_alternativa_media",
+          0.057230494972666475
+        ],
+        [
+          "palavra_alt_max",
+          0.0685968673736595
+        ],
+        [
+          "palavra_alternativas",
+          0.07102309423591602
+        ],
+        [
+          "escopo_texto",
+          0.07443112565363455
+        ],
+        [
+          "media3_completo",
+          0.12058299376702138
+        ]
+      ]
+    },
+    {
+      "id": "Q0099",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6930519452111509,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.11569616743630268
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.06215174032489002
+        ],
+        [
+          "palavra_alt_media",
+          -0.044354483596021024
+        ],
+        [
+          "escopo_alternativas",
+          -0.006607901140678437
+        ],
+        [
+          "char_completo",
+          -0.004724539760111496
+        ]
+      ],
+      "positivos": [
+        [
+          "escopo_texto",
+          0.05344038620798874
+        ],
+        [
+          "palavra_alt_max",
+          0.055806198828512725
+        ],
+        [
+          "palavra_alternativas",
+          0.05872614243156299
+        ],
+        [
+          "escopo_alternativa_media",
+          0.06799562144160215
+        ],
+        [
+          "media3_completo",
+          0.0696103162812219
+        ]
+      ]
+    },
+    {
+      "id": "Q0231",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6899666366103517,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.09858698705879688
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.03158870353442857
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.030267994622088262
+        ],
+        [
+          "escopo_enunciado",
+          -0.021157681741997628
+        ],
+        [
+          "palavra_alt_media",
+          -0.019458220845796025
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_enunciado",
+          0.024850918596487553
+        ],
+        [
+          "escopo_alternativa_media",
+          0.02997749616078309
+        ],
+        [
+          "titulo_enunciado",
+          0.03434798078374574
+        ],
+        [
+          "media3_completo",
+          0.0722339503488771
+        ],
+        [
+          "escopo_texto",
+          0.07434415307006462
+        ]
+      ]
+    },
+    {
+      "id": "Q0246",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6767680434122811,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.09971142969155307
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.051287795580348815
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.0299862679004207
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.020505963153203095
+        ],
+        [
+          "palavra_alt_media",
+          -0.010623973857740028
+        ]
+      ],
+      "positivos": [
+        [
+          "diferenca_melhor_busca",
+          0.020860257518946632
+        ],
+        [
+          "palavra_enunciado",
+          0.029447005380670094
+        ],
+        [
+          "escopo_texto",
+          0.04230769585240848
+        ],
+        [
+          "escopo_alternativa_media",
+          0.05497638977659774
+        ],
+        [
+          "media3_completo",
+          0.06860643571291626
+        ]
+      ]
+    },
+    {
+      "id": "Q0253",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6925388809497948,
+      "negativos": [
+        [
+          "escopo_alternativa_max",
+          -0.030857200437378638
+        ],
+        [
+          "palavra_completo",
+          -0.02743698964194891
+        ],
+        [
+          "palavra_comando",
+          -0.013021422918517286
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.010361924755405918
+        ],
+        [
+          "similaridade_foco",
+          -0.009194797213548184
+        ]
+      ],
+      "positivos": [
+        [
+          "posicao_busca",
+          0.01977132826169017
+        ],
+        [
+          "diferenca_melhor_busca",
+          0.020860257518946632
+        ],
+        [
+          "media3_completo",
+          0.03895438654558803
+        ],
+        [
+          "escopo_alternativa_media",
+          0.04540520307632476
+        ],
+        [
+          "escopo_texto",
+          0.0563114226438363
+        ]
+      ]
+    },
+    {
+      "id": "Q0265",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6822940038220641,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.06202146918792277
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.014512506436613469
+        ],
+        [
+          "escopo_enunciado",
+          -0.013109163919166836
+        ],
+        [
+          "palavra_comando",
+          -0.010985627003481225
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.008058805015232299
+        ]
+      ],
+      "positivos": [
+        [
+          "diferenca_melhor_busca",
+          0.015353635501965352
+        ],
+        [
+          "origem_compativel",
+          0.016548631186077033
+        ],
+        [
+          "titulo_enunciado",
+          0.01734194921912244
+        ],
+        [
+          "media3_completo",
+          0.05209554035986497
+        ],
+        [
+          "escopo_texto",
+          0.06022735874189007
+        ]
+      ]
+    },
+    {
+      "id": "Q0275",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.7018587912689951,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.14786830037550447
+        ],
+        [
+          "palavra_alt_media",
+          -0.05060800404275138
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.04621224971782174
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.00951096884402066
+        ],
+        [
+          "escopo_enunciado",
+          -0.008342971958017819
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alt_max",
+          0.061342819566563046
+        ],
+        [
+          "escopo_texto",
+          0.06838545029476728
+        ],
+        [
+          "norma_enunciado",
+          0.07011034130651199
+        ],
+        [
+          "palavra_alternativas",
+          0.07257347870882601
+        ],
+        [
+          "media3_completo",
+          0.08745752076542158
+        ]
+      ]
+    },
+    {
+      "id": "Q0276",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.6892659150113173,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.11525535089770479
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.08539539837231992
+        ],
+        [
+          "palavra_alt_media",
+          -0.04750031524942911
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.0261512168281029
+        ],
+        [
+          "escopo_alternativas",
+          -0.0063131658295037885
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alt_max",
+          0.03284960165296383
+        ],
+        [
+          "palavra_alternativas",
+          0.04756619631295044
+        ],
+        [
+          "escopo_texto",
+          0.06105434592997629
+        ],
+        [
+          "media3_completo",
+          0.06585599114951599
+        ],
+        [
+          "escopo_alternativa_media",
+          0.11787361577013117
+        ]
+      ]
+    },
+    {
+      "id": "Q0313",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6804090642938061,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.05061500992744437
+        ],
+        [
+          "evidencia_escopo_enunciado_alt",
+          -0.011593568645105688
+        ],
+        [
+          "escopo_enunciado",
+          -0.010327575741646744
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.008824901372075759
+        ],
+        [
+          "origem_compativel",
+          -0.006663661230164917
+        ]
+      ],
+      "positivos": [
+        [
+          "titulo_enunciado",
+          0.016772820638370215
+        ],
+        [
+          "posicao_busca",
+          0.01977132826169017
+        ],
+        [
+          "diferenca_melhor_busca",
+          0.020860257518946632
+        ],
+        [
+          "media3_completo",
+          0.04266616615468445
+        ],
+        [
+          "escopo_texto",
+          0.04727820220966934
+        ]
+      ]
+    },
+    {
+      "id": "Q0316",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.678456742346792,
+      "negativos": [
+        [
+          "palavra_assunto_origem",
+          -0.030627440889243497
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.01265774434804974
+        ],
+        [
+          "citacao_sem_correspondencia",
+          -0.002584610914070361
+        ],
+        [
+          "escopo_alternativas",
+          -0.0021723266151248114
+        ],
+        [
+          "foco_utilizavel",
+          -0.002119603021708471
+        ]
+      ],
+      "positivos": [
+        [
+          "origem_compativel",
+          0.016548631186077033
+        ],
+        [
+          "posicao_busca",
+          0.01977132826169017
+        ],
+        [
+          "diferenca_melhor_busca",
+          0.020860257518946632
+        ],
+        [
+          "escopo_alternativa_media",
+          0.02470333329127195
+        ],
+        [
+          "media3_completo",
+          0.02948828942160019
+        ]
+      ]
+    },
+    {
+      "id": "Q0325",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.6663493933119633,
+      "negativos": [
+        [
+          "palavra_completo",
+          -0.09927121472749405
+        ],
+        [
+          "norma_alternativas",
+          -0.0567301762753818
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.04953231641696409
+        ],
+        [
+          "palavra_alt_media",
+          -0.02923231337758533
+        ],
+        [
+          "origem_compativel",
+          -0.006663661230164917
+        ]
+      ],
+      "positivos": [
+        [
+          "escopo_alternativa_media",
+          0.02211259066702204
+        ],
+        [
+          "escopo_texto",
+          0.03545731109878504
+        ],
+        [
+          "palavra_alternativas",
+          0.042068016512667734
+        ],
+        [
+          "media3_completo",
+          0.056280024463023645
+        ],
+        [
+          "palavra_alt_max",
+          0.05780348629318218
+        ]
+      ]
+    },
+    {
+      "id": "Q0005",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.7485234599574508,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.4029324599013555
+        ],
+        [
+          "escopo_alternativas",
+          -0.5213583764973452
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.44761001532945005
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.4216022795480691
+        ],
+        [
+          "escopo_enunciado",
+          -0.40349665152900227
+        ]
+      ],
+      "positivos": [
+        [
+          "titulo_enunciado",
+          0.5119105112502849
+        ],
+        [
+          "palavra_enunciado",
+          0.5278825219219551
+        ],
+        [
+          "escopo_texto",
+          0.709643000222245
+        ],
+        [
+          "media3_completo",
+          0.9315464035850636
+        ],
+        [
+          "escopo_alternativa_media",
+          1.718683622243145
+        ]
+      ]
+    },
+    {
+      "id": "Q0058",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.3813784867685644,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.1537979077224596
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.7238798477033552
+        ],
+        [
+          "escopo_alternativas",
+          -0.3765341828871563
+        ],
+        [
+          "palavra_alternativas",
+          -0.2521515531597592
+        ],
+        [
+          "origem_compativel",
+          -0.16133050749737626
+        ]
+      ],
+      "positivos": [
+        [
+          "posicao_busca",
+          0.45824557962297724
+        ],
+        [
+          "escopo_texto",
+          0.4840711518119183
+        ],
+        [
+          "escopo_alternativa_media",
+          0.5630053407862222
+        ],
+        [
+          "media3_completo",
+          0.835156801618256
+        ],
+        [
+          "palavra_alt_max",
+          1.0878213084633497
+        ]
+      ]
+    },
+    {
+      "id": "Q0139",
+      "grupo": "publicadas_corretas_modelo",
+      "confianca": 0.9473628327833674,
+      "negativos": [
+        [
+          "palavra_completo",
+          -3.729842733296146
+        ],
+        [
+          "escopo_alternativa_max",
+          -1.222321756845737
+        ],
+        [
+          "escopo_alternativas",
+          -0.9149074072367919
+        ],
+        [
+          "palavra_alternativas",
+          -0.8750730018967107
+        ],
+        [
+          "palavra_alt_media",
+          -0.7645581891580526
+        ]
+      ],
+      "positivos": [
+        [
+          "escopo_texto",
+          1.130716609227861
+        ],
+        [
+          "char_completo",
+          1.2925615833964959
+        ],
+        [
+          "media3_completo",
+          2.2266024905171857
+        ],
+        [
+          "palavra_alt_max",
+          2.5351807608762025
+        ],
+        [
+          "escopo_alternativa_media",
+          4.0163955024476135
+        ]
+      ]
+    },
+    {
+      "id": "Q0160",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.5350036825668899,
+      "negativos": [
+        [
+          "palavra_completo",
+          -2.8348395938105257
+        ],
+        [
+          "palavra_comando",
+          -1.4995848908522622
+        ],
+        [
+          "escopo_enunciado",
+          -0.6910892934420673
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.347825965417569
+        ],
+        [
+          "char_enunciado",
+          -0.254933416970985
+        ]
+      ],
+      "positivos": [
+        [
+          "escopo_comando",
+          0.679079212671546
+        ],
+        [
+          "palavra_enunciado",
+          0.7760672950242656
+        ],
+        [
+          "escopo_texto",
+          1.0514858698250842
+        ],
+        [
+          "media3_completo",
+          1.2975276631172714
+        ],
+        [
+          "titulo_enunciado",
+          1.425739945537534
+        ]
+      ]
+    },
+    {
+      "id": "Q0179",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.732608538189501,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.1136682322752383
+        ],
+        [
+          "escopo_enunciado",
+          -0.5724915598010101
+        ],
+        [
+          "palavra_assunto_origem",
+          -0.519309550043312
+        ],
+        [
+          "palavra_comando",
+          -0.5052532128629137
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.25964421504198704
+        ]
+      ],
+      "positivos": [
+        [
+          "origem_compativel",
+          0.4054769141875959
+        ],
+        [
+          "posicao_busca",
+          0.45824557962297724
+        ],
+        [
+          "escopo_texto",
+          0.8468867368638447
+        ],
+        [
+          "escopo_comando",
+          0.9018335888148856
+        ],
+        [
+          "media3_completo",
+          1.553666299209772
+        ]
+      ]
+    },
+    {
+      "id": "Q0186",
+      "grupo": "publicadas_corretas_modelo",
+      "confianca": 0.9562647048086476,
+      "negativos": [
+        [
+          "palavra_completo",
+          -3.8835128388772184
+        ],
+        [
+          "palavra_comando",
+          -1.8345934991326631
+        ],
+        [
+          "escopo_enunciado",
+          -1.018037342410957
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.7860912326162591
+        ],
+        [
+          "escopo_alternativas",
+          -0.6643905660396573
+        ]
+      ],
+      "positivos": [
+        [
+          "titulo_enunciado",
+          1.2680251283448598
+        ],
+        [
+          "escopo_alternativa_media",
+          1.3489064552045102
+        ],
+        [
+          "escopo_comando",
+          1.609445530507456
+        ],
+        [
+          "escopo_texto",
+          1.729294078841796
+        ],
+        [
+          "media3_completo",
+          2.727136961050729
+        ]
+      ]
+    },
+    {
+      "id": "Q0201",
+      "grupo": "publicadas_corretas_modelo",
+      "confianca": 0.9499515185932822,
+      "negativos": [
+        [
+          "palavra_completo",
+          -2.33609992140733
+        ],
+        [
+          "escopo_alternativa_max",
+          -1.2564318399623395
+        ],
+        [
+          "escopo_alternativas",
+          -1.1225263377510253
+        ],
+        [
+          "palavra_alternativas",
+          -0.5545671134904592
+        ],
+        [
+          "palavra_alt_media",
+          -0.47335590446618303
+        ]
+      ],
+      "positivos": [
+        [
+          "char_completo",
+          0.7316142701662257
+        ],
+        [
+          "escopo_texto",
+          1.254523006008352
+        ],
+        [
+          "media3_completo",
+          1.4450811234488234
+        ],
+        [
+          "palavra_alt_max",
+          1.452134282050151
+        ],
+        [
+          "escopo_alternativa_media",
+          4.042500729080779
+        ]
+      ]
+    },
+    {
+      "id": "Q0240",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.5300188398565169,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.5978010695621006
+        ],
+        [
+          "escopo_enunciado",
+          -0.38112755512863766
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.279719128387618
+        ],
+        [
+          "char_enunciado",
+          -0.21435425541657824
+        ],
+        [
+          "palavra_alt_max",
+          -0.18106825262150741
+        ]
+      ],
+      "positivos": [
+        [
+          "titulo_enunciado",
+          0.44098194098592414
+        ],
+        [
+          "posicao_busca",
+          0.45824557962297724
+        ],
+        [
+          "palavra_enunciado",
+          0.4902225564809108
+        ],
+        [
+          "escopo_texto",
+          0.5540205743167942
+        ],
+        [
+          "media3_completo",
+          0.7285365751601801
+        ]
+      ]
+    },
+    {
+      "id": "Q0304",
+      "grupo": "publicadas_corretas_modelo",
+      "confianca": 0.8561671524672079,
+      "negativos": [
+        [
+          "palavra_completo",
+          -2.0331821191788486
+        ],
+        [
+          "escopo_alternativa_max",
+          -1.2565013804114642
+        ],
+        [
+          "escopo_enunciado",
+          -1.1557962248297802
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.8250124412369749
+        ],
+        [
+          "escopo_alternativas",
+          -0.7579275263867965
+        ]
+      ],
+      "positivos": [
+        [
+          "palavra_alt_max",
+          0.8244175314905534
+        ],
+        [
+          "escopo_texto",
+          1.3890919217957558
+        ],
+        [
+          "media3_completo",
+          1.490483765957427
+        ],
+        [
+          "titulo_enunciado",
+          1.7904978390606958
+        ],
+        [
+          "escopo_alternativa_media",
+          2.3236859888566315
+        ]
+      ]
+    },
+    {
+      "id": "Q0311",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.7729186146764946,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.1214784393720236
+        ],
+        [
+          "escopo_alternativas",
+          -0.8022439677005127
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.7031176834002929
+        ],
+        [
+          "apoio_enunciado_e_alternativas",
+          -0.40151894578080977
+        ],
+        [
+          "palavra_alternativas",
+          -0.2377814589849291
+        ]
+      ],
+      "positivos": [
+        [
+          "posicao_busca",
+          0.45824557962297724
+        ],
+        [
+          "char_completo",
+          0.5190932538193613
+        ],
+        [
+          "escopo_texto",
+          0.9702830104964995
+        ],
+        [
+          "media3_completo",
+          1.0357682808488209
+        ],
+        [
+          "escopo_alternativa_media",
+          1.8867680732883585
+        ]
+      ]
+    },
+    {
+      "id": "Q0320",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.4738848843350079,
+      "negativos": [
+        [
+          "palavra_assunto_origem",
+          -0.5769906114238386
+        ],
+        [
+          "palavra_completo",
+          -0.4279649110560184
+        ],
+        [
+          "escopo_alternativa_max",
+          -0.2500884560973905
+        ],
+        [
+          "escopo_alternativas",
+          -0.14676930037432162
+        ],
+        [
+          "char_alternativas",
+          -0.13500433996946912
+        ]
+      ],
+      "positivos": [
+        [
+          "origem_compativel",
+          0.4054769141875959
+        ],
+        [
+          "posicao_busca",
+          0.45824557962297724
+        ],
+        [
+          "escopo_alternativa_media",
+          0.46910975333107324
+        ],
+        [
+          "palavra_alt_max",
+          0.5524153199910793
+        ],
+        [
+          "media3_completo",
+          0.8722302790313579
+        ]
+      ]
+    },
+    {
+      "id": "Q0324",
+      "grupo": "revisadas_erradas",
+      "confianca": 0.30587247659298417,
+      "negativos": [
+        [
+          "palavra_completo",
+          -2.3065152710034393
+        ],
+        [
+          "escopo_enunciado",
+          -0.5372247502221459
+        ],
+        [
+          "escopo_alternativa_media",
+          -0.2923308828130513
+        ],
+        [
+          "palavra_alt_max",
+          -0.18106825262150741
+        ],
+        [
+          "char_enunciado",
+          -0.17972435654754707
+        ]
+      ],
+      "positivos": [
+        [
+          "posicao_busca",
+          0.45824557962297724
+        ],
+        [
+          "titulo_enunciado",
+          0.4905574667295831
+        ],
+        [
+          "palavra_enunciado",
+          0.6573142767711385
+        ],
+        [
+          "escopo_texto",
+          0.7817435720264929
+        ],
+        [
+          "media3_completo",
+          1.1912201831805325
+        ]
+      ]
+    },
+    {
+      "id": "Q0339",
+      "grupo": "revisadas_corretas",
+      "confianca": 0.8127784363585651,
+      "negativos": [
+        [
+          "palavra_completo",
+          -1.7058503322609448
+        ],
+        [
+          "escopo_alternativa_max",
+          -1.4021753052541008
+        ],
+        [
+          "escopo_alternativas",
+          -0.6480737987588447
+        ],
+        [
+          "palavra_alternativas",
+          -0.3415800383966866
+        ],
+        [
+          "palavra_alt_media",
+          -0.2431721412028118
+        ]
+      ],
+      "positivos": [
+        [
+          "max_completo",
+          0.5392361554313077
+        ],
+        [
+          "escopo_texto",
+          0.928688829627672
+        ],
+        [
+          "media3_completo",
+          0.9880556990535163
+        ],
+        [
+          "palavra_alt_max",
+          1.5796887309466807
+        ],
+        [
+          "escopo_alternativa_media",
+          2.0929721754454116
+        ]
+      ]
+    }
+  ],
+  "interpretacao": "Três maiores contribuições negativas no logit, relativas à centralização do treino. Não são pontos percentuais nem causas jurídicas; sinais correlacionados podem compensar-se."
+}

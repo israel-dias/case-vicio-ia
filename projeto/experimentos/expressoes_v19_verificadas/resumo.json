@@ -1,0 +1,19 @@
+{
+  "questoes": 559,
+  "publicar": 97,
+  "revisar": 462,
+  "fora": 0,
+  "cobertura": 0.1735241502683363,
+  "precisao_real_alvo": null,
+  "motivos_revisao": {
+    "abaixo_do_limiar_calibrado": 395,
+    "homonimo_sem_escopo_resolvido": 66,
+    "sem_evidencia;homonimo_sem_escopo_resolvido": 1
+  },
+  "variante": "vocabulario_escopos",
+  "confianca_global_recalibrada": false,
+  "precisao_real_559": null,
+  "rotulos_lidos": false,
+  "chamadas_llm": 0,
+  "promove_entrega": false
+}

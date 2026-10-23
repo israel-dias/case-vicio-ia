@@ -1,0 +1,89 @@
+{
+  "testes_novos": 15,
+  "resultado": "OK",
+  "preservacao": {
+    "17": {
+      "arquivos": 766,
+      "alteracoes": []
+    },
+    "18": {
+      "arquivos": 1027,
+      "alteracoes": []
+    }
+  },
+  "experimentos_concluidos": {
+    "semantica_v21_001": {
+      "variantes": 6,
+      "previsoes": 3354,
+      "concluido": true
+    },
+    "semantica_v22_001": {
+      "variantes": 4,
+      "previsoes": 2236,
+      "concluido": true
+    },
+    "qualidade_v23_002": {
+      "variantes": 2,
+      "previsoes": 1118,
+      "concluido": true
+    }
+  },
+  "verificacoes": {
+    "experimentos/semantica_v21_001/reproducao_verificada.json": {
+      "variantes": {
+        "lexical_bm25": 559,
+        "e5_query": 559,
+        "e5_passage": 559,
+        "hibrido_25": 559,
+        "hibrido_50": 559,
+        "comparador": 559
+      },
+      "previsoes_reproduzidas": 3354,
+      "reproducao_exata": true,
+      "rotulos_rede_treino_avaliador_recalibracao_encoder_ausentes": true,
+      "segundos": 15.296081775999482
+    },
+    "experimentos/semantica_v22_001/verificacao_inferencia.json": {
+      "questoes": 559,
+      "previsoes": 2236,
+      "blocos": 14,
+      "novos_blocos": 14,
+      "rotulos_rede_treino_avaliador_recalibracao_bloqueados": true,
+      "encoder_carregado": false,
+      "promove_entrega": false
+    },
+    "experimentos/qualidade_v23_002/reproducao_amostral_verificada.json": {
+      "amostra": 16,
+      "ids": [
+        "Q0001",
+        "Q0053",
+        "Q0104",
+        "Q0152",
+        "Q0195",
+        "Q0239",
+        "Q0292",
+        "Q0344",
+        "Q0381",
+        "Q0416",
+        "Q0451",
+        "Q0486",
+        "Q0521",
+        "Q0556",
+        "Q0591",
+        "Q0626"
+      ],
+      "previsoes_conferidas": 80,
+      "v22_variantes": 4,
+      "v23_variante": "evidencias",
+      "reproducao_exata": true,
+      "rotulos_rede_treino_avaliador_recalibracao_encoder_bloqueados": true,
+      "escopo": "Amostra determinística, não conferência de todas as 559 nem avaliação de acerto jurídico."
+    }
+  },
+  "avaliacao_100": "Desenvolvimento exposto e reutilizado; não é teste externo cego.",
+  "precisao_real_559": null,
+  "promove_entrega": false,
+  "custo_api_executado_usd": 0,
+  "push_realizado": false,
+  "email_enviado": false
+}

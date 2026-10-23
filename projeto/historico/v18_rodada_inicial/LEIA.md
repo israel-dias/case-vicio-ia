@@ -1,0 +1,1 @@
+Fontes da rodada contexto_v18_001, preservadas antes do refinamento do detector. O protocolo dessa rodada contém os hashes originais. Para reproduzir sua inferência, use estas versões em uma cópia separada do projeto. A rodada _002 é a atual; não é um teste cego novo.

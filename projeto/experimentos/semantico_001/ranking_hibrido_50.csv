@@ -1,0 +1,61 @@
+id,tema_previsto,caminho_previsto,score_ordenacao_nao_calibrado,acerto_top1,acerto_top5,fora_referencia,candidatos_top5
+Q0003,5568,Processo Penal > Recursos em Espécies > Correição Parcial,0.82776468,True,True,False,5568;5562;5560;5512;5565
+Q0005,5537,Processo Penal > Procedimento Ordinário > Sentença,0.96548527,False,False,False,5537;5576;5185;5530;5198
+Q0018,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,0.87307995,True,True,False,5540;5480;6732;6733;5530
+Q0023,5528,Processo Penal > Procedimento do Tribunal do Júri > Organização do Júri e Sessão de Julgamento,0.84981699,True,True,False,5528;5524;5535;5530;5537
+Q0028,5487,Processo Penal > Comunicação dos Atos Processuais,0.91571146,False,False,False,5487;5530;5537;5535;5466
+Q0034,5498,Processo Penal > Inquérito Policial,0.79325742,False,True,False,5498;5477;5500;5495;5504
+Q0040,5562,Processo Penal > Recursos em Espécies > Apelação,0.97441463,True,True,False,5562;5575;5537;5571;5565
+Q0041,5184,Penal > Medida de Segurança,0.86557201,True,True,False,5184;5198;5185;5537;5479
+Q0043,5204,Penal > Teoria da Pena > Terceira fase da Dosimetria: Causas de Aumento e de Diminuição,0.86884411,False,False,True,5204;6727;5199;6726;5537
+Q0057,5175,Penal > Iter Criminis,0.91421366,True,True,False,5175;5176;5537;5179;5063
+Q0061,5565,Processo Penal > Recursos em Espécies > Embargos de Declaração,0.85207554,False,False,False,5565;6726;5185;5537;6727
+Q0067,5087,Penal > Dos Crimes Contra a Administração Pública,0.96896086,True,True,False,5087;6718;6719;5095;5093
+Q0068,5096,Penal > Dos Crimes Contra a Administração Pública > Condescendência Criminosa,0.81428857,True,True,False,5096;5117;5116;5198;5185
+Q0077,5185,Penal > Prescrição,0.85683716,False,False,False,5185;5537;5198;5479;5071
+Q0080,4370,Criminologia > Criminologia no Estado Democrático de Direito > Modelos de Reação ao Delito,0.77564018,True,True,False,4370;5185;4368;5198;5155
+Q0086,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,0.88296758,True,True,False,5092;5066;5198;5185;5135
+Q0087,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,0.8599869,False,False,True,4703;6734;5521;5571;5537
+Q0091,5199,Penal > Teoria da Pena,0.83912702,False,False,False,5199;5208;5537;6727;6726
+Q0103,5478,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,0.9084756,True,True,False,5478;5562;5530;5198;5512
+Q0110,5480,Processo Penal > Competência,0.94295896,True,True,False,5480;5571;5466;6733;6732
+Q0111,4384,Criminologia > Teorias Legitimidoras da Pena,1.0,False,False,False,4384;5199;4380;4387;6727
+Q0115,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,0.85003651,True,True,False,4385;5199;4387;5198;4386
+Q0117,5199,Penal > Teoria da Pena,0.90077311,False,True,False,5199;4384;6726;6727;5537
+Q0124,5199,Penal > Teoria da Pena,0.82323034,False,True,False,5199;4384;5537;5185;5548
+Q0134,5087,Penal > Dos Crimes Contra a Administração Pública,0.84818999,True,True,False,5087;5466;5185;5537;5101
+Q0137,5498,Processo Penal > Inquérito Policial,0.87982173,True,True,False,5498;5500;5501;5499;5198
+Q0138,5205,Penal > Teoria da Pena > Penas Restritivas de Direitos,0.92406457,True,True,False,5205;5201;5207;5537;5185
+Q0144,5529,Processo Penal > Procedimento do Tribunal do Júri > Sentença do Júri,0.88309008,True,True,False,5529;5561;5524;5562;5478
+Q0150,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,0.86795615,True,True,False,4708;5571;5479;5570;6728
+Q0160,5199,Penal > Teoria da Pena,0.86937497,True,True,False,5199;5205;5201;6727;5537
+Q0167,5487,Processo Penal > Comunicação dos Atos Processuais,0.88892414,False,False,False,5487;5466;5480;5198;5565
+Q0179,5127,Penal > Dos Crimes Contra a Incolumidade Pública > Dos Crimes Contra a Segurança dos Meios de Comunicação e Transporte e Outros Serviços Públicos,0.85203627,False,True,False,5127;4369;5155;4378;4368
+Q0186,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,0.86766153,True,True,False,5202;5537;5530;5548;5571
+Q0201,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,0.92882241,True,True,False,5103;5198;5108;5109;5066
+Q0202,5198,Penal > Punibilidade > Decadência,0.90398559,False,False,False,5198;5221;5548;5102;5105
+Q0208,5198,Penal > Punibilidade > Decadência,0.90012445,False,False,False,5198;5150;5185;5548;5066
+Q0215,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,0.84689235,True,True,False,5201;5576;5537;5185;5198
+Q0221,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,0.86544541,True,True,False,5201;5205;5537;5185;5198
+Q0231,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,0.87144078,True,True,False,5224;6728;4708;5221;5198
+Q0244,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,0.90726843,True,True,False,5092;5093;5091;5081;5466
+Q0249,5466,Processo Penal > Ação Penal,0.9032052,False,False,False,5466;6732;5063;6733;5480
+Q0251,5185,Penal > Prescrição,0.83517531,True,True,False,5185;5198;5191;5193;5537
+Q0259,5228,Penal > Teoria do Crime: Ilicitude,0.83902962,False,False,False,5228;5211;5198;5218;5185
+Q0275,5487,Processo Penal > Comunicação dos Atos Processuais,0.92991898,False,True,False,5487;5530;4701;5198;5537
+Q0277,6722,Penal > Estatuto do Idoso - Crimes,0.86294787,False,True,False,6722;4696;5114;5087;5079
+Q0279,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",0.86932913,True,True,False,5178;5198;5530;5159;5188
+Q0286,5066,Penal > Concurso de Crimes,0.80363816,False,False,False,5066;5069;5068;5185;5548
+Q0290,5470,Processo Penal > Ação Penal > Ação Penal Pública Incondicionada,0.87282958,False,False,False,5470;5466;5471;5535;5063
+Q0291,6728,Penal > Tráfico de Drogas,0.90239393,False,False,True,6728;4708;5501;5498;5500
+Q0303,5466,Processo Penal > Ação Penal,0.91104792,False,False,True,5466;5201;5205;5063;5064
+Q0308,5498,Processo Penal > Inquérito Policial,0.89584411,True,True,False,5498;5500;5501;5499;5504
+Q0311,5487,Processo Penal > Comunicação dos Atos Processuais,0.937361,True,True,False,5487;5530;5466;5063;5198
+Q0314,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,1.0,True,True,False,5477;5479;5063;5570;5128
+Q0316,5198,Penal > Punibilidade > Decadência,0.81020616,False,False,False,5198;5066;5466;5185;5199
+Q0320,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,0.82867487,True,True,False,5550;5498;5530;5500;5548
+Q0323,5535,Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento,0.94266696,False,False,False,5535;5530;5550;5548;5466
+Q0324,5537,Processo Penal > Procedimento Ordinário > Sentença,0.91949018,False,False,False,5537;6727;6726;5199;5548
+Q0338,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,0.92303054,False,False,False,5550;5548;5580;5198;5063
+Q0341,5066,Penal > Concurso de Crimes,0.88000978,True,True,False,5066;5157;5070;5071;5185
+Q0345,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,0.88150586,True,True,False,5103;5198;5105;5185;6716

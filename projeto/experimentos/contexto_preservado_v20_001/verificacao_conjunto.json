@@ -1,0 +1,26 @@
+{
+  "variantes": {
+    "controle_atual": {
+      "questoes": 559,
+      "reproducao_exata": true
+    },
+    "ambiguidades_contextuais": {
+      "questoes": 559,
+      "reproducao_exata": true
+    },
+    "campos_sem_amplificar": {
+      "questoes": 559,
+      "reproducao_exata": true
+    },
+    "escopos_contextuais": {
+      "questoes": 559,
+      "reproducao_exata": true
+    }
+  },
+  "previsoes_reproduzidas": 2236,
+  "inferencias_adicionais_estimador_preservado": 559,
+  "mesmo_candidato_implica_mesma_confianca_verificado": 547,
+  "rotulos_rede_treino_avaliador_recalibracao_bloqueados": true,
+  "precisao_real_559": null,
+  "promove_entrega": false
+}

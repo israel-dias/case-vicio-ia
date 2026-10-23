@@ -1,0 +1,88 @@
+{
+  "variantes": {
+    "usuario_literal": {
+      "literal": true,
+      "reranking": false
+    },
+    "contexto_preservado": {
+      "literal": false,
+      "reranking": false
+    },
+    "comparador_treinado": {
+      "literal": false,
+      "reranking": true
+    },
+    "fusao_conservadora": {
+      "literal": false,
+      "reranking": false,
+      "fusao": true
+    }
+  },
+  "atributos": [
+    "efetivo_palavra",
+    "efetivo_caracteres",
+    "efetivo_escopo",
+    "efetivo_titulo",
+    "efetivo_identificador",
+    "efetivo_norma",
+    "efetivo_artigo",
+    "en_palavra",
+    "en_escopo",
+    "cmd_palavra",
+    "cmd_caracteres",
+    "cmd_escopo",
+    "cmd_titulo",
+    "cmd_identificador",
+    "cmd_norma",
+    "cmd_artigo",
+    "alt_palavra_media",
+    "alt_escopo_media",
+    "alt_escopo_max",
+    "itens_escopo_media",
+    "itens_escopo_max",
+    "itens_escopo_top2",
+    "voto_itens",
+    "desconhecimento_erro",
+    "condicao_vitima_erro",
+    "vantagem_lexical",
+    "vantagem_relativa"
+  ],
+  "meta_empirica_interna": 0.95,
+  "suporte_minimo": 10,
+  "cortes": [
+    "calibrado",
+    "70"
+  ],
+  "corte70": 0.7,
+  "politicas": [
+    "substituir",
+    "preservar_v11"
+  ],
+  "ramos_homonimos_equivalentes": false,
+  "regras": "Comando identificável antes de explique/norma, itens, CE, hipótese, caso narrado, instrução e conjunto. Literal descarta campos; contextual conserva. Maioria de itens por grupo de título é hipótese, não resposta oficial. Empate sem maioria usa primeiro item somente na literal.",
+  "reordenacao": "Comparador treinado avalia todas as famílias ativas. Novos atributos não incluem ID, disciplina/assunto de origem ou gabarito. Fusão reutiliza o ranking legado V8, que mantém sua preparação histórica.",
+  "rodada": 2,
+  "alteracoes_pos_rodada1": "Reconhecer situação hipotética também no comando; acrescentar fusão conservadora 70% ranking V8 + 30% ranking por papéis. Rodada inicial e código preservados. Esses pesos são escores de busca, não confiança ou percentuais de precisão.",
+  "fora": "Não cria regra automática de exclusão. Rótulos fora contam como negativos de compatibilidade no treino, não justificam exclusões por palavra.",
+  "avaliacao": "Mesmos 5 folds externos e 4 internos. Não mistura rótulos externos no ajuste, calibração e corte do fold.",
+  "exposicao": "100 rótulos e vários erros já vistos e reutilizados; não é teste externo cego.",
+  "escolha_pelo_volume559": false,
+  "promove_entrega": false,
+  "codigo_sha256": {
+    "testar_roteamento_v14.py": "3f7378b38e38fd5e1afb8261380bd36ff6b8a7f5796ae27eafd979cc1062d23e",
+    "roteamento_v14/texto.py": "90196cb5c2afe1f3033185f7e75d8fe366d784d5def26d7b89c5c9150ba1042d",
+    "roteamento_v14/modelo.py": "5c6c68304af4b09fea896c192d4748044775a82d65576b125415abb8e2d7495f",
+    "classificar_roteamento_v14.py": "1c14d1e333a947d6b94be95f8faa1ef14f55799f7df0a5b918e63705834e9bb1",
+    "congelar_roteamento_v14.py": "34b9aaf39f1e3790ed02d34f1bb92704af10af6863ae4d50370acf5c6ca33077"
+  },
+  "dados_sha256": {
+    "questoes.jsonl": "318f1fea970633a4d84eb5a4dd071b2ae76ad3e49288a073ab381f61a09da3f3",
+    "temas.csv": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc",
+    "folha_verdade.csv": "c1412ce8d336ae248a2f0e46d8e34cbc07dd33c78af9ce6bbe1337c516ee8e3b"
+  },
+  "preservados_sha256": {
+    "publicacao.csv": "05921ae3cff5ee7336c08620530c4516825f3f7c69969a8cca3384cd65a70686",
+    "previsao.txt": "052ba667402f327bfef61a9b4c34b98f10b50382e6a39e26f740cfe439eefb03",
+    "experimentos/palavra_v12_001/resumo.json": "fe032404ed446292b2e78e1809fe77d6db2a5f257ca553fd7d45a91a34aa7ced"
+  }
+}

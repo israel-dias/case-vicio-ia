@@ -1,0 +1,22 @@
+test_ajuste_rejeita_rotulo_externo (test_melhorias_v3.TestMelhoriasV3.test_ajuste_rejeita_rotulo_externo) ... ok
+test_alias_de_norma_nao_funde_ids_homonimos (test_melhorias_v3.TestMelhoriasV3.test_alias_de_norma_nao_funde_ids_homonimos) ... ok
+test_artigo_sem_norma_nao_recebe_codigo_inventado (test_melhorias_v3.TestMelhoriasV3.test_artigo_sem_norma_nao_recebe_codigo_inventado) ... ok
+test_artigos_identicos_em_codigos_diferentes_nao_compartilham_apoio (test_melhorias_v3.TestMelhoriasV3.test_artigos_identicos_em_codigos_diferentes_nao_compartilham_apoio) ... ok
+test_atributos_ignoram_id_preservam_negacao_e_alternativas (test_melhorias_v3.TestMelhoriasV3.test_atributos_ignoram_id_preservam_negacao_e_alternativas) ... ok
+test_citacoes_com_ordinais_anos_e_lei_sem_ano (test_melhorias_v3.TestMelhoriasV3.test_citacoes_com_ordinais_anos_e_lei_sem_ano) ... ok
+test_cp_cpp_e_militares_nao_sao_confundidos (test_melhorias_v3.TestMelhoriasV3.test_cp_cpp_e_militares_nao_sao_confundidos) ... ok
+test_mapa_nao_contem_questoes_ou_respostas_por_id (test_melhorias_v3.TestMelhoriasV3.test_mapa_nao_contem_questoes_ou_respostas_por_id) ... ok
+test_normalizacao_adicional_nao_reescreve_textos_de_entrada (test_melhorias_v3.TestMelhoriasV3.test_normalizacao_adicional_nao_reescreve_textos_de_entrada) ... ok
+test_normas_proximas_ficam_com_seus_artigos (test_melhorias_v3.TestMelhoriasV3.test_normas_proximas_ficam_com_seus_artigos) ... ok
+test_particoes_rejeitam_duplicatas_e_sobreposicao (test_melhorias_v3.TestMelhoriasV3.test_particoes_rejeitam_duplicatas_e_sobreposicao) ... ok
+test_suporte_minimo_e_precisao_indefinida_sao_preservados (test_melhorias_v3.TestMelhoriasV3.test_suporte_minimo_e_precisao_indefinida_sao_preservados) ... ok
+test_artefato_alterado_e_rejeitado (test_melhorias_v3.TestRuntimeCongeladoV3.test_artefato_alterado_e_rejeitado) ... ok
+test_csv_reproduz_sem_rotulos_e_saida_existente_e_preservada (test_melhorias_v3.TestRuntimeCongeladoV3.test_csv_reproduz_sem_rotulos_e_saida_existente_e_preservada) ... ok
+test_inferencia_sem_folha_verdade_sem_treino_sem_rede (test_melhorias_v3.TestRuntimeCongeladoV3.test_inferencia_sem_folha_verdade_sem_treino_sem_rede) ... ok
+test_modelo_nao_tem_gabaritos_por_questao (test_melhorias_v3.TestRuntimeCongeladoV3.test_modelo_nao_tem_gabaritos_por_questao) ... ok
+test_trocar_id_nao_muda_resultado (test_melhorias_v3.TestRuntimeCongeladoV3.test_trocar_id_nao_muda_resultado) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 2.245s
+
+OK

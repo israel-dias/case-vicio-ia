@@ -1,0 +1,37 @@
+{
+  "testes_diagnostico_aprovados": 7,
+  "ids_alvo": 559,
+  "ids_rotulados_na_saida": 0,
+  "configuracoes_conferidas": 12,
+  "linhas_comparacao": 6708,
+  "casos_completos_fora_da_referencia": [
+    "Q0047",
+    "Q0250",
+    "Q0074",
+    "Q0369",
+    "Q0272",
+    "Q0271",
+    "Q0229",
+    "Q0289",
+    "Q0430",
+    "Q0288"
+  ],
+  "decisoes_alteradas_pelo_relatorio": false,
+  "fontes_sha256": {
+    "diagnosticar_559_v15.py": "da92809ecdd03498188e4ecb6e663ad69eaff0d75e746d875c906d6f982ae563",
+    "resumir_559_v15.py": "6c3362c005a8490643f0dee03bcbe6d24acfe1ff4754905ea745d7466870558d"
+  },
+  "artefatos_sha256": {
+    "LEITURA.md": "b818cd32f2ae7d7ed801b079213c5f4dc8b38ebba37400a380c741c5adc70a02",
+    "analise_complementar.json": "8553a3c05db3f5ff78f9abfcfcb9114b05b2311a3fb1dd409915e46126025317",
+    "CASOS_PARA_CONFERIR.md": "5593c6220e8f3e25130e8b3c61519a8d8b48f52cb382537eb096e995171bd1d6",
+    "comparacao_variantes_559.csv": "3b14d014d9f23717e1ded6a08d3a951e899b543350798c73157d56481802fd6f",
+    "diagnostico_por_questao.jsonl": "4764492a3efd04a220424f3d971396ce7655b7732076f76d0050db70525196ce",
+    "classificacoes_559.csv": "0c87f41ccc3523e3d349811abcb3067709a578b999d799d32ba1da99d55dcfcf",
+    "protocolo_previo.json": "c86297ad864e39bec86b9ce7086eea130d3ff1cf000255557961397489466fc0",
+    "preservadas_com_alerta.csv": "70a85e42b2ad4f234e29e81e8c18b92c1531792a51953fad1fb11f2afc0f887b",
+    "candidatas_concordantes_NAO_LIBERADAS.csv": "4f6afcc86f24c512743543c529c5ad1e11ca5b8aec7d4f09707b33ae3577009b",
+    "resumo.json": "bf15d6752abde5812bbdeb2770a3879178fdf06c5062bdc6de14c233efab9252"
+  },
+  "precisao_real": null
+}

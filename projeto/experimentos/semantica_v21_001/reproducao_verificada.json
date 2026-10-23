@@ -1,0 +1,14 @@
+{
+  "variantes": {
+    "lexical_bm25": 559,
+    "e5_query": 559,
+    "e5_passage": 559,
+    "hibrido_25": 559,
+    "hibrido_50": 559,
+    "comparador": 559
+  },
+  "previsoes_reproduzidas": 3354,
+  "reproducao_exata": true,
+  "rotulos_rede_treino_avaliador_recalibracao_encoder_ausentes": true,
+  "segundos": 15.296081775999482
+}

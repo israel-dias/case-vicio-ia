@@ -1,0 +1,17 @@
+test_alternativa_isolada_nao_tem_o_mesmo_peso_do_topico (test_contexto.TestContexto.test_alternativa_isolada_nao_tem_o_mesmo_peso_do_topico) ... ok
+test_ce_preserva_nao_e_ignora_respostas_vazias (test_contexto.TestContexto.test_ce_preserva_nao_e_ignora_respostas_vazias) ... ok
+test_crime_de_transito_mantem_expressao_completa (test_contexto.TestContexto.test_crime_de_transito_mantem_expressao_completa) ... ok
+test_evidencia_fraca_nao_e_amplificada_para_trocar_candidato (test_contexto.TestContexto.test_evidencia_fraca_nao_e_amplificada_para_trocar_candidato) ... ok
+test_expressao_regime_fechado_continua_disponivel (test_contexto.TestContexto.test_expressao_regime_fechado_continua_disponivel) ... ok
+test_fechado_nao_e_vocabulo_distintivo (test_contexto.TestContexto.test_fechado_nao_e_vocabulo_distintivo) ... ok
+test_homonimos_recebem_apoio_sem_fundir_ids (test_contexto.TestContexto.test_homonimos_recebem_apoio_sem_fundir_ids) ... ok
+test_id_e_metadados_nao_alteram_evidencia (test_contexto.TestContexto.test_id_e_metadados_nao_alteram_evidencia) ... ok
+test_itens_preservados_e_cabecalho_mantido_como_apoio (test_contexto.TestContexto.test_itens_preservados_e_cabecalho_mantido_como_apoio) ... ok
+test_transito_em_julgado_nao_e_ancora_de_crime_de_transito (test_contexto.TestContexto.test_transito_em_julgado_nao_e_ancora_de_crime_de_transito) ... ok
+test_comando_embutido_em_textos_novos_sem_leitura_de_rotulos (test_runtime.TestRuntimeV20.test_comando_embutido_em_textos_novos_sem_leitura_de_rotulos) ... ok
+test_saida_existente_nao_e_sobrescrita (test_runtime.TestRuntimeV20.test_saida_existente_nao_e_sobrescrita) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 3.361s
+
+OK

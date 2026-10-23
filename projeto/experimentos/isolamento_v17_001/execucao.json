@@ -1,0 +1,14 @@
+{
+  "segundos": 127.06860481799959,
+  "variante_final": "primeiro_fusao_v15",
+  "controle_promovido": false,
+  "precisao_real_559": null,
+  "diagnostico": {
+    "com_tema": 92,
+    "fora": 8,
+    "aceito_top1": 72,
+    "aceito_top3": 84,
+    "aceito_top5": 89,
+    "aceito_top10": 91
+  }
+}

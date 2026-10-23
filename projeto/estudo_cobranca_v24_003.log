@@ -1,0 +1,24 @@
+Preparando as 100; sem classificação do alvo nesta etapa.
+Traceback (most recent call last):
+  File "/workspace/scratch/49a54813cd46/case-vicio-ia-entrega-v24/testar_cobranca_v24.py", line 63, in <module>
+    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--projeto',type=Path,default=Path('.'));p.add_argument('--saida',type=Path,required=True);z=p.parse_args();executar(z.projeto,z.saida)
+                                                                                                                                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/49a54813cd46/case-vicio-ia-entrega-v24/testar_cobranca_v24.py", line 32, in executar
+    bm={r['id']:r for r in base};print('Preparando as 100; sem classificação do alvo nesta etapa.',flush=True);pp=m.preparar(cat,dic,sub(qs,ys))
+                                                                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/49a54813cd46/case-vicio-ia-entrega-v24/cobranca_v24/modelo.py", line 15, in preparar
+    for i,q in qs.items():novas[i],rr[i],ids[i]=leitor.preparar(q)
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/49a54813cd46/case-vicio-ia-entrega-v24/cobranca_v24/texto.py", line 84, in preparar
+    info=self.contextual.informatividade(cmd)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/49a54813cd46/case-vicio-ia-entrega-v24/roteamento_v15/texto.py", line 37, in informatividade
+    ids=list(self.identificadores(texto))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/49a54813cd46/case-vicio-ia-entrega-v24/roteamento_v14/texto.py", line 49, in identificadores
+    txt=limpar(texto);cs,hits=self.idt.encontrar(txt);encontrados=set(cs);q=termos(txt)
+                              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/49a54813cd46/case-vicio-ia-entrega-v24/experimento_relacoes_v9/regras.py", line 65, in encontrar
+    _, outros = self.dicionario.encontrar(texto)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encontrar'

@@ -1,0 +1,97 @@
+{
+  "testes_passaram": 18,
+  "arquivos_anteriores_preservados": 432,
+  "resultados_rodada4": {
+    "controle_v8": {
+      "avaliadas": 100,
+      "acertos_top1": 70,
+      "publicar": 16,
+      "acertos_publicadas": 16,
+      "precisao_publicadas": 1.0,
+      "regras_acionadas": 0,
+      "acertos_regra": 0,
+      "precisao_regra": null,
+      "publicou_fora_oficial": 0,
+      "correcoes_tema": 0,
+      "regressoes_tema": 0,
+      "simulacao_559": {
+        "publicar": 287,
+        "revisar": 272,
+        "cobertura": 0.5134168157423972,
+        "recentes_300_publicadas": 158,
+        "mudancas_tema": 0,
+        "precisao_real": null
+      }
+    },
+    "titulos_diretos": {
+      "avaliadas": 100,
+      "acertos_top1": 71,
+      "publicar": 36,
+      "acertos_publicadas": 35,
+      "precisao_publicadas": 0.9722222222222222,
+      "regras_acionadas": 25,
+      "acertos_regra": 24,
+      "precisao_regra": 0.96,
+      "publicou_fora_oficial": 1,
+      "correcoes_tema": 1,
+      "regressoes_tema": 0,
+      "simulacao_559": {
+        "publicar": 352,
+        "revisar": 207,
+        "cobertura": 0.629695885509839,
+        "recentes_300_publicadas": 195,
+        "mudancas_tema": 45,
+        "precisao_real": null
+      }
+    },
+    "relacoes_diretas": {
+      "avaliadas": 100,
+      "acertos_top1": 70,
+      "publicar": 37,
+      "acertos_publicadas": 35,
+      "precisao_publicadas": 0.9459459459459459,
+      "regras_acionadas": 26,
+      "acertos_regra": 24,
+      "precisao_regra": 0.9230769230769231,
+      "publicou_fora_oficial": 1,
+      "correcoes_tema": 1,
+      "regressoes_tema": 1,
+      "simulacao_559": {
+        "publicar": 357,
+        "revisar": 202,
+        "cobertura": 0.6386404293381037,
+        "recentes_300_publicadas": 196,
+        "mudancas_tema": 47,
+        "precisao_real": null
+      }
+    },
+    "relacoes_alternativas": {
+      "avaliadas": 100,
+      "acertos_top1": 70,
+      "publicar": 37,
+      "acertos_publicadas": 35,
+      "precisao_publicadas": 0.9459459459459459,
+      "regras_acionadas": 26,
+      "acertos_regra": 24,
+      "precisao_regra": 0.9230769230769231,
+      "publicou_fora_oficial": 1,
+      "correcoes_tema": 1,
+      "regressoes_tema": 1,
+      "simulacao_559": {
+        "publicar": 362,
+        "revisar": 197,
+        "cobertura": 0.6475849731663685,
+        "recentes_300_publicadas": 198,
+        "mudancas_tema": 50,
+        "precisao_real": null
+      }
+    }
+  },
+  "promove_entrega": false,
+  "reproducao_runtime_rodada4": {
+    "questoes": 559,
+    "tema_decisao_confianca_iguais": true,
+    "carregamento_rotulos_bloqueado": true,
+    "conexao_rede_bloqueada": true
+  }
+}

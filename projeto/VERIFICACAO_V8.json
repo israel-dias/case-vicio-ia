@@ -1,0 +1,38 @@
+{
+  "testes_vocabulario": 16,
+  "resultado": "OK",
+  "reproducao_659_sem_rotulos_rede_treino": true,
+  "conferencia_559_temas_decisoes_confianças": "OK",
+  "entrega_anterior_preservada": true,
+  "precisao_real_559": null,
+  "experimento_so_busca": {
+    "avaliacao_100": {
+      "acertos_publicadas": 16,
+      "acertos_top1": 70,
+      "avaliadas": 100,
+      "brier": 0.16783896581836275,
+      "cobertura": 0.16,
+      "erros_publicadas": 0,
+      "fora": 0,
+      "fora_oficial_publicadas": 0,
+      "meta_95_na_amostra": true,
+      "meta_95_populacional_comprovada": false,
+      "precisao_publicadas": 1.0,
+      "publicar": 16,
+      "revisar": 84
+    },
+    "entrega_alterada": false,
+    "segundos": 30.734589635999782,
+    "simulacao_559": {
+      "cobertura": 0.5134168157423972,
+      "fora": 0,
+      "limiar": 0.7010498798592698,
+      "media_confiancas_publicadas": 0.8785885776411125,
+      "mudancas_tema": 29,
+      "precisao_real": null,
+      "publicar": 287,
+      "revisar": 272
+    }
+  },
+  "pacote_consolidado_reproduz_559": "OK"
+}

@@ -1,0 +1,15 @@
+{
+  "variante": "foco_contextual",
+  "corte": "70",
+  "politica": "preservar_v11",
+  "questoes": 559,
+  "publicar": 392,
+  "revisar": 167,
+  "fora": 0,
+  "precisao_real": null,
+  "folha_verdade_consultada": false,
+  "treinamento": false,
+  "rede": false,
+  "chamadas_llm": 0,
+  "promove_entrega": false
+}

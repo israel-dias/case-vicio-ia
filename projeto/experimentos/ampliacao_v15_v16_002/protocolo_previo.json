@@ -1,0 +1,18 @@
+{
+  "natureza": "Análise adaptativa posterior à rodada V16 inicial. Preserva V15 atual, em vez de apenas V11.",
+  "exposicao": "Os resultados anteriores, inclusive volumes individuais das 559, já foram vistos. Não é teste externo cego.",
+  "cortes": [
+    "calibrado",
+    "70"
+  ],
+  "politicas": [
+    "preservar_v15",
+    "preservar_v15_com_guarda"
+  ],
+  "ajuste_ou_calibracao_nova": false,
+  "escolher_por_volume_559": false,
+  "criterio": "Nas 100 de desenvolvimento: precisão empírica >=95%, suporte>=10; maximizar publicações e acertos; desempate pela ordem fixa. Só depois compor as 559.",
+  "codigo_sha256": "e46e8bde772bedaac4ab8b17e65d45f25ffa8de6f7527ef966860747f0811776",
+  "modelos_v16_sha256": "42dc3f274347123df2a4be72da929f3038a9ee6fa82411fa860c8eba916db95f",
+  "promove_entrega": false
+}

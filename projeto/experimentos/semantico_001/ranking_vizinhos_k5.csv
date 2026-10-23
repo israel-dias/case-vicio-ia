@@ -1,0 +1,61 @@
+id,tema_previsto,caminho_previsto,score_ordenacao_nao_calibrado,acerto_top1,acerto_top5,fora_referencia,candidatos_top5
+Q0003,5524,Processo Penal > Procedimento do Tribunal do Júri,1.0,False,True,False,5524;5529;5560;5562
+Q0005,5199,Penal > Teoria da Pena,1.0,True,True,False,5199;5201;5205;6734
+Q0018,5590,Processo Penal > Teoria Geral das Provas,1.0,False,True,False,5590;5480;4701;5539;4703
+Q0023,5590,Processo Penal > Teoria Geral das Provas,1.0,False,True,False,5590;5524;5560;5562;5595
+Q0028,5524,Processo Penal > Procedimento do Tribunal do Júri,1.0,True,True,False,5524;4701;5487;5488;5529
+Q0034,5524,Processo Penal > Procedimento do Tribunal do Júri,1.0,False,True,False,5524;5590;5476;5477;5529
+Q0040,5199,Penal > Teoria da Pena,1.0,False,True,False,5199;5560;5562;5524;5205
+Q0041,5199,Penal > Teoria da Pena,1.0,False,True,False,5199;6734;5184;5201;5203
+Q0043,5199,Penal > Teoria da Pena,1.0,False,False,True,5199;6734;5201;5203;5205
+Q0057,5476,Processo Penal > Ações Autônomas de Impugnação,1.0,False,False,False,5476;5478;5218;5224;5199
+Q0061,4686,Direito Penal - Legislação Especial > Contravenções Penais,1.0,False,True,False,4686;4703;6734;5590;5184
+Q0067,5066,Penal > Concurso de Crimes,1.0,False,False,False,5066;5068;5157;5184;5199
+Q0068,5590,Processo Penal > Teoria Geral das Provas,1.0,False,False,False,5590;5066;5068;5157;5102
+Q0077,5199,Penal > Teoria da Pena,1.0,False,False,False,5199;5201;5184;5203;5205
+Q0080,5199,Penal > Teoria da Pena,1.0,False,False,False,5199;5184;5201;5203;5066
+Q0086,5087,Penal > Dos Crimes Contra a Administração Pública,1.0,True,True,False,5087;5096;5116;5117;5119
+Q0087,5199,Penal > Teoria da Pena,1.0,False,False,True,5199;5201;5205;6734;5524
+Q0091,5199,Penal > Teoria da Pena,1.0,False,False,False,5199;5201;5184;5203;5205
+Q0103,5199,Penal > Teoria da Pena,1.0,False,False,False,5199;5202;5524;5480
+Q0110,5590,Processo Penal > Teoria Geral das Provas,1.0,False,False,False,5590;5595;5199;5202;5524
+Q0111,5184,Penal > Medida de Segurança,1.0,False,False,False,5184;4368;4703;5199;5201
+Q0115,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,1.0,False,False,False,4703;5071;5072;5087;5092
+Q0117,4384,Criminologia > Teorias Legitimidoras da Pena,1.0,True,True,False,4384;5199;5202;4368
+Q0124,5199,Penal > Teoria da Pena,1.0,False,True,False,5199;4384;5202;5205;6734
+Q0134,4686,Direito Penal - Legislação Especial > Contravenções Penais,1.0,False,False,False,4686;4703;6734;5066;5068
+Q0137,5590,Processo Penal > Teoria Geral das Provas,1.0,False,True,False,5590;5498;5501;5524;5595
+Q0138,5199,Penal > Teoria da Pena,1.0,True,True,False,5199;5201;5203;5184;5205
+Q0144,5524,Processo Penal > Procedimento do Tribunal do Júri,1.0,True,True,False,5524;5560;5562;5526;5527
+Q0150,5199,Penal > Teoria da Pena,1.0,False,False,False,5199;5201;5203;4703;5180
+Q0160,5199,Penal > Teoria da Pena,1.0,True,True,False,5199;5205;6734;5184;5201
+Q0167,5524,Processo Penal > Procedimento do Tribunal do Júri,1.0,True,True,False,5524;5590;5560;5562;5490
+Q0179,5184,Penal > Medida de Segurança,1.0,False,True,False,5184;4368;5199;5201;5203
+Q0186,4701,Direito Penal - Legislação Especial > Juizado Especial Criminal,1.0,False,False,False,4701;5590;5524
+Q0201,5218,Penal > Teoria do Crime: Fato Típico,1.0,False,True,False,5218;5224;5102;5103;4384
+Q0202,5102,Penal > Dos Crimes Contra a Dignidade Sexual,1.0,False,False,False,5102;5103;5087;5096;5116
+Q0208,5102,Penal > Dos Crimes Contra a Dignidade Sexual,1.0,False,False,False,5102;5103;4385;4388;5218
+Q0215,5199,Penal > Teoria da Pena,1.0,True,True,False,5199;5205;6734;5184;5201
+Q0221,6734,Processo Penal > Lei de Execução Penal,1.0,False,True,False,6734;5199;5205;4368;4686
+Q0231,5066,Penal > Concurso de Crimes,1.0,False,False,False,5066;5068;5157;5590;5199
+Q0244,5087,Penal > Dos Crimes Contra a Administração Pública,1.0,True,True,False,5087;5066;5068;5157;5091
+Q0249,5524,Processo Penal > Procedimento do Tribunal do Júri,1.0,False,False,False,5524;5480;5590
+Q0251,5199,Penal > Teoria da Pena,1.0,False,False,False,5199;5184;5201;5203;4703
+Q0259,5066,Penal > Concurso de Crimes,1.0,False,True,False,5066;5068;5157;5184;5199
+Q0275,5524,Processo Penal > Procedimento do Tribunal do Júri,1.0,False,False,False,5524;5487;5488;5560;5562
+Q0277,5199,Penal > Teoria da Pena,1.0,False,False,False,5199;5184;5201;5203;5066
+Q0279,5066,Penal > Concurso de Crimes,1.0,False,False,False,5066;5068;5157;5487;5488
+Q0286,5199,Penal > Teoria da Pena,1.0,True,True,False,5199;5524;5529;5560;5562
+Q0290,5590,Processo Penal > Teoria Geral das Provas,1.0,False,False,False,5590;5199;5202;5524;5595
+Q0291,5199,Penal > Teoria da Pena,1.0,False,False,True,5199;5201;5487;5488
+Q0303,5087,Penal > Dos Crimes Contra a Administração Pública,1.0,False,False,True,5087;5590;5595;5091;5184
+Q0308,5590,Processo Penal > Teoria Geral das Provas,1.0,False,True,False,5590;5524;5498
+Q0311,4701,Direito Penal - Legislação Especial > Juizado Especial Criminal,1.0,False,False,False,4701;5524;5539;5526;5527
+Q0314,5476,Processo Penal > Ações Autônomas de Impugnação,1.0,True,True,False,5476;5477;5590;5594;5524
+Q0316,5590,Processo Penal > Teoria Geral das Provas,1.0,False,False,False,5590;4384;5595
+Q0320,5590,Processo Penal > Teoria Geral das Provas,1.0,False,False,False,5590;5524;5490;5492;5595
+Q0323,5590,Processo Penal > Teoria Geral das Provas,1.0,True,True,False,5590;5524;5480;4701
+Q0324,5184,Penal > Medida de Segurança,1.0,False,True,False,5184;5199;5201;5203;4703
+Q0338,5524,Processo Penal > Procedimento do Tribunal do Júri,1.0,False,True,False,5524;5590;5595;5199;5202
+Q0341,5184,Penal > Medida de Segurança,1.0,False,False,False,5184;5199;5201;5203;4368
+Q0345,5087,Penal > Dos Crimes Contra a Administração Pública,1.0,False,False,False,5087;5096;5116;5117;5119

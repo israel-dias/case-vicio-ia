@@ -1,0 +1,61 @@
+id,tema_previsto,caminho_previsto,score_similaridade,acerto_top1,acerto_top5,fora_referencia,candidatos_top5
+Q0003,5560,Processo Penal > Recursos em Espécies,0.163137,True,True,False,5560;5466;5063;5476;5530
+Q0005,5199,Penal > Teoria da Pena,0.123031,True,True,False,5199;5572;5530;5560;5157
+Q0018,5539,Processo Penal > Procedimento Sumaríssimo,0.109115,True,True,False,5539;6732;6733;5480;5560
+Q0023,5524,Processo Penal > Procedimento do Tribunal do Júri,0.208396,True,True,False,5524;5530;4689;5560;5185
+Q0028,5487,Processo Penal > Comunicação dos Atos Processuais,0.122137,False,True,False,5487;5530;5583;5466;5524
+Q0034,5498,Processo Penal > Inquérito Policial,0.194428,False,True,False,5498;5476;5490;5184;5466
+Q0040,5524,Processo Penal > Procedimento do Tribunal do Júri,0.149689,True,True,False,5524;5560;5572;5530;5087
+Q0041,5184,Penal > Medida de Segurança,0.319556,True,True,False,5184;6722;5476;4689;4696
+Q0043,5199,Penal > Teoria da Pena,0.196611,False,False,True,5199;6726;6727;4384;5572
+Q0057,5175,Penal > Iter Criminis,0.27443,True,True,False,5175;6734;4703;5543;4368
+Q0061,6734,Processo Penal > Lei de Execução Penal,0.118727,False,True,False,6734;4703;6726;5560;6727
+Q0067,5087,Penal > Dos Crimes Contra a Administração Pública,0.237147,True,True,False,5087;5079;6718;6719;5144
+Q0068,5116,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental,0.134096,True,True,False,5116;5087;5157;5102;4389
+Q0077,4698,Direito Penal - Legislação Especial > Genocídio,0.122575,False,False,False,4698;5066;5170;5071;5560
+Q0080,4368,Criminologia > Criminologia no Estado Democrático de Direito,0.292086,True,True,False,4368;5155;4380;5180;4384
+Q0086,5087,Penal > Dos Crimes Contra a Administração Pública,0.125329,True,True,False,5087;5066;5134;5184;5147
+Q0087,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,0.18015,False,False,True,4703;6734;6722;4696;5517
+Q0091,5199,Penal > Teoria da Pena,0.176426,False,True,False,5199;4703;6734;6726;6727
+Q0103,5476,Processo Penal > Ações Autônomas de Impugnação,0.136522,True,True,False,5476;4701;5170;5530;5191
+Q0110,5480,Processo Penal > Competência,0.175313,True,True,False,5480;5120;5560;6732;6733
+Q0111,4384,Criminologia > Teorias Legitimidoras da Pena,0.152033,False,True,False,4384;4380;4371;5530;5199
+Q0115,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,0.172528,True,True,False,4385;4689;5530;5134;5111
+Q0117,4384,Criminologia > Teorias Legitimidoras da Pena,0.21945,True,True,False,4384;5199;6726;6727;5584
+Q0124,4384,Criminologia > Teorias Legitimidoras da Pena,0.264267,True,True,False,4384;5199;5560;6726;6727
+Q0134,5087,Penal > Dos Crimes Contra a Administração Pública,0.1787,True,True,False,5087;5199;6719;5480;5079
+Q0137,5498,Processo Penal > Inquérito Policial,0.194951,True,True,False,5498;4684;6716;5560;5476
+Q0138,5199,Penal > Teoria da Pena,0.277336,True,True,False,5199;6726;6727;4703;6734
+Q0144,5524,Processo Penal > Procedimento do Tribunal do Júri,0.222578,True,True,False,5524;5560;5476;4694;5530
+Q0150,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,0.304985,True,True,False,4708;6728;5505;4704;6724
+Q0160,5199,Penal > Teoria da Pena,0.159318,True,True,False,5199;6726;6727;4384;4703
+Q0167,5524,Processo Penal > Procedimento do Tribunal do Júri,0.10367,True,True,False,5524;5487;5530;5466;5583
+Q0179,4368,Criminologia > Criminologia no Estado Democrático de Direito,0.184714,True,True,False,4368;5155;5125;4367;4389
+Q0186,5199,Penal > Teoria da Pena,0.301064,True,True,False,5199;5466;5211;5191;5218
+Q0201,5102,Penal > Dos Crimes Contra a Dignidade Sexual,0.173948,True,True,False,5102;5066;5191;4709;5071
+Q0202,5102,Penal > Dos Crimes Contra a Dignidade Sexual,0.117035,False,True,False,5102;4709;5530;5087;5218
+Q0208,5066,Penal > Concurso de Crimes,0.094607,False,True,False,5066;5149;5071;5560;4697
+Q0215,5199,Penal > Teoria da Pena,0.111556,True,True,False,5199;5572;4703;6734;5480
+Q0221,5199,Penal > Teoria da Pena,0.24276,True,True,False,5199;5184;5584;5156;5517
+Q0231,5218,Penal > Teoria do Crime: Fato Típico,0.203715,True,True,False,5218;6728;4708;5211;5228
+Q0244,5087,Penal > Dos Crimes Contra a Administração Pública,0.276373,True,True,False,5087;5079;5480;5102;5157
+Q0249,5583,Processo Penal > Sujeitos do Processo,0.094693,False,False,False,5583;5079;6732;6733;5560
+Q0251,5191,Penal > Punibilidade,0.211158,True,True,False,5191;5185;5155;4694;5180
+Q0259,5157,Penal > Dos Crimes Contra o Patrimônio,0.11481,True,True,False,5157;5228;5218;5211;5466
+Q0275,4701,Direito Penal - Legislação Especial > Juizado Especial Criminal,0.240189,True,True,False,4701;5487;5530;5480;5539
+Q0277,4696,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,0.21528,True,True,False,4696;6722;5138;5079;5087
+Q0279,5185,Penal > Prescrição,0.143433,True,True,False,5185;5175;5157;5498;5543
+Q0286,5066,Penal > Concurso de Crimes,0.156161,False,True,False,5066;5071;5543;5199;5530
+Q0290,5466,Processo Penal > Ação Penal,0.214657,False,True,False,5466;5063;5530;5560;4701
+Q0291,6728,Penal > Tráfico de Drogas,0.243784,False,False,True,6728;4708;5498;5087;5063
+Q0303,5180,Penal > Lei Penal no Tempo e no Espaço,0.176994,False,False,True,5180;5505;5063;5199;5466
+Q0308,5498,Processo Penal > Inquérito Policial,0.217301,True,True,False,5498;5185;5560;5490;5466
+Q0311,5487,Processo Penal > Comunicação dos Atos Processuais,0.133365,True,True,False,5487;5466;5063;5180;5079
+Q0314,5476,Processo Penal > Ações Autônomas de Impugnação,0.194212,True,True,False,5476;6716;4684;5079;5560
+Q0316,5066,Penal > Concurso de Crimes,0.101299,False,False,False,5066;5149;5155;5199;5111
+Q0320,5498,Processo Penal > Inquérito Policial,0.11715,False,False,False,5498;5505;4708;6728;5530
+Q0323,5530,Processo Penal > Procedimento Ordinário,0.155142,False,False,False,5530;5543;5580;4689;6735
+Q0324,5184,Penal > Medida de Segurança,0.148778,False,True,False,5184;5199;6726;6727;4703
+Q0338,5543,Processo Penal > Provas em Espécies,0.133468,False,False,False,5543;5580;5560;5530;5071
+Q0341,5157,Penal > Dos Crimes Contra o Patrimônio,0.174781,True,True,False,5157;5066;5071;5111;5466
+Q0345,5102,Penal > Dos Crimes Contra a Dignidade Sexual,0.151303,True,True,False,5102;6716;4684;4709;5191

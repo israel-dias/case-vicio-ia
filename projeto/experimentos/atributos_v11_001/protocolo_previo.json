@@ -1,0 +1,114 @@
+{
+  "remocoes": {
+    "controle_41": [],
+    "sem_palavra_completo": [
+      "palavra_completo"
+    ],
+    "sem_escopo_alternativas": [
+      "escopo_alternativas"
+    ],
+    "sem_char_enunciado": [
+      "char_enunciado"
+    ],
+    "sem_apoio_duplo": [
+      "apoio_enunciado_e_alternativas",
+      "evidencia_escopo_enunciado_alt"
+    ],
+    "sem_atributos_origem": [
+      "palavra_assunto_origem",
+      "origem_compativel",
+      "origem_reconhecida"
+    ],
+    "sem_tres_frequentes": [
+      "palavra_completo",
+      "escopo_alternativas",
+      "escopo_alternativa_max"
+    ],
+    "sem_seis_frequentes": [
+      "palavra_completo",
+      "escopo_alternativas",
+      "escopo_alternativa_max",
+      "char_enunciado",
+      "apoio_enunciado_e_alternativas",
+      "escopo_alternativa_media"
+    ],
+    "sem_atributos_foco": [
+      "similaridade_foco",
+      "diferenca_melhor_foco",
+      "foco_utilizavel",
+      "norma_foco",
+      "artigo_foco"
+    ]
+  },
+  "atributos_controle": [
+    "media3_completo",
+    "max_completo",
+    "palavra_completo",
+    "char_completo",
+    "palavra_enunciado",
+    "char_enunciado",
+    "palavra_comando",
+    "char_comando",
+    "palavra_alternativas",
+    "char_alternativas",
+    "palavra_alt_max",
+    "palavra_alt_media",
+    "palavra_assunto_origem",
+    "apoio_enunciado_e_alternativas",
+    "origem_compativel",
+    "origem_reconhecida",
+    "lei_literal",
+    "artigo_literal",
+    "cobertura_vocabulario",
+    "escopo_texto",
+    "escopo_enunciado",
+    "escopo_comando",
+    "escopo_alternativas",
+    "escopo_alternativa_max",
+    "escopo_alternativa_media",
+    "titulo_enunciado",
+    "norma_enunciado",
+    "norma_alternativas",
+    "artigo_enunciado",
+    "artigo_alternativas",
+    "citacao_sem_correspondencia",
+    "ha_norma_explicita",
+    "ha_artigo_vinculado",
+    "evidencia_escopo_enunciado_alt",
+    "posicao_busca",
+    "diferenca_melhor_busca",
+    "similaridade_foco",
+    "diferenca_melhor_foco",
+    "foco_utilizavel",
+    "norma_foco",
+    "artigo_foco"
+  ],
+  "peso_negativo_nao_e_erro": true,
+  "truncar_coeficientes_ou_somar_confianca": false,
+  "hipoteses": "Retirar atributos isolados/grupos que aparecem em contribuições negativas; conferir ganho e erros após novo ajuste.",
+  "tema_candidato": "Mesmo ranking v8 e identificador v9 em todas as variantes. Sem limite de caracteres.",
+  "genericos": "Frase específica propõe candidato; não publica diretamente por Conduta/Resultado.",
+  "avaliacao": "Cinco folds externos e quatro internos; treino/calibração/corte por variante sem rótulos externos.",
+  "meta_empirica": 0.95,
+  "minimo_interno": 10,
+  "politicas": [
+    "substituir_comparador",
+    "preservar_publicacoes_controle_e_adicionar"
+  ],
+  "selecionar_por_volume_nas_559": false,
+  "promove_entrega": false,
+  "exposicao": "100 rótulos já vistos e reutilizados; não é teste externo cego.",
+  "codigo_sha256": {
+    "testar_atributos_v11.py": "66d7992934828175bca9cd7d0eedc48463ff098c4c38ea4033902cc8a092b445",
+    "experimento_atributos_v11/modelo.py": "8945d6daea8be19fff50c654a37f55dd9208f6da0bef6f4889931f06037b7017"
+  },
+  "dados_sha256": {
+    "questoes.jsonl": "318f1fea970633a4d84eb5a4dd071b2ae76ad3e49288a073ab381f61a09da3f3",
+    "temas.csv": "9c6e98a6cd568816671c0fa14e2449b152cee10e20cb1327b3b097c1c5ce4cbc",
+    "folha_verdade.csv": "c1412ce8d336ae248a2f0e46d8e34cbc07dd33c78af9ce6bbe1337c516ee8e3b"
+  },
+  "preservados_sha256": {
+    "publicacao.csv": "05921ae3cff5ee7336c08620530c4516825f3f7c69969a8cca3384cd65a70686",
+    "previsao.txt": "052ba667402f327bfef61a9b4c34b98f10b50382e6a39e26f740cfe439eefb03"
+  }
+}

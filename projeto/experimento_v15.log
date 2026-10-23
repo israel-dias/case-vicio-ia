@@ -1,0 +1,464 @@
+Preparando papéis das 100 questões; ainda sem classificar as 559.
+Fold 1/5: contexto integral, foco contextual e fusão; calibração interna separada.
+Fold 2/5: contexto integral, foco contextual e fusão; calibração interna separada.
+Fold 3/5: contexto integral, foco contextual e fusão; calibração interna separada.
+Fold 4/5: contexto integral, foco contextual e fusão; calibração interna separada.
+Fold 5/5: contexto integral, foco contextual e fusão; calibração interna separada.
+Modelos e avaliação nas 100 concluídos. Simulando as 559 sem rótulo.
+{
+  "resumo": {
+    "contexto_sem_prioridade": {
+      "calibrado_substituir": {
+        "questoes": 100,
+        "publicar": 11,
+        "revisar": 89,
+        "cobertura": 0.11,
+        "acertos_publicadas": 9,
+        "erros_publicadas": 2,
+        "precisao_publicadas": 0.8181818181818182,
+        "acertos_top1": 61,
+        "brier": 0.18965169269808047,
+        "meta_95_na_amostra": false,
+        "novas_publicacoes": 4,
+        "publicacoes_anteriores_perdidas": 33,
+        "novas_corretas": 3,
+        "novas_erradas": 1,
+        "fora_oficial_publicadas": 0,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 60,
+          "revisar": 499,
+          "cobertura": 0.1073345259391771,
+          "precisao_real": null,
+          "novas_publicacoes": 1,
+          "publicacoes_anteriores_perdidas": 302
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 40,
+          "revisar": 260,
+          "cobertura": 0.13333333333333333,
+          "precisao_real": null
+        }
+      },
+      "calibrado_preservar_v11": {
+        "questoes": 100,
+        "publicar": 44,
+        "revisar": 56,
+        "cobertura": 0.44,
+        "acertos_publicadas": 42,
+        "erros_publicadas": 2,
+        "precisao_publicadas": 0.9545454545454546,
+        "acertos_top1": 66,
+        "brier": 0.14697638698345777,
+        "meta_95_na_amostra": true,
+        "novas_publicacoes": 4,
+        "publicacoes_anteriores_perdidas": 0,
+        "novas_corretas": 3,
+        "novas_erradas": 1,
+        "fora_oficial_publicadas": 1,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 362,
+          "revisar": 197,
+          "cobertura": 0.6475849731663685,
+          "precisao_real": null,
+          "novas_publicacoes": 1,
+          "publicacoes_anteriores_perdidas": 0
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 199,
+          "revisar": 101,
+          "cobertura": 0.6633333333333333,
+          "precisao_real": null
+        }
+      },
+      "70_substituir": {
+        "questoes": 100,
+        "publicar": 29,
+        "revisar": 71,
+        "cobertura": 0.29,
+        "acertos_publicadas": 26,
+        "erros_publicadas": 3,
+        "precisao_publicadas": 0.896551724137931,
+        "acertos_top1": 61,
+        "brier": 0.18965169269808047,
+        "meta_95_na_amostra": false,
+        "novas_publicacoes": 8,
+        "publicacoes_anteriores_perdidas": 19,
+        "novas_corretas": 7,
+        "novas_erradas": 1,
+        "fora_oficial_publicadas": 1,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 194,
+          "revisar": 365,
+          "cobertura": 0.3470483005366726,
+          "precisao_real": null,
+          "novas_publicacoes": 27,
+          "publicacoes_anteriores_perdidas": 194
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 118,
+          "revisar": 182,
+          "cobertura": 0.3933333333333333,
+          "precisao_real": null
+        }
+      },
+      "70_preservar_v11": {
+        "questoes": 100,
+        "publicar": 48,
+        "revisar": 52,
+        "cobertura": 0.48,
+        "acertos_publicadas": 46,
+        "erros_publicadas": 2,
+        "precisao_publicadas": 0.9583333333333334,
+        "acertos_top1": 66,
+        "brier": 0.14697638698345777,
+        "meta_95_na_amostra": true,
+        "novas_publicacoes": 8,
+        "publicacoes_anteriores_perdidas": 0,
+        "novas_corretas": 7,
+        "novas_erradas": 1,
+        "fora_oficial_publicadas": 1,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 388,
+          "revisar": 171,
+          "cobertura": 0.6940966010733453,
+          "precisao_real": null,
+          "novas_publicacoes": 27,
+          "publicacoes_anteriores_perdidas": 0
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 217,
+          "revisar": 83,
+          "cobertura": 0.7233333333333334,
+          "precisao_real": null
+        }
+      }
+    },
+    "foco_contextual": {
+      "calibrado_substituir": {
+        "questoes": 100,
+        "publicar": 16,
+        "revisar": 84,
+        "cobertura": 0.16,
+        "acertos_publicadas": 13,
+        "erros_publicadas": 3,
+        "precisao_publicadas": 0.8125,
+        "acertos_top1": 61,
+        "brier": 0.18462344095184244,
+        "meta_95_na_amostra": false,
+        "novas_publicacoes": 7,
+        "publicacoes_anteriores_perdidas": 31,
+        "novas_corretas": 5,
+        "novas_erradas": 2,
+        "fora_oficial_publicadas": 0,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 60,
+          "revisar": 499,
+          "cobertura": 0.1073345259391771,
+          "precisao_real": null,
+          "novas_publicacoes": 2,
+          "publicacoes_anteriores_perdidas": 303
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 40,
+          "revisar": 260,
+          "cobertura": 0.13333333333333333,
+          "precisao_real": null
+        }
+      },
+      "calibrado_preservar_v11": {
+        "questoes": 100,
+        "publicar": 47,
+        "revisar": 53,
+        "cobertura": 0.47,
+        "acertos_publicadas": 44,
+        "erros_publicadas": 3,
+        "precisao_publicadas": 0.9361702127659575,
+        "acertos_top1": 68,
+        "brier": 0.1448925880884169,
+        "meta_95_na_amostra": false,
+        "novas_publicacoes": 7,
+        "publicacoes_anteriores_perdidas": 0,
+        "novas_corretas": 5,
+        "novas_erradas": 2,
+        "fora_oficial_publicadas": 1,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 363,
+          "revisar": 196,
+          "cobertura": 0.6493738819320215,
+          "precisao_real": null,
+          "novas_publicacoes": 2,
+          "publicacoes_anteriores_perdidas": 0
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 199,
+          "revisar": 101,
+          "cobertura": 0.6633333333333333,
+          "precisao_real": null
+        }
+      },
+      "70_substituir": {
+        "questoes": 100,
+        "publicar": 31,
+        "revisar": 69,
+        "cobertura": 0.31,
+        "acertos_publicadas": 28,
+        "erros_publicadas": 3,
+        "precisao_publicadas": 0.9032258064516129,
+        "acertos_top1": 61,
+        "brier": 0.18462344095184244,
+        "meta_95_na_amostra": false,
+        "novas_publicacoes": 9,
+        "publicacoes_anteriores_perdidas": 18,
+        "novas_corretas": 8,
+        "novas_erradas": 1,
+        "fora_oficial_publicadas": 1,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 203,
+          "revisar": 356,
+          "cobertura": 0.3631484794275492,
+          "precisao_real": null,
+          "novas_publicacoes": 30,
+          "publicacoes_anteriores_perdidas": 188
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 122,
+          "revisar": 178,
+          "cobertura": 0.4066666666666667,
+          "precisao_real": null
+        }
+      },
+      "70_preservar_v11": {
+        "questoes": 100,
+        "publicar": 49,
+        "revisar": 51,
+        "cobertura": 0.49,
+        "acertos_publicadas": 47,
+        "erros_publicadas": 2,
+        "precisao_publicadas": 0.9591836734693877,
+        "acertos_top1": 68,
+        "brier": 0.1448925880884169,
+        "meta_95_na_amostra": true,
+        "novas_publicacoes": 9,
+        "publicacoes_anteriores_perdidas": 0,
+        "novas_corretas": 8,
+        "novas_erradas": 1,
+        "fora_oficial_publicadas": 1,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 391,
+          "revisar": 168,
+          "cobertura": 0.6994633273703041,
+          "precisao_real": null,
+          "novas_publicacoes": 30,
+          "publicacoes_anteriores_perdidas": 0
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 217,
+          "revisar": 83,
+          "cobertura": 0.7233333333333334,
+          "precisao_real": null
+        }
+      }
+    },
+    "fusao_contextual": {
+      "calibrado_substituir": {
+        "questoes": 100,
+        "publicar": 24,
+        "revisar": 76,
+        "cobertura": 0.24,
+        "acertos_publicadas": 23,
+        "erros_publicadas": 1,
+        "precisao_publicadas": 0.9583333333333334,
+        "acertos_top1": 72,
+        "brier": 0.1700310619033746,
+        "meta_95_na_amostra": true,
+        "novas_publicacoes": 6,
+        "publicacoes_anteriores_perdidas": 22,
+        "novas_corretas": 5,
+        "novas_erradas": 1,
+        "fora_oficial_publicadas": 0,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 217,
+          "revisar": 342,
+          "cobertura": 0.3881932021466905,
+          "precisao_real": null,
+          "novas_publicacoes": 27,
+          "publicacoes_anteriores_perdidas": 171
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 123,
+          "revisar": 177,
+          "cobertura": 0.41,
+          "precisao_real": null
+        }
+      },
+      "calibrado_preservar_v11": {
+        "questoes": 100,
+        "publicar": 46,
+        "revisar": 54,
+        "cobertura": 0.46,
+        "acertos_publicadas": 44,
+        "erros_publicadas": 2,
+        "precisao_publicadas": 0.9565217391304348,
+        "acertos_top1": 72,
+        "brier": 0.14846553980203436,
+        "meta_95_na_amostra": true,
+        "novas_publicacoes": 6,
+        "publicacoes_anteriores_perdidas": 0,
+        "novas_corretas": 5,
+        "novas_erradas": 1,
+        "fora_oficial_publicadas": 1,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 388,
+          "revisar": 171,
+          "cobertura": 0.6940966010733453,
+          "precisao_real": null,
+          "novas_publicacoes": 27,
+          "publicacoes_anteriores_perdidas": 0
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 213,
+          "revisar": 87,
+          "cobertura": 0.71,
+          "precisao_real": null
+        }
+      },
+      "70_substituir": {
+        "questoes": 100,
+        "publicar": 55,
+        "revisar": 45,
+        "cobertura": 0.55,
+        "acertos_publicadas": 51,
+        "erros_publicadas": 4,
+        "precisao_publicadas": 0.9272727272727272,
+        "acertos_top1": 72,
+        "brier": 0.1700310619033746,
+        "meta_95_na_amostra": false,
+        "novas_publicacoes": 21,
+        "publicacoes_anteriores_perdidas": 6,
+        "novas_corretas": 18,
+        "novas_erradas": 3,
+        "fora_oficial_publicadas": 2,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 271,
+          "revisar": 288,
+          "cobertura": 0.4847942754919499,
+          "precisao_real": null,
+          "novas_publicacoes": 41,
+          "publicacoes_anteriores_perdidas": 131
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 156,
+          "revisar": 144,
+          "cobertura": 0.52,
+          "precisao_real": null
+        }
+      },
+      "70_preservar_v11": {
+        "questoes": 100,
+        "publicar": 61,
+        "revisar": 39,
+        "cobertura": 0.61,
+        "acertos_publicadas": 57,
+        "erros_publicadas": 4,
+        "precisao_publicadas": 0.9344262295081968,
+        "acertos_top1": 72,
+        "brier": 0.14846553980203436,
+        "meta_95_na_amostra": false,
+        "novas_publicacoes": 21,
+        "publicacoes_anteriores_perdidas": 0,
+        "novas_corretas": 18,
+        "novas_erradas": 3,
+        "fora_oficial_publicadas": 2,
+        "simulacao_559": {
+          "questoes": 559,
+          "publicar": 402,
+          "revisar": 157,
+          "cobertura": 0.7191413237924866,
+          "precisao_real": null,
+          "novas_publicacoes": 41,
+          "publicacoes_anteriores_perdidas": 0
+        },
+        "recentes_300": {
+          "questoes": 300,
+          "publicar": 220,
+          "revisar": 80,
+          "cobertura": 0.7333333333333333,
+          "precisao_real": null
+        }
+      }
+    }
+  },
+  "referencias": {
+    "referencia_v11": {
+      "100": {
+        "questoes": 100,
+        "publicar": 40,
+        "revisar": 60,
+        "cobertura": 0.4,
+        "acertos_publicadas": 39,
+        "erros_publicadas": 1,
+        "precisao_publicadas": 0.975,
+        "acertos_top1": 71,
+        "brier": 0.15796873432898054,
+        "meta_95_na_amostra": true
+      },
+      "559": {
+        "questoes": 559,
+        "publicar": 361,
+        "revisar": 198,
+        "cobertura": 0.6457960644007156,
+        "precisao_real": null
+      }
+    },
+    "referencia_v11_corte70": {
+      "100": {
+        "questoes": 100,
+        "publicar": 51,
+        "revisar": 49,
+        "cobertura": 0.51,
+        "acertos_publicadas": 48,
+        "erros_publicadas": 3,
+        "precisao_publicadas": 0.9411764705882353,
+        "acertos_top1": 71,
+        "brier": 0.15796873432898054,
+        "meta_95_na_amostra": false,
+        "novas_publicacoes": 11,
+        "publicacoes_anteriores_perdidas": 0,
+        "novas_corretas": 9,
+        "novas_erradas": 2
+      },
+      "559": {
+        "questoes": 559,
+        "publicar": 368,
+        "revisar": 191,
+        "cobertura": 0.6583184257602862,
+        "precisao_real": null,
+        "novas_publicacoes": 7,
+        "publicacoes_anteriores_perdidas": 0
+      }
+    }
+  },
+  "segundos": 102.68623966199993
+}

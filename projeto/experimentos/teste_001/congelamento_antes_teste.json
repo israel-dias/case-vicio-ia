@@ -1,0 +1,67 @@
+{
+  "sha256_politica": "643c009b078827043e3974dceb3e7323994951d8c2f6cb28cb0227586292b440",
+  "sha256_metodo": "bc7ecead2dec543bec2395daac5d99fad3df6ff18651b5ad96807fe6ec9499bb",
+  "sha256_codigo": {
+    "avaliar_teste_etapa2.py": "c12d946a9daedcc000942c633cddc26adab846440a64edd263c6b14fade3fb71",
+    "calibrar_etapa2.py": "5ad0add669ca56d85fc188c964d5363139a6a4362384a988a43edfc8066bbb56",
+    "experimento_escopos.py": "e82a9c926c03263ca43a8d7f41e2c3edfe06a388e818870fe90412d378d824dc",
+    "gerar_escopos.py": "ac0d1fd87f9fd245f00606d467ca1c6c7b4f55bb4ec30356b97c1c3f4cafaa18",
+    "experimento_campos.py": "679654abfac800d60b75e8031c969456c9032e36de5aa1a96562c793915c93c4"
+  },
+  "configuracao": {
+    "nome": "escopos_separados_media3",
+    "modo": "separados",
+    "peso_escopo": 0.5,
+    "meta": 0.2,
+    "caracteres": 0.25,
+    "familia": "media3"
+  },
+  "limiar_margem": 0.6070580985325005,
+  "confianca_por_decisao": {
+    "publicar": {
+      "acertos": 3,
+      "avaliadas": 3,
+      "precisao_empirica": 1.0,
+      "intervalo_exato_95_descritivo": [
+        0.29240177382128674,
+        1.0
+      ],
+      "limite_inferior_unilateral_95_descritivo": 0.36840314986403866,
+      "media_beta_1_1": 0.8
+    },
+    "revisar": {
+      "acertos": 11,
+      "avaliadas": 17,
+      "precisao_empirica": 0.6470588235294118,
+      "intervalo_exato_95_descritivo": [
+        0.3832836634434029,
+        0.8579025168897791
+      ],
+      "limite_inferior_unilateral_95_descritivo": 0.4197053516261725,
+      "media_beta_1_1": 0.631578947368421
+    }
+  },
+  "ids_teste": [
+    "Q0002",
+    "Q0017",
+    "Q0058",
+    "Q0090",
+    "Q0188",
+    "Q0191",
+    "Q0216",
+    "Q0226",
+    "Q0230",
+    "Q0240",
+    "Q0253",
+    "Q0265",
+    "Q0274",
+    "Q0304",
+    "Q0315",
+    "Q0319",
+    "Q0325",
+    "Q0336",
+    "Q0339",
+    "Q0356"
+  ],
+  "procedimento": "Gerar uma avaliação fixa, sem ajuste de parâmetros depois de consultar o resultado."
+}

@@ -1,0 +1,20 @@
+test_comando_forte_preservado_mesmo_com_outro_escore_maior (test_contexto.TestGuardaContextual.test_comando_forte_preservado_mesmo_com_outro_escore_maior) ... ok
+test_controle_livre_demonstra_efeito_da_guarda (test_contexto.TestGuardaContextual.test_controle_livre_demonstra_efeito_da_guarda) ... ok
+test_guarda_limita_reranking_ao_ramo_inferido (test_contexto.TestGuardaContextual.test_guarda_limita_reranking_ao_ramo_inferido) ... ok
+test_arquivo_adulterado_rejeitado_antes_de_carregar_vetores (test_semantica.TestSemantica.test_arquivo_adulterado_rejeitado_antes_de_carregar_vetores) ... ok
+test_cabecalho_geral_nao_oculta_assertiva_e_ce_nao_e_tema (test_semantica.TestSemantica.test_cabecalho_geral_nao_oculta_assertiva_e_ce_nao_e_tema) ... ok
+test_comando_especifico_foca_autoria_sem_apagar_alternativas (test_semantica.TestSemantica.test_comando_especifico_foca_autoria_sem_apagar_alternativas) ... ok
+test_estimador_qualidade_nao_muda_tema (test_semantica.TestSemantica.test_estimador_qualidade_nao_muda_tema) ... ok
+test_id_e_origem_nao_mudam_textos_vetores_ou_ranking (test_semantica.TestSemantica.test_id_e_origem_nao_mudam_textos_vetores_ou_ranking) ... ok
+test_pesos_invalidos_rejeitados_antes_de_importar_encoder (test_semantica.TestSemantica.test_pesos_invalidos_rejeitados_antes_de_importar_encoder) ... ok
+test_preparar_perfis_sem_rotulos_rede_encoder_ou_treino (test_semantica.TestSemantica.test_preparar_perfis_sem_rotulos_rede_encoder_ou_treino) ... ok
+test_proposicoes_e_negacoes_preservadas (test_semantica.TestSemantica.test_proposicoes_e_negacoes_preservadas) ... ok
+test_tema_raiz_inativo_irmao_nao_sao_equivalentes (test_semantica.TestSemantica.test_tema_raiz_inativo_irmao_nao_sao_equivalentes) ... ok
+test_texto_novo_exige_preparacao_sem_devolver_vetor_do_id (test_semantica.TestSemantica.test_texto_novo_exige_preparacao_sem_devolver_vetor_do_id) ... ok
+test_vetores_finitos_normalizados_e_licenca_registrada (test_semantica.TestSemantica.test_vetores_finitos_normalizados_e_licenca_registrada) ... ok
+test_vf_nao_perde_proposicoes (test_semantica.TestSemantica.test_vf_nao_perde_proposicoes) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 3.075s
+
+OK

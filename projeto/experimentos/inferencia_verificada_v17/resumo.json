@@ -1,0 +1,19 @@
+{
+  "questoes": 559,
+  "publicar": 216,
+  "revisar": 343,
+  "fora": 0,
+  "cobertura": 0.38640429338103754,
+  "precisao_real_alvo": null,
+  "motivos_revisao": {
+    "abaixo_do_limiar_calibrado": 274,
+    "homonimo_sem_escopo_resolvido": 69
+  },
+  "variante": "primeiro_fusao_v15",
+  "folha_verdade_lida": false,
+  "treino_supervisionado": false,
+  "calibracao_reajustada": false,
+  "chamadas_llm": 0,
+  "promove_entrega": false,
+  "indices": "TF-IDF reconstruído somente do catálogo congelado; nenhum ajuste com textos ou rótulos das entradas."
+}

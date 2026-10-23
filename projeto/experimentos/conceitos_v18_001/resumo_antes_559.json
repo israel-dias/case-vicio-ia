@@ -1,0 +1,140 @@
+{
+  "controle_fusao": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 24,
+      "revisar": 76,
+      "fora": 0,
+      "cobertura": 0.24,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 32,
+        "homonimo_sem_escopo_resolvido": 5,
+        "sem_politica_com_suporte": 39
+      },
+      "acertos_top1": 72,
+      "acertos_publicadas": 23,
+      "erros_publicadas": 1,
+      "precisao_desenvolvimento": 0.9583333333333334,
+      "fora_oficial_publicadas": 0,
+      "brier": 0.16995001878619778,
+      "meta_95_na_amostra": true,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 1,
+      "publicacoes_anteriores_perdidas": 27,
+      "publicadas_com_tema_trocado": 1,
+      "novas_corretas": 0,
+      "novas_erradas": 1,
+      "acertos_perdidos": 26,
+      "erros_retidos": 0,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 51,
+        "cobertura": 0.51,
+        "precisao_desenvolvimento": 0.9411764705882353,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas": {
+      "temas_trocados": 0,
+      "erros_corrigidos": 0,
+      "acertos_prejudicados": 0,
+      "ids_corrigidos": [],
+      "ids_prejudicados": [],
+      "ativacoes_comando": 23,
+      "narrativas_excluidas": 0
+    }
+  },
+  "comando_estrito": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 39,
+      "revisar": 61,
+      "fora": 0,
+      "cobertura": 0.39,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 57,
+        "homonimo_sem_escopo_resolvido": 4
+      },
+      "acertos_top1": 74,
+      "acertos_publicadas": 36,
+      "erros_publicadas": 3,
+      "precisao_desenvolvimento": 0.9230769230769231,
+      "fora_oficial_publicadas": 2,
+      "brier": 0.17096089972879294,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 8,
+      "publicacoes_anteriores_perdidas": 19,
+      "publicadas_com_tema_trocado": 1,
+      "novas_corretas": 6,
+      "novas_erradas": 2,
+      "acertos_perdidos": 18,
+      "erros_retidos": 1,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 58,
+        "cobertura": 0.58,
+        "precisao_desenvolvimento": 0.9310344827586207,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas": {
+      "temas_trocados": 6,
+      "erros_corrigidos": 2,
+      "acertos_prejudicados": 0,
+      "ids_corrigidos": [
+        "Q0208",
+        "Q0316"
+      ],
+      "ids_prejudicados": [],
+      "ativacoes_comando": 23,
+      "narrativas_excluidas": 23
+    }
+  },
+  "selecionado_internamente": {
+    "desenvolvimento_100": {
+      "questoes": 100,
+      "publicar": 43,
+      "revisar": 57,
+      "fora": 0,
+      "cobertura": 0.43,
+      "precisao_real_alvo": null,
+      "motivos_revisao": {
+        "abaixo_do_limiar_calibrado": 52,
+        "homonimo_sem_escopo_resolvido": 5
+      },
+      "acertos_top1": 73,
+      "acertos_publicadas": 40,
+      "erros_publicadas": 3,
+      "precisao_desenvolvimento": 0.9302325581395349,
+      "fora_oficial_publicadas": 1,
+      "brier": 0.16978638025467988,
+      "meta_95_na_amostra": false,
+      "prova_de_minimo_95_populacional": false,
+      "novas_publicacoes": 7,
+      "publicacoes_anteriores_perdidas": 14,
+      "publicadas_com_tema_trocado": 2,
+      "novas_corretas": 5,
+      "novas_erradas": 2,
+      "acertos_perdidos": 14,
+      "erros_retidos": 1,
+      "uniao_descritiva_nao_ativada": {
+        "publicar": 57,
+        "cobertura": 0.57,
+        "precisao_desenvolvimento": 0.9298245614035088,
+        "politica_calibrada_para_uniao": false
+      }
+    },
+    "trocas": {
+      "temas_trocados": 3,
+      "erros_corrigidos": 1,
+      "acertos_prejudicados": 0,
+      "ids_corrigidos": [
+        "Q0316"
+      ],
+      "ids_prejudicados": [],
+      "ativacoes_comando": 23,
+      "narrativas_excluidas": 12
+    }
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "variante": "controle_v11",
+    "questoes": 559,
+    "publicar": 361,
+    "tema_decisao_confianca_iguais": true,
+    "rotulos_bloqueados": true,
+    "rede_bloqueada": true
+  },
+  {
+    "variante": "palavra_relativa",
+    "questoes": 559,
+    "publicar": 365,
+    "tema_decisao_confianca_iguais": true,
+    "rotulos_bloqueados": true,
+    "rede_bloqueada": true
+  },
+  {
+    "variante": "palavra_foco",
+    "questoes": 559,
+    "publicar": 361,
+    "tema_decisao_confianca_iguais": true,
+    "rotulos_bloqueados": true,
+    "rede_bloqueada": true
+  },
+  {
+    "variante": "alternativas_condicionais",
+    "questoes": 559,
+    "publicar": 361,
+    "tema_decisao_confianca_iguais": true,
+    "rotulos_bloqueados": true,
+    "rede_bloqueada": true
+  },
+  {
+    "variante": "regularizacao_03",
+    "questoes": 559,
+    "publicar": 362,
+    "tema_decisao_confianca_iguais": true,
+    "rotulos_bloqueados": true,
+    "rede_bloqueada": true
+  },
+  {
+    "variante": "combinado",
+    "questoes": 559,
+    "publicar": 365,
+    "tema_decisao_confianca_iguais": true,
+    "rotulos_bloqueados": true,
+    "rede_bloqueada": true
+  }
+]

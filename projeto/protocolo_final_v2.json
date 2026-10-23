@@ -1,0 +1,18 @@
+{
+  "versao": "compatibilidade_fixa_final_v2",
+  "metodo": "compatibilidade_fixa",
+  "escolha": "Candidata escolhida após comparação de desenvolvimento; não é seleção independente dos 100 rótulos.",
+  "regra_tema": "Preservar o top1 do classificador de escopos congelado, sem exceções por ID.",
+  "ajuste_final": "Treinar compatibilidade nos 100 rótulos; calibrar e selecionar o corte com seus sinais fora do treino da validação cruzada existente.",
+  "politica": {
+    "meta_empirica": 0.95,
+    "minimo_suporte": 10,
+    "score_lexical_minimo": 0.03
+  },
+  "exclusao_automatica": false,
+  "extras_automaticos": false,
+  "dados_sem_rotulo": "Não usados para treino, corte, calibração ou escolha de variante.",
+  "momento": "Escrito antes de ajustar o modelo final e classificar as 559 questões sem rótulo.",
+  "previsao": "Média das confianças previstas nas publicadas fora da folha; faixa de sensibilidade usando a união das faixas binomiais descritivas de 20/20 e 19/20, ampliada se necessário para conter a previsão; sem garantia populacional.",
+  "validacao": "Validação cruzada de desenvolvimento; os 100 rótulos já foram vistos e usados anteriormente."
+}

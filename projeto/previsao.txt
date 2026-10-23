@@ -1,0 +1,11 @@
+precisao_prevista: 0.90437457
+precisao_intervalo: 0.79648308-0.99898781
+cobertura_prevista: 0.41323792
+cobertura_intervalo: 0.41323792-0.41323793
+
+Versão v5 sem três atributos de formato. O primeiro tema da busca foi preservado; a política e as probabilidades vieram do experimento documentado.
+Precisão prevista: média das probabilidades congeladas das publicadas fora da folha-verdade. Ela não foi elevada à mão para coincidir com a meta de 95%.
+Na comparação por grupos nos 100 rótulos conhecidos, a candidata publicou 25 e acertou 24. Esse é um resultado de desenvolvimento reutilizado, não um teste externo novo.
+A faixa de precisão usa o intervalo binomial descritivo dessa comparação, ampliado se necessário para conter a previsão. Não é um intervalo de confiança válido para a precisão das 559: não corrige dependência entre grupos, seleção de variantes, exposição prévia ou mudança de distribuição.
+A cobertura é a fração conhecida deste lote de 559; seu intervalo cobre apenas o arredondamento. Não é previsão de novas importações.
+Precisão real das 559 e atendimento à meta de 95% ainda não medidos. Nenhum LLM resolveu ou classificou essas questões nesta versão.
